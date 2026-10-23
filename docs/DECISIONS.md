@@ -16,7 +16,8 @@ Public record of the design and build decisions behind this concept, and the ite
   acanthus scrollwork is used sparingly as ornament, and the brand's own engraved bud pattern is the wallpaper. The
   brand stays as it is: the STAR BUDS logo, black / white / leaf green, Oswald as the brand face, and the plain,
   friendly voice. Fraunces (italic accents) and Manrope (body) join Oswald. All three fonts are open-source (OFL) and
-  self-hosted.
+  self-hosted. Revision 1 (2026-10-23): the home hero shows a dark Colorado mountain lake at night (earthy browns and
+  deep greens) instead of the conservatory interior, and its glass pane and text are centred.
 - **D4. Depth and motion.** Three planes (photo or loop at the back, glass and paper in the middle, cut-out objects at
   the front that cross section edges), scroll reveals, parallax and hover effects. Everything respects
   `prefers-reduced-motion`: no parallax, autoplay or large movement for visitors who ask for less motion, and no

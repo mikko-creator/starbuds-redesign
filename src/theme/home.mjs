@@ -78,7 +78,7 @@ function hero(sec, ctx, page) {
   const others = show ? (sec.blocks || []).filter((b) => b !== show) : [];
   const n = slides.length;
   const multi = n > 1 && n <= 3 ? ' hm-slides--multi hm-slides--n' + n : n > 3 ? ' hm-slides--stack' : '';
-  const bg = loopOrStill(ctx, 'V-HERO', 'G-HERO', { alt: '', sizes: '100vw', loading: 'eager', fetchpriority: 'high' });
+  const bg = loopOrStill(ctx, 'V-HERO', 'G-MOUNTAINS', { alt: '', sizes: '100vw', loading: 'eager', fetchpriority: 'high' });
   const hasH1 = slides.some((s) => (s.blocks || []).some((b) => b.t === 'heading'));
   return '<section class="hm-hero" aria-label="' + attr(text(page.h1 || page.title || 'Star Buds')) + '">' +
     '<div class="hm-hero__bg">' + bg + '</div>' + stars(46, { fade: true, top: true, seed: 7 }) +

@@ -1,0 +1,35 @@
+{
+  "tool": "tools/fal-one.mjs",
+  "slot": "G-MOUNTAINS",
+  "file": "assets/generated/g-mountains.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Dark moody Colorado Rocky Mountain valley at nightfall, a still dark alpine lake in the middle distance reflecting jagged granite peaks with traces of old snow, steep slopes of dense dark green spruce and lodgepole pine, the clear sky a deep green-black with faint stars and only a dim earthy amber afterglow low on the horizon, wisps of low mist drifting over the water, a foreground of mossy grey boulders and russet and olive autumn grasses along the shore, earthy palette of umber, ochre, russet, olive and deep forest green, low-key natural light, wide panoramic composition, calm and quiet, cinematic landscape photograph, fine film grain, sharp focus, no aurora, no northern lights, no people, no animals, no buildings, no roads, no vehicles, no text, no lettering, no logos",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "safety_tolerance": "5"
+  },
+  "seed": 3322860768,
+  "requestId": "01a166b0-d688-7e42-8127-0cd0824a5590",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "0c5695a702b53fedbfd929d6e2db9a046b30e8da68f76c6a51997ea305d4b047",
+  "raw": "tmp/img/mtn/d.jpg",
+  "attempt": "revision 1: candidate d of a-e (a: teal sky, little green; b: aurora, not Colorado; c: blue; e: oversaturated green sky, sunlit peak under a night sky)",
+  "generatedAt": "2026-10-23T02:57:22.177Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "dark alpine lake, green-black starry sky, snow-streaked granite peaks, dense spruce, russet and ochre grasses with boulders; earthy and green as asked; no people or text after the retouch (whole image + 4x crops)",
+    "reviewedAt": "2026-10-23T03:00:44.483Z",
+    "by": "main session, by eye"
+  },
+  "postprocess": [
+    {
+      "note": "a white light dot (564,878) and a thin upright figure-like shape (751,860-898) on the left shore removed with ffmpeg delogo (boxes 552,866 24x24 and 740,850 24x48), re-encoded q2; pre-retouch copy: tmp/img/mtn/d.jpg",
+      "at": "2026-10-23T03:00:44.483Z"
+    }
+  ]
+}

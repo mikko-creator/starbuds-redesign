@@ -139,3 +139,27 @@ about 22-32 Mbit/s, with an AAC track that is dropped.
   V-STARS: a slow drift under the dome with the lantern steady. V-LEAF: a slight sway with the dew glinting.
 - **Records.** `tmp/hf/v-*.mp4.json` (raw clip: endpoint, input, request id, sha256), `tmp/hf/v-*.log`,
   `assets/generated/video/v-*.json` (loop measurements and sources).
+
+## Revision 1 (2026-10-23): the home hero becomes dark Colorado mountains
+
+Requested: "replace the hero motion graphic with Dark Colorado Mountains with earthy and green colors". This replaces
+the V-HERO row of the Loops table above; the conservatory loop and its still (G-HERO) are no longer shipped.
+
+- **Still, G-MOUNTAINS** (`assets/generated/g-mountains.jpg`, 2752x1536): fal `flux-pro/v1.1-ultra` with a full
+  prompt of its own (no plan style appended), request `01a166b0-d688-7e42-8127-0cd0824a5590`, seed 3322860768.
+  Candidate d of five: a had a teal sky with little green; b had an aurora (reads as Alaska or Iceland, not Colorado);
+  c was blue; e had an oversaturated green sky and a sunlit peak under a night sky. d is a dark alpine lake under a
+  green-black starry sky, snow-streaked granite peaks, dense spruce, and russet and ochre grasses with boulders.
+  Retouch: a white light dot and a thin upright figure-like shape on the left shore were removed (ffmpeg `delogo`),
+  checked at 4x. AI label embedded and verified.
+- **Loop, V-HERO**: Higgsfield REST `kling-video/v3.0-turbo/image-to-video`, 1080p, 10 s, from G-MOUNTAINS.
+  - First request `93257e4e-c749-4994-83b6-8fefbe1a0a20` asked for a locked-off camera and came back almost
+    motionless (YDIF mean 0.12, first and last frames identical at 8x contrast): rejected, kept in `tmp/hf/`.
+  - Used: request `6f7a1d41-15ac-4ef4-8076-5fb354e6a7e7`, a slow glide across the lake toward the peaks with mist,
+    ripples and grass moving (prompt in `tmp/hf/in-v-hero-mtn2.json`). Made periodic forward-then-reversed (480
+    frames, no repeated frame at either turn), then `make-loop --fade 0.25`: 19.75 s, 1920x1068.
+  - Files: `v-hero.mp4` 3,189,108 bytes, `v-hero.webm` 1,731,810, `v-hero-phone.mp4` 837,610 (720x1282, centre
+    crop). All yuv420p, tv range (both MP4s re-tagged by stream copy), no audio.
+  - Calmness (YDIF over two plays): max 1.94, p95 1.81, mean 1.25, 0 frames over 20, seam 1.65.
+  - `node tools/ai-label.mjs verify assets/generated/video --control`: 10 files, 10 labelled, control fired.
+  - By eye (contact sheet `tmp/hf/review/sheet-v-hero-mtn2.jpg`): no people, text or new objects.

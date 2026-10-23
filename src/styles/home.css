@@ -10,12 +10,12 @@
 .hm-hero__bg { position: absolute; inset: 0; z-index: -2; }
 .hm-hero__bg > .loop { position: absolute; inset: 0; }
 .hm-hero__bg img, .hm-hero__bg video { width: 100%; height: 100%; object-fit: cover; object-position: 50% 42%; }
-.hm-hero__bg::after { content: ""; position: absolute; inset: 0; z-index: 1; pointer-events: none; background: radial-gradient(70% 90% at 28% 55%, rgba(7, 11, 9, .55) 0%, rgba(7, 11, 9, .18) 60%, rgba(7, 11, 9, 0) 100%), linear-gradient(180deg, rgba(7, 11, 9, .62) 0%, rgba(7, 11, 9, 0) 26%, rgba(7, 11, 9, 0) 64%, rgba(7, 11, 9, .92) 100%); }
+.hm-hero__bg::after { content: ""; position: absolute; inset: 0; z-index: 1; pointer-events: none; background: radial-gradient(70% 90% at 50% 55%, rgba(7, 11, 9, .55) 0%, rgba(7, 11, 9, .18) 60%, rgba(7, 11, 9, 0) 100%), linear-gradient(180deg, rgba(7, 11, 9, .62) 0%, rgba(7, 11, 9, 0) 26%, rgba(7, 11, 9, 0) 64%, rgba(7, 11, 9, .92) 100%); }
 .hm-hero .loop__toggle { right: auto; left: var(--gutter); bottom: 1.1rem; }
 .hm-hero > .stars { opacity: .7; }
 .hm-hero__inner { position: relative; z-index: var(--z-mid); }
-/* the pane: a segmental-arch conservatory window (glass + mullions + acanthus corners) */
-.hm-pane.glass { --arch-h: clamp(46px, 2rem + 3vw, 92px); width: min(100%, 48rem); padding: calc(var(--arch-h) * .55 + .6rem) clamp(1.3rem, .8rem + 1.8vw, 2.8rem) clamp(1.6rem, 1rem + 2vw, 2.9rem); border-radius: 50% 50% var(--r-lg) var(--r-lg) / var(--arch-h) var(--arch-h) var(--r-lg) var(--r-lg); text-align: center; background: linear-gradient(180deg, rgba(9, 18, 13, .5), rgba(9, 18, 13, .66)); box-shadow: var(--sh-2), inset 0 1px 0 rgba(255, 255, 255, .1), inset 0 0 0 6px rgba(200, 163, 94, .05); }
+/* the pane: a segmental-arch conservatory window (glass + mullions + acanthus corners), centred in the hero */
+.hm-pane.glass { --arch-h: clamp(46px, 2rem + 3vw, 92px); width: min(100%, 48rem); margin-inline: auto; padding: calc(var(--arch-h) * .55 + .6rem) clamp(1.3rem, .8rem + 1.8vw, 2.8rem) clamp(1.6rem, 1rem + 2vw, 2.9rem); border-radius: 50% 50% var(--r-lg) var(--r-lg) / var(--arch-h) var(--arch-h) var(--r-lg) var(--r-lg); text-align: center; background: linear-gradient(180deg, rgba(9, 18, 13, .5), rgba(9, 18, 13, .66)); box-shadow: var(--sh-2), inset 0 1px 0 rgba(255, 255, 255, .1), inset 0 0 0 6px rgba(200, 163, 94, .05); }
 .hm-pane .ornament--corner { width: clamp(46px, 2vw + 34px, 74px); opacity: .7; }
 .hm-pane .ornament--corner.bl { left: 12px; bottom: 12px; }
 .hm-pane .ornament--corner.br { right: 12px; bottom: 12px; }
@@ -27,7 +27,7 @@
 .hm-hero__line--accent::before, .hm-hero__line--accent::after { content: ""; display: inline-block; width: .9em; height: 1px; margin-inline: .32em; vertical-align: .32em; background: linear-gradient(90deg, transparent, var(--brass)); }
 .hm-hero__line--accent::after { background: linear-gradient(90deg, var(--brass), transparent); }
 .hm-hero__cta { margin-top: clamp(1.1rem, .8rem + 1.2vw, 2rem); display: flex; justify-content: center; }
-.hm-hero__more { margin-top: 1.5rem; max-width: 39rem; }
+.hm-hero__more { margin: 1.5rem auto 0; max-width: 39rem; text-align: center; }
 /* slides: one slide is static; 2-3 slides crossfade calmly; more stack */
 .hm-slides { display: grid; }
 .hm-slide { grid-area: 1 / 1; }

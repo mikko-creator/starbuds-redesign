@@ -22,7 +22,8 @@ brand: the STAR BUDS logo, black / white / leaf green, Oswald as the brand face,
 
 A Victorian glasshouse at night. The star in the logo becomes the night sky seen through a wrought-iron glass roof;
 frosted glass panes with mullion lines and arched tops hold the content; brass acanthus scrollwork is used sparingly as
-ornament; the brand's own engraved bud pattern is the wallpaper.
+ornament; the brand's own engraved bud pattern is the wallpaper. The home page opens on a dark Colorado mountain lake
+under the stars, in earthy browns and deep greens, behind a centred arched glass pane.
 
 - **Depth:** three planes. Photos and motion loops at the back, glass and paper in the middle, and cut-out objects (a
   bell jar, a leaf, a bud, a star, acanthus) at the front, crossing the edges between sections.

@@ -21,12 +21,21 @@
     {
       "id": "G-HERO",
       "file": "assets/generated/g-hero.jpg",
-      "role": "home hero; V-HERO loop source",
+      "role": "superseded by G-MOUNTAINS (revision 1, 2026-10-23); kept for reference, not shipped",
+      "usedFor": [],
+      "alt": "A Victorian glass conservatory at night, cannabis plants growing under warm lantern light beneath a starry glass roof",
+      "prompt": "wide interior view of a grand Victorian wrought-iron and glass conservatory at night, tall arched glass roof with a clear starry night sky visible through the panes, lush green cannabis plants growing in large terracotta planters on the right half and centre, warm brass lanterns glowing among the leaves, soft mist drifting low over a stone floor, the left third of the frame calm and dark with only soft shadowy greenery for headline space, eye-level camera, anamorphic depth"
+    },
+    {
+      "id": "G-MOUNTAINS",
+      "file": "assets/generated/g-mountains.jpg",
+      "role": "home hero; V-HERO loop source (revision 1, replaces G-HERO)",
       "usedFor": [
         "home hero"
       ],
-      "alt": "A Victorian glass conservatory at night, cannabis plants growing under warm lantern light beneath a starry glass roof",
-      "prompt": "wide interior view of a grand Victorian wrought-iron and glass conservatory at night, tall arched glass roof with a clear starry night sky visible through the panes, lush green cannabis plants growing in large terracotta planters on the right half and centre, warm brass lanterns glowing among the leaves, soft mist drifting low over a stone floor, the left third of the frame calm and dark with only soft shadowy greenery for headline space, eye-level camera, anamorphic depth"
+      "alt": "A dark Colorado mountain lake at night under a green-black starry sky, snow-streaked granite peaks, spruce forest and russet autumn grasses on the shore",
+      "generatedBy": "tools/fal-one.mjs with the full prompt below (no plan style appended); do not regenerate with fal-gen",
+      "prompt": "Dark moody Colorado Rocky Mountain valley at nightfall, a still dark alpine lake in the middle distance reflecting jagged granite peaks with traces of old snow, steep slopes of dense dark green spruce and lodgepole pine, the clear sky a deep green-black with faint stars and only a dim earthy amber afterglow low on the horizon, wisps of low mist drifting over the water, a foreground of mossy grey boulders and russet and olive autumn grasses along the shore, earthy palette of umber, ochre, russet, olive and deep forest green, low-key natural light, wide panoramic composition, calm and quiet, cinematic landscape photograph, fine film grain, sharp focus, no aurora, no northern lights, no people, no animals, no buildings, no roads, no vehicles, no text, no lettering, no logos"
     },
     {
       "id": "G-STARS",
@@ -334,12 +343,12 @@
     {
       "id": "V-HERO",
       "kind": "video",
-      "alt": "Slow drift through a Victorian glass conservatory at night, mist moving between cannabis plants under a starry roof",
+      "alt": "Mist drifting over a dark Colorado mountain lake at night under twinkling stars, the peaks and spruce forest still",
       "video": {
         "mp4": "assets/generated/video/v-hero.mp4",
         "webm": "assets/generated/video/v-hero.webm",
         "mp4Phone": "assets/generated/video/v-hero-phone.mp4",
-        "poster": "assets/generated/g-hero.jpg"
+        "poster": "assets/generated/g-mountains.jpg"
       }
     },
     {
