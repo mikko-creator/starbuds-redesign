@@ -171,11 +171,10 @@ that properly depict the scenery on specific locations". The old G-STATE scenes 
 painted starfields (archived in `tmp/img/old-state/`). Each state now shows recognisable scenery near its stores, as
 a realistic documentary-style photograph: natural colour, no stars, no HDR, no people, no readable signs.
 
-- **Provider:** Higgsfield REST (`tools/hf-run.mjs`). The Higgsfield account behind the MCP tools could not pay
-  (2 credits). Every place was generated with three models (21 requests, all completed) and the most natural,
-  most accurate one kept. Prices by the estimate endpoint: `xai/grok-imagine-image-2.0` 1.28 credits,
-  `alibaba/qwen-image-3/text-to-image` 1.2, `higgsfield-ai/soul/cinema` 0.088 per image. Requests and prompts:
-  `tmp/hf/loc/results.json` and the per-image `.json` records; picks and reasons: `tmp/hf/loc/sel.json`.
+- **Provider:** Higgsfield REST (`tools/hf-run.mjs`). Every place was generated with three models
+  (`xai/grok-imagine-image-2.0`, `alibaba/qwen-image-3/text-to-image`, `higgsfield-ai/soul/cinema`; 21 requests, all
+  completed) and the most natural, most accurate one kept. Requests and prompts: `tmp/hf/loc/results.json` and the
+  per-image `.json` records; picks and reasons: `tmp/hf/loc/sel.json`.
 
 | Slot | Place (stores) | Kept | Why |
 |---|---|---|---|
