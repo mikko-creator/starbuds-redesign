@@ -1,5 +1,5 @@
 {
- "built": "2026-10-23T02:08:18.896Z",
+ "built": "2026-10-23T03:16:30.582Z",
  "pages": 245,
  "redirects": 23,
  "css": [
@@ -25,11 +25,11 @@
   "missing": [],
   "refused": [],
   "videos": [
-   "assets/video/3edf3bba3785-ai.mp4",
-   "assets/video/d815541b9965-ai.webm",
-   "assets/video/dc7308dce8e6-ai.mp4"
+   "assets/video/3ad460efd11c-ai.webm",
+   "assets/video/824ab3012cc0-ai.mp4",
+   "assets/video/f8f34732af66-ai.mp4"
   ]
  },
  "warnings": [],
- "ms": 6085
+ "ms": 4161
 }
