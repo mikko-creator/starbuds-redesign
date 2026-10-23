@@ -1,0 +1,141 @@
+{
+ "path": "/illinois",
+ "url": "https://www.starbuds.us/illinois",
+ "key": "illinois",
+ "kind": "state",
+ "state": "IL",
+ "title": "Locations | Star Buds Marijuana Dispensary | Illinois",
+ "h1": "BURBANK 7844 S Cicero Ave Burbank, IL 60459-1584 (708) 907-3441",
+ "head": {
+  "title": "Locations | Star Buds Marijuana Dispensary | Illinois",
+  "description": "Star Buds Dispensaries | CBD Store | Flower, Concentrates, Edibles, Topicals and Tinctures",
+  "canonical": "https://www.starbuds.us/illinois",
+  "robots": "",
+  "og": {
+   "title": "Locations | Star Buds Marijuana Dispensary | Illinois",
+   "description": "Star Buds Dispensaries | CBD Store | Flower, Concentrates, Edibles, Topicals and Tinctures",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/illinois",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Locations",
+   "path": "/locations"
+  },
+  {
+   "name": "BURBANK 7844 S Cicero Ave Burbank, IL 60459-1584 (708) 907-3441",
+   "path": "/illinois"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "repeater",
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "BURBANK<br> 7844 S Cicero Ave<br> Burbank, IL 60459-1584<br> (708) 907-3441"
+        },
+        {
+         "t": "button",
+         "text": "VIEW HOURS & SHOP",
+         "href": "https://starbudsillinois.us/stores/starbuds-burbank",
+         "external": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "SUMMIT<br> 5436 South Harlem Ave<br> Summit, IL 60501<br> (708) 701-2122"
+        },
+        {
+         "t": "button",
+         "text": "VIEW HOURS & SHOP",
+         "href": "https://starbudsillinois.us/stores/star-buds-summit",
+         "external": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "HOFFMAN ESTATES<br> 5 E Golf Rd<br> Hoffman Estates, IL 60169<br> (630) 635-2483"
+        },
+        {
+         "t": "button",
+         "text": "VIEW HOURS & SHOP",
+         "href": "https://starbudsillinois.us/stores/star-buds-hoffman-estates",
+         "external": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "WESTMONT<br> 101 W Ogden Ave<br> Westmont IL 60559<br> (331) 233-6361"
+        },
+        {
+         "t": "button",
+         "text": "VIEW HOURS & SHOP",
+         "href": "https://starbudsillinois.us/stores/star-buds-westmont",
+         "external": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "RIVERSIDE<br> 2704 S Harlem Ave<br> Riverside, IL 60546<br> (708) 853-9640"
+        },
+        {
+         "t": "button",
+         "text": "VIEW HOURS & SHOP",
+         "href": "https://starbudsillinois.us/stores/star-buds-riverside",
+         "external": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "embed",
+     "src": "",
+     "title": "Google Map",
+     "kind": "map",
+     "height": null
+    }
+   ]
+  }
+ ]
+}

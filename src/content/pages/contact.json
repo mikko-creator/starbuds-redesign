@@ -1,0 +1,138 @@
+{
+ "path": "/contact",
+ "url": "https://www.starbuds.us/contact",
+ "key": "contact",
+ "kind": "contact",
+ "state": null,
+ "title": "Contact | Star Buds Marijuana Dispensary | Colorado",
+ "h1": "CONTACT",
+ "head": {
+  "title": "Contact | Star Buds Marijuana Dispensary | Colorado",
+  "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+  "canonical": "https://www.starbuds.us/contact",
+  "robots": "",
+  "og": {
+   "title": "Contact | Star Buds Marijuana Dispensary | Colorado",
+   "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/contact",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "CONTACT",
+   "path": "/contact"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": null,
+       "blocks": [
+        {
+         "t": "form",
+         "title": "Thanks! Your Message has been sent. We will get back to you as soon as possible!",
+         "fields": [
+          {
+           "type": "text",
+           "label": "Name *",
+           "name": "name-*",
+           "required": true,
+           "options": []
+          },
+          {
+           "type": "email",
+           "label": "Email *",
+           "name": "email",
+           "required": true,
+           "options": []
+          },
+          {
+           "type": "tel",
+           "label": "Phone No.",
+           "name": "phone",
+           "required": false,
+           "options": []
+          },
+          {
+           "type": "text",
+           "label": "Store Location",
+           "name": "store-location",
+           "required": false,
+           "options": []
+          },
+          {
+           "type": "text",
+           "label": "Subject",
+           "name": "subject",
+           "required": false,
+           "options": []
+          },
+          {
+           "type": "textarea",
+           "label": "Message",
+           "name": "",
+           "required": false,
+           "options": []
+          }
+         ],
+         "submit": "Send",
+         "blocks": [
+          {
+           "t": "rich",
+           "html": "<p>Thanks! Your Message has been sent. We will get back to you as soon as possible!</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "CONTACT"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "INTERESTED IN WORKING WITH US?"
+    },
+    {
+     "t": "divider"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Starbuds is a retail-focused cannabis company based out of Colorado. As pioneers in the industry with experience in all facets of cannabis from retail to cultivation to manufacturing, Starbuds is seeking to work with partners across the United States.</p>"
+    },
+    {
+     "t": "button",
+     "text": "Get In Touch",
+     "href": "/workwithus/",
+     "external": false
+    }
+   ]
+  }
+ ]
+}

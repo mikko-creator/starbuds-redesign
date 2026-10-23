@@ -1,0 +1,1477 @@
+{
+  "schema": "site-reforge/generated-images@2",
+  "provider": "fal.ai + Higgsfield (per image: provider/model fields)",
+  "note": "Illustrative industry imagery ADDED by the redesign. None stands in for a real person, place, product, brand or result of Star Buds (starbuds.us); every alt describes what is depicted.",
+  "images": [
+    {
+      "id": "G-LEAF",
+      "file": "assets/generated/g-leaf.jpg",
+      "raw": "tmp/img/raw/G-LEAF.1792715185348.jpg",
+      "rawBytes": 905904,
+      "role": "dark band art; V-LEAF loop source",
+      "alt": "A backlit cannabis fan leaf with dew drops glowing green against a dark background",
+      "usedFor": [
+        "home"
+      ],
+      "prompt": "a single cannabis fan leaf with seven serrated leaflets, backlit so the leaf glows translucent green and its veins show, tiny dew drops along the serrated edges catching warm light, placed slightly right of centre against a near-black deep green background, soft bokeh of distant lantern light, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 1197277205,
+      "requestId": "01a16626-add9-75b1-a13a-03cc60f302c2",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "d9d03ae6ce54d3de73f430a53f45426ed54db72f0426670fdbb6debc9b0f1e0e",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:26:27.054Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "backlit fan leaf with dew, lantern bokeh; no text",
+        "reviewedAt": "2026-10-23T00:36:04.145Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "G-FLOWER",
+      "file": "assets/generated/g-flower.jpg",
+      "raw": "tmp/img/raw/G-FLOWER.1792715188720.jpg",
+      "rawBytes": 1019043,
+      "role": "section art: products, flower, order online",
+      "alt": "Macro of a cured cannabis bud with frosted trichomes resting on the pan of a brass apothecary scale",
+      "usedFor": [
+        "products",
+        "order-online"
+      ],
+      "prompt": "extreme macro photograph of a single cured cannabis flower bud covered in frosty glistening trichomes with fine orange pistils, resting in the shallow pan of an antique polished brass apothecary balance scale with a plain smooth unmarked pan, dark green velvet behind, warm lantern side light, very shallow depth of field, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 3525107246,
+      "requestId": "01a16626-addc-79d1-b2da-576e74270a65",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "61f2e334c100ceaa38f9269853e5388ec9d3388c1265eba9f0229c1e775cdb1d",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:26:30.295Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "bud macro on a brass scale pan, no marks on the pan or the column (crop)",
+        "reviewedAt": "2026-10-23T00:36:03.651Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "G-HERO",
+      "file": "assets/generated/g-hero.jpg",
+      "raw": "tmp/img/raw/G-HERO.1792715190431.jpg",
+      "rawBytes": 2029752,
+      "role": "home hero; V-HERO loop source",
+      "alt": "A Victorian glass conservatory at night, cannabis plants growing under warm lantern light beneath a starry glass roof",
+      "usedFor": [
+        "home hero"
+      ],
+      "prompt": "wide interior view of a grand Victorian wrought-iron and glass conservatory at night, tall arched glass roof with a clear starry night sky visible through the panes, lush green cannabis plants growing in large terracotta planters on the right half and centre, warm brass lanterns glowing among the leaves, soft mist drifting low over a stone floor, the left third of the frame calm and dark with only soft shadowy greenery for headline space, eye-level camera, anamorphic depth, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 3218523119,
+      "requestId": "01a16626-add5-7a60-88d7-5347745842ac",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "27d0e7af3d5a803502524fe53f760cc3ce9d2436a0b5c3e11bc6fb0789ce20ec",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:26:33.562Z",
+      "attempt": 1,
+      "postprocess": [
+        {
+          "note": "two stray light dots in the fog of the far doorway removed (median filter in a 77x45 px box, tmp/img/prep.py despeck); pre-retouch copy: tmp/img/g-hero.before-despeck.jpg",
+          "at": "2026-10-23T00:35:34.171Z"
+        }
+      ],
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "night conservatory, starry roof, cannabis in terracotta, lanterns, mist; no people or text (crops of door, lanterns, glass); two stray light dots in the far doorway retouched out; left third busier than asked (lanterns), workable under the hero pane",
+        "reviewedAt": "2026-10-23T00:36:02.844Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "G-CLOCHE",
+      "file": "assets/generated/g-cloche.jpg",
+      "raw": "tmp/img/raw/G-CLOCHE.1792715194292.jpg",
+      "rawBytes": 1195969,
+      "role": "arch-framed feature photo",
+      "alt": "A cured cannabis bud under a Victorian glass bell jar on a dark wooden plinth",
+      "usedFor": [
+        "home"
+      ],
+      "prompt": "a Victorian clear glass bell jar cloche with a small round glass knob covering a single cured cannabis flower bud on a round dark walnut wood plinth, standing on a table inside a dim glasshouse at night, warm lantern reflections curving on the glass, ferns and plant silhouettes softly out of focus behind, mist, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "3:4",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 2050489339,
+      "requestId": "01a16626-add9-7d32-9ef4-962851ef96e9",
+      "width": 1792,
+      "height": 2368,
+      "cutout": null,
+      "sha256": "744f0516d5cacf48cc8f7e3d1311fc68b782ba1be10fd3a26c8b10649828ac18",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:26:36.548Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "bell jar over a bud on a walnut plinth, lantern; no text",
+        "reviewedAt": "2026-10-23T00:36:04.765Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "G-VAPE",
+      "file": "assets/generated/g-vape.jpg",
+      "raw": "tmp/img/raw/G-VAPE.1792715201447.jpg",
+      "rawBytes": 862951,
+      "role": "section art: vapes",
+      "alt": "A blank vape cartridge filled with amber oil lying on dark green velvet",
+      "usedFor": [
+        "vapes"
+      ],
+      "prompt": "a single blank unbranded glass vape cartridge filled with clear golden amber oil, plain smooth metal mouthpiece and plain metal base with no markings, lying diagonally on folds of dark green velvet, warm lantern rim light, still life macro, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 433496871,
+      "requestId": "01a16626-df77-7e91-80ae-463b12be0230",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "5d249ec8cf44032f147128b538d3e535796ca80a09b54ac7cace298b51b5dfc1",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:26:43.042Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "blank cartridge, no print on body or mouthpiece (crop); small brass star flecks on the velvet",
+        "reviewedAt": "2026-10-23T00:36:06.109Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "G-REWARDS",
+      "file": "assets/generated/g-rewards.jpg",
+      "raw": "tmp/img/raw/G-REWARDS.1792715208807.jpg",
+      "rawBytes": 1010286,
+      "role": "section art: rewards",
+      "alt": "Small brass star tokens scattered on deep green velvet",
+      "usedFor": [
+        "rewards",
+        "gratify terms"
+      ],
+      "prompt": "small polished brass five-pointed star tokens scattered across deep green velvet, plain smooth stars with no engraving, warm lantern light glinting on their bevelled edges, shallow depth of field, still life, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 1529839659,
+      "requestId": "01a16627-16d3-7d13-9864-f997d680e7d2",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "e50c8365bff5008ce99dc7a66e94c756bd9900afeaf3f292a7c0d4eca8c224c1",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:26:50.962Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "plain brass stars on green velvet, no engraving",
+        "reviewedAt": "2026-10-23T00:36:08.048Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "G-TOPICALS",
+      "file": "assets/generated/g-topicals.jpg",
+      "raw": "tmp/img/raw/G-TOPICALS.1792715209324.jpg",
+      "rawBytes": 945513,
+      "role": "section art: topicals",
+      "alt": "A plain amber dropper bottle and an open jar of balm beside a cannabis leaf on marble",
+      "usedFor": [
+        "topicals"
+      ],
+      "prompt": "a plain unlabeled amber glass dropper bottle and a small open plain glass jar of pale cream balm beside a fresh cannabis fan leaf on a dark green marble surface, warm lantern light, botanical still life, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 2962042951,
+      "requestId": "01a16626-fe19-7b82-b0e4-7693bbb45f18",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "9ad59f3db1e5af5d29f9c866162f2435a0a52040d7671c647e8c2354fff09270",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:26:51.474Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "plain amber dropper bottle and balm jar, fan leaves, marble; no print (crop)",
+        "reviewedAt": "2026-10-23T00:36:07.050Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "G-POTTING",
+      "file": "assets/generated/g-potting.jpg",
+      "raw": "tmp/img/raw/G-POTTING.1792715210989.jpg",
+      "rawBytes": 1408924,
+      "role": "section art: about, team, media, community, careers",
+      "alt": "A Victorian potting bench with terracotta pots, brass tools and young cannabis plants",
+      "usedFor": [
+        "about",
+        "team",
+        "community",
+        "careers"
+      ],
+      "prompt": "a Victorian wooden potting bench inside a glasshouse at night, stacked terracotta pots, aged brass hand trowel and a brass watering can, young cannabis plants growing in terracotta pots, a warm brass lantern glowing, iron-framed windows behind, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 72440244,
+      "requestId": "01a16627-09c3-7160-a8fe-fb40c09c3070",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "63e2a53b00f51b8f794b53168a700ce0e4074a5c32fa45ffb5598d6121ff7888",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:26:53.294Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "potting bench, terracotta, brass can and kettle, young plants, lanterns; no text",
+        "reviewedAt": "2026-10-23T00:36:07.650Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "G-DELIVERY",
+      "file": "assets/generated/g-delivery.jpg",
+      "raw": "tmp/img/raw/G-DELIVERY.1792715211943.jpg",
+      "rawBytes": 1059262,
+      "role": "section art: delivery",
+      "alt": "A rain-speckled glass pane at dusk with warm city lights blurred beyond",
+      "usedFor": [
+        "delivery"
+      ],
+      "prompt": "close-up of a rain-speckled window pane at dusk, raindrops in sharp focus on the glass, beyond it warm amber and green city lights dissolved into soft round bokeh, no readable shapes, a thin dark wrought-iron window mullion at one edge, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 1711241781,
+      "requestId": "01a16627-2325-7460-aa67-2c6a49a12a22",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "5c57d0f82ecc0352d726c3888b6449b439d8fb2727f94072d30d95416ce25ad2",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:26:54.542Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "rain-speckled pane with bokeh, no readable shapes",
+        "reviewedAt": "2026-10-23T00:36:08.454Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "G-JOURNAL",
+      "file": "assets/generated/g-journal.jpg",
+      "raw": "tmp/img/raw/G-JOURNAL.1792715214903.jpg",
+      "rawBytes": 1046272,
+      "role": "section art: blog",
+      "alt": "A brass magnifying glass over a cannabis leaf on dark slate",
+      "usedFor": [
+        "blog",
+        "blog categories",
+        "posts without a photo"
+      ],
+      "prompt": "an antique brass magnifying glass with a plain smooth handle lying over a fresh cannabis leaf on a dark slate surface, the lens enlarging the leaf's serrated edge, warm lantern light, botanical still life, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 4195114130,
+      "requestId": "01a16627-2e8a-7d23-997c-5c36f2db06c8",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "65d8f11496c61fdb972341fa51e19ae5e750c14a4d7510448a82fcc456205205",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:26:56.801Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "brass magnifier over a leaf on slate, no marks",
+        "reviewedAt": "2026-10-23T00:36:09.439Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "G-STATE-CO",
+      "file": "assets/generated/g-state-co.jpg",
+      "raw": "tmp/img/raw/G-STATE-CO.1792715219127.jpg",
+      "rawBytes": 916865,
+      "role": "state art",
+      "alt": "Rolling mountain foothills at dusk under a starry sky",
+      "usedFor": [
+        "/colorado and its stores"
+      ],
+      "prompt": "landscape photograph of generic rolling Rocky Mountain foothills at deep blue dusk, layered pine-covered ridgelines fading into haze, grassy slopes in the foreground, first stars and a faint Milky Way above, a last warm glow on the horizon, no buildings, no roads, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 3461410870,
+      "requestId": "01a16627-31b7-7ac1-a0f1-374bd0ce48a8",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "0de554a0da4f455995293e147e5be1a995a1a40b11a91a84436b4d7346bcf14c",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:27:01.048Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "generic dusk landscape under stars, no landmark, no buildings, no text",
+        "reviewedAt": "2026-10-23T00:36:26.423Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "G-STATE-IL",
+      "file": "assets/generated/g-state-il.jpg",
+      "raw": "tmp/img/raw/G-STATE-IL.1792715219899.jpg",
+      "rawBytes": 1078074,
+      "role": "state art",
+      "alt": "A tallgrass prairie at dusk under a starry sky",
+      "usedFor": [
+        "/illinois and its stores"
+      ],
+      "prompt": "landscape photograph of open tallgrass prairie at deep blue dusk, wild grasses and coneflowers in the foreground, a lone oak on the far horizon, wide starry sky above with a last warm glow at the horizon, no buildings, no roads, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 527472803,
+      "requestId": "01a16627-420c-7e53-b6d1-74b682a56a32",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "398edb10b649c976ccd5696154ef0c8d3c62d5ee1f2192c16becf30ad1ab1df3",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:27:01.813Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "generic dusk landscape under stars, no landmark, no buildings, no text",
+        "reviewedAt": "2026-10-23T00:36:26.726Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "G-STATE-MD",
+      "file": "assets/generated/g-state-md.jpg",
+      "raw": "tmp/img/raw/G-STATE-MD.1792715227208.jpg",
+      "rawBytes": 1149514,
+      "role": "state art",
+      "alt": "A tidal marsh with winding creeks at dusk under a starry sky",
+      "usedFor": [
+        "/maryland and its stores"
+      ],
+      "prompt": "landscape photograph of a tidal salt marsh at deep blue dusk, winding tidal creeks reflecting the last light, golden-green cordgrass, a starry sky above with a faint warm glow at the horizon, no buildings, no boats, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 918116522,
+      "requestId": "01a16627-441c-7591-9685-43b5e6e88a00",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "0aad4eb17556609390a0833f73ca42790febbc3dc7a6771fe75276382452c826",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:27:09.083Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "generic dusk landscape under stars, no landmark, no buildings, no text",
+        "reviewedAt": "2026-10-23T00:36:27.109Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "G-STATE-NY",
+      "file": "assets/generated/g-state-ny.jpg",
+      "raw": "tmp/img/raw/G-STATE-NY.1792715227611.jpg",
+      "rawBytes": 1193674,
+      "role": "state art",
+      "alt": "A calm lakeshore with wooded hills at dusk under a starry sky",
+      "usedFor": [
+        "/new-york and its stores"
+      ],
+      "prompt": "landscape photograph of a calm lakeshore at deep blue dusk, smooth stones at the water's edge, low wooded hills across the still lake, a starry sky reflected in the water, a faint warm glow at the horizon, no buildings, no boats, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 2526267882,
+      "requestId": "01a16627-5177-7c33-b839-9e2d5911e0e9",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "de5ce3b41b068934cb7e574a1979d887f65a6f4b2be4d184efb14ab0753c5ef1",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:27:09.647Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "generic dusk landscape under stars, no landmark, no buildings, no text",
+        "reviewedAt": "2026-10-23T00:36:29.894Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "G-STATE-MS",
+      "file": "assets/generated/g-state-ms.jpg",
+      "raw": "tmp/img/raw/G-STATE-MS.1792715227702.jpg",
+      "rawBytes": 1266187,
+      "role": "state art",
+      "alt": "Cypress trees standing in still river delta water at dusk under a starry sky",
+      "usedFor": [
+        "/mississippi and its stores"
+      ],
+      "prompt": "landscape photograph of a cypress river delta at deep blue dusk, bald cypress trees with hanging moss standing in still dark water, mirror reflections, a starry sky above with a faint warm glow at the horizon, no buildings, no boats, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 285889759,
+      "requestId": "01a16627-4b34-7f12-a7e2-4a1b268a98ef",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "076d9c1d7e354cd6239b8588e96b5ceee74c93c3c7b855f4ff6fdf373d3befcb",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:27:09.825Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "generic dusk landscape under stars, no landmark, no buildings, no text",
+        "reviewedAt": "2026-10-23T00:36:28.356Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "G-STATE-SD",
+      "file": "assets/generated/g-state-sd.jpg",
+      "raw": "tmp/img/raw/G-STATE-SD.1792715229944.jpg",
+      "rawBytes": 1129063,
+      "role": "state art",
+      "alt": "Dark pine-covered hills with granite outcrops at dusk under a starry sky",
+      "usedFor": [
+        "/south-dakota and its stores"
+      ],
+      "prompt": "landscape photograph of dark ponderosa pine forested hills with rounded weathered granite boulders at deep blue dusk, a starry sky above with a faint warm glow at the horizon, quiet and generic, no carved rock, no monuments, no buildings, no roads, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 382112696,
+      "requestId": "01a16627-697f-7b50-a01a-fd8a3d615cbd",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "f4bb4b4e0a8a8af14a581625a79bdc09eba92050e96182703d6d57933e167a9f",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:27:11.760Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "generic dusk landscape under stars, no landmark, no buildings, no text",
+        "reviewedAt": "2026-10-23T00:36:31.227Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "G-STATE-OK",
+      "file": "assets/generated/g-state-ok.jpg",
+      "raw": "tmp/img/raw/G-STATE-OK.1792715234222.jpg",
+      "rawBytes": 960162,
+      "role": "state art",
+      "alt": "Red-earth plains with wind-swept grass at dusk under a starry sky",
+      "usedFor": [
+        "/oklahoma and its stores"
+      ],
+      "prompt": "landscape photograph of rolling red-earth plains at deep blue dusk, patches of rust-red soil between wind-swept prairie grass, a few distant cottonwood trees, a wide starry sky with a last warm glow at the horizon, no buildings, no roads, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 4098616876,
+      "requestId": "01a16627-58dc-7413-94c1-47960cf3c714",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "d9a58b74e2418131ef743616a9734cd54749799f8aa7532ff9365a2fdd344c4b",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:27:16.356Z",
+      "attempt": 1,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "generic dusk landscape under stars, no landmark, no buildings, no text",
+        "reviewedAt": "2026-10-23T00:36:30.368Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "CUT-LEAF",
+      "file": "assets/generated/cut-leaf.png",
+      "raw": "tmp/img/raw/CUT-LEAF.1792715234130.jpg",
+      "rawBytes": 701160,
+      "role": "front-plane cut-out",
+      "alt": "A single cannabis fan leaf",
+      "usedFor": [
+        "home",
+        "section seams"
+      ],
+      "prompt": "studio product photograph of a single fresh green cannabis fan leaf with seven serrated leaflets and a short stem, flat and fully in frame with space around it, centred, isolated on a plain flat neutral mid-grey seamless background, soft even light, crisp edges, no shadow, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "1:1",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 1576099682,
+      "requestId": "01a16627-6c71-7020-a05c-36069efe93ef",
+      "width": 1299,
+      "height": 1562,
+      "cutout": {
+        "model": "fal-ai/birefnet/v2",
+        "requestId": "01a16627-a397-75a2-be54-1d481ac58e49"
+      },
+      "sha256": "0a16b652059a803a74a37a0db30c3b926b02251eb338f70f03b42966652eacdc",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:27:20.910Z",
+      "attempt": 1,
+      "postprocess": [
+        {
+          "note": "trimmed to the alpha bounding box + 3% padding (tmp/img/prep.py trim)",
+          "at": "2026-10-23T00:34:12.793Z"
+        }
+      ],
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "clean alpha edges over dark and ivory; a little render-like but photographic, not a cartoon; trimmed",
+        "reviewedAt": "2026-10-23T00:36:15.274Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "CUT-ACANTHUS",
+      "file": "assets/generated/cut-acanthus.png",
+      "raw": "tmp/img/raw/CUT-ACANTHUS.1792715240272.jpg",
+      "rawBytes": 610334,
+      "role": "front-plane ornament cut-out",
+      "alt": "A gilded brass acanthus scroll ornament",
+      "usedFor": [
+        "section seams"
+      ],
+      "prompt": "studio product photograph of a single gilded antique brass acanthus leaf scroll ornament, Victorian architectural metalwork, one horizontal S-shaped scroll of curling acanthus leaves, front view, fully in frame with space around it, isolated on a plain flat dark charcoal grey seamless background, warm studio light on the gilding, crisp edges, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "3:2",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 3692796766,
+      "requestId": "01a16627-8b0f-7fb1-aafe-b80ae65b87db",
+      "width": 2076,
+      "height": 441,
+      "cutout": {
+        "model": "fal-ai/birefnet/v2",
+        "requestId": "01a16627-bd7d-78f1-90c9-8cc0dda21465"
+      },
+      "sha256": "a7ba49715256e84f3ce5e9dfc31ea71da7e4fc143f63b003f6c5686675e4fa35",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:27:27.533Z",
+      "attempt": 1,
+      "postprocess": [
+        {
+          "note": "trimmed to the alpha bounding box + 3% padding (tmp/img/prep.py trim)",
+          "at": "2026-10-23T00:34:15.098Z"
+        }
+      ],
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "gilded acanthus scroll, clean edges, trimmed (2076x441)",
+        "reviewedAt": "2026-10-23T00:36:16.541Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "CUT-BUD",
+      "file": "assets/generated/cut-bud.png",
+      "raw": "tmp/img/raw/CUT-BUD.1792715237989.jpg",
+      "rawBytes": 798285,
+      "role": "front-plane cut-out",
+      "alt": "A cured cannabis bud with frosted trichomes",
+      "usedFor": [
+        "home",
+        "product pages"
+      ],
+      "prompt": "studio macro product photograph of a single dense cured cannabis flower bud with frosty trichomes and orange pistils, centred and fully in frame with space around it, isolated on a plain flat neutral mid-grey seamless background, warm key light, crisp edges, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "1:1",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 1357502063,
+      "requestId": "01a16627-88d6-7111-86ae-4e2e59e6128c",
+      "width": 679,
+      "height": 868,
+      "cutout": {
+        "model": "fal-ai/birefnet/v2",
+        "requestId": "01a16627-b1cf-7c92-99db-ab7a37b54897"
+      },
+      "sha256": "18856e6fb08d3fc850fc7bd5f3306ff82a59e544307724c22f20cf779cb5c8c7",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:27:27.546Z",
+      "attempt": 1,
+      "postprocess": [
+        {
+          "note": "trimmed to the alpha bounding box + 3% padding (tmp/img/prep.py trim)",
+          "at": "2026-10-23T00:34:14.067Z"
+        }
+      ],
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "clean edges, trimmed",
+        "reviewedAt": "2026-10-23T00:36:15.935Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "CUT-STAR",
+      "file": "assets/generated/cut-star.png",
+      "raw": "tmp/img/raw/CUT-STAR.1792715242155.jpg",
+      "rawBytes": 1107478,
+      "role": "front-plane ornament cut-out",
+      "alt": "A plain brass five-pointed star ornament",
+      "usedFor": [
+        "section seams",
+        "rewards"
+      ],
+      "prompt": "studio product photograph of a single plain polished brass five-pointed star ornament with bevelled faceted arms, no engraving, no marks, front view, centred, fully in frame with space around it, isolated on a plain flat dark charcoal grey seamless background, warm studio light, crisp edges, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "1:1",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 378165044,
+      "requestId": "01a16627-8bbe-7121-abd0-8e86bd0417e1",
+      "width": 1374,
+      "height": 1318,
+      "cutout": {
+        "model": "fal-ai/birefnet/v2",
+        "requestId": "01a16627-c4ab-7ef0-b86f-fd9acf39cb01"
+      },
+      "sha256": "df3a85bed9c9244d7a45d42d51a0228d3b0c02bbc0647071f500cb650b186cbc",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:27:28.897Z",
+      "attempt": 1,
+      "postprocess": [
+        {
+          "note": "trimmed to the alpha bounding box + 3% padding (tmp/img/prep.py trim)",
+          "at": "2026-10-23T00:34:18.098Z"
+        }
+      ],
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "plain brass star, no marks, trimmed",
+        "reviewedAt": "2026-10-23T00:36:16.865Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "G-EDIBLES",
+      "file": "assets/generated/g-edibles.jpg",
+      "raw": "tmp/img/raw/G-EDIBLES.1792715448569.jpg",
+      "rawBytes": 1074156,
+      "role": "section art: edibles",
+      "alt": "An apothecary shelf of plain glass jars and tins holding dried botanicals",
+      "usedFor": [
+        "edibles"
+      ],
+      "prompt": "an antique wooden apothecary shelf holding bare clear glass jars with cork stoppers and small plain round metal tins, every jar and tin completely bare with no labels, no tags and no paper on them, filled with dried herbs, dried flowers and dried cannabis buds, a sprig of fresh leaves, inside a glasshouse at night, warm lantern light, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 2531350080,
+      "requestId": "01a1662a-b216-76e2-92b8-27386cb2e748",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "404d30671d48bf691bd2db3f2c2d3a57ce2c98aba0fab07d757d50c0592aae59",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:30:50.511Z",
+      "attempt": 2,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "attempt 2: bare jars of dried buds; attempt 1 had pseudo-text labels; two tiny out-of-focus background jars carry blank kraft bands with no text (crop)",
+        "reviewedAt": "2026-10-23T00:36:06.448Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "G-PREROLL",
+      "file": "assets/generated/g-preroll.jpg",
+      "raw": "tmp/img/raw/G-PREROLL.1792715450237.jpg",
+      "rawBytes": 1006453,
+      "role": "section art: deals",
+      "alt": "Unbranded pre-rolls and loose cannabis buds on a brass tray",
+      "usedFor": [
+        "deals"
+      ],
+      "prompt": "three slim cone-shaped cannabis pre-roll joints made of thin plain unprinted white paper, each packed with ground green cannabis flower visible at its open wide end and twisted shut at the narrow tip, lying side by side on a polished antique brass serving tray, a few loose cured cannabis buds beside them, dark green velvet tablecloth, warm lantern light from the left, still life, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 767849721,
+      "requestId": "01a1662a-b210-7280-8a9c-f261d3b55d51",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "7cfcb6a7d35c56a349908983d962a4a492b0bb1416dd49062a6296aecf02e5ba",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:30:51.490Z",
+      "attempt": 2,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "attempt 2: two pre-rolls with visible ground flower on a brass tray; plain paper, no print (crop); attempt 1 read as rolled paper scrolls",
+        "reviewedAt": "2026-10-23T00:36:05.790Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "G-CBD",
+      "file": "assets/generated/g-cbd.jpg",
+      "raw": "tmp/img/raw/G-CBD.1792715481619.jpg",
+      "rawBytes": 910471,
+      "role": "section art: cbd",
+      "alt": "Hemp leaves and a plain tincture bottle on a glasshouse bench in soft daylight",
+      "usedFor": [
+        "cbd",
+        "oxford-cbd"
+      ],
+      "prompt": "fresh hemp leaves and a bare clear glass tincture bottle with a black dropper cap, the bottle completely bare with no label, no sticker and no paper on it, golden oil inside, on a weathered wooden glasshouse bench, soft early daylight falling through the arched panes of a Victorian glasshouse, green plants behind softly out of focus, calm and airy, deep green palette, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 2439608314,
+      "requestId": "01a1662b-3eea-7890-b7b3-867e1372fd81",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "d4def414969bf217417423d935b24f1421d48de94bbe8a2f6ef947eddb23ff88",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:31:23.385Z",
+      "attempt": 2,
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "attempt 2: bare tincture bottle (no label), hemp leaves, daylight glasshouse; attempt 1 had a blank paper label",
+        "reviewedAt": "2026-10-23T00:36:07.361Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "G-CONCENTRATES",
+      "file": "assets/generated/g-concentrates.jpg",
+      "raw": "tmp/img/raw/G-CONCENTRATES.1792715447226.jpg",
+      "rawBytes": 872066,
+      "role": "section art: concentrates",
+      "alt": "A small mound of pale gold hash rosin on parchment paper beside a brass dab tool",
+      "usedFor": [
+        "concentrates"
+      ],
+      "prompt": "a small soft irregular mound of freshly pressed hash rosin, a waxy cannabis concentrate, smooth opaque creamy pale-gold texture like thick soft wax with a fine sandy grain and a glossy oily sheen, no large crystals, no chunks, tiny glistening terpene droplets, a little translucent amber terpene oil pooling at its base, on a small square of unbleached parchment paper, a slim plain brass dab tool resting beside it, dark slate surface, macro still life, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 2525521720,
+      "requestId": "01a1662a-b214-7cc0-89dd-05621708ebb9",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "5ea4a6e6f3f039e51abbdc0d8e99bec686b6f27fd4d0b8192dbf231ea25a9d90",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:30:48.962Z",
+      "attempt": 2,
+      "restoredAt": "2026-10-23T00:34:07.433Z",
+      "restoreNote": "attempt 2 restored after attempt 3 was rejected on review",
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "attempt 2 restored: glossy pale-gold rosin mound on parchment with a brass dab tool and kief crumbs; attempt 1 read as rock sugar, attempt 3 as a custard dessert (both archived); residual risk: the mound is glossy and could read as jelly to some viewers",
+        "reviewedAt": "2026-10-23T00:36:06.740Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "G-STARS",
+      "file": "assets/generated/g-stars.jpg",
+      "provider": "higgsfield",
+      "model": "cinematic_studio_2_5",
+      "params": {
+        "aspect_ratio": "16:9",
+        "resolution": "4k"
+      },
+      "jobId": "6a7d7086-b891-42ca-bf27-972134383c9b",
+      "raw": "tmp/hf/g-stars-hf.png",
+      "rawSize": "5504x3072",
+      "postprocess": [
+        {
+          "note": "downscaled 2x (Lanczos) to 2752x1536, JPEG q92 (tmp/img/prep.py half)"
+        }
+      ],
+      "prompt": "Cinematic night photograph looking straight up through the curved wrought-iron ribs and arched glass panes of a Victorian glasshouse roof at a clear night sky full of stars and a faint Milky Way, iron ribs silhouetted in dark graphite, faint condensation on the glass, a soft warm lantern glow along the lower edge of the frame, deep blue-green night, fine film grain. No people, no text, no lettering, no logos.",
+      "alt": "A starry night sky seen through the curved iron ribs and arched panes of a glasshouse roof",
+      "width": 2752,
+      "height": 1536,
+      "sha256": "e0d307ba225c6acd1e44197f0cea383425c00d948d26ab06b7581108fce672e8",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "installedAt": "2026-10-23T00:34:11.295Z",
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Higgsfield cinematic_studio_2_5: ornate Victorian iron dome, Milky Way; no text, no figures (crop of lower band); chosen over fal attempt 2 (clean but plain); fal attempt 1 rejected for pseudo-text and a human silhouette",
+        "reviewedAt": "2026-10-23T00:36:03.269Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    },
+    {
+      "id": "CUT-CLOCHE",
+      "file": "assets/generated/cut-cloche.png",
+      "provider": "fal.ai",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "prompt": "product photograph of a Victorian clear glass bell jar cloche with a small round glass knob on top, covering a single cured cannabis flower bud that sits on a round dark walnut wood base, the whole object centred and fully in frame with space around it, isolated on a pure black seamless background, crisp white rim highlights tracing the glass edges, warm light on the bud, cinematic, sharp focus, no people, no hands, no text, no lettering, no labels, no logos",
+      "input": {
+        "aspect_ratio": "3:4",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "seed": 308189769,
+      "requestId": "01a16628-1a0a-7de1-8a09-4999f6b32cb3",
+      "raw": "tmp/img/cloche/cut-cloche-a.jpg",
+      "cutout": {
+        "model": "fal-ai/birefnet/v2",
+        "variant": "Matting",
+        "requestId": "01a16628-5247-7f52-a4e4-6e943b9ff00f",
+        "file": "tmp/img/cloche/cut-cloche-a.cut.png"
+      },
+      "postprocess": [
+        {
+          "note": "trimmed to the alpha bounding box + 3% padding (tmp/img/prep.py trim)"
+        }
+      ],
+      "tool": "tools/fal-one.mjs --cutout --cutout-model Matting",
+      "alt": "A cannabis bud under a Victorian glass bell jar",
+      "width": 1162,
+      "height": 1721,
+      "sha256": "4160120815423c9a7cc8de81b69c63a2f5f370e3f2141625a6907f356921a378",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "installedAt": "2026-10-23T00:34:11.644Z",
+      "review": {
+        "verdict": "ACCEPT",
+        "reason": "Matting cut-out: glass stays see-through over dark and ivory grounds (composite check), bud and walnut base solid; trimmed",
+        "reviewedAt": "2026-10-23T00:36:14.939Z",
+        "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+      }
+    }
+  ],
+  "failures": [],
+  "spend": {
+    "ultraCalls": 33,
+    "cutoutCalls": 5,
+    "otherCalls": 0,
+    "calls": [
+      {
+        "kind": "ultra",
+        "id": "G-HERO",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:26:12.488Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-STARS",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:26:12.544Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-FLOWER",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:26:12.547Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-LEAF",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:26:12.550Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-CLOCHE",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:26:12.552Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-PREROLL",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:26:12.555Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-VAPE",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:26:25.726Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-EDIBLES",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:26:27.058Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-CONCENTRATES",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:26:30.299Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-TOPICALS",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:26:33.566Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-CBD",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:26:35.981Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-POTTING",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:26:36.549Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-REWARDS",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:26:39.528Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-DELIVERY",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:26:43.046Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-JOURNAL",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:26:45.970Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-STATE-CO",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:26:46.780Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-STATE-IL",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:26:50.964Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-STATE-MD",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:26:51.478Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-STATE-MS",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:26:53.297Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-STATE-NY",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:26:54.543Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-STATE-OK",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:26:56.804Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-STATE-SD",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:27:01.050Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "CUT-LEAF",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:27:01.815Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "CUT-BUD",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:27:09.085Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "CUT-ACANTHUS",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:27:09.651Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "CUT-STAR",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:27:09.828Z"
+      },
+      {
+        "kind": "cutout",
+        "id": "CUT-LEAF",
+        "model": "fal-ai/birefnet/v2",
+        "at": "2026-10-23T00:27:15.934Z"
+      },
+      {
+        "kind": "cutout",
+        "id": "CUT-BUD",
+        "model": "fal-ai/birefnet/v2",
+        "at": "2026-10-23T00:27:19.558Z"
+      },
+      {
+        "kind": "cutout",
+        "id": "CUT-ACANTHUS",
+        "model": "fal-ai/birefnet/v2",
+        "at": "2026-10-23T00:27:22.563Z"
+      },
+      {
+        "kind": "cutout",
+        "id": "CUT-STAR",
+        "model": "fal-ai/birefnet/v2",
+        "at": "2026-10-23T00:27:24.397Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-STARS",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:29:56.391Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-PREROLL",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:30:35.804Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-EDIBLES",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:30:35.831Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-CONCENTRATES",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:30:35.833Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-CBD",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:31:11.851Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-CONCENTRATES",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-23T00:32:02.158Z"
+      },
+      {
+        "kind": "higgsfield",
+        "model": "cinematic_studio_2_5",
+        "tool": "Higgsfield MCP generate_image_batch",
+        "id": "G-STARS",
+        "at": "2026-10-23T00:34:11.295Z"
+      },
+      {
+        "kind": "ultra",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "tool": "tools/fal-one.mjs",
+        "id": "CUT-CLOCHE",
+        "at": "2026-10-23T00:34:11.645Z"
+      },
+      {
+        "kind": "cutout",
+        "model": "fal-ai/birefnet/v2 (Matting)",
+        "tool": "tools/fal-one.mjs",
+        "id": "CUT-CLOCHE",
+        "at": "2026-10-23T00:34:11.645Z"
+      },
+      {
+        "kind": "higgsfield",
+        "id": "G-HERO",
+        "model": "cinematic_studio_2_5",
+        "tool": "Higgsfield MCP generate_image_batch",
+        "note": "candidate, not chosen",
+        "at": "2026-10-23T00:35:34.807Z"
+      }
+    ],
+    "higgsfieldJobs": 2
+  },
+  "generated": "2026-10-23T00:32:13.782Z",
+  "rejected": [
+    {
+      "id": "G-STARS",
+      "file": "assets/generated/g-stars.jpg",
+      "raw": "tmp/img/raw/G-STARS.1792715183644.jpg",
+      "rawBytes": 1981022,
+      "role": "night band backdrop; V-STARS loop source",
+      "alt": "A starry night sky seen through the curved iron ribs and arched panes of a glasshouse roof",
+      "usedFor": [
+        "contact",
+        "legal",
+        "locations hub",
+        "fallback state art"
+      ],
+      "prompt": "looking straight up through the curved wrought-iron ribs and arched glass panes of a Victorian glasshouse roof at a clear night sky full of stars and a faint Milky Way, the iron ribs silhouetted in dark graphite, faint condensation on the glass, a soft warm lantern glow along the lower edge of the frame, deep blue-green night, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 1898603625,
+      "requestId": "01a16626-ade1-7ef3-9df4-d42d06ffbe24",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "2307859dfbc0c33f7fe412c1eeb60db09ba56814f8777cac0c86267a9551ccae",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:26:25.722Z",
+      "attempt": 1,
+      "archivedAs": "tmp/img/rejected/G-STARS.1792715406133.jpg",
+      "reason": "attempt 1: pseudo-text on the glass panes and a human silhouette on the roof ridge",
+      "at": "2026-10-23T00:30:07.915Z"
+    },
+    {
+      "id": "G-CONCENTRATES",
+      "file": "assets/generated/g-concentrates.jpg",
+      "raw": "tmp/img/raw/G-CONCENTRATES.1792715204306.jpg",
+      "rawBytes": 1020913,
+      "role": "section art: concentrates",
+      "alt": "A small mound of pale gold hash rosin on parchment paper beside a brass dab tool",
+      "usedFor": [
+        "concentrates"
+      ],
+      "prompt": "a small soft irregular mound of freshly pressed hash rosin, a waxy cannabis concentrate, opaque pale gold with a fine grainy crystalline texture and a glossy oily sheen, tiny glistening terpene droplets, a little translucent amber terpene oil pooling at its base, on a small square of unbleached parchment paper, a slim plain brass dab tool resting beside it, dark slate surface, macro still life, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 4255535302,
+      "requestId": "01a16626-f156-79e3-b28b-d0afa6e44adf",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "2bcc703df71c1f10ecd6d8cbbd36f2215fedb035e16dc470a87aeca5b3c298b3",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:26:45.969Z",
+      "attempt": 1,
+      "archivedAs": "tmp/img/rejected/G-CONCENTRATES.1792715447226.jpg",
+      "reason": "attempt 1: the rosin read as rock sugar / candy crystals (food read)",
+      "at": "2026-10-23T00:30:48.958Z"
+    },
+    {
+      "id": "G-EDIBLES",
+      "file": "assets/generated/g-edibles.jpg",
+      "raw": "tmp/img/raw/G-EDIBLES.1792715197639.jpg",
+      "rawBytes": 1295585,
+      "role": "section art: edibles",
+      "alt": "An apothecary shelf of plain glass jars and tins holding dried botanicals",
+      "usedFor": [
+        "edibles"
+      ],
+      "prompt": "an antique wooden apothecary shelf holding plain unlabeled clear glass jars with cork stoppers and small plain round metal tins, filled with dried herbs, dried flowers and dried cannabis buds, a sprig of fresh leaves, inside a glasshouse at night, warm lantern light, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 1892944093,
+      "requestId": "01a16626-e4b2-7383-8857-1edb7e64c10e",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "688e3b833d759a45eca01bd083fde0e56d524525bfdc99e78d0da0b33aacbfbf",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:26:39.527Z",
+      "attempt": 1,
+      "archivedAs": "tmp/img/rejected/G-EDIBLES.1792715448569.jpg",
+      "reason": "attempt 1: pseudo-text labels on a jar and a tin",
+      "at": "2026-10-23T00:30:50.508Z"
+    },
+    {
+      "id": "G-PREROLL",
+      "file": "assets/generated/g-preroll.jpg",
+      "raw": "tmp/img/raw/G-PREROLL.1792715194220.jpg",
+      "rawBytes": 993939,
+      "role": "section art: deals",
+      "alt": "Unbranded pre-rolls and loose cannabis buds on a brass tray",
+      "usedFor": [
+        "deals"
+      ],
+      "prompt": "three plain unbranded pre-rolled cones made of thin unprinted white rolling paper with twisted tips lying side by side on a polished antique brass serving tray, a few loose cured cannabis buds beside them, dark green velvet tablecloth, warm lantern light from the left, still life, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 2711566759,
+      "requestId": "01a16626-adda-7110-b27c-ef2fbfd7ed29",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "0d3e9865f3a782ca18d9f2bc89dbe33b2635ff01d2fde65de7a02b178d2a5d19",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:26:35.977Z",
+      "attempt": 1,
+      "archivedAs": "tmp/img/rejected/G-PREROLL.1792715450237.jpg",
+      "reason": "attempt 1: the pre-rolls read as rolled paper scrolls",
+      "at": "2026-10-23T00:30:51.487Z"
+    },
+    {
+      "id": "G-CBD",
+      "file": "assets/generated/g-cbd.jpg",
+      "raw": "tmp/img/raw/G-CBD.1792715204898.jpg",
+      "rawBytes": 855890,
+      "role": "section art: cbd",
+      "alt": "Hemp leaves and a plain tincture bottle on a glasshouse bench in soft daylight",
+      "usedFor": [
+        "cbd",
+        "oxford-cbd"
+      ],
+      "prompt": "fresh hemp leaves and a plain unlabeled clear glass tincture bottle with a dropper on a weathered wooden glasshouse bench, soft early daylight falling through the arched panes of a Victorian glasshouse, green plants behind softly out of focus, calm and airy, deep green palette, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 2221897790,
+      "requestId": "01a16627-0789-7223-8791-8e45f175f8e4",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "05fd5d45984790178965a5e00c3c62ef09a29919b8917e763589148cc41badee",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:26:46.777Z",
+      "attempt": 1,
+      "archivedAs": "tmp/img/rejected/G-CBD.1792715481619.jpg",
+      "reason": "attempt 1: a blank white paper label on the bottle (no labels allowed)",
+      "at": "2026-10-23T00:31:23.383Z"
+    },
+    {
+      "id": "G-CONCENTRATES",
+      "file": "assets/generated/g-concentrates.jpg",
+      "raw": "tmp/img/raw/G-CONCENTRATES.1792715531883.jpg",
+      "rawBytes": 880991,
+      "role": "section art: concentrates",
+      "alt": "A small mound of pale gold hash rosin on parchment paper beside a brass dab tool",
+      "usedFor": [
+        "concentrates"
+      ],
+      "prompt": "a small dollop of live hash rosin, an opaque pale golden-yellow cannabis concentrate with a matte, slightly grainy, soft whipped wax texture and a light oily sheen at its edges, a thin film of translucent amber terpene oil seeping from its base, on a small square of unbleached parchment paper, a slim plain brass dab tool lifting a tiny amount from its edge, a few crumbs of green cannabis kief nearby, dark slate surface, macro still life, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 4217448958,
+      "requestId": "01a1662c-034f-7472-b932-98a0533517b4",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "41e2fe1b402557cf688d1b4f05f17aad82776d152c8451320172d46f02b613ee",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:32:13.780Z",
+      "attempt": 3,
+      "archivedAs": "tmp/img/rejected/G-CONCENTRATES.1792715647408.attempt3.jpg",
+      "reason": "attempt 3: reads as a custard or pudding dessert with a herb garnish (food read); attempt 2 restored",
+      "at": "2026-10-23T00:34:07.435Z"
+    }
+  ],
+  "alternates": [
+    {
+      "id": "G-STARS",
+      "file": "assets/generated/g-stars.jpg",
+      "raw": "tmp/img/raw/G-STARS.1792715406133.jpg",
+      "rawBytes": 1458497,
+      "role": "night band backdrop; V-STARS loop source",
+      "alt": "A starry night sky seen through the curved iron ribs and arched panes of a glasshouse roof",
+      "usedFor": [
+        "contact",
+        "legal",
+        "locations hub",
+        "fallback state art"
+      ],
+      "prompt": "looking straight up at a clear night sky through the clean, plain, empty glass panes of a Victorian glasshouse roof, curved black wrought-iron ribs and thin glazing bars silhouetted against a dense field of stars and a faint Milky Way, deep blue-green night, nothing on or behind the glass, no reflections, no figures, no statues, a soft warm glow only at the very bottom edge, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 337240985,
+      "requestId": "01a1662a-181e-7b73-a791-479cb07803d7",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "7a63c259354dec66515c89bc616998481e2c442b36507a26306548f709bbf7fc",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-23T00:30:07.918Z",
+      "attempt": 2,
+      "archivedAs": "tmp/img/alternates/G-STARS.1792715651277.jpg",
+      "reason": "flux attempt 2 was clean but plainer; the Higgsfield candidate has Victorian wrought-iron scrollwork and reads more like the conservatory (by-eye pick)",
+      "at": "2026-10-23T00:34:11.279Z"
+    }
+  ],
+  "candidates": [
+    {
+      "id": "G-HERO",
+      "provider": "higgsfield",
+      "model": "cinematic_studio_2_5",
+      "jobId": "f19e1f4b-9f75-4e72-9f6c-01535f5985bf",
+      "file": "tmp/hf/g-hero-hf.png",
+      "size": "5504x3072",
+      "chosen": false,
+      "reason": "dusk/daylight roof with no stars and a black film-gate border baked into the frame; the brief (and the V-HERO loop) needs night with stars, so the fal still was kept"
+    }
+  ]
+}

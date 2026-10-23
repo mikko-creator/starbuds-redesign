@@ -1,0 +1,140 @@
+{
+ "path": "/oxford",
+ "url": "https://www.starbuds.us/oxford",
+ "key": "oxford",
+ "kind": "store",
+ "state": "MS",
+ "title": "Star Buds Dispensary Recreational Marijuana Oxford",
+ "h1": "NOW OPEN!",
+ "head": {
+  "title": "Star Buds Dispensary Recreational Marijuana Oxford",
+  "description": "Are you looking for a dispensary in Oxford, Mississippi? Come by Star Buds Dispensary in Oxford today to discover the finest cannabis products!",
+  "canonical": "https://www.starbuds.us/oxford",
+  "robots": "",
+  "og": {
+   "title": "Star Buds Dispensary Medical Marijuana Oxford",
+   "description": "Are you looking for a dispensary in Oxford, Mississippi? Come by Star Buds Dispensary in Oxford today to discover the finest cannabis products!",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/oxford",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Mississippi",
+   "path": "/mississippi"
+  },
+  {
+   "name": "NOW OPEN!",
+   "path": "/oxford"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "NOW OPEN!"
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "Star Buds Medical Marijuana Dispensary Oxford"
+    },
+    {
+     "t": "rich",
+     "html": "<p>1319 N LAMAR BLVD SUITE A, OXFORD MS, 38655</p>\n<p><a href=\"https://www.google.com/search?q=star+buds+oxford+ms&amp;oq=STAR+BUDS+OXFORD&amp;aqs=chrome.0.0i512j69i57j46i175i199i512j69i60l3.4538j0j7&amp;sourceid=chrome&amp;ie=UTF-8#\" target=\"_blank\" rel=\"noreferrer noopener\">(662) 638-3008</a></p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Star Buds Oxford is proud to be a medical cannabis dispensary serving the community of Oxford, Mississippi, come see us for all your medical marijuana needs. Our compassionate and knowledgeable staff is here to help you get exactly what you need at the best possible price.</p>"
+    },
+    {
+     "t": "button",
+     "text": "ORDER ONLINE",
+     "href": "https://shop.starbuds.us/",
+     "external": true
+    },
+    {
+     "t": "rich",
+     "html": "<p>HOURS</p>\n<p>MONDAY: 8:00AM-9:00PM</p>\n<p>TUESDAY: 8:00AM-9:00PM</p>\n<p>WEDNESDAY: 8:00AM-9:00PM</p>\n<p>THURSDAY: 8:00AM-9:00PM</p>\n<p>FRIDAY: 8:00AM-9:00PM</p>\n<p>SATURDAY: 8:00AM-9:00PM</p>\n<p>SUNDAY: 8:00AM-7:00PM</p>"
+    },
+    {
+     "t": "image",
+     "src": "https://static.wixstatic.com/media/553d0f_7e9e67a4dbc8466f845289998ba8b640~mv2.png",
+     "alt": "Dispensary deals",
+     "href": null,
+     "w": 217,
+     "h": 154,
+     "caption": ""
+    },
+    {
+     "t": "rich",
+     "html": "<p>No need to wait for a sale. You save seven days a week with our daily deals!</p>\n<p>MUNCHIE MONDAY: Buy one edible get one 25% off (equal or lesser value)<br> PHAT TUESDAY: Buy one eighth get one 25% off (equal or lesser value)<br> WAX WEDNESDAY: 15% off all concentrates including vapes<br> THERAPEUTIC THURSDAY: 20% off all wellness products<br> TRIFECTA FRIDAY: Buy any three pre-rolls, get 15% off<br> STOCK UP SATURDAY: Fulfill Your weekly MMCEU allotment, receive 15% off</p>"
+    }
+   ]
+  }
+ ],
+ "store": {
+  "name": "Star Buds Medical Marijuana Dispensary Oxford",
+  "address": [
+   "1319 N LAMAR BLVD SUITE A, OXFORD MS, 38655"
+  ],
+  "phone": "(662) 638-3008",
+  "tel": "+16626383008",
+  "hours": [
+   {
+    "day": "MONDAY",
+    "time": "8:00AM-9:00PM"
+   },
+   {
+    "day": "TUESDAY",
+    "time": "8:00AM-9:00PM"
+   },
+   {
+    "day": "WEDNESDAY",
+    "time": "8:00AM-9:00PM"
+   },
+   {
+    "day": "THURSDAY",
+    "time": "8:00AM-9:00PM"
+   },
+   {
+    "day": "FRIDAY",
+    "time": "8:00AM-9:00PM"
+   },
+   {
+    "day": "SATURDAY",
+    "time": "8:00AM-9:00PM"
+   },
+   {
+    "day": "SUNDAY",
+    "time": "8:00AM-7:00PM"
+   }
+  ],
+  "notes": [
+   "Star Buds Oxford is proud to be a medical cannabis dispensary serving the community of Oxford, Mississippi, come see us for all your medical marijuana needs. Our compassionate and knowledgeable staff is here to help you get exactly what you need at the best possible price.",
+   "No need to wait for a sale. You save seven days a week with our daily deals!",
+   "MUNCHIE MONDAY: Buy one edible get one 25% off (equal or lesser value)<br> PHAT TUESDAY: Buy one eighth get one 25% off (equal or lesser value)<br> WAX WEDNESDAY: 15% off all concentrates including vapes<br> THERAPEUTIC THURSDAY: 20% off all wellness products<br> TRIFECTA FRIDAY: Buy any three pre-rolls, get 15% off<br> STOCK UP SATURDAY: Fulfill Your weekly MMCEU allotment, receive 15% off"
+  ],
+  "links": [
+   {
+    "text": "ORDER ONLINE",
+    "href": "https://shop.starbuds.us/"
+   }
+  ],
+  "image": "https://static.wixstatic.com/media/553d0f_7e9e67a4dbc8466f845289998ba8b640~mv2.png",
+  "map": null
+ }
+}

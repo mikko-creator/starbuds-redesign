@@ -1,0 +1,39 @@
+/* motion.css - reveals, stagger, parallax, draw, twinkle, header condense; reduced-motion + fallbacks. FOUNDATION. */
+@keyframes twinkle { 0%, 100% { opacity: .15; } 50% { opacity: .95; } }
+@keyframes floaty { 0%, 100% { transform: translate3d(0, 0, 0) rotate(var(--rot, 0deg)); } 50% { transform: translate3d(0, -12px, 0) rotate(calc(var(--rot, 0deg) + 2deg)); } }
+@keyframes sheen { from { background-position: 100% 0; } to { background-position: 0 0; } }
+
+/* reveals: only when JS runs (html.js); data-reveal is removed after the entrance so hover transforms win */
+.js [data-reveal] { opacity: 0; transition: opacity var(--dur) var(--ease-out), transform var(--dur) var(--ease-out), clip-path 1.2s var(--ease-out), filter var(--dur) var(--ease-out); transition-delay: var(--d, 0s); }
+.js [data-reveal="up"] { transform: translate3d(0, 34px, 0); }
+.js [data-reveal="left"] { transform: translate3d(-40px, 0, 0); }
+.js [data-reveal="right"] { transform: translate3d(40px, 0, 0); }
+.js [data-reveal="zoom"] { transform: scale(.94); }
+.js [data-reveal="blur"] { filter: blur(10px); transform: translate3d(0, 14px, 0); }
+.js [data-reveal="arch"] { opacity: 1; clip-path: inset(100% 0 0 0 round 50% 50% 0 0); }
+.js [data-reveal].is-in { opacity: 1; transform: none; filter: none; }
+.js [data-reveal="arch"].is-in { clip-path: inset(0 0 0 0 round 0 0 0 0); }
+
+/* ornament line draw: paths carry pathLength=1; data-draw sets --draw 0..1 on scroll */
+.js [data-draw] path, .js [data-draw] circle { stroke-dasharray: 1; stroke-dashoffset: calc(1 - var(--draw, 0)); }
+.js [data-draw].is-drawn path, .js [data-draw].is-drawn circle { stroke-dashoffset: 0; transition: stroke-dashoffset 1.6s var(--ease-out); }
+
+/* parallax: transform only (site.js writes --py) */
+[data-depth] { transform: translate3d(0, var(--py, 0px), 0); will-change: transform; }
+.cutout[data-depth] { transform: translate3d(0, var(--py, 0px), 0) rotate(var(--rot, 0deg)); }
+.floaty { animation: floaty 9s ease-in-out infinite; }
+
+/* print: everything visible */
+@media print { [data-reveal] { opacity: 1 !important; transform: none !important; clip-path: none !important; filter: none !important; } .hdr, .agegate, .drawer { display: none !important; } }
+
+/* reduced motion: no parallax, tilt, autoplay, twinkle, large movement; content never hidden */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .001ms !important; animation-iteration-count: 1 !important; transition-duration: .001ms !important; transition-delay: 0s !important; scroll-behavior: auto !important; }
+  .js [data-reveal] { opacity: 1 !important; transform: none !important; clip-path: none !important; filter: none !important; }
+  [data-depth], .cutout[data-depth] { transform: none !important; }
+  [data-tilt].is-tilting { transform: none !important; }
+  .stars circle { animation: none !important; }
+  .js [data-draw] path, .js [data-draw] circle { stroke-dashoffset: 0 !important; }
+  .card:hover, .card:focus-within { transform: none; }
+  .floaty { animation: none !important; }
+}

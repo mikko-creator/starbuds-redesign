@@ -1,0 +1,170 @@
+{
+ "path": "/mississippirewards",
+ "url": "https://www.starbuds.us/mississippirewards",
+ "key": "mississippirewards",
+ "kind": "rewards",
+ "state": "MS",
+ "title": "Rewards | Starbuds Marijuana Dispensary | Mississippi",
+ "h1": "MISSISSIPPI HIGHER REWARDS",
+ "head": {
+  "title": "Rewards | Starbuds Marijuana Dispensary | Mississippi",
+  "description": "Starbuds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+  "canonical": "https://www.starbuds.us/mississippirewards",
+  "robots": "",
+  "og": {
+   "title": "Rewards | Starbuds Marijuana Dispensary | Mississippi",
+   "description": "Starbuds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/mississippirewards",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "MISSISSIPPI HIGHER REWARDS",
+   "path": "/mississippirewards"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": {
+    "image": "https://static.wixstatic.com/media/60c3e1_94f48eda2c294ccd8ffb824aa23fab56~mv2.jpg",
+    "alt": "Higher-Rewards-Screens_BG.jpg"
+   },
+   "blocks": [
+    {
+     "t": "image",
+     "src": "https://static.wixstatic.com/media/60c3e1_98bcf9387f874d428ed4b511d3825cd9~mv2.png",
+     "alt": "NEW-Higher-Rewards-Screens_logo.png",
+     "href": null,
+     "w": 797,
+     "h": 391,
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "MISSISSIPPI HIGHER REWARDS"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Members receive up to 10% back in rewards, free stuff and exclusive deals. Sign up now and start earning points on your next purchase.</p>"
+    },
+    {
+     "t": "image",
+     "src": "https://static.wixstatic.com/media/14d7dc_caa28b9a8cac4caca5457d81a07ee5fe~mv2.png",
+     "alt": "Starbuds_Icon-09.png",
+     "href": null,
+     "w": 39,
+     "h": 48,
+     "caption": ""
+    },
+    {
+     "t": "rich",
+     "html": "<p>250 POINTS</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>$20 OFF</p>"
+    },
+    {
+     "t": "image",
+     "src": "https://static.wixstatic.com/media/14d7dc_caa28b9a8cac4caca5457d81a07ee5fe~mv2.png",
+     "alt": "Starbuds_Icon-09.png",
+     "href": null,
+     "w": 39,
+     "h": 48,
+     "caption": ""
+    },
+    {
+     "t": "rich",
+     "html": "<p>100 POINTS</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>$5 OFF</p>"
+    },
+    {
+     "t": "image",
+     "src": "https://static.wixstatic.com/media/14d7dc_caa28b9a8cac4caca5457d81a07ee5fe~mv2.png",
+     "alt": "Starbuds_Icon-09.png",
+     "href": null,
+     "w": 39,
+     "h": 48,
+     "caption": ""
+    },
+    {
+     "t": "rich",
+     "html": "<p>500 POINTS</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>$50 OFF + $20 ACCESSORY</p>"
+    },
+    {
+     "t": "image",
+     "src": "https://static.wixstatic.com/media/14d7dc_caa28b9a8cac4caca5457d81a07ee5fe~mv2.png",
+     "alt": "Starbuds_Icon-09.png",
+     "href": null,
+     "w": 39,
+     "h": 48,
+     "caption": ""
+    },
+    {
+     "t": "rich",
+     "html": "<p>1000 POINTS</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>$100 OFF + $5 EIGHTH</p>"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>Simply present your custom reward wallet with each visit and automatically earn points towards discounts and specials on your favorite Star Buds products. Best of all, it's absolutely free to sign up!</p>"
+    },
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": null,
+       "blocks": [
+        {
+         "t": "button",
+         "text": "JOIN",
+         "href": "https://lab.alpineiq.com/join/c/1130/3215",
+         "external": true
+        },
+        {
+         "t": "heading",
+         "level": 1,
+         "html": "NEW TO HIGHER REWARDS?"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

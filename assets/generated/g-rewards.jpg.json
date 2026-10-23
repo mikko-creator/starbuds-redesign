@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-REWARDS",
+  "file": "assets/generated/g-rewards.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "small polished brass five-pointed star tokens scattered across deep green velvet, plain smooth stars with no engraving, warm lantern light glinting on their bevelled edges, shallow depth of field, still life, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "safety_tolerance": "5"
+  },
+  "seed": 1529839659,
+  "requestId": "01a16627-16d3-7d13-9864-f997d680e7d2",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "e50c8365bff5008ce99dc7a66e94c756bd9900afeaf3f292a7c0d4eca8c224c1",
+  "raw": "tmp/img/raw/G-REWARDS.1792715208807.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-23T00:26:50.962Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "plain brass stars on green velvet, no engraving",
+    "reviewedAt": "2026-10-23T00:36:08.048Z",
+    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+  }
+}

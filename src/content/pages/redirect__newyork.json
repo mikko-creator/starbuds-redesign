@@ -1,0 +1,15 @@
+{
+ "path": "/newyork",
+ "url": "https://www.starbuds.us/newyork",
+ "key": "redirect__newyork",
+ "kind": "redirect",
+ "state": "NY",
+ "title": "",
+ "h1": "",
+ "redirect": {
+  "to": "https://www.starbuds.us/new-york-coming-soon",
+  "status": 301,
+  "offOrigin": false,
+  "finalStatus": 404
+ }
+}

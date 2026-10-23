@@ -1,0 +1,170 @@
+{
+ "path": "/concentrates",
+ "url": "https://www.starbuds.us/concentrates",
+ "key": "concentrates",
+ "kind": "products",
+ "state": null,
+ "title": "Concentrates | Star Buds Marijuana Dispensary | Colorado",
+ "h1": "CONCENTRATES",
+ "head": {
+  "title": "Concentrates | Star Buds Marijuana Dispensary | Colorado",
+  "description": "Star Buds Marijuana Dispensary of Colorado provides the finest and most potent concentrates in Colorado, including shatter, pens, vapes & Kaviar. ",
+  "canonical": "https://www.starbuds.us/concentrates",
+  "robots": "",
+  "og": {
+   "title": "Concentrates | Star Buds Marijuana Dispensary | Colorado",
+   "description": "Star Buds Marijuana Dispensary of Colorado provides the finest and most potent concentrates in Colorado, including shatter, pens, vapes & Kaviar. ",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/concentrates",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "CONCENTRATES",
+   "path": "/concentrates"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": {
+    "image": "https://static.wixstatic.com/media/553d0f_52eb16d7e7844c87863bb338be6e9d25~mv2_d_5472_3648_s_4_2.jpg",
+    "alt": ""
+   },
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "KAVIAR NOW AVAILABLE"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "IN ALL STORES"
+    },
+    {
+     "t": "button",
+     "text": "FIND NEAREST LOCATION",
+     "href": "/locations/",
+     "external": false
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "CONCENTRATES"
+    },
+    {
+     "t": "heading",
+     "level": 6,
+     "html": "Proudly Carrying the Most Potent Concentrates in Colorado"
+    },
+    {
+     "t": "gallery",
+     "items": [
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_a7c66c20858f4c09a7aadc0a9b111ec3~mv2.jpeg",
+       "alt": "Concentrate Supply Co",
+       "title": "Concentrate Supply Co",
+       "description": "Extracts, Distillates & Water Soluble Infusions",
+       "href": null,
+       "w": 225,
+       "h": 225
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_76f9f6d75c1740788a23e1f7e16b83f3~mv2.jpg",
+       "alt": "High Tech Concentrates",
+       "title": "High Tech Concentrates",
+       "description": "High Tech Concentrates offers premium marijuana concentrates. Whether the product is budder, wax or shatter we strive to raise the bar by focusing on terpene retention and maximum yield. Our highly skilled extraction artists and proprietary processing methods allow us to deliver a final product of unmatched quality. We have purchase and buy back options available for licensed customers.",
+       "href": null,
+       "w": 480,
+       "h": 480
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_3f23116b8c734c4bbd68d9ddaa355311~mv2.png",
+       "alt": "West Edison Concentrates",
+       "title": "West Edison Concentrates",
+       "description": "At West Edison we strive to produce the most flavorful and potent concentrates possible. We operate in one of the most technologically advanced labs in Colorado. We inspect, evaluate, and test all of our concentrates we make to insure the highest quality & efficacy. Whether you’re an experienced dabber or brand new to concentrates, West Edison has a product to suit all of you needs.",
+       "href": null,
+       "w": 250,
+       "h": 144
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_4c2362da97604b98941e4e7a47cf258f~mv2.jpeg",
+       "alt": "Double Black Extracts",
+       "title": "Double Black Extracts",
+       "description": "Double Black Extracts is produced with the connoisseur in mind. The concentrate that comes from our lab is always rich in cannabinoids and high in terpene content. Our lab maintains a close relationship with our grow to guarantee only the finest and most elite genetics. These strains optimize potency, not only in THC or CBD content, but also high in terpenes to make for the most flavorful extract as well.",
+       "href": null,
+       "w": 243,
+       "h": 207
+      },
+      {
+       "src": "https://static.wixstatic.com/media/0e0726_aabbcf3a2fbb4d4ab628eb837b111818~mv2.jpg",
+       "alt": "Live Labs Wax and Shatter",
+       "title": "Live Labs Wax and Shatter",
+       "description": "Live Labs award-winning team of master cultivators, extractors and culinary artists is dedicated to bringing Colorado the highest quality edibles and extracts.",
+       "href": null,
+       "w": 300,
+       "h": 300
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_ac0f2c2324b44170b08f7e135ca90ae1~mv2.jpg",
+       "alt": "Igadi",
+       "title": "Igadi",
+       "description": "IgadI is a full spectrum Cannabis Company dedicated to creating the ultimate experience by producing High Quality Products through Transparency and Education. IgadI demonstrates a devotion to innovation by applying scientific knowledge to each product line to create a unique and educational experience for our customers.",
+       "href": null,
+       "w": 480,
+       "h": 480
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_7ff16d933f0f44969f7b1ec46fe97ff8~mv2_d_1500_1500_s_2.jpg",
+       "alt": "KAVIAR",
+       "title": "KAVIAR",
+       "description": "The people of Kaviar are botanists, gardeners, humanitists and connesieurs. The cannabis offered is the result of decades of experience of continual learning, refinement, dedication and persistent passion. One of the strongest caviar products available on the market, you can buy it in pre-rolls or black label loose leaf varieties.",
+       "href": null,
+       "w": 1500,
+       "h": 1500
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_b1f4067381334b1cab5c41809eeccefc~mv2.jpg",
+       "alt": "Rockin Extracts Wax",
+       "title": "Rockin Extracts Wax",
+       "description": "Rockin Extracts is a company born from their passion for concentrates and community. They understand the concerns about questionable sources for concentrates. As a community aligned–health conscience company, they are dedicated to manufacturing the finest and safest concentrates available in Colorado.",
+       "href": null,
+       "w": 1024,
+       "h": 684
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_a8b22791d24c4b15aa51f1c2af0d8750~mv2.jpg",
+       "alt": "Bolder Extracts",
+       "title": "Bolder Extracts",
+       "description": "Purveyor of Colorados finest, most pleasurable cannabis and extracts. Expert cultivation with holistic care and dedication through the entire grow cycle, from seed to sale. All natural, and completely exceptional.",
+       "href": null,
+       "w": 400,
+       "h": 400
+      }
+     ],
+     "text": []
+    },
+    {
+     "t": "rich",
+     "html": "<p>- PRODUCT SELECTION AND AVAILABILITY VARIES BY LOCATION -</p>"
+    }
+   ]
+  }
+ ]
+}

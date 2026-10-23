@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-STATE-MS",
+  "file": "assets/generated/g-state-ms.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "landscape photograph of a cypress river delta at deep blue dusk, bald cypress trees with hanging moss standing in still dark water, mirror reflections, a starry sky above with a faint warm glow at the horizon, no buildings, no boats, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "safety_tolerance": "5"
+  },
+  "seed": 285889759,
+  "requestId": "01a16627-4b34-7f12-a7e2-4a1b268a98ef",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "076d9c1d7e354cd6239b8588e96b5ceee74c93c3c7b855f4ff6fdf373d3befcb",
+  "raw": "tmp/img/raw/G-STATE-MS.1792715227702.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-23T00:27:09.825Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "generic dusk landscape under stars, no landmark, no buildings, no text",
+    "reviewedAt": "2026-10-23T00:36:28.356Z",
+    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+  }
+}

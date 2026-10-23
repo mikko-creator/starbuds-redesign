@@ -1,0 +1,106 @@
+{
+ "path": "/single-post/2019/07/01/marijuana-decriminalization-officially-takes-effect-in-new-mexico",
+ "url": "https://www.starbuds.us/single-post/2019/07/01/marijuana-decriminalization-officially-takes-effect-in-new-mexico",
+ "key": "single-post__2019__07__01__marijuana-decriminalization-officially-takes-effect-in-new-mexico",
+ "kind": "post",
+ "state": null,
+ "title": "Marijuana Decriminalization Officially Takes Effect In New Mexico",
+ "h1": "Marijuana Decriminalization Officially Takes Effect In New Mexico",
+ "head": {
+  "title": "Marijuana Decriminalization Officially Takes Effect In New Mexico",
+  "description": "",
+  "canonical": "https://www.starbuds.us/single-post/2019/07/01/marijuana-decriminalization-officially-takes-effect-in-new-mexico",
+  "robots": "",
+  "og": {
+   "title": "Marijuana Decriminalization Officially Takes Effect In New Mexico",
+   "description": "New Mexico’s marijuana decriminalization went into effect on Monday, about three months after the reform legislation was signed into law by Gov. Michelle Lujan Grisham (D). Head over to Marijuana Moment to read more about it - https://www.marijuanamoment.net/marijuana-decriminalization-officially-takes-effect-in-new-mexico/​   ",
+   "image": "https://static.wixstatic.com/media/11062b_e62864cf7ebd4fb9a8855f05a09cbf1a~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/11062b_e62864cf7ebd4fb9a8855f05a09cbf1a~mv2.jpg",
+   "image:width": "6000",
+   "image:height": "4000",
+   "url": "https://www.starbuds.us/single-post/2019/07/01/marijuana-decriminalization-officially-takes-effect-in-new-mexico",
+   "site_name": "Star Buds ",
+   "type": "article"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+     "@type": "Person",
+     "name": "starbuds",
+     "url": "https://www.starbuds.us/profile/denver/profile"
+    },
+    "dateModified": "2024-09-20T19:10:08.065Z",
+    "datePublished": "2019-07-01T19:02:54.171Z",
+    "headline": "Marijuana Decriminalization Officially Takes Effect In New Mexico",
+    "mainEntityOfPage": {
+     "@id": "https://www.starbuds.us/single-post/2019/07/01/marijuana-decriminalization-officially-takes-effect-in-new-mexico",
+     "@type": "itemPage",
+     "url": "https://www.starbuds.us/single-post/2019/07/01/marijuana-decriminalization-officially-takes-effect-in-new-mexico"
+    },
+    "description": "New Mexico’s marijuana decriminalization went into effect on Monday, about three months after the reform legislation was signed into law by Gov. Michelle Lujan Grisham (D). Head over to Marijuana Moment to read more about it - https://www.marijuanamoment.net/marijuana-decriminalization-officially-takes-effect-in-new-mexico/​   ",
+    "url": "https://www.starbuds.us/single-post/2019/07/01/marijuana-decriminalization-officially-takes-effect-in-new-mexico",
+    "image": {
+     "@type": "ImageObject",
+     "url": "https://static.wixstatic.com/media/11062b_e62864cf7ebd4fb9a8855f05a09cbf1a~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/11062b_e62864cf7ebd4fb9a8855f05a09cbf1a~mv2.jpg",
+     "width": "6000",
+     "height": "4000"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "Star Buds ",
+     "url": "https://www.starbuds.us"
+    }
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Blog",
+   "path": "/blog"
+  },
+  {
+   "name": "Marijuana Decriminalization Officially Takes Effect In New Mexico",
+   "path": "/single-post/2019/07/01/marijuana-decriminalization-officially-takes-effect-in-new-mexico"
+  }
+ ],
+ "sections": [],
+ "post": {
+  "date": "2019-07-01T19:02:54.171Z",
+  "dateText": "Jul 1, 2019",
+  "updatedText": "Updated: Sep 20, 2024",
+  "readTime": "1 min read",
+  "hero": {
+   "src": "https://static.wixstatic.com/media/11062b_e62864cf7ebd4fb9a8855f05a09cbf1a~mv2.jpg",
+   "alt": ""
+  },
+  "categories": [],
+  "blocks": [
+   {
+    "t": "rich",
+    "html": "<p>New Mexico’s marijuana decriminalization went into effect on Monday, about three months after the reform legislation was signed into law by Gov. Michelle Lujan Grisham (D).</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Head over to Marijuana Moment to read more about it -</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p><a href=\"http://www.marijuanamoment.net/marijuana-decriminalization-officially-takes-effect-in-new-mexico/\" target=\"_blank\" rel=\"noopener\">https://www.marijuanamoment.net/marijuana-decriminalization-officially-takes-effect-in-new-mexico/​</a></p>"
+   },
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/11062b_e62864cf7ebd4fb9a8855f05a09cbf1a~mv2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 6000,
+    "h": 4000,
+    "caption": ""
+   }
+  ]
+ }
+}

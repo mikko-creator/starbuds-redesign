@@ -1,0 +1,522 @@
+{
+ "path": "/single-post/danksgiving-recipes",
+ "url": "https://www.starbuds.us/single-post/danksgiving-recipes",
+ "key": "single-post__danksgiving-recipes",
+ "kind": "post",
+ "state": null,
+ "title": "Danksgiving Recipes",
+ "h1": "Danksgiving Recipes",
+ "head": {
+  "title": "Danksgiving Recipes",
+  "description": "",
+  "canonical": "https://www.starbuds.us/single-post/danksgiving-recipes",
+  "robots": "",
+  "og": {
+   "title": "Danksgiving Recipes",
+   "description": "Cannabis and Thanksgiving have always gone hand in hand.  This year our friends at Ripple bring them both together with some great infused holiday recipes.Chillin’ Cheese BallVegetarian Gluten-FreeGet that holiday spirit off to a great start by serving an app with benefits. Serves 10For 1.5mg THC/1.5mg CBD per serving, use 3 packets Ripple Balanced For 1mg THC per serving, use 1 packet Ripple Pure12 ounces (1½ bricks) regular cream cheese (do not use low-fat) 1 cup shredded extra-sharp cheddar (",
+   "image": "https://static.wixstatic.com/media/3493a0_276d78d9288c4becb6746f78146a4cff~mv2.jpg/v1/fill/w_2500,h_1666,al_c/3493a0_276d78d9288c4becb6746f78146a4cff~mv2.jpg",
+   "image:width": "2500",
+   "image:height": "1666",
+   "url": "https://www.starbuds.us/single-post/danksgiving-recipes",
+   "site_name": "Star Buds ",
+   "type": "article"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+     "@type": "Person",
+     "name": "starbuds",
+     "url": "https://www.starbuds.us/profile/denver/profile"
+    },
+    "dateModified": "2024-09-20T19:54:20.993Z",
+    "datePublished": "2021-11-08T18:34:13.160Z",
+    "headline": "Danksgiving Recipes",
+    "mainEntityOfPage": {
+     "@id": "https://www.starbuds.us/single-post/danksgiving-recipes",
+     "@type": "itemPage",
+     "url": "https://www.starbuds.us/single-post/danksgiving-recipes"
+    },
+    "description": "Cannabis and Thanksgiving have always gone hand in hand.  This year our friends at Ripple bring them both together with some great infused holiday recipes.Chillin’ Cheese BallVegetarian Gluten-FreeGet that holiday spirit off to a great start by serving an app with benefits. Serves 10For 1.5mg THC/1.5mg CBD per serving, use 3 packets Ripple Balanced For 1mg THC per serving, use 1 packet Ripple Pure12 ounces (1½ bricks) regular cream cheese (do not use low-fat) 1 cup shredded extra-sharp cheddar (",
+    "url": "https://www.starbuds.us/single-post/danksgiving-recipes",
+    "image": {
+     "@type": "ImageObject",
+     "url": "https://static.wixstatic.com/media/3493a0_276d78d9288c4becb6746f78146a4cff~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/3493a0_276d78d9288c4becb6746f78146a4cff~mv2.jpg",
+     "width": "5760",
+     "height": "3840"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "Star Buds ",
+     "url": "https://www.starbuds.us"
+    }
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Blog",
+   "path": "/blog"
+  },
+  {
+   "name": "Danksgiving Recipes",
+   "path": "/single-post/danksgiving-recipes"
+  }
+ ],
+ "sections": [],
+ "post": {
+  "date": "2021-11-08T18:34:13.160Z",
+  "dateText": "Nov 8, 2021",
+  "updatedText": "Updated: Sep 20, 2024",
+  "readTime": "6 min read",
+  "hero": {
+   "src": "https://static.wixstatic.com/media/553d0f_ce0cc38bf7e0480787a12f89e427c097~mv2.jpg",
+   "alt": ""
+  },
+  "categories": [],
+  "blocks": [
+   {
+    "t": "rich",
+    "html": "<p>Cannabis and Thanksgiving have always gone hand in hand. This year our friends at Ripple bring them both together with some great infused holiday recipes.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "<strong>Chillin’ Cheese Ball</strong>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Vegetarian Gluten-Free</p>"
+   },
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/553d0f_ce0cc38bf7e0480787a12f89e427c097~mv2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 1193,
+    "h": 1566,
+    "caption": ""
+   },
+   {
+    "t": "rich",
+    "html": "<p>Get that holiday spirit off to a great start by serving an app with benefits. Serves 10</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p><strong><em>For 1.5mg THC/1.5mg CBD per serving, use 3 packets Ripple Balanced For 1mg THC per serving, use 1 packet Ripple Pure</em></strong></p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>12 ounces (1½ bricks) regular cream cheese (do not use low-fat) 1 cup shredded extra-sharp cheddar (about 5 ounces)</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p><strong>3 packets Ripple Balanced, or 1 packet Ripple Pure</strong></p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>1 tablespoon prepared horseradish 2 teaspoons honey</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>¼ teaspoon cayenne pepper, or more to taste</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>1½ cups sliced almonds or finely chopped pecans</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>In a large mixing bowl with a spatula, thoroughly combine the cream and cheddar cheeses, Ripple, horseradish, honey, and cayenne until well blended. Lightly grease your hands and shape the mixture into a ball.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Spread the almonds or pecans into a shallow bowl, and roll the ball in the nuts to coat it all over. Cover with plastic wrap and refrigerate until firm, at least 2 hours. Serve with crackers (regular or gluten-free).</p>"
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "<strong>Hashed Potatoes</strong>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Vegetarian Vegan Option Gluten-Free</p>"
+   },
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/553d0f_3533ab6f47414e2883ba8962793f8231~mv2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 1193,
+    "h": 1566,
+    "caption": ""
+   },
+   {
+    "t": "rich",
+    "html": "<p>For pure potato goodness, leave the skins on and let the Ripple in. <em>Make it vegan: </em>Swap ½ cup olive oil and ¼ cup coconut oil for the butter, and your favorite plant-based milk for the whole milk.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Serves 10</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p><strong><em>For 1mg THC per serving, use 1 packet Ripple Pure For 2mg THC per serving, use 2 packets Ripple Pure</em></strong></p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>6 pounds red potatoes, scrubbed and cut into 2-inch chunks Salt</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>1½ sticks (¾ cup) unsalted butter, cut into chunks 2 cups whole milk, warmed</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p><strong>1-2 packets Ripple Pure</strong></p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>2-4 scallions, chopped, or a handful of snipped chives (optional) Freshly ground pepper, to taste</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Put the potatoes in a large pot with enough water just to cover. Bring to a boil, add a good pinch of salt, reduce heat and simmer, uncovered, until tender, 20-25 minutes.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Drain and return potatoes to the pot and place over medium-high heat. Shake the pot for a few minutes to dry the potatoes.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Remove from heat and mash the potatoes, leaving plenty of luscious lumps. Stir in the butter, milk, and Ripple and mash until evenly mixed and smooth-ish. Stir in the scallions, season with salt and pepper (and maybe a little more butter, cuz it’s Thanksgiving).</p>"
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "<strong>Wavy Gravy</strong>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Vegetarian Vegan Option</p>"
+   },
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/553d0f_502534910e994254bab70e841a79b885~mv2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 1193,
+    "h": 1584,
+    "caption": ""
+   },
+   {
+    "t": "rich",
+    "html": "<p>Gravy for the people! This veg gravy makes everything better, from turkey to tofu. Use your favorite plant-based creamer (we like almond) instead of half-and-half, and let vegans join the party too.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Serves 10 (about ⅓ cup per serving)</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p><strong><em>For 1.5mg THC/1.5mg CBD per serving, use 3 packets Ripple Balanced For 1mg THC per serving, use 1 packet Ripple Pure</em></strong></p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>½ cup extra-virgin olive oil</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>1 small onion, finely chopped</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>8 ounce package sliced button mushrooms</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>½ cup all-purpose flour</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>1 quart vegetable stock, preferably homemade 1 tablespoon white miso</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>1 teaspoon soy sauce</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Freshly ground black pepper, to taste</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>1 cup half-and-half or dairy-free creamer</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p><strong>3 packets Ripple Balanced, or 1 packet Ripple Pure</strong></p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>In a large skillet, heat oil over medium-high heat. Add onion and mushrooms; cook, stirring, until well browned, about 10 minutes.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Sprinkle in flour and cook, stirring, 2 minutes. Slowly whisk in the vegetable stock and simmer until thickened, about 2 minutes. Stir in miso, soy sauce and pepper. Carefully transfer to a blender or food processor in batches and puree until smooth, adding a little water if needed to desired consistency. (If you like your gravy <em>really </em>smooth, pass the mixture through a fine-mesh strainer.)</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Return to the pot and stir in the half-and-half or creamer and the Ripple. Heat through and serve.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "<strong>Scooby Snacks Stuﬃng</strong>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Vegetarian option Serves 10</p>"
+   },
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/553d0f_56f4ce6bbff54394bce8dae6d513a41c~mv2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 1193,
+    "h": 1583,
+    "caption": ""
+   },
+   {
+    "t": "rich",
+    "html": "<p>We put everything we love into this stuﬃng, plus our fav ingredient. It makes enough to stuff a big-a$$ (14-18 pound) turkey; if yours is smaller, bake the extra (or all of it) in a baking dish.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p><em>Make it vegetarian: </em>swap meatless breakfast sausage and vegetable broth for their carnivore versions.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p><strong><em>For 2mg THC per serving, use 2 packets Ripple Pure</em></strong></p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p><strong><em>For 1.5mg THC/1.5mg CBD per serving, use 3 packets Ripple Balanced</em></strong></p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>1 pound loose pork breakfast sausage</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>1 pound sturdy stale bread, crusts trimmed, cut into ½-inch cubes 1 medium onion, chopped</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>3 celery stalks, chopped</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>2 apples, peeled, cored, and chopped</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>1.cup coarsely chopped pecans or walnuts (optional)</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>2-3 tablespoons each chopped fresh Italian parsley and sage 2 teaspoons fresh thyme or 1 teaspoon dried</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Good pinch of salt and freshly ground pepper</p>"
+   },
+   {
+    "t": "list",
+    "ordered": true,
+    "items": [
+     "<strong> 2.packets Ripple Pure, or 3 packets Ripple Balanced</strong>",
+     "1.stick (½ cup) unsalted butter, melted",
+     "2.cups turkey, chicken, or vegetable broth (plus more, if needed), hot"
+    ]
+   },
+   {
+    "t": "rich",
+    "html": "<p>Brown the sausage in a large skillet. Remove with a slotted spoon and place in a large bowl with the bread cubes.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Add the onion and celery to the pan and cook, stirring occasionally, until tender, about 10 minutes. Add the cooked vegetables to the bowl.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Stir in the apples, nuts, parsley, sage, and thyme, salt and pepper, and Ripple; and stir well. Moisten with the melted butter and broth, tossing to coat well and adding more as necessary. The stuﬃng should be just moist enough to barely stick together.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Now, you have choices: Either spoon the hot stuﬃng loosely into the turkey, truss, and bake. Or, spread into a buttered 3-quart baking dish and bake, covered with foil, at 375℉ 30 minutes; remove foil and continue baking until crisped on top, about 15 minutes more.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Now, you have choices: Either spoon the hot stuﬃng loosely into the turkey, truss, and bake. Or, spread into a buttered 3-quart baking dish and bake, covered with foil, at 375℉ 30 minutes; remove foil and continue baking until crisped on top, about 15 minutes more.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "<strong>Ganja Green Bean Casserole</strong>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Vegetarian Vegan Option Serves 10</p>"
+   },
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/553d0f_502534910e994254bab70e841a79b885~mv2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 1193,
+    "h": 1584,
+    "caption": ""
+   },
+   {
+    "t": "rich",
+    "html": "<p>Elevated but still easy to make, with all the crunchies! <em>Make it vegan: </em>Swap olive or coconut oil for the butter, and plant-based creamer for the half-and-half.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p><strong><em>For 1.5mg THC/1.5mg CBD per serving, use 3 packets Ripple Balanced For 1mg THC per serving, use 1 packet Ripple Pure</em></strong>.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>2 pounds green beans, trimmed Salt</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>3 tablespoons unsalted butter</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>1 medium onion, ﬁnely chopped</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>1 (8-ounce) package button mushrooms, thinly sliced 3 tablespoons all-purpose ﬂour</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>2 cups low-sodium vegetable broth</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>¾ cup half-and-half</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p><strong>3 packets Ripple Balanced, or 1 packet Ripple Pure</strong></p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>2½ cups crispy fried onions, divided Freshly ground pepper, to taste</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Grease a 3-quart baking dish. Preheat the oven to 350℉.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Bring a large pot of water to boil; add a good pinch of salt and the green beans, and cook until tender-crisp, about 10 minutes. Drain.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Melt the butter in a medium saucepan over medium heat. Add the onion and sauté until soft, about 10 minutes. Add the mushrooms and continue cooking and stirring until they begin to brown and crisp, 10-12 minutes. Sprinkle with ﬂour and continue cooking and stirring 1 minute more. Pour in the broth and half-and-half and bring to a boil. Simmer, stirring, until thickened,</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>about 5 minutes. Stir in the Ripple and pepper, then the reserved green beans and 1 cup of the fried onions. Gently stir to coat.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Transfer to the baking dish. Cover with foil and bake until hot, about 20 minutes, then uncover and top with the remaining fried onions. Bake until bubbling and lightly browned, about 20 minutes more.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "<strong>Pot Lovers’ Pumpkin Pie</strong>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Vegetarian Serves 8</p>"
+   },
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/553d0f_bf0fe86ea77d4e6b819439faf15918b8~mv2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 1193,
+    "h": 1584,
+    "caption": ""
+   },
+   {
+    "t": "rich",
+    "html": "<p><strong><em>For 2.5mg THC per serving, use 2 packets Ripple Pure</em></strong></p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p><strong><em>For .25mg THC/10mg CBD per serving, use 4 packets Ripple Relief</em></strong></p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>One 9-inch deep dish pie shell (unbaked)</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>4 large eggs</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>2/3 cup sugar</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p><strong>4 packets Ripple Pure, or 4 packets Ripple Relief</strong></p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>1 tablespoon cornstarch</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>2 teaspoons cinnamon</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>¼ teaspoon ground cloves</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>¼ teaspoon bourbon or rum extract (optional) Pinch salt</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>One 15-ounce can pumpkin puree</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>½ cup heavy cream</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Set the oven rack in the center of the oven; prebake the pie shell according to package directions. Transfer to a rack and let cool slightly. Set oven heat to 350℉.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>In a medium bowl, beat the eggs with the sugar, Ripple, cornstarch, cinnamon, cloves, bourbon or rum extract if using, and salt, until smooth. Whisk in the pumpkin puree and cream. Carefully pour the filling into the crust and bake for about 45 minutes, until the custard is just set. Cool on a rack at least 1 hour before serving.</p>"
+   }
+  ]
+ }
+}

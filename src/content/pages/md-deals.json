@@ -1,0 +1,334 @@
+{
+ "path": "/md-deals",
+ "url": "https://www.starbuds.us/md-deals",
+ "key": "md-deals",
+ "kind": "deals",
+ "state": "MD",
+ "title": "Baltimore Maryland Deals | Star Buds",
+ "h1": "Marijuana Deals at Star Buds baltimore",
+ "head": {
+  "title": "Baltimore Maryland Deals | Star Buds",
+  "description": "",
+  "canonical": "https://www.starbuds.us/md-deals",
+  "robots": "",
+  "og": {
+   "title": "Baltimore Maryland Deals | Star Buds",
+   "image": "https://static.wixstatic.com/media/553d0f_af6974ad8ea74a17a285e7a740843446%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/553d0f_af6974ad8ea74a17a285e7a740843446%7Emv2.jpg",
+   "image:width": "2500",
+   "image:height": "1330",
+   "url": "https://www.starbuds.us/md-deals",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Marijuana Deals at Star Buds baltimore",
+   "path": "/md-deals"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": null,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 1,
+         "html": "Marijuana Deals at Star Buds baltimore"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": {
+        "image": "https://static.wixstatic.com/media/b86374_f95b8c38e9414c3091f026dd74d8830b~mv2.jpg",
+        "color": null
+       },
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Star Buds Baltimore, MD</p>"
+        },
+        {
+         "t": "rich",
+         "html": "<p>NOW SERVING ADULTS 21+</p>\n<p>W/ VALID ID FROM ANY STATE</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": null,
+       "blocks": [
+        {
+         "t": "columns",
+         "cols": [
+          {
+           "bg": null,
+           "blocks": [
+            {
+             "t": "heading",
+             "level": 3,
+             "html": "Daily deals at maryland Star buds"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "No need to wait for a sale. You save seven days a week with our daily deals!"
+        },
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/553d0f_7e9e67a4dbc8466f845289998ba8b640~mv2.png",
+         "alt": "DDlogo.png",
+         "href": null,
+         "w": 328,
+         "h": 233,
+         "caption": ""
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "MUNCHIE MONDAY"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "10% OFF Edibles &amp; Topicals"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "SPECIAL SHELF TUESDAY"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "10% OFF Special Flower"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "WARRIOR WEDNESDAY"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "22% OFF For Veterans/Military"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "TWO TOKE THURSDAY"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "50% OFF House Pre-Rolls"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "FLAMELESS FRIDAY"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "10% OFF Vapes"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "SPECIAL SHELF SATURDAY"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "10% OFF Special Flower"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "SUNDAY FUNDAY"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "$200 Ounces of Value Flower"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": null,
+       "blocks": [
+        {
+         "t": "columns",
+         "cols": [
+          {
+           "bg": null,
+           "blocks": [
+            {
+             "t": "heading",
+             "level": 3,
+             "html": "Medical daily deals at maryland Star buds"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "available for Maryland medical patients"
+        },
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/553d0f_7e9e67a4dbc8466f845289998ba8b640~mv2.png",
+         "alt": "DDlogo.png",
+         "href": null,
+         "w": 328,
+         "h": 233,
+         "caption": ""
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "MONDAY"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "20% OFF Edibles, Topicals, &amp; RSO"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "SPECIAL SHELF TUESDAY"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "20% OFF Special Flower"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "WAX WEDNESDAY"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "20% OFF Concentrates + 22% OFF For Veterans"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "THURSDAY"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "50% OFF House Pre-Rolled Joints"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "FLAMELESS FRIDAY"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "20% OFF Vapes"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "SPECIAL SHELF SATURDAY"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "20% OFF Special Flower"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "BIG SAVINGS SUNDAY"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "$200 Ounces of Value Flower"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 3,
+     "html": "New Medical Deal"
+    },
+    {
+     "t": "rich",
+     "html": "<p>20% OFF 1ST PURCHASE</p>\n<p>No stacking discounts/points.All products are subject to availability.</p>\n<p>​</p>\n<p>MEDICAL ONLY DELIVERY: Please note all deliveries will be subject to a delivery fee of $7.99 + a service fee of 8.5% on your subtotal. At this time delivery is only available using Dutchie Pay.</p>"
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>TERMS AND CONDITIONS: ALL PRICES ARE PRE-TAX. ALL DEALS WHILE SUPPLIES LAST. RESTRICTIONS APPLY.</p>"
+    }
+   ]
+  }
+ ]
+}

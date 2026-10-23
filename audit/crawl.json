@@ -1,0 +1,2908 @@
+{
+  "origin": "https://www.starbuds.us",
+  "at": "2026-10-23T00:01:53.297Z",
+  "robotsHonoured": true,
+  "gapMs": 1000,
+  "max": 450,
+  "truncated": false,
+  "stopped": null,
+  "pending": [],
+  "pendingCount": 0,
+  "excludedByRule": [
+    {
+      "url": "https://www.starbuds.us/_files/ugd/553d0f_ae91e44b03cf4726b19a36020f5975f3.pdf",
+      "seen": 246
+    },
+    {
+      "url": "https://www.starbuds.us/_files/ugd/553d0f_2c5bab4853534311a3a5f14b554d673e.pdf",
+      "seen": 1
+    },
+    {
+      "url": "https://www.starbuds.us/_files/ugd/553d0f_15ac1c3dba2841e5af7608cbe362df3a.pdf",
+      "seen": 1
+    },
+    {
+      "url": "https://www.starbuds.us/_files/ugd/553d0f_9acd43295a1b4fe8adc14109ebfdbde3.pdf",
+      "seen": 1
+    }
+  ],
+  "counts": {
+    "total": 276,
+    "ok": 246,
+    "redirected": 22,
+    "notFound": 9
+  },
+  "records": [
+    {
+      "url": "https://www.starbuds.us/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/index.html",
+      "bytes": 1243231
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2016/10/28/a-starbuds-guide-to-the-spookiest-halloween",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2016/10/28/a-starbuds-guide-to-the-spookiest-halloween",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2016__10__28__a-starbuds-guide-to-the-spookiest-halloween.html",
+      "bytes": 1518277
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/05/22/how-to-be-the-perfect-host-for-first-time-cannabis-users",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/05/22/how-to-be-the-perfect-host-for-first-time-cannabis-users",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__05__22__how-to-be-the-perfect-host-for-first-time-cannabis-users.html",
+      "bytes": 1516517
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2020/04/02/eleven-senators-push-to-let-marijuana-businesses-access-federal-loan-programs",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2020/04/02/eleven-senators-push-to-let-marijuana-businesses-access-federal-loan-programs",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2020__04__02__eleven-senators-push-to-let-marijuana-businesses-access-federal-loan-programs.html",
+      "bytes": 1502581
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/09/05/vendors-days-at-starbuds",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/09/05/vendors-days-at-starbuds",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__09__05__vendors-days-at-starbuds.html",
+      "bytes": 1492340
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2020/04/24/southern-alberta-researchers-say-medical-cannabis-could-help-fight-covid-19",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2020/04/24/southern-alberta-researchers-say-medical-cannabis-could-help-fight-covid-19",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2020__04__24__southern-alberta-researchers-say-medical-cannabis-could-help-fight-covid-19.html",
+      "bytes": 1502912
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/from-ancient-roots-to-modern-times-the-rich-history-and-natural-habitat-of-cannabis",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/from-ancient-roots-to-modern-times-the-rich-history-and-natural-habitat-of-cannabis",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__from-ancient-roots-to-modern-times-the-rich-history-and-natural-habitat-of-cannabis.html",
+      "bytes": 1515524
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2016/07/15/5-ways-runners-can-incorporate-cannabis-into-their-training",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2016/07/15/5-ways-runners-can-incorporate-cannabis-into-their-training",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2016__07__15__5-ways-runners-can-incorporate-cannabis-into-their-training.html",
+      "bytes": 1515030
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/how-cannabis-is-grown-from-seed-to-shelf-at-a-licensed-dispensary",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/how-cannabis-is-grown-from-seed-to-shelf-at-a-licensed-dispensary",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__how-cannabis-is-grown-from-seed-to-shelf-at-a-licensed-dispensary.html",
+      "bytes": 1514309
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2016/12/31/does-marijuana-cure-an-alcohol-hangover",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2016/12/31/does-marijuana-cure-an-alcohol-hangover",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2016__12__31__does-marijuana-cure-an-alcohol-hangover.html",
+      "bytes": 1507554
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/07/31/grand-opening-event-commerce-city",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/07/31/grand-opening-event-commerce-city",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__07__31__grand-opening-event-commerce-city.html",
+      "bytes": 1553444
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/the-best-cannabis-products-for-a-chill-night-in",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/the-best-cannabis-products-for-a-chill-night-in",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__the-best-cannabis-products-for-a-chill-night-in.html",
+      "bytes": 1512373
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2019/01/08/the-new-year-s-resolution-you-can-keep-cannabis-infused-gummies-for-your-daily-routine",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2019/01/08/the-new-year-s-resolution-you-can-keep-cannabis-infused-gummies-for-your-daily-routine",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2019__01__08__the-new-year-s-resolution-you-can-keep-cannabis-infused-gummies-for-your-daily-routine.html",
+      "bytes": 1524034
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/01/03/which-states-legalized-marijuana-in-2016",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/01/03/which-states-legalized-marijuana-in-2016",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__01__03__which-states-legalized-marijuana-in-2016.html",
+      "bytes": 1520606
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2018/04/18/420-survival-guide",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2018/04/18/420-survival-guide",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2018__04__18__420-survival-guide.html",
+      "bytes": 1509460
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/star-buds-buffalo-now-open-to-serve-western-new-york",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/star-buds-buffalo-now-open-to-serve-western-new-york",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__star-buds-buffalo-now-open-to-serve-western-new-york.html",
+      "bytes": 1517691
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/05/08/6-ways-to-enjoy-cannabis-without-flower",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/05/08/6-ways-to-enjoy-cannabis-without-flower",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__05__08__6-ways-to-enjoy-cannabis-without-flower.html",
+      "bytes": 1513677
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/star-buds-westmont-is-now-open",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/star-buds-westmont-is-now-open",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__star-buds-westmont-is-now-open.html",
+      "bytes": 1515648
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/danksgiving-recipes",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/danksgiving-recipes",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__danksgiving-recipes.html",
+      "bytes": 1555622
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2016/12/01/cannabis-vs-caffeine",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2016/12/01/cannabis-vs-caffeine",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2016__12__01__cannabis-vs-caffeine.html",
+      "bytes": 1523311
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/dab-rig-cleaning-101-keep-your-setup-fresh-and-flavorful",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/dab-rig-cleaning-101-keep-your-setup-fresh-and-flavorful",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__dab-rig-cleaning-101-keep-your-setup-fresh-and-flavorful.html",
+      "bytes": 1523153
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/unlock-the-power-of-cannabis-terpenes-aroma-effects-benefits",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/unlock-the-power-of-cannabis-terpenes-aroma-effects-benefits",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__unlock-the-power-of-cannabis-terpenes-aroma-effects-benefits.html",
+      "bytes": 1529902
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/04/27/extended-hours-for-dispensaries-in-denver-county",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/04/27/extended-hours-for-dispensaries-in-denver-county",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__04__27__extended-hours-for-dispensaries-in-denver-county.html",
+      "bytes": 1502159
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/unlocking-the-green-divide-deciphering-cannabis-vs-hemp",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/unlocking-the-green-divide-deciphering-cannabis-vs-hemp",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__unlocking-the-green-divide-deciphering-cannabis-vs-hemp.html",
+      "bytes": 1510377
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/thc-cbd-cbn-more-understanding-the-most-common-cannabinoids",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/thc-cbd-cbn-more-understanding-the-most-common-cannabinoids",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__thc-cbd-cbn-more-understanding-the-most-common-cannabinoids.html",
+      "bytes": 1509969
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/benefits-of-regulated-thc-dispensaries-vs-intoxicating-hemp-products",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/benefits-of-regulated-thc-dispensaries-vs-intoxicating-hemp-products",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__benefits-of-regulated-thc-dispensaries-vs-intoxicating-hemp-products.html",
+      "bytes": 1523789
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/q-a-with-a-cannabis-grower",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/q-a-with-a-cannabis-grower",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__q-a-with-a-cannabis-grower.html",
+      "bytes": 1521937
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2019/04/12/420-christmas-thanksgiving-and-the-super-bowl-all-rolled-into-one",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2019/04/12/420-christmas-thanksgiving-and-the-super-bowl-all-rolled-into-one",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2019__04__12__420-christmas-thanksgiving-and-the-super-bowl-all-rolled-into-one.html",
+      "bytes": 1521014
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2016/07/12/cannabis-tinctures-101-what-are-they-how-to-make-them-and-how-to-use-them",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2016/07/12/cannabis-tinctures-101-what-are-they-how-to-make-them-and-how-to-use-them",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2016__07__12__cannabis-tinctures-101-what-are-they-how-to-make-them-and-how-to-use-them.html",
+      "bytes": 1515778
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/05/22/denver-420-rally-license-banned-for-3-years",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/05/22/denver-420-rally-license-banned-for-3-years",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__05__22__denver-420-rally-license-banned-for-3-years.html",
+      "bytes": 1504123
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/hightails-to-elevate-your-summer-beverages",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/hightails-to-elevate-your-summer-beverages",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__hightails-to-elevate-your-summer-beverages.html",
+      "bytes": 1524592
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2016/09/30/stiletto-stoners-yep-moms-like-cannabis-too",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2016/09/30/stiletto-stoners-yep-moms-like-cannabis-too",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2016__09__30__stiletto-stoners-yep-moms-like-cannabis-too.html",
+      "bytes": 1512775
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/what-makes-a-cannabis-product-premium-a-simple-guide-for-everyday-shoppers",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/what-makes-a-cannabis-product-premium-a-simple-guide-for-everyday-shoppers",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__what-makes-a-cannabis-product-premium-a-simple-guide-for-everyday-shoppers.html",
+      "bytes": 1519041
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2018/02/26/getting-baked-with-love-e2-80-99s-oven-an-interview-with-executive-chef-hope-frahm",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2018/02/26/getting-baked-with-love-e2-80-99s-oven-an-interview-with-executive-chef-hope-frahm",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2018__02__26__getting-baked-with-love-e2-80-99s-oven-an-interview-with-executive-chef-hope-frahm.html",
+      "bytes": 1534370
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2019/07/01/marijuana-decriminalization-officially-takes-effect-in-new-mexico",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2019/07/01/marijuana-decriminalization-officially-takes-effect-in-new-mexico",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2019__07__01__marijuana-decriminalization-officially-takes-effect-in-new-mexico.html",
+      "bytes": 1503817
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/01/23/10-lesser-known-uses-for-cbd",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/01/23/10-lesser-known-uses-for-cbd",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__01__23__10-lesser-known-uses-for-cbd.html",
+      "bytes": 1515170
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2016/11/04/cannabis-superstitions-do-you-know-them-all",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2016/11/04/cannabis-superstitions-do-you-know-them-all",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2016__11__04__cannabis-superstitions-do-you-know-them-all.html",
+      "bytes": 1517251
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/how-long-cannabis-actually-lasts-shelf-life-for-flower-edibles-and-vapes",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/how-long-cannabis-actually-lasts-shelf-life-for-flower-edibles-and-vapes",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__how-long-cannabis-actually-lasts-shelf-life-for-flower-edibles-and-vapes.html",
+      "bytes": 1517787
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/which-strain-makes-you-laugh-the-most",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/which-strain-makes-you-laugh-the-most",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__which-strain-makes-you-laugh-the-most.html",
+      "bytes": 1509287
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/08/09/competing-strains-for-dope-cup",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/08/09/competing-strains-for-dope-cup",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__08__09__competing-strains-for-dope-cup.html",
+      "bytes": 1513578
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/02/14/how-to-have-a-happy-valentines-day-with-cannabis",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/02/14/how-to-have-a-happy-valentines-day-with-cannabis",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__02__14__how-to-have-a-happy-valentines-day-with-cannabis.html",
+      "bytes": 1515183
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/03/16/what-is-the-difference-between-indica-and-sativa-marijuana-plants",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/03/16/what-is-the-difference-between-indica-and-sativa-marijuana-plants",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__03__16__what-is-the-difference-between-indica-and-sativa-marijuana-plants.html",
+      "bytes": 1509647
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2020/04/13/tale-of-two-pot-dispensaries-coping-with-covid-19",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2020/04/13/tale-of-two-pot-dispensaries-coping-with-covid-19",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2020__04__13__tale-of-two-pot-dispensaries-coping-with-covid-19.html",
+      "bytes": 1502087
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/12/07/2017-holiday-gift-guide-for-the-cannabis-lover-in-your-life",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/12/07/2017-holiday-gift-guide-for-the-cannabis-lover-in-your-life",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__12__07__2017-holiday-gift-guide-for-the-cannabis-lover-in-your-life.html",
+      "bytes": 1438988
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/05/01/ready-for-a-weed-friendly-cinco-de-mayo",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/05/01/ready-for-a-weed-friendly-cinco-de-mayo",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__05__01__ready-for-a-weed-friendly-cinco-de-mayo.html",
+      "bytes": 1518794
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2016/12/12/marijuana-edibles-101-an-infographic",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2016/12/12/marijuana-edibles-101-an-infographic",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2016__12__12__marijuana-edibles-101-an-infographic.html",
+      "bytes": 1502612
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/the-current-status-of-cannabis-legalization-in-new-york-a-new-era-with-star-buds-coming-to-buffalo",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/the-current-status-of-cannabis-legalization-in-new-york-a-new-era-with-star-buds-coming-to-buffalo",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__the-current-status-of-cannabis-legalization-in-new-york-a-new-era-with-star-buds-coming-to-buffalo.html",
+      "bytes": 1510855
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/07/10/710-events-in-denver-co",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/07/10/710-events-in-denver-co",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__07__10__710-events-in-denver-co.html",
+      "bytes": 1515912
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2019/09/23/legal-marijuana-is-a-e2-80-98positive-amenity-e2-80-99-for-new-colorado-residents-study",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2019/09/23/legal-marijuana-is-a-e2-80-98positive-amenity-e2-80-99-for-new-colorado-residents-study",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2019__09__23__legal-marijuana-is-a-e2-80-98positive-amenity-e2-80-99-for-new-colorado-residents-study.html",
+      "bytes": 1505087
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2019/07/16/marijuana-legalization-could-be-on-the-horizon-for-british-virgin-islands",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2019/07/16/marijuana-legalization-could-be-on-the-horizon-for-british-virgin-islands",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2019__07__16__marijuana-legalization-could-be-on-the-horizon-for-british-virgin-islands.html",
+      "bytes": 1502267
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/demystifying-cannabis-concentrates-a-journey-from-plant-to-potent-extracts",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/demystifying-cannabis-concentrates-a-journey-from-plant-to-potent-extracts",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__demystifying-cannabis-concentrates-a-journey-from-plant-to-potent-extracts.html",
+      "bytes": 1512010
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2016/12/01/14-gift-ideas-for-that-special-cannaseur-in-your-life",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2016/12/01/14-gift-ideas-for-that-special-cannaseur-in-your-life",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2016__12__01__14-gift-ideas-for-that-special-cannaseur-in-your-life.html",
+      "bytes": 1521997
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/got-too-high-here-s-how-to-come-back-down-star-buds-5-step-guide",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/got-too-high-here-s-how-to-come-back-down-star-buds-5-step-guide",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__got-too-high-here-s-how-to-come-back-down-star-buds-5-step-guide.html",
+      "bytes": 1510833
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/01/19/five-facts-that-you-should-know-about-cbd",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/01/19/five-facts-that-you-should-know-about-cbd",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__01__19__five-facts-that-you-should-know-about-cbd.html",
+      "bytes": 1514586
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/cannabis-and-creativity-how-certain-strains-can-spark-your-next-great-idea",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/cannabis-and-creativity-how-certain-strains-can-spark-your-next-great-idea",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__cannabis-and-creativity-how-certain-strains-can-spark-your-next-great-idea.html",
+      "bytes": 1507711
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2018/10/22/3-things-you-didnt-know-about-canyon-cultivation",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2018/10/22/3-things-you-didnt-know-about-canyon-cultivation",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2018__10__22__3-things-you-didnt-know-about-canyon-cultivation.html",
+      "bytes": 1516584
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2020/11/10/how-to-get-your-medical-cannabis-card",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2020/11/10/how-to-get-your-medical-cannabis-card",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2020__11__10__how-to-get-your-medical-cannabis-card.html",
+      "bytes": 1548166
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/why-your-edible-didn-t-kick-in-yet-understanding-cannabis-edible-timing",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/why-your-edible-didn-t-kick-in-yet-understanding-cannabis-edible-timing",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__why-your-edible-didn-t-kick-in-yet-understanding-cannabis-edible-timing.html",
+      "bytes": 1519397
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/11/23/munchables-danksgiving-edition-featuring-binske-edibles",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/11/23/munchables-danksgiving-edition-featuring-binske-edibles",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__11__23__munchables-danksgiving-edition-featuring-binske-edibles.html",
+      "bytes": 1534486
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2016/09/01/ten-tips-and-tricks-for-the-ultimate-stoner",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2016/09/01/ten-tips-and-tricks-for-the-ultimate-stoner",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2016__09__01__ten-tips-and-tricks-for-the-ultimate-stoner.html",
+      "bytes": 1510185
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/cannabis-vs-delta-9-thc-understanding-the-differences",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/cannabis-vs-delta-9-thc-understanding-the-differences",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__cannabis-vs-delta-9-thc-understanding-the-differences.html",
+      "bytes": 1515261
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2016/07/15/5-tips-to-safely-dose-and-enjoy-cannabis-edibles",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2016/07/15/5-tips-to-safely-dose-and-enjoy-cannabis-edibles",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2016__07__15__5-tips-to-safely-dose-and-enjoy-cannabis-edibles.html",
+      "bytes": 1516882
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2019/02/08/meet-your-new-friend-with-benefits-1906",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2019/02/08/meet-your-new-friend-with-benefits-1906",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2019__02__08__meet-your-new-friend-with-benefits-1906.html",
+      "bytes": 1533225
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/star-buds-cannabis-dispensary-hoffman-estates-now-open",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/star-buds-cannabis-dispensary-hoffman-estates-now-open",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__star-buds-cannabis-dispensary-hoffman-estates-now-open.html",
+      "bytes": 1516876
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/the-art-of-the-perfect-pre-roll",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/the-art-of-the-perfect-pre-roll",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__the-art-of-the-perfect-pre-roll.html",
+      "bytes": 1511385
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2016/10/13/10-ways-to-spot-a-stoner",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2016/10/13/10-ways-to-spot-a-stoner",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2016__10__13__10-ways-to-spot-a-stoner.html",
+      "bytes": 1513754
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2019/04/20/get-to-know-the-colorado-governor-running-for-president-starbuds-talks-cannabis-with-gove",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2019/04/20/get-to-know-the-colorado-governor-running-for-president-starbuds-talks-cannabis-with-gove",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2019__04__20__get-to-know-the-colorado-governor-running-for-president-starbuds-talks-cannabis-with-gove.html",
+      "bytes": 1518860
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/07/31/fire-friday-aurora",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/07/31/fire-friday-aurora",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__07__31__fire-friday-aurora.html",
+      "bytes": 1505881
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/04/19/starbuds-countdown-to-420",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/04/19/starbuds-countdown-to-420",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__04__19__starbuds-countdown-to-420.html",
+      "bytes": 1524172
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2018/04/05/natives-guide-to-420",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2018/04/05/natives-guide-to-420",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2018__04__05__natives-guide-to-420.html",
+      "bytes": 1557296
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/roll-up-and-relax-the-ultimate-movie-guide-for-your-4-20-celebration",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/roll-up-and-relax-the-ultimate-movie-guide-for-your-4-20-celebration",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__roll-up-and-relax-the-ultimate-movie-guide-for-your-4-20-celebration.html",
+      "bytes": 1509500
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/10/26/munchables-mile-high-pumpkin-spice-cookies-with-ripple-dissolvable-thc",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/10/26/munchables-mile-high-pumpkin-spice-cookies-with-ripple-dissolvable-thc",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__10__26__munchables-mile-high-pumpkin-spice-cookies-with-ripple-dissolvable-thc.html",
+      "bytes": 1532929
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2019/07/16/fda-says-it-is-speeding-up-the-cbd-regulation-process",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2019/07/16/fda-says-it-is-speeding-up-the-cbd-regulation-process",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2019__07__16__fda-says-it-is-speeding-up-the-cbd-regulation-process.html",
+      "bytes": 1501951
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/artsy-promoting-art-to-the-world",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/artsy-promoting-art-to-the-world",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__artsy-promoting-art-to-the-world.html",
+      "bytes": 1520385
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2020/08/03/the-endocannabinoid-system-everything-you-need-to-know",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2020/08/03/the-endocannabinoid-system-everything-you-need-to-know",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2020__08__03__the-endocannabinoid-system-everything-you-need-to-know.html",
+      "bytes": 1561271
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/05/11/the-race-for-governor-is-heating-upsee-what-canidate-noel-ginsburg-has-to-say",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/05/11/the-race-for-governor-is-heating-upsee-what-canidate-noel-ginsburg-has-to-say",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__05__11__the-race-for-governor-is-heating-upsee-what-canidate-noel-ginsburg-has-to-say.html",
+      "bytes": 1508767
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/the-status-of-cannabis-rescheduling-descheduling-in-2024-what-it-means-for-the-industry-and-consume",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/the-status-of-cannabis-rescheduling-descheduling-in-2024-what-it-means-for-the-industry-and-consume",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__the-status-of-cannabis-rescheduling-descheduling-in-2024-what-it-means-for-the-industry-and-consume.html",
+      "bytes": 1515434
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/07/06/grand-opening-party-cc",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/07/06/grand-opening-party-cc",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__07__06__grand-opening-party-cc.html",
+      "bytes": 1505547
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/08/31/phish-fans-rejoice-fluffhead-kush-is-here",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/08/31/phish-fans-rejoice-fluffhead-kush-is-here",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__08__31__phish-fans-rejoice-fluffhead-kush-is-here.html",
+      "bytes": 1503265
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2020/04/01/cannabis-chain-meets-challenges-of-covid-19-csa-interviews-star-buds-founder-and-ceo-br",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2020/04/01/cannabis-chain-meets-challenges-of-covid-19-csa-interviews-star-buds-founder-and-ceo-br",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2020__04__01__cannabis-chain-meets-challenges-of-covid-19-csa-interviews-star-buds-founder-and-ceo-br.html",
+      "bytes": 1504666
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/05/13/5-tips-to-host-a-cannabis-friendly-memorial-day-party",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/05/13/5-tips-to-host-a-cannabis-friendly-memorial-day-party",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__05__13__5-tips-to-host-a-cannabis-friendly-memorial-day-party.html",
+      "bytes": 1517781
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/02/02/the-trump-administration-and-marijuana-reform-inevitable",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/02/02/the-trump-administration-and-marijuana-reform-inevitable",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__02__02__the-trump-administration-and-marijuana-reform-inevitable.html",
+      "bytes": 1511995
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/06/12/starbuds-commerce-city-now-open",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/06/12/starbuds-commerce-city-now-open",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__06__12__starbuds-commerce-city-now-open.html",
+      "bytes": 1502245
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/08/21/dope-cup-2017",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/08/21/dope-cup-2017",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__08__21__dope-cup-2017.html",
+      "bytes": 1535522
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/the-science-of-consumption-how-cannabis-is-absorbed-into-the-body-at-the-cellular-level",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/the-science-of-consumption-how-cannabis-is-absorbed-into-the-body-at-the-cellular-level",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__the-science-of-consumption-how-cannabis-is-absorbed-into-the-body-at-the-cellular-level.html",
+      "bytes": 1515604
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/why-your-weed-hits-differently-every-time",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/why-your-weed-hits-differently-every-time",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__why-your-weed-hits-differently-every-time.html",
+      "bytes": 1510336
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/why-cannabis-smells-so-strong-and-what-that-aroma-actually-means",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/why-cannabis-smells-so-strong-and-what-that-aroma-actually-means",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__why-cannabis-smells-so-strong-and-what-that-aroma-actually-means.html",
+      "bytes": 1511810
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/beginner-s-guide-how-to-read-a-cannabis-label-like-a-pro",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/beginner-s-guide-how-to-read-a-cannabis-label-like-a-pro",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__beginner-s-guide-how-to-read-a-cannabis-label-like-a-pro.html",
+      "bytes": 1542538
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/05/30/colorado-dope-cup",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/05/30/colorado-dope-cup",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__05__30__colorado-dope-cup.html",
+      "bytes": 1504428
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2017/11/08/cannabis-101-terpenes-an-interview-with-lucidmood",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2017/11/08/cannabis-101-terpenes-an-interview-with-lucidmood",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2017__11__08__cannabis-101-terpenes-an-interview-with-lucidmood.html",
+      "bytes": 1547771
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/how-to-keep-cannabis-fresh-the-best-ways-to-store-flower-edibles-and-concentrates",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/how-to-keep-cannabis-fresh-the-best-ways-to-store-flower-edibles-and-concentrates",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__how-to-keep-cannabis-fresh-the-best-ways-to-store-flower-edibles-and-concentrates.html",
+      "bytes": 1516489
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/specialty-gummies-that-will-change-the-way-you-think-about-edibles",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/specialty-gummies-that-will-change-the-way-you-think-about-edibles",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__specialty-gummies-that-will-change-the-way-you-think-about-edibles.html",
+      "bytes": 1516864
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/the-sleepy-side-of-cannabis-exploring-its-impact-on-sleep",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/the-sleepy-side-of-cannabis-exploring-its-impact-on-sleep",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__the-sleepy-side-of-cannabis-exploring-its-impact-on-sleep.html",
+      "bytes": 1510136
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/star-buds-now-open-in-summit-illinois",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/star-buds-now-open-in-summit-illinois",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__star-buds-now-open-in-summit-illinois.html",
+      "bytes": 1517845
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2018/01/26/snoop-bloggy-blog-the-evolution-of-snoop",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2018/01/26/snoop-bloggy-blog-the-evolution-of-snoop",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2018__01__26__snoop-bloggy-blog-the-evolution-of-snoop.html",
+      "bytes": 1527008
+    },
+    {
+      "url": "https://www.starbuds.us/blog/categories/marijuana",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/categories/marijuana",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/blog__categories__marijuana.html",
+      "bytes": 1572893
+    },
+    {
+      "url": "https://www.starbuds.us/blog",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/blog.html",
+      "bytes": 1637888
+    },
+    {
+      "url": "https://www.starbuds.us/blog/categories/cbd",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/categories/cbd",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/blog__categories__cbd.html",
+      "bytes": 1572588
+    },
+    {
+      "url": "https://www.starbuds.us/blog/categories/cannabis",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/categories/cannabis",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/blog__categories__cannabis.html",
+      "bytes": 1572648
+    },
+    {
+      "url": "https://www.starbuds.us/blog/categories/thc",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/categories/thc",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/blog__categories__thc.html",
+      "bytes": 1580867
+    },
+    {
+      "url": "https://www.starbuds.us/blog/categories/weed",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/categories/weed",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/blog__categories__weed.html",
+      "bytes": 1572759
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2020/03/23/as-cities-declare-cannabis-an-essential-business-heres-how-businesses-are-rallying-to-hel",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2020/03/23/as-cities-declare-cannabis-an-essential-business-heres-how-businesses-are-rallying-to-hel",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/single-post__2020__03__23__as-cities-declare-cannabis-an-essential-business-heres-how-businesses-are-rallying-to-hel.html",
+      "bytes": 1503308
+    },
+    {
+      "url": "https://www.starbuds.us/blog/categories/medical-marijuana",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/categories/medical-marijuana",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/blog__categories__medical-marijuana.html",
+      "bytes": 1572802
+    },
+    {
+      "url": "https://www.starbuds.us/blog/categories/endocannabinoid-system",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/categories/endocannabinoid-system",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/blog__categories__endocannabinoid-system.html",
+      "bytes": 1572858
+    },
+    {
+      "url": "https://www.starbuds.us/gratify-rewards-terms-conditions",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/gratify-rewards-terms-conditions",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/gratify-rewards-terms-conditions.html",
+      "bytes": 897018
+    },
+    {
+      "url": "https://www.starbuds.us/coloradorewards",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/coloradorewards",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/coloradorewards.html",
+      "bytes": 1310279
+    },
+    {
+      "url": "https://www.starbuds.us/boulder",
+      "status": 301,
+      "chain": [
+        {
+          "from": "https://www.starbuds.us/boulder",
+          "status": 301,
+          "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-boulder?store=3597&store_updated=true&wp_store_id=5770"
+        }
+      ],
+      "finalUrl": null,
+      "contentType": null,
+      "inSitemap": true,
+      "offOrigin": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-boulder?store=3597&store_updated=true&wp_store_id=5770"
+    },
+    {
+      "url": "https://www.starbuds.us/team-starbuds",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/team-starbuds",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/team-starbuds.html",
+      "bytes": 891474
+    },
+    {
+      "url": "https://www.starbuds.us/pueblo",
+      "status": 301,
+      "chain": [
+        {
+          "from": "https://www.starbuds.us/pueblo",
+          "status": 301,
+          "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-pueblo?store=4651&store_updated=true&wp_store_id=8788"
+        }
+      ],
+      "finalUrl": null,
+      "contentType": null,
+      "inSitemap": true,
+      "offOrigin": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-pueblo?store=4651&store_updated=true&wp_store_id=8788"
+    },
+    {
+      "url": "https://www.starbuds.us/north-denver",
+      "status": 301,
+      "chain": [
+        {
+          "from": "https://www.starbuds.us/north-denver",
+          "status": 301,
+          "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-north-denver?store=455&store_updated=true&wp_store_id=8782"
+        }
+      ],
+      "finalUrl": null,
+      "contentType": null,
+      "inSitemap": true,
+      "offOrigin": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-north-denver?store=455&store_updated=true&wp_store_id=8782"
+    },
+    {
+      "url": "https://www.starbuds.us/oxford",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/oxford",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/oxford.html",
+      "bytes": 908050
+    },
+    {
+      "url": "https://www.starbuds.us/ordway",
+      "status": 301,
+      "chain": [
+        {
+          "from": "https://www.starbuds.us/ordway",
+          "status": 301,
+          "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-ordway?store=4649&store_updated=true&wp_store_id=8784"
+        }
+      ],
+      "finalUrl": null,
+      "contentType": null,
+      "inSitemap": true,
+      "offOrigin": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-ordway?store=4649&store_updated=true&wp_store_id=8784"
+    },
+    {
+      "url": "https://www.starbuds.us/commercecity",
+      "status": 301,
+      "chain": [
+        {
+          "from": "https://www.starbuds.us/commercecity",
+          "status": 301,
+          "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-commerce-city?store=1758&store_updated=true&wp_store_id=8770"
+        }
+      ],
+      "finalUrl": null,
+      "contentType": null,
+      "inSitemap": true,
+      "offOrigin": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-commerce-city?store=1758&store_updated=true&wp_store_id=8770"
+    },
+    {
+      "url": "https://www.starbuds.us/hr-tc",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/hr-tc",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/hr-tc.html",
+      "bytes": 895189
+    },
+    {
+      "url": "https://www.starbuds.us/eula",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/eula",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/eula.html",
+      "bytes": 993608
+    },
+    {
+      "url": "https://www.starbuds.us/lawton",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/lawton",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/lawton.html",
+      "bytes": 937077
+    },
+    {
+      "url": "https://www.starbuds.us/colorado",
+      "status": 301,
+      "chain": [
+        {
+          "from": "https://www.starbuds.us/colorado",
+          "status": 301,
+          "to": "https://starbudscolorado.com/"
+        }
+      ],
+      "finalUrl": null,
+      "contentType": null,
+      "inSitemap": true,
+      "offOrigin": "https://starbudscolorado.com/"
+    },
+    {
+      "url": "https://www.starbuds.us/cancerreliefprogram",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/cancerreliefprogram",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/cancerreliefprogram.html",
+      "bytes": 908990
+    },
+    {
+      "url": "https://www.starbuds.us/marylandrewards",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/marylandrewards",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/marylandrewards.html",
+      "bytes": 933402
+    },
+    {
+      "url": "https://www.starbuds.us/illinois",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/illinois",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/illinois.html",
+      "bytes": 915014
+    },
+    {
+      "url": "https://www.starbuds.us/cbd",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/cbd",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/cbd.html",
+      "bytes": 916251
+    },
+    {
+      "url": "https://www.starbuds.us/pueblo-east",
+      "status": 301,
+      "chain": [
+        {
+          "from": "https://www.starbuds.us/pueblo-east",
+          "status": 301,
+          "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-pueblo-east?store=4655&store_updated=true&wp_store_id=8791"
+        }
+      ],
+      "finalUrl": null,
+      "contentType": null,
+      "inSitemap": true,
+      "offOrigin": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-pueblo-east?store=4655&store_updated=true&wp_store_id=8791"
+    },
+    {
+      "url": "https://www.starbuds.us/co-delivery-tc",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/co-delivery-tc",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/co-delivery-tc.html",
+      "bytes": 917128
+    },
+    {
+      "url": "https://www.starbuds.us/workwithus",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/workwithus",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/workwithus.html",
+      "bytes": 957411
+    },
+    {
+      "url": "https://www.starbuds.us/consent",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/consent",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/consent.html",
+      "bytes": 889036
+    },
+    {
+      "url": "https://www.starbuds.us/products",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/products",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/products.html",
+      "bytes": 925217
+    },
+    {
+      "url": "https://www.starbuds.us/md-deals",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/md-deals",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/md-deals.html",
+      "bytes": 964835
+    },
+    {
+      "url": "https://www.starbuds.us/oxford-cbd",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/oxford-cbd",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/oxford-cbd.html",
+      "bytes": 902831
+    },
+    {
+      "url": "https://www.starbuds.us/co-delivery",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/co-delivery",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/co-delivery.html",
+      "bytes": 1349372
+    },
+    {
+      "url": "https://www.starbuds.us/nwdenver",
+      "status": 301,
+      "chain": [
+        {
+          "from": "https://www.starbuds.us/nwdenver",
+          "status": 301,
+          "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-pecos-hwy-36?store=1761&store_updated=true&wp_store_id=8786"
+        }
+      ],
+      "finalUrl": null,
+      "contentType": null,
+      "inSitemap": true,
+      "offOrigin": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-pecos-hwy-36?store=1761&store_updated=true&wp_store_id=8786"
+    },
+    {
+      "url": "https://www.starbuds.us/pueblowest",
+      "status": 301,
+      "chain": [
+        {
+          "from": "https://www.starbuds.us/pueblowest",
+          "status": 301,
+          "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-pueblo-west?store=1089&store_updated=true&wp_store_id=8793"
+        }
+      ],
+      "finalUrl": null,
+      "contentType": null,
+      "inSitemap": true,
+      "offOrigin": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-pueblo-west?store=1089&store_updated=true&wp_store_id=8793"
+    },
+    {
+      "url": "https://www.starbuds.us/community",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/community",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/community.html",
+      "bytes": 915473
+    },
+    {
+      "url": "https://www.starbuds.us/order-online",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/order-online",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/order-online.html",
+      "bytes": 1033622
+    },
+    {
+      "url": "https://www.starbuds.us/about",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/about",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/about.html",
+      "bytes": 903316
+    },
+    {
+      "url": "https://www.starbuds.us/ok-deals",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/ok-deals",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/ok-deals.html",
+      "bytes": 929945
+    },
+    {
+      "url": "https://www.starbuds.us/maryland",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/maryland",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/maryland.html",
+      "bytes": 944686
+    },
+    {
+      "url": "https://www.starbuds.us/careers",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/careers",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/careers.html",
+      "bytes": 903258
+    },
+    {
+      "url": "https://www.starbuds.us/south-boulder",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/south-boulder",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/south-boulder.html",
+      "bytes": 949094
+    },
+    {
+      "url": "https://www.starbuds.us/cdot",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/cdot",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/cdot.html",
+      "bytes": 920831
+    },
+    {
+      "url": "https://www.starbuds.us/rocky-ford",
+      "status": 301,
+      "chain": [
+        {
+          "from": "https://www.starbuds.us/rocky-ford",
+          "status": 301,
+          "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-rocky-ford?store=1763&store_updated=true&wp_store_id=8795"
+        }
+      ],
+      "finalUrl": null,
+      "contentType": null,
+      "inSitemap": true,
+      "offOrigin": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-rocky-ford?store=1763&store_updated=true&wp_store_id=8795"
+    },
+    {
+      "url": "https://www.starbuds.us/southeast-aurora",
+      "status": 301,
+      "chain": [
+        {
+          "from": "https://www.starbuds.us/southeast-aurora",
+          "status": 301,
+          "to": "https://starbudscolorado.com/stores/recreational-marijuana-dispensary-aurora-southeast/?store=506&wp_store_id=5768"
+        }
+      ],
+      "finalUrl": null,
+      "contentType": null,
+      "inSitemap": true,
+      "offOrigin": "https://starbudscolorado.com/stores/recreational-marijuana-dispensary-aurora-southeast/?store=506&wp_store_id=5768"
+    },
+    {
+      "url": "https://www.starbuds.us/dispensary-glendale",
+      "status": 301,
+      "chain": [
+        {
+          "from": "https://www.starbuds.us/dispensary-glendale",
+          "status": 301,
+          "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-glendale?store=1767&store_updated=true&wp_store_id=8774"
+        }
+      ],
+      "finalUrl": null,
+      "contentType": null,
+      "inSitemap": true,
+      "offOrigin": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-glendale?store=1767&store_updated=true&wp_store_id=8774"
+    },
+    {
+      "url": "https://www.starbuds.us/oklahomarewards",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/oklahomarewards",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/oklahomarewards.html",
+      "bytes": 937606
+    },
+    {
+      "url": "https://www.starbuds.us/bricktown",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/bricktown",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/bricktown.html",
+      "bytes": 924445
+    },
+    {
+      "url": "https://www.starbuds.us/age",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/age",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/age.html",
+      "bytes": 892035
+    },
+    {
+      "url": "https://www.starbuds.us/contact",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/contact",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/contact.html",
+      "bytes": 934129
+    },
+    {
+      "url": "https://www.starbuds.us/lakeside",
+      "status": 301,
+      "chain": [
+        {
+          "from": "https://www.starbuds.us/lakeside",
+          "status": 301,
+          "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-lakeside?store=1765&store_updated=true&wp_store_id=8776"
+        }
+      ],
+      "finalUrl": null,
+      "contentType": null,
+      "inSitemap": true,
+      "offOrigin": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-lakeside?store=1765&store_updated=true&wp_store_id=8776"
+    },
+    {
+      "url": "https://www.starbuds.us/media",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/media",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/media.html",
+      "bytes": 973564
+    },
+    {
+      "url": "https://www.starbuds.us/vapes",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/vapes",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/vapes.html",
+      "bytes": 920766
+    },
+    {
+      "url": "https://www.starbuds.us/louisville",
+      "status": 301,
+      "chain": [
+        {
+          "from": "https://www.starbuds.us/louisville",
+          "status": 301,
+          "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-louisville?store=1762&store_updated=true&wp_store_id=8780"
+        }
+      ],
+      "finalUrl": null,
+      "contentType": null,
+      "inSitemap": true,
+      "offOrigin": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-louisville?store=1762&store_updated=true&wp_store_id=8780"
+    },
+    {
+      "url": "https://www.starbuds.us/illinoisrewards",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/illinoisrewards",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/illinoisrewards.html",
+      "bytes": 930204
+    },
+    {
+      "url": "https://www.starbuds.us/burbank",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/burbank",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/burbank.html",
+      "bytes": 898662
+    },
+    {
+      "url": "https://www.starbuds.us/locations",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/locations",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/locations.html",
+      "bytes": 901307
+    },
+    {
+      "url": "https://www.starbuds.us/federal-heights",
+      "status": 301,
+      "chain": [
+        {
+          "from": "https://www.starbuds.us/federal-heights",
+          "status": 301,
+          "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-federal-heights?store=4499&store_updated=true&wp_store_id=8425"
+        }
+      ],
+      "finalUrl": null,
+      "contentType": null,
+      "inSitemap": true,
+      "offOrigin": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-federal-heights?store=4499&store_updated=true&wp_store_id=8425"
+    },
+    {
+      "url": "https://www.starbuds.us/las-animas",
+      "status": 301,
+      "chain": [
+        {
+          "from": "https://www.starbuds.us/las-animas",
+          "status": 301,
+          "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-las-animas?store=4654&store_updated=true&wp_store_id=8778"
+        }
+      ],
+      "finalUrl": null,
+      "contentType": null,
+      "inSitemap": true,
+      "offOrigin": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-las-animas?store=4654&store_updated=true&wp_store_id=8778"
+    },
+    {
+      "url": "https://www.starbuds.us/altus",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/altus",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/altus.html",
+      "bytes": 939777
+    },
+    {
+      "url": "https://www.starbuds.us/chickasha",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/chickasha",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/chickasha.html",
+      "bytes": 952191
+    },
+    {
+      "url": "https://www.starbuds.us/edibles",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/edibles",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/edibles.html",
+      "bytes": 923947
+    },
+    {
+      "url": "https://www.starbuds.us/ardmore",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/ardmore",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/ardmore.html",
+      "bytes": 933745
+    },
+    {
+      "url": "https://www.starbuds.us/deals",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/deals",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/deals.html",
+      "bytes": 893326
+    },
+    {
+      "url": "https://www.starbuds.us/rapid-city",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/rapid-city",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/rapid-city.html",
+      "bytes": 902824
+    },
+    {
+      "url": "https://www.starbuds.us/longmont",
+      "status": 301,
+      "chain": [
+        {
+          "from": "https://www.starbuds.us/longmont",
+          "status": 301,
+          "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-longmont?store=3659&store_updated=true&wp_store_id=8437"
+        }
+      ],
+      "finalUrl": null,
+      "contentType": null,
+      "inSitemap": true,
+      "offOrigin": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-longmont?store=3659&store_updated=true&wp_store_id=8437"
+    },
+    {
+      "url": "https://www.starbuds.us/niwot",
+      "status": 301,
+      "chain": [
+        {
+          "from": "https://www.starbuds.us/niwot",
+          "status": 301,
+          "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-niwot?store=3660&store_updated=true&wp_store_id=8439"
+        }
+      ],
+      "finalUrl": null,
+      "contentType": null,
+      "inSitemap": true,
+      "offOrigin": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-niwot?store=3660&store_updated=true&wp_store_id=8439"
+    },
+    {
+      "url": "https://www.starbuds.us/rewards",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/rewards",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/rewards.html",
+      "bytes": 924003
+    },
+    {
+      "url": "https://www.starbuds.us/mississippirewards",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/mississippirewards",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/mississippirewards.html",
+      "bytes": 925413
+    },
+    {
+      "url": "https://www.starbuds.us/mississippi",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/mississippi",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/mississippi.html",
+      "bytes": 917073
+    },
+    {
+      "url": "https://www.starbuds.us/buffalo",
+      "status": 301,
+      "chain": [
+        {
+          "from": "https://www.starbuds.us/buffalo",
+          "status": 301,
+          "to": "https://shop.starbuds.us/stores/buffalo-dispensary"
+        }
+      ],
+      "finalUrl": null,
+      "contentType": null,
+      "inSitemap": true,
+      "offOrigin": "https://shop.starbuds.us/stores/buffalo-dispensary"
+    },
+    {
+      "url": "https://www.starbuds.us/topicals",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/topicals",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/topicals.html",
+      "bytes": 910326
+    },
+    {
+      "url": "https://www.starbuds.us/riverside",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/riverside",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/riverside.html",
+      "bytes": 903023
+    },
+    {
+      "url": "https://www.starbuds.us/concentrates",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/concentrates",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/concentrates.html",
+      "bytes": 916874
+    },
+    {
+      "url": "https://www.starbuds.us/du",
+      "status": 301,
+      "chain": [
+        {
+          "from": "https://www.starbuds.us/du",
+          "status": 301,
+          "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-du?store=1760&store_updated=true&wp_store_id=8772"
+        }
+      ],
+      "finalUrl": null,
+      "contentType": null,
+      "inSitemap": true,
+      "offOrigin": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-du?store=1760&store_updated=true&wp_store_id=8772"
+    },
+    {
+      "url": "https://www.starbuds.us/oklahoma",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/oklahoma",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/oklahoma.html",
+      "bytes": 916386
+    },
+    {
+      "url": "https://www.starbuds.us/aurora",
+      "status": 301,
+      "chain": [
+        {
+          "from": "https://www.starbuds.us/aurora",
+          "status": 301,
+          "to": "https://starbudscolorado.com/stores/recreational-marijuana-dispensary-aurora/?store=1764&wp_store_id=8441"
+        }
+      ],
+      "finalUrl": null,
+      "contentType": null,
+      "inSitemap": true,
+      "offOrigin": "https://starbudscolorado.com/stores/recreational-marijuana-dispensary-aurora/?store=1764&wp_store_id=8441"
+    },
+    {
+      "url": "https://www.starbuds.us/blog/hashtags/ShineHighAboveTheRest",
+      "status": 404,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/hashtags/ShineHighAboveTheRest",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__hashtags__shinehighabovetherest.html",
+      "bytes": 1513817
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2026/07",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2026/07",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2026__07.html",
+      "bytes": 1573608
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2026/06",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2026/06",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2026__06.html",
+      "bytes": 1573572
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2026/05",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2026/05",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2026__05.html",
+      "bytes": 1573757
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2026/04",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2026/04",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2026__04.html",
+      "bytes": 1573961
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2026/03",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2026/03",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2026__03.html",
+      "bytes": 1573568
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2026/02",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2026/02",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2026__02.html",
+      "bytes": 1573618
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2026/01",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2026/01",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2026__01.html",
+      "bytes": 1573586
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2025/12",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2025/12",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2025__12.html",
+      "bytes": 1573628
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2025/11",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2025/11",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2025__11.html",
+      "bytes": 1573925
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2025/10",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2025/10",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2025__10.html",
+      "bytes": 1573364
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2025/09",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2025/09",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2025__09.html",
+      "bytes": 1573708
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2025/08",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2025/08",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2025__08.html",
+      "bytes": 1573111
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2025/07",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2025/07",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2025__07.html",
+      "bytes": 1572908
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2025/06",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2025/06",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2025__06.html",
+      "bytes": 1572776
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2025/05",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2025/05",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2025__05.html",
+      "bytes": 1572966
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2025/04",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2025/04",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2025__04.html",
+      "bytes": 1572566
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2025/03",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2025/03",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2025__03.html",
+      "bytes": 1572744
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2025/02",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2025/02",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2025__02.html",
+      "bytes": 1573503
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2025/01",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2025/01",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2025__01.html",
+      "bytes": 1573411
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2024/12",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2024/12",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2024__12.html",
+      "bytes": 1573173
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2024/11",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2024/11",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2024__11.html",
+      "bytes": 1573513
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2024/09",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2024/09",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2024__09.html",
+      "bytes": 1573805
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2024/08",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2024/08",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2024__08.html",
+      "bytes": 1574196
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2024/07",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2024/07",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2024__07.html",
+      "bytes": 1573598
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2024/06",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2024/06",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2024__06.html",
+      "bytes": 1574053
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2024/05",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2024/05",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2024__05.html",
+      "bytes": 1573296
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2024/04",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2024/04",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2024__04.html",
+      "bytes": 1573159
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2024/03",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2024/03",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2024__03.html",
+      "bytes": 1573289
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2024/02",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2024/02",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2024__02.html",
+      "bytes": 1572989
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2024/01",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2024/01",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2024__01.html",
+      "bytes": 1573216
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2022/08",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2022/08",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2022__08.html",
+      "bytes": 1572614
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2022/07",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2022/07",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2022__07.html",
+      "bytes": 1572844
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2021/11",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2021/11",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2021__11.html",
+      "bytes": 1572696
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2021/09",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2021/09",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2021__09.html",
+      "bytes": 1514335
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2021/07",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2021/07",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2021__07.html",
+      "bytes": 1572905
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2020/11",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2020/11",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2020__11.html",
+      "bytes": 1573484
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2020/08",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2020/08",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2020__08.html",
+      "bytes": 1573126
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2020/04",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2020/04",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2020__04.html",
+      "bytes": 1598331
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2020/03",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2020/03",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2020__03.html",
+      "bytes": 1573036
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2019/09",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2019/09",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2019__09.html",
+      "bytes": 1574034
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2019/07",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2019/07",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2019__07.html",
+      "bytes": 1589060
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2019/04",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2019/04",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2019__04.html",
+      "bytes": 1581364
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2019/02",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2019/02",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2019__02.html",
+      "bytes": 1573065
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2019/01",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2019/01",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2019__01.html",
+      "bytes": 1572840
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2018/10",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2018/10",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2018__10.html",
+      "bytes": 1573251
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2018/04",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2018/04",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2018__04.html",
+      "bytes": 1581130
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2018/02",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2018/02",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2018__02.html",
+      "bytes": 1573557
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2018/01",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2018/01",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2018__01.html",
+      "bytes": 1573141
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2017/12",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2017/12",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2017__12.html",
+      "bytes": 1572674
+    },
+    {
+      "url": "https://www.starbuds.us/blog/archive/2017/11",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/archive/2017/11",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__archive__2017__11.html",
+      "bytes": 1581790
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/4-20",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/4-20",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__4-20.html",
+      "bytes": 1573413
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/4-20-denver",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/4-20-denver",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__4-20-denver.html",
+      "bytes": 1573650
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/anxiety",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/anxiety",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__anxiety.html",
+      "bytes": 1573452
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/april-20th",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/april-20th",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__april-20th.html",
+      "bytes": 1573821
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/beverages",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/beverages",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__beverages.html",
+      "bytes": 1573237
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/cannabis",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/cannabis",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__cannabis.html",
+      "bytes": 1573413
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/cannabis-cup",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/cannabis-cup",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__cannabis-cup.html",
+      "bytes": 1574014
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/cannabis-science",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/cannabis-science",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__cannabis-science.html",
+      "bytes": 1573378
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/cbd",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/cbd",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__cbd.html",
+      "bytes": 1582384
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/colorado",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/colorado",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__colorado.html",
+      "bytes": 1573885
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/depression",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/depression",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__depression.html",
+      "bytes": 1573181
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/dispensary",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/dispensary",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__dispensary.html",
+      "bytes": 1582231
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/dope-cup",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/dope-cup",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__dope-cup.html",
+      "bytes": 1573997
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/dope-magazine",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/dope-magazine",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__dope-magazine.html",
+      "bytes": 1573768
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/ecs",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/ecs",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__ecs.html",
+      "bytes": 1573190
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/endocannabinoid-system",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/endocannabinoid-system",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__endocannabinoid-system.html",
+      "bytes": 1573492
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/flower",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/flower",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__flower.html",
+      "bytes": 1573674
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/hybrid",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/hybrid",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__hybrid.html",
+      "bytes": 1573895
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/indica",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/indica",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__indica.html",
+      "bytes": 1573567
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/lack-of-appetite",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/lack-of-appetite",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__lack-of-appetite.html",
+      "bytes": 1573505
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/marijuana",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/marijuana",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__marijuana.html",
+      "bytes": 1582021
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/marijuana-edibles",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/marijuana-edibles",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__marijuana-edibles.html",
+      "bytes": 1573502
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/medical-cannabis",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/medical-cannabis",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__medical-cannabis.html",
+      "bytes": 1573418
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/medical-marijuana",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/medical-marijuana",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__medical-marijuana.html",
+      "bytes": 1582309
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/medical-marijuana-card",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/medical-marijuana-card",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__medical-marijuana-card.html",
+      "bytes": 1574044
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/pootie-tang",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/pootie-tang",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__pootie-tang.html",
+      "bytes": 1573743
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/purple-headband",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/purple-headband",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__purple-headband.html",
+      "bytes": 1573835
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/sativa",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/sativa",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__sativa.html",
+      "bytes": 1573753
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/starbuds",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/starbuds",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__starbuds.html",
+      "bytes": 1573728
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/thc",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/thc",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__thc.html",
+      "bytes": 1590345
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/weed",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/weed",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__weed.html",
+      "bytes": 1573391
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/weed-science",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/weed-science",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__weed-science.html",
+      "bytes": 1573562
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/what-to-do-for-4-20-in-denver",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/what-to-do-for-4-20-in-denver",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__what-to-do-for-4-20-in-denver.html",
+      "bytes": 1573943
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/what-to-do-on-4-20",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/what-to-do-on-4-20",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__what-to-do-on-4-20.html",
+      "bytes": 1573709
+    },
+    {
+      "url": "https://www.starbuds.us/blog/tags/white-bubba",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/tags/white-bubba",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__tags__white-bubba.html",
+      "bytes": 1573821
+    },
+    {
+      "url": "https://www.starbuds.us/single-post/2018/04/05/Natives-Guide-to-420",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/single-post/2018/04/05/Natives-Guide-to-420",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/single-post__2018__04__05__natives-guide-to-420.html",
+      "bytes": 1557066
+    },
+    {
+      "url": "https://www.starbuds.us/blog/hashtags/4",
+      "status": 404,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/hashtags/4",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__hashtags__4.html",
+      "bytes": 1513805
+    },
+    {
+      "url": "https://www.starbuds.us/blog/hashtags/ShingingHighAboveTheRest",
+      "status": 404,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/hashtags/ShingingHighAboveTheRest",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__hashtags__shinginghighabovetherest.html",
+      "bytes": 1513883
+    },
+    {
+      "url": "https://www.starbuds.us/blog/hashtags/1",
+      "status": 404,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/hashtags/1",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__hashtags__1.html",
+      "bytes": 1513671
+    },
+    {
+      "url": "https://www.starbuds.us/blog/hashtags/2",
+      "status": 404,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/hashtags/2",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__hashtags__2.html",
+      "bytes": 1513614
+    },
+    {
+      "url": "https://www.starbuds.us/newyork",
+      "status": 404,
+      "chain": [
+        {
+          "from": "https://www.starbuds.us/newyork",
+          "status": 301,
+          "to": "https://www.starbuds.us/new-york-coming-soon"
+        }
+      ],
+      "finalUrl": "https://www.starbuds.us/new-york-coming-soon",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/new-york-coming-soon.html",
+      "bytes": 905364
+    },
+    {
+      "url": "https://www.starbuds.us/blog/hashtags/BlissedOut",
+      "status": 404,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/hashtags/BlissedOut",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__hashtags__blissedout.html",
+      "bytes": 1513985
+    },
+    {
+      "url": "https://www.starbuds.us/blog/hashtags/SensiNight",
+      "status": 404,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/hashtags/SensiNight",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__hashtags__sensinight.html",
+      "bytes": 1513710
+    },
+    {
+      "url": "https://www.starbuds.us/blog/page/2",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/page/2",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__page__2.html",
+      "bytes": 1634575
+    },
+    {
+      "url": "https://www.starbuds.us/blog/page/3",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/page/3",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__page__3.html",
+      "bytes": 1635428
+    },
+    {
+      "url": "https://www.starbuds.us/blog/page/4",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/page/4",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__page__4.html",
+      "bytes": 1632188
+    },
+    {
+      "url": "https://www.starbuds.us/blog/page/5",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/page/5",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__page__5.html",
+      "bytes": 1631747
+    },
+    {
+      "url": "https://www.starbuds.us/blog/page/9",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/page/9",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__page__9.html",
+      "bytes": 1623409
+    },
+    {
+      "url": "https://www.starbuds.us/strains",
+      "status": 404,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/strains",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/strains.html",
+      "bytes": 905172
+    },
+    {
+      "url": "https://www.starbuds.us/blog/page/6",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/page/6",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__page__6.html",
+      "bytes": 1631893
+    },
+    {
+      "url": "https://www.starbuds.us/blog/page/7",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/page/7",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__page__7.html",
+      "bytes": 1634560
+    },
+    {
+      "url": "https://www.starbuds.us/blog/page/8",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.starbuds.us/blog/page/8",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/blog__page__8.html",
+      "bytes": 1634928
+    }
+  ]
+}

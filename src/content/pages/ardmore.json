@@ -1,0 +1,272 @@
+{
+ "path": "/ardmore",
+ "url": "https://www.starbuds.us/ardmore",
+ "key": "ardmore",
+ "kind": "store",
+ "state": "OK",
+ "title": "Star Buds Medical Marijuana Dispensary Ardmore",
+ "h1": "Star Buds Medical Weed Dispensary Ardmore",
+ "head": {
+  "title": "Star Buds Medical Marijuana Dispensary Ardmore",
+  "description": "Star Buds Ardmore is proud to be a medical cannabis dispensary, come see us for all your marijuana needs. Our compassionate and knowledgeable staff is here to help you get exactly what you need at the best possible price.",
+  "canonical": "https://www.starbuds.us/ardmore",
+  "robots": "",
+  "og": {
+   "title": "Star Buds Medical Marijuana Dispensary Ardmore",
+   "description": "Star Buds Ardmore is proud to be a medical cannabis dispensary, come see us for all your marijuana needs. Our compassionate and knowledgeable staff is here to help you get exactly what you need at the best possible price.",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/ardmore",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": [
+   {
+    "@context": "http://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Star Buds Medical Weed Dispensary Ardmore",
+    "openingHours": "Su 0800-0000 Mo 0800-0000 Tu 0800-0000 We 0800-0000 Th 0800-0000 Fr 0800-0000 Sa 0800-0000",
+    "additionalProperty": "https://en.wikipedia.org/wiki/Cannabis_dispensaries_in_the_United_States",
+    "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+    "areaServed": {
+     "@type": "GeoCircle",
+     "name": "Star Buds Medical Weed Dispensary Ardmore service area",
+     "geoMidpoint": {
+      "@type": "GeoCoordinates",
+      "postalCode": "73401",
+      "latitude": "34.1794823",
+      "longitude": "-97.1619389",
+      "description": "Our office location can be found here.",
+      "name": "Star Buds Medical Weed Dispensary Ardmore geo location"
+     },
+     "geoRadius": "20000",
+     "description": "Star Buds Medical Weed Dispensary Ardmore proudly serves the entire city of Ardmore Oklahoma"
+    },
+    "email": "info@starbuds.us",
+    "address": {
+     "@type": "PostalAddress",
+     "postalCode": "73401",
+     "addressRegion": "Oklahoma",
+     "addressCountry": "United States",
+     "streetAddress": "2502 Crossroads Drive",
+     "addressLocality": "Ardmore"
+    },
+    "paymentAccepted": "Cash, Credit Card",
+    "telephone": "15803197935",
+    "image": {
+     "@type": "ImageObject",
+     "name": "Star Buds Medical Weed Dispensary Ardmore image",
+     "url": "https://static.wixstatic.com/media/553d0f_f917e8e8e6934b268c8cb1fb0fcb587e~mv2.jpg/v1/fill/w_915,h_515,al_c,q_85,usm_0.66_1.00_0.01/Altus%20-%20Menu%2BDD.webp"
+    },
+    "ContactPoint": {
+     "@type": "ContactPoint",
+     "name": "Star Buds Medical Weed Dispensary Ardmore inquiry",
+     "availableLanguage": "https://en.wikipedia.org/wiki/List_of_dialects_of_the_English_language",
+     "telephone": "+15803197935",
+     "contactType": "customer support",
+     "@id": "https://www.starbuds.us/contact"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "34.1794823",
+     "longitude": "-97.1619389",
+     "description": "Our office location can be found here.",
+     "name": "Star Buds Medical Weed Dispensary Ardmore geo location"
+    },
+    "description": "Star Buds Medical Weed Dispensary Ardmore is a medical cannabis dispensary, come see us for all your marijuana needs. Our compassionate and knowledgeable staff is here to help you get exactly what you need at the best possible price.",
+    "priceRange": "5-50",
+    "url": "http://starbuds.us/ardmore",
+    "currenciesAccepted": "$",
+    "hasMap": "https://maps.google.com/?cid=16397709824500048524",
+    "logo": "https://u.localviking.com/image/l8/l8ydnpqz/PeGu6h6Tw52PyrkW4sYlXm3e0CKlaD7VpjOTSOKdsCmVLfy2PMb4m8IrWbp-IGbJDEW0AHfsd5PONh2s_s0.png",
+    "serviceArea": {
+     "@type": "GeoCircle",
+     "name": "Star Buds Medical Weed Dispensary Ardmore service area",
+     "geoMidpoint": {
+      "@type": "GeoCoordinates",
+      "postalCode": "73401",
+      "latitude": "34.1794823",
+      "longitude": "-97.1619389",
+      "description": "Our office location can be found here.",
+      "name": "Star Buds Medical Weed Dispensary Ardmore geo location"
+     },
+     "geoRadius": "20000",
+     "description": "Star Buds Medical Weed Dispensary Ardmore proudly serves the entire city of Ardmore"
+    },
+    "sameAs": [
+     "https://www.chamberofcommerce.com/united-states/oklahoma/ardmore/healing-practitioners/2012816014-star-buds-medical-weed-dispensary-ardmore",
+     "https://citysquares.com/b/star-buds-medical-weed-dispensary-ardmore-24589569",
+     "https://www.dexknows.com/ardmore-ok/bp/star-buds-medical-weed-dispensary-ardmore-565955379",
+     "https://www.elocal.com/profile/star-buds-medical-weed-dispensary-ardmore-21184293#!/tab=about",
+     "https://ezlocal.com/ok/ardmore/herb-shop/0917116330",
+     "https://localstack.com/biz/star-buds-medical-weed-dispensary-ardmore-ardmore-ok/37013727",
+     "https://www.yelp.com/biz/star-buds-ardmore-ardmore?adjust_creative=xZR1D5sIhOfqTpbo8Ul3ow&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=xZR1D5sIhOfqTpbo8Ul3ow",
+     "https://www.yellowpages.com/ardmore-ok/mip/star-buds-medical-weed-dispensary-ardmore-565955379"
+    ],
+    "@id": "http://starbuds.us/ardmore"
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Oklahoma",
+   "path": "/oklahoma"
+  },
+  {
+   "name": "Star Buds Medical Weed Dispensary Ardmore",
+   "path": "/ardmore"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "image",
+     "src": "https://static.wixstatic.com/media/b86374_bb2423ee5f9d45e5968d4219116c564e~mv2.jpg",
+     "alt": "FullSizeRender 3.jpg",
+     "href": null,
+     "w": 576,
+     "h": 304,
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "<a href=\"https://www.google.com/maps/place/Star+Buds+Medical+Weed+Dispensary+Ardmore/@34.1794823,-97.1641276,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xe3905e34e342228c!8m2!3d34.1797136!4d-97.1619409\" target=\"_blank\" rel=\"noreferrer noopener\">Star Buds Medical Weed Dispensary Ardmore</a>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>2502 CROSSROADS DR. ARDMORE, OK 73401</p>\n<p><a href=\"tel:(580) 379-0487\">(580) 319-7935</a></p>"
+    },
+    {
+     "t": "button",
+     "text": "ORDER ONLINE",
+     "href": "https://dutchie.com/stores/star-buds-ardmore",
+     "external": true
+    },
+    {
+     "t": "rich",
+     "html": "<p>Star Buds in Ardmore is the top medical cannabis dispensary in the Carter County area, providing the best medical marijuana needs here in Ardmore, Oklahoma. Our compassionate and knowledgeable staff is here to help you get exactly what you need at the best possible price, and without pushy or overbearing sales tactics. We are proud to own and <a href=\"/oklahoma/\" target=\"_blank\" rel=\"noreferrer noopener\">operate 7 dispensaries</a> throughout the great state of Oklahoma. Come visit us today and see the Star Buds difference for yourself!</p>\n<p>Star Buds Medical Weed Dispensary, Ardmore is proud to serve only the top medical cannabis products to customers in Ardmore, OK, as well as surrounding Carter County areas including Lone Grove, Springer, Marietta, Thackerville, Dickson, Madill, Wilson, Healton, Ringling, Davis, Sulphur, and Wynnwood.</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>HOURS</p>\n<p>MONDAY: 8:00AM-12:00AM</p>\n<p>TUESDAY: 8:00AM-12:00AM</p>\n<p>WEDNESDAY: 8:00AM-12:00AM</p>\n<p>THURSDAY: 8:00AM-12:00AM</p>\n<p>FRIDAY: 8:00AM-12:00AM</p>\n<p>SATURDAY: 8:00AM-12:00AM</p>\n<p>SUNDAY: 8:00AM-12:00AM</p>"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Come Visit Our Medical Marijuana Dispensary in Ardmore, Oklahoma!"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Welcome to Star Buds Medical Weed Dispensary Ardmore, the best medical dispensary in Ardmore to provide only the highest quality and award-winning cannabis strains in Oklahoma.</p>\n<p>At our core, we shine above the competition by creating a welcoming and truly unique experience within our medical dispensary. We highly encourage you to take your time inside our dispensary and enjoy the ambiance of our clean and friendly cannabis store. Feel free to smell the aroma of every premium cannabis strain, inspect the trichomes on various cannabis flowers. Questions about our top-notch medical cannabis products are always welcome!</p>\n<p>Whether you have visited other dispensaries near you before or are brand new to shopping at medical marijuana dispensaries, Star Buds Ardmore has everything you could possibly need. Each budtender is knowledgeable and prepared to provide you with outstanding customer service and expert advice to help you pick out marijuana products specific to your needs. We have the best variety of medical cannabis products in the state, including a wide range of cannabis flower, pre-rolls, concentrates, edibles, tinctures, and smoking accessories.</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Above all, we provide each customer with an outstanding and unmatched rewards program. Every customer is eligible to earn reward points that count towards savings on various marijuana products! Stop by our location, or order online, to pick up in-store or curbside anytime Monday through Sunday from 8:00 AM to 12:00 AM and see why Star Buds Medical Weed Dispensary Ardmore shines high above the rest.</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>What to Know Before You Go…</p>\n<p>​</p>\n<p>This is my first time visiting Star Buds. What should I bring with me?</p>\n<p>All visitors must be at least 18 years of age with a valid Oklahoma Medical Marijuana card and must provide a valid photo ID. We take cash and debit cards, and there is also an ATM inside our dispensary for your convenience.</p>\n<p>​</p>\n<p>Is your dispensary open late?</p>\n<p>We understand that normal operating hours are not always convenient for our consumers with busy lifestyles, which is why our dispensary is open every day from 8:00 AM to 12:00 AM.</p>\n<p>Does Star Buds offer any discounts or ways to save on orders?</p>\n<p>We run product specials 7 days a week, and our loyalty rewards program offers even more savings. We are happy to provide our MED card holders and veterans with a discount upon request.</p>\n<p>​</p>\n<p>Read What Our Customers Are Saying!</p>\n<p>​</p>\n<p>“Great prices and super knowledgeable staff! You’ll be happy with the flower :)”</p>\n<p>- Araya Quesada, Google</p>\n<p>“Great service!! Friendly and good variety.”</p>\n<p>- Cambria Wilson, Google</p>\n<p>“Excellent customer service. Friendly and knowledgeable.”</p>\n<p>- Courtney S, Google</p>\n<p>“Very nice and clean spot would recommend looking”</p>\n<p>- Izzy Abshire, Google</p>\n<p>“I give 5 stars to starbuds”</p>\n<p>- Michelle Abshire, Google</p>\n<p>​</p>\n<p>More Reviews About our <a href=\"https://www.google.com/search?q=Star+Buds+ardmore+ok&amp;ei=sEjLYZKWEb25qtsPmqO7KA&amp;ved=0ahUKEwiSro_vgYf1AhW9nGoFHZrRDgUQ4dUDCA4&amp;uact=5&amp;oq=Star+Buds+ardmore+ok&amp;gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEOgcIABBHELADSgQIQRgASgQIRhgAUHNY_ghg1wpoAXACeACAAT2IAbIBkgEBM5gBAKABAcgBCMABAQ&amp;sclient=gws-wiz#lrd=0x864d293ab781f7f3:0xe3905e34e342228c,1,,,\" target=\"_blank\" rel=\"noreferrer noopener\">Ardmore Medical Marijuana Dispensary</a>!</p>"
+    }
+   ]
+  }
+ ],
+ "store": {
+  "name": "Star Buds Medical Weed Dispensary Ardmore",
+  "address": [
+   "2502 CROSSROADS DR. ARDMORE, OK 73401"
+  ],
+  "phone": "(580) 319-7935",
+  "tel": "+15803197935",
+  "hours": [
+   {
+    "day": "MONDAY",
+    "time": "8:00AM-12:00AM"
+   },
+   {
+    "day": "TUESDAY",
+    "time": "8:00AM-12:00AM"
+   },
+   {
+    "day": "WEDNESDAY",
+    "time": "8:00AM-12:00AM"
+   },
+   {
+    "day": "THURSDAY",
+    "time": "8:00AM-12:00AM"
+   },
+   {
+    "day": "FRIDAY",
+    "time": "8:00AM-12:00AM"
+   },
+   {
+    "day": "SATURDAY",
+    "time": "8:00AM-12:00AM"
+   },
+   {
+    "day": "SUNDAY",
+    "time": "8:00AM-12:00AM"
+   }
+  ],
+  "notes": [
+   "Star Buds in Ardmore is the top medical cannabis dispensary in the Carter County area, providing the best medical marijuana needs here in Ardmore, Oklahoma. Our compassionate and knowledgeable staff is here to help you get exactly what you need at the best possible price, and without pushy or overbearing sales tactics. We are proud to own and <a href=\"/oklahoma/\" target=\"_blank\" rel=\"noreferrer noopener\">operate 7 dispensaries</a> throughout the great state of Oklahoma. Come visit us today and see the Star Buds difference for yourself!",
+   "Star Buds Medical Weed Dispensary, Ardmore is proud to serve only the top medical cannabis products to customers in Ardmore, OK, as well as surrounding Carter County areas including Lone Grove, Springer, Marietta, Thackerville, Dickson, Madill, Wilson, Healton, Ringling, Davis, Sulphur, and Wynnwood.",
+   "Welcome to Star Buds Medical Weed Dispensary Ardmore, the best medical dispensary in Ardmore to provide only the highest quality and award-winning cannabis strains in Oklahoma.",
+   "At our core, we shine above the competition by creating a welcoming and truly unique experience within our medical dispensary. We highly encourage you to take your time inside our dispensary and enjoy the ambiance of our clean and friendly cannabis store. Feel free to smell the aroma of every premium cannabis strain, inspect the trichomes on various cannabis flowers. Questions about our top-notch medical cannabis products are always welcome!",
+   "Whether you have visited other dispensaries near you before or are brand new to shopping at medical marijuana dispensaries, Star Buds Ardmore has everything you could possibly need. Each budtender is knowledgeable and prepared to provide you with outstanding customer service and expert advice to help you pick out marijuana products specific to your needs. We have the best variety of medical cannabis products in the state, including a wide range of cannabis flower, pre-rolls, concentrates, edibles, tinctures, and smoking accessories.",
+   "Above all, we provide each customer with an outstanding and unmatched rewards program. Every customer is eligible to earn reward points that count towards savings on various marijuana products! Stop by our location, or order online, to pick up in-store or curbside anytime Monday through Sunday from 8:00 AM to 12:00 AM and see why Star Buds Medical Weed Dispensary Ardmore shines high above the rest.",
+   "What to Know Before You Go…",
+   "​",
+   "This is my first time visiting Star Buds. What should I bring with me?",
+   "All visitors must be at least 18 years of age with a valid Oklahoma Medical Marijuana card and must provide a valid photo ID. We take cash and debit cards, and there is also an ATM inside our dispensary for your convenience.",
+   "​",
+   "Is your dispensary open late?",
+   "We understand that normal operating hours are not always convenient for our consumers with busy lifestyles, which is why our dispensary is open every day from 8:00 AM to 12:00 AM.",
+   "Does Star Buds offer any discounts or ways to save on orders?",
+   "We run product specials 7 days a week, and our loyalty rewards program offers even more savings. We are happy to provide our MED card holders and veterans with a discount upon request.",
+   "​",
+   "Read What Our Customers Are Saying!",
+   "​",
+   "“Great prices and super knowledgeable staff! You’ll be happy with the flower :)”",
+   "- Araya Quesada, Google",
+   "“Great service!! Friendly and good variety.”",
+   "- Cambria Wilson, Google",
+   "“Excellent customer service. Friendly and knowledgeable.”",
+   "- Courtney S, Google",
+   "“Very nice and clean spot would recommend looking”",
+   "- Izzy Abshire, Google",
+   "“I give 5 stars to starbuds”",
+   "- Michelle Abshire, Google",
+   "​",
+   "More Reviews About our <a href=\"https://www.google.com/search?q=Star+Buds+ardmore+ok&amp;ei=sEjLYZKWEb25qtsPmqO7KA&amp;ved=0ahUKEwiSro_vgYf1AhW9nGoFHZrRDgUQ4dUDCA4&amp;uact=5&amp;oq=Star+Buds+ardmore+ok&amp;gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEOgcIABBHELADSgQIQRgASgQIRhgAUHNY_ghg1wpoAXACeACAAT2IAbIBkgEBM5gBAKABAcgBCMABAQ&amp;sclient=gws-wiz#lrd=0x864d293ab781f7f3:0xe3905e34e342228c,1,,,\" target=\"_blank\" rel=\"noreferrer noopener\">Ardmore Medical Marijuana Dispensary</a>!"
+  ],
+  "links": [
+   {
+    "text": "ORDER ONLINE",
+    "href": "https://dutchie.com/stores/star-buds-ardmore"
+   }
+  ],
+  "image": "https://static.wixstatic.com/media/b86374_bb2423ee5f9d45e5968d4219116c564e~mv2.jpg",
+  "map": null
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "path": "/bricktown",
+ "url": "https://www.starbuds.us/bricktown",
+ "key": "bricktown",
+ "kind": "store",
+ "state": "OK",
+ "title": "Star Buds Medical Marijuana Dispensary Bricktown OK",
+ "h1": "Star Buds Medical Weed Dispensary Bricktown",
+ "head": {
+  "title": "Star Buds Medical Marijuana Dispensary Bricktown OK",
+  "description": "Star Buds Bricktown is proud to be a medical cannabis dispensary, come see us for all your marijuana needs. Our compassionate and knowledgeable staff is here to help you get exactly what you need at the best possible price.",
+  "canonical": "https://www.starbuds.us/bricktown",
+  "robots": "",
+  "og": {
+   "title": "Star Buds Medical Marijuana Dispensary Bricktown OK",
+   "description": "Star Buds Bricktown is proud to be a medical cannabis dispensary, come see us for all your marijuana needs. Our compassionate and knowledgeable staff is here to help you get exactly what you need at the best possible price.",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/bricktown",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": [
+   {
+    "@context": "http://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Star Buds Medical Weed Dispensary Bricktown",
+    "openingHours": "Su 1200-0000 Mo 1200-0000 Tu 1200-0000 We 1200-0000 Th 1200-0000 Fr 1200-0230 Sa 1200-0230",
+    "additionalProperty": "https://en.wikipedia.org/wiki/Cannabis_dispensaries_in_the_United_States",
+    "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+    "areaServed": {
+     "@type": "GeoCircle",
+     "name": "Star Buds Medical Weed Dispensary Bricktown service area",
+     "geoMidpoint": {
+      "@type": "GeoCoordinates",
+      "postalCode": "73104",
+      "latitude": "35.4671715",
+      "longitude": "-97.507739",
+      "description": "Our office location can be found here.",
+      "name": "Star Buds Medical Weed Dispensary Bricktown geo location"
+     },
+     "geoRadius": "20000",
+     "description": "Star Buds Medical Weed Dispensary Bricktown proudly serves the entire city of Oklahoma City Oklahoma"
+    },
+    "email": "info@starbuds.us",
+    "address": {
+     "@type": "PostalAddress",
+     "postalCode": "73104",
+     "addressRegion": "Oklahoma",
+     "addressCountry": "United States",
+     "streetAddress": "224 East Main Street #200",
+     "addressLocality": "Oklahoma City"
+    },
+    "paymentAccepted": "Cash, Credit Card",
+    "telephone": "14052251433",
+    "image": {
+     "@type": "ImageObject",
+     "name": "Star Buds Medical Weed Dispensary Bricktown image",
+     "url": "https://static.wixstatic.com/media/553d0f_3264c14af18542838f691ef7306575d5~mv2.jpg/v1/fill/w_914,h_515,al_c,q_85,usm_0.66_1.00_0.01/Bricktown%20-%20Menu%2BDD.webp"
+    },
+    "ContactPoint": {
+     "@type": "ContactPoint",
+     "name": "Star Buds Medical Weed Dispensary Bricktown inquiry",
+     "availableLanguage": "https://en.wikipedia.org/wiki/List_of_dialects_of_the_English_language",
+     "telephone": "+14052251433",
+     "contactType": "customer support",
+     "@id": "https://www.starbuds.us/contact"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "35.4671715",
+     "longitude": "-97.507739",
+     "description": "Our office location can be found here.",
+     "name": "Star Buds Medical Weed Dispensary Bricktown geo location"
+    },
+    "description": "Star Buds Medical Marijuana Dispensary Bricktown is located near the heart of downtown Oklahoma City. Star Buds offers the top options of medical cannabis products for your medical needs. We proudly serve all of OKC.",
+    "priceRange": "5-50",
+    "url": "http://www.starbuds.us/bricktown",
+    "currenciesAccepted": "$",
+    "hasMap": "https://maps.google.com/?cid=16991194602308127504",
+    "logo": "https://u.localviking.com/image/l8/l8ydnpqz/PeGu6h6Tw52PyrkW4sYlXm3e0CKlaD7VpjOTSOKdsCmVLfy2PMb4m8IrWbp-IGbJDEW0AHfsd5PONh2s_s0.png",
+    "serviceArea": {
+     "@type": "GeoCircle",
+     "name": "Star Buds Medical Weed Dispensary Bricktown service area",
+     "geoMidpoint": {
+      "@type": "GeoCoordinates",
+      "postalCode": "73104",
+      "latitude": "35.4671715",
+      "longitude": "-97.507739",
+      "description": "Our office location can be found here.",
+      "name": "Star Buds Medical Weed Dispensary Bricktown geo location"
+     },
+     "geoRadius": "20000",
+     "description": "Star Buds Medical Weed Dispensary Bricktown proudly serves the entire city of Oklahoma City"
+    },
+    "sameAs": [
+     "https://www.bing.com/maps?ss=ypid.YN873x13448875193467033814&mkt=en-US",
+     "https://www.chamberofcommerce.com/united-states/oklahoma/oklahoma-city/healing-practitioners/2012257780-star-buds-medical-weed-dispensary-bricktown",
+     "https://citysquares.com/b/star-buds-medical-weed-dispensary-bricktown-23599264",
+     "https://www.dexknows.com/oklahoma-city-ok/bp/star-buds-medical-marijuana-dispensary-bricktown-553186453",
+     "https://www.localdatabase.com/l/starbuds-medical-marijuana-dispensary-bricktown",
+     "https://localstack.com/biz/star-buds-medical-weed-dispensary-bricktown-oklahoma-city-ok/36352103",
+     "https://www.mapquest.com/us/oklahoma/star-buds-medical-marijuana-dispensary-bricktown-425464132",
+     "https://local.yahoo.com/info-224211290",
+     "https://www.yelp.com/biz/star-buds-medical-marijuana-dispensary-bricktown-oklahoma-city-2",
+     "https://www.yellowpages.com/oklahoma-city-ok/mip/star-buds-medical-marijuana-dispensary-bricktown-553186453"
+    ],
+    "@id": "http://www.starbuds.us/bricktown"
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Oklahoma",
+   "path": "/oklahoma"
+  },
+  {
+   "name": "Star Buds Medical Weed Dispensary Bricktown",
+   "path": "/bricktown"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "<a href=\"https://www.google.com/maps/place/Star+Buds+Medical+Weed+Dispensary+Bricktown/@35.4671715,-97.5099277,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0xebccd977b41c4b10!8m2!3d35.4671715!4d-97.507739\" target=\"_blank\" rel=\"noreferrer noopener\">Star Buds Medical Weed Dispensary Bricktown</a>"
+    },
+    {
+     "t": "rich",
+     "html": "<p><a href=\"https://www.google.com/maps/place/Starbuds+Medical+Marijuana+Dispensary+Bricktown/@35.4520447,-97.5302576,13z/data=!4m9!1m3!2m2!1sdispensary+near+me!6e6!3m4!1s0x87b217e3ea6f2aa1:0xebccd977b41c4b10!8m2!3d35.4671984!4d-97.5077866\" target=\"_blank\">224 E MAIN ST #200 - OKLAHOMA CITY, OKLAHOMA 73104</a></p>\n<p><a href=\"tel:(405) 225-1433\">(405) 225-1433</a></p>"
+    },
+    {
+     "t": "button",
+     "text": "ORDER ONLINE",
+     "href": "https://dutchie.com/stores/starbuds-bricktown",
+     "external": true
+    },
+    {
+     "t": "rich",
+     "html": "<p>Star Buds in Bricktown is the top medical cannabis dispensary serving the community of Bricktown as well as the Oklahoma County area. Come see us for all your medical marijuana needs! Our compassionate and knowledgeable staff is here to help you get exactly what you need at the best possible price, without pushy or overbearing sales tactics. We are proud to own and operate 7<a href=\"/oklahoma/\" target=\"_blank\" rel=\"noreferrer noopener\"> medical dispensaries</a> throughout the great state of Oklahoma. Come visit us today and see the Star Buds difference for yourself!</p>\n<p>​</p>\n<p>​Star Buds Bricktown Medical Weed Dispensary is proud to serve only the top medical cannabis products to customers in <a href=\"https://www.oklahomacounty.org/\" target=\"_blank\" rel=\"noreferrer noopener\">Oklahoma County</a> and surrounding areas, including the communities of Amber, Arcadia, Bethany, Bethel Acres, Blanchard, <a href=\"https://goo.gl/maps/84roNYs1ceXC93Ws9\" target=\"_blank\" rel=\"noreferrer noopener\">Bricktown</a>, Cashion, Choctaw, Edmond, Guthrie, Harrah, Jones, Luther, Mcloud, Meridian, Midwest City, Mustang, Newalla, Newcastle, Nicoma Park, Noble, Norman, <a href=\"https://www.okc.gov/\" target=\"_blank\" rel=\"noreferrer noopener\">Oklahoma City</a>, Piedmont, Spencer, Tuttle, Union City, Wellston, Wheatland, and Yukon.</p>"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>HOURS</p>\n<p>MONDAY: 12:00PM-12:00AM</p>\n<p>TUESDAY: 12:00PM-12:00AM</p>\n<p>WEDNESDAY: 12:00PM-12:00AM</p>\n<p>THURSDAY: 12:00PM-12:00AM</p>\n<p>FRIDAY: 12:00PM-2:30AM</p>\n<p>SATURDAY: 12:00PM-2:30AM</p>\n<p>SUNDAY: 12:00PM-12:00AM</p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Come Visit Our Medical Marijuana Dispensary in Bricktown, Oklahoma!"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Welcome to Star Buds Medical Weed Dispensary Bricktown, the best medical dispensary near you to provide only the highest quality and award-winning cannabis strains in Oklahoma."
+    },
+    {
+     "t": "rich",
+     "html": "<p>At our core, we create a truly welcoming and unique experience unlike any other medical dispensaries in the area. We highly encourage you to take your time inside our dispensary and enjoy the ambiance of our clean and friendly cannabis store. Feel free to smell the aroma of every premium cannabis strain and inspect the trichomes on various cannabis flower. Questions about our top-notch medical cannabis products are always welcome!</p>\n<p>Whether you have visited other dispensaries near you before or are brand new to shopping at medical marijuana dispensaries, Star Buds Bricktown has everything you could possibly need. Each budtender is knowledgeable and prepared to provide you with outstanding customer service and expert advice to help you pick out marijuana products specific to your needs. We have the best variety of medical cannabis products in the state, including a wide range of cannabis flower, pre-rolls, concentrates, edibles, tinctures, and smoking accessories. Below is our cannabis flower pricing:</p>\n<p>Above all, we provide each customer with an outstanding and unmatched <a href=\"/oklahomarewards/\" target=\"_blank\" rel=\"noreferrer noopener\">rewards program</a>. Every customer is eligible to earn reward points that count towards savings on various marijuana products! Stop by our location, or order online, to pick up in-store or curbside anytime Sunday through Thursday from 12:00 PM to 12:00 AM and Saturday and Sunday from 12:00 PM to 2:30 AM. Come see why Star Buds Medical Weed Dispensary Bricktown shines high above the rest.</p>\n<p>​</p>\n<p>What to Know Before You Go…</p>\n<p>​</p>\n<p>This is my first time visiting Star Buds. What should I bring with me?</p>\n<p>All visitors must be at least 18 years of age with a valid Oklahoma Medical Marijuana card and must provide a valid photo ID. We take cash and debit cards, and there is also an ATM inside our dispensary for your convenience.</p>\n<p>​</p>\n<p>Is your dispensary open late?</p>\n<p>We understand that normal operating hours are not always convenient for our consumers with busy lifestyles, which is why our dispensary is open every day from 8:00 AM to 12:00 AM, and 8:00 AM to 2:30 AM every Friday and Saturday.</p>\n<p>​</p>\n<p>Does Star Buds offer any discounts or ways to save on orders?</p>\n<p>We run product specials 7 days a week, and our loyalty rewards program offers even more savings. We are happy to provide our MED card holders and veterans with a discount upon request.</p>\n<p>​</p>\n<p>Read What Our Customers Are Saying!</p>\n<p>​</p>\n<p>My favorite store was tegridy bc of their great flavor the bud has i think the containers they use help keep the weed fresh longer, saying all that i think starbuds might be my new favorite. The employees are nice they always answer the phone, and i love the happy hour special. 25$ 8th. I think they only criticism I could offer is to get better jars for the weed so that they taste better and stay fresh longer. Like those metal ones that seal really good . I also love how they offer candies and snacks especially during Halloween almost feels like trick or treating 👻</p>\n<p>- Morgan Rhodes, Local Guide, Google</p>\n<p>Mckenzie was super sweet and helpful; she knows her weed and has good taste! Trust her opinion. The Gorilla Glue had it's amazing, distinct smell and looked perfectly cured! Tons of crystals covered it's surface! I wasn't disappointed that's for sure when I got home to smoke it! High quality bud at a very decent price! Thank you Mckenzie and Star buds!</p>\n<p>- Kyle Roberts, Google</p>\n<p>I wanna say all 3 times that I have been here the staff are always so helpful and informative. My most recent visit with Lakyn and I cant remember what the guys name was sorry! Haha I think a manager maybe but anyway they helped me find what I was looking for and for a better price while maintaining great quality flower. I can say I will definitely continue to be a repeat customer. Thanks guys keep up the good work!</p>\n<p>- Josh B, Google</p>\n<p>​</p>\n<p>More Reviews About our <a href=\"https://www.google.com/search?q=star+buds+bricktown&amp;rlz=1C1CHBF_enUS810US810&amp;ei=aE_LYfaAKYX5tAbXoKjoBw&amp;ved=0ahUKEwj21LujiIf1AhWFPM0KHVcQCn0Q4dUDCA4&amp;uact=5&amp;oq=star+buds+bricktown&amp;gs_lcp=Cgdnd3Mtd2l6EAMyCgguEMcBEK8BEAo6BwgAEEcQsAM6CggAEEcQsAMQyQM6CAgAEJIDELADOgUIABCABDoLCC4QgAQQxwEQrwE6BwgAEIAEEAo6DQguEIAEEMcBEK8BEAo6CAgAEBYQChAeOgQIABAKOgYIABAWEB46AggmSgQIQRgASgQIRhgAUJ0IWLsQYLASaAJwAngAgAFpiAH1BZIBAzguMZgBAKABAcgBCcABAQ&amp;sclient=gws-wiz#lrd=0x87b217e3ea6f2aa1:0xebccd977b41c4b10,1,,,\" target=\"_blank\" rel=\"noreferrer noopener\">Bricktown Medical Marijuana Dispensary</a>!</p>"
+    }
+   ]
+  }
+ ],
+ "store": {
+  "name": "Star Buds Medical Weed Dispensary Bricktown",
+  "address": [
+   "224 E MAIN ST #200 - OKLAHOMA CITY, OKLAHOMA 73104"
+  ],
+  "phone": "(405) 225-1433",
+  "tel": "+14052251433",
+  "hours": [
+   {
+    "day": "MONDAY",
+    "time": "12:00PM-12:00AM"
+   },
+   {
+    "day": "TUESDAY",
+    "time": "12:00PM-12:00AM"
+   },
+   {
+    "day": "WEDNESDAY",
+    "time": "12:00PM-12:00AM"
+   },
+   {
+    "day": "THURSDAY",
+    "time": "12:00PM-12:00AM"
+   },
+   {
+    "day": "FRIDAY",
+    "time": "12:00PM-2:30AM"
+   },
+   {
+    "day": "SATURDAY",
+    "time": "12:00PM-2:30AM"
+   },
+   {
+    "day": "SUNDAY",
+    "time": "12:00PM-12:00AM"
+   }
+  ],
+  "notes": [
+   "Star Buds in Bricktown is the top medical cannabis dispensary serving the community of Bricktown as well as the Oklahoma County area. Come see us for all your medical marijuana needs! Our compassionate and knowledgeable staff is here to help you get exactly what you need at the best possible price, without pushy or overbearing sales tactics. We are proud to own and operate 7<a href=\"/oklahoma/\" target=\"_blank\" rel=\"noreferrer noopener\"> medical dispensaries</a> throughout the great state of Oklahoma. Come visit us today and see the Star Buds difference for yourself!",
+   "​",
+   "​Star Buds Bricktown Medical Weed Dispensary is proud to serve only the top medical cannabis products to customers in <a href=\"https://www.oklahomacounty.org/\" target=\"_blank\" rel=\"noreferrer noopener\">Oklahoma County</a> and surrounding areas, including the communities of Amber, Arcadia, Bethany, Bethel Acres, Blanchard, <a href=\"https://goo.gl/maps/84roNYs1ceXC93Ws9\" target=\"_blank\" rel=\"noreferrer noopener\">Bricktown</a>, Cashion, Choctaw, Edmond, Guthrie, Harrah, Jones, Luther, Mcloud, Meridian, Midwest City, Mustang, Newalla, Newcastle, Nicoma Park, Noble, Norman, <a href=\"https://www.okc.gov/\" target=\"_blank\" rel=\"noreferrer noopener\">Oklahoma City</a>, Piedmont, Spencer, Tuttle, Union City, Wellston, Wheatland, and Yukon.",
+   "At our core, we create a truly welcoming and unique experience unlike any other medical dispensaries in the area. We highly encourage you to take your time inside our dispensary and enjoy the ambiance of our clean and friendly cannabis store. Feel free to smell the aroma of every premium cannabis strain and inspect the trichomes on various cannabis flower. Questions about our top-notch medical cannabis products are always welcome!",
+   "Whether you have visited other dispensaries near you before or are brand new to shopping at medical marijuana dispensaries, Star Buds Bricktown has everything you could possibly need. Each budtender is knowledgeable and prepared to provide you with outstanding customer service and expert advice to help you pick out marijuana products specific to your needs. We have the best variety of medical cannabis products in the state, including a wide range of cannabis flower, pre-rolls, concentrates, edibles, tinctures, and smoking accessories. Below is our cannabis flower pricing:",
+   "Above all, we provide each customer with an outstanding and unmatched <a href=\"/oklahomarewards/\" target=\"_blank\" rel=\"noreferrer noopener\">rewards program</a>. Every customer is eligible to earn reward points that count towards savings on various marijuana products! Stop by our location, or order online, to pick up in-store or curbside anytime Sunday through Thursday from 12:00 PM to 12:00 AM and Saturday and Sunday from 12:00 PM to 2:30 AM. Come see why Star Buds Medical Weed Dispensary Bricktown shines high above the rest.",
+   "​",
+   "What to Know Before You Go…",
+   "​",
+   "This is my first time visiting Star Buds. What should I bring with me?",
+   "All visitors must be at least 18 years of age with a valid Oklahoma Medical Marijuana card and must provide a valid photo ID. We take cash and debit cards, and there is also an ATM inside our dispensary for your convenience.",
+   "​",
+   "Is your dispensary open late?",
+   "We understand that normal operating hours are not always convenient for our consumers with busy lifestyles, which is why our dispensary is open every day from 8:00 AM to 12:00 AM, and 8:00 AM to 2:30 AM every Friday and Saturday.",
+   "​",
+   "Does Star Buds offer any discounts or ways to save on orders?",
+   "We run product specials 7 days a week, and our loyalty rewards program offers even more savings. We are happy to provide our MED card holders and veterans with a discount upon request.",
+   "​",
+   "Read What Our Customers Are Saying!",
+   "​",
+   "My favorite store was tegridy bc of their great flavor the bud has i think the containers they use help keep the weed fresh longer, saying all that i think starbuds might be my new favorite. The employees are nice they always answer the phone, and i love the happy hour special. 25$ 8th. I think they only criticism I could offer is to get better jars for the weed so that they taste better and stay fresh longer. Like those metal ones that seal really good . I also love how they offer candies and snacks especially during Halloween almost feels like trick or treating 👻",
+   "- Morgan Rhodes, Local Guide, Google",
+   "Mckenzie was super sweet and helpful; she knows her weed and has good taste! Trust her opinion. The Gorilla Glue had it's amazing, distinct smell and looked perfectly cured! Tons of crystals covered it's surface! I wasn't disappointed that's for sure when I got home to smoke it! High quality bud at a very decent price! Thank you Mckenzie and Star buds!",
+   "- Kyle Roberts, Google",
+   "I wanna say all 3 times that I have been here the staff are always so helpful and informative. My most recent visit with Lakyn and I cant remember what the guys name was sorry! Haha I think a manager maybe but anyway they helped me find what I was looking for and for a better price while maintaining great quality flower. I can say I will definitely continue to be a repeat customer. Thanks guys keep up the good work!",
+   "- Josh B, Google",
+   "​",
+   "More Reviews About our <a href=\"https://www.google.com/search?q=star+buds+bricktown&amp;rlz=1C1CHBF_enUS810US810&amp;ei=aE_LYfaAKYX5tAbXoKjoBw&amp;ved=0ahUKEwj21LujiIf1AhWFPM0KHVcQCn0Q4dUDCA4&amp;uact=5&amp;oq=star+buds+bricktown&amp;gs_lcp=Cgdnd3Mtd2l6EAMyCgguEMcBEK8BEAo6BwgAEEcQsAM6CggAEEcQsAMQyQM6CAgAEJIDELADOgUIABCABDoLCC4QgAQQxwEQrwE6BwgAEIAEEAo6DQguEIAEEMcBEK8BEAo6CAgAEBYQChAeOgQIABAKOgYIABAWEB46AggmSgQIQRgASgQIRhgAUJ0IWLsQYLASaAJwAngAgAFpiAH1BZIBAzguMZgBAKABAcgBCcABAQ&amp;sclient=gws-wiz#lrd=0x87b217e3ea6f2aa1:0xebccd977b41c4b10,1,,,\" target=\"_blank\" rel=\"noreferrer noopener\">Bricktown Medical Marijuana Dispensary</a>!"
+  ],
+  "links": [
+   {
+    "text": "ORDER ONLINE",
+    "href": "https://dutchie.com/stores/starbuds-bricktown"
+   }
+  ],
+  "image": null,
+  "map": null
+ }
+}

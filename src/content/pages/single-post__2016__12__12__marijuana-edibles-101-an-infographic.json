@@ -1,0 +1,97 @@
+{
+ "path": "/single-post/2016/12/12/marijuana-edibles-101-an-infographic",
+ "url": "https://www.starbuds.us/single-post/2016/12/12/marijuana-edibles-101-an-infographic",
+ "key": "single-post__2016__12__12__marijuana-edibles-101-an-infographic",
+ "kind": "post",
+ "state": null,
+ "title": "Marijuana Edibles 101 - An Infographic | Starbuds Marijuana Dispensary",
+ "h1": "Marijuana Edibles 101 - An Infographic",
+ "head": {
+  "title": "Marijuana Edibles 101 - An Infographic | Starbuds Marijuana Dispensary",
+  "description": "Marijuana legalization is happening all across the United States, and legalization has brought new, more convenient ways to consume cannabis. Edibles have been",
+  "canonical": "https://www.starbuds.us/single-post/2016/12/12/marijuana-edibles-101-an-infographic",
+  "robots": "",
+  "og": {
+   "title": "Marijuana Edibles 101 - An Infographic | Starbuds Marijuana Dispensary",
+   "description": "Starbuds is excited to introduce you to this educational guide, promoting knowledgeable and responsible cannabis consumption. Marijuana legalization is happening all across the United States, and legalization has brought new, more convenient ways to consume cannabis. Edibles have been around since your dad was eating pot brownies at Woodstock, but today’s legal market may mystify even the most experienced users. Medical patients and recreational consumers alike may be surprised by the hundreds o",
+   "image": "https://static.wixstatic.com/media/553d0f_6f8d7c99ed1f416baed94f1bdb1f1124~mv2.png/v1/fill/w_237,h_1000,al_c,q_85,usm_0.66_1.00_0.01/553d0f_6f8d7c99ed1f416baed94f1bdb1f1124~mv2.png",
+   "image:width": "566",
+   "image:height": "2392",
+   "url": "https://www.starbuds.us/single-post/2016/12/12/marijuana-edibles-101-an-infographic",
+   "site_name": "Star Buds ",
+   "type": "article"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+     "@type": "Person",
+     "name": "starbuds",
+     "url": "https://www.starbuds.us/profile/denver/profile"
+    },
+    "dateModified": "2016-12-12T17:51:00.000Z",
+    "datePublished": "2016-12-12T17:51:00.000Z",
+    "headline": "Marijuana Edibles 101 - An Infographic | Starbuds Marijuana Dispensary",
+    "mainEntityOfPage": {
+     "@id": "https://www.starbuds.us/single-post/2016/12/12/marijuana-edibles-101-an-infographic",
+     "@type": "itemPage",
+     "url": "https://www.starbuds.us/single-post/2016/12/12/marijuana-edibles-101-an-infographic"
+    },
+    "description": "Marijuana legalization is happening all across the United States, and legalization has brought new, more convenient ways to consume cannabis. Edibles have been",
+    "url": "https://www.starbuds.us/single-post/2016/12/12/marijuana-edibles-101-an-infographic",
+    "image": {
+     "@type": "ImageObject",
+     "url": "https://static.wixstatic.com/media/553d0f_6f8d7c99ed1f416baed94f1bdb1f1124~mv2.png/v1/fill/w_237,h_1000,al_c,q_85,usm_0.66_1.00_0.01/553d0f_6f8d7c99ed1f416baed94f1bdb1f1124~mv2.png",
+     "width": "566",
+     "height": "2392"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "Star Buds ",
+     "url": "https://www.starbuds.us"
+    }
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Blog",
+   "path": "/blog"
+  },
+  {
+   "name": "Marijuana Edibles 101 - An Infographic",
+   "path": "/single-post/2016/12/12/marijuana-edibles-101-an-infographic"
+  }
+ ],
+ "sections": [],
+ "post": {
+  "date": "2016-12-12T17:51:00.000Z",
+  "dateText": "Dec 12, 2016",
+  "readTime": "1 min read",
+  "hero": {
+   "src": "https://static.wixstatic.com/media/553d0f_6f8d7c99ed1f416baed94f1bdb1f1124~mv2.png",
+   "alt": ""
+  },
+  "categories": [],
+  "blocks": [
+   {
+    "t": "rich",
+    "html": "<p>Starbuds is excited to introduce you to this educational guide, promoting knowledgeable and responsible cannabis consumption. Marijuana legalization is happening all across the United States, and legalization has brought new, more convenient ways to consume cannabis. Edibles have been around since your dad was eating pot brownies at Woodstock, but today’s legal market may mystify even the most experienced users. Medical patients and recreational consumers alike may be surprised by the hundreds of edible marijuana products differing in type, taste, potency and packaging that fill up dispensary shelves today.</p>"
+   },
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/553d0f_6f8d7c99ed1f416baed94f1bdb1f1124~mv2.png",
+    "alt": "",
+    "href": null,
+    "w": 566,
+    "h": 2392,
+    "caption": ""
+   }
+  ]
+ }
+}

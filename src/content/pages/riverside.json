@@ -1,0 +1,131 @@
+{
+ "path": "/riverside",
+ "url": "https://www.starbuds.us/riverside",
+ "key": "riverside",
+ "kind": "store",
+ "state": "IL",
+ "title": "Star Buds Dispensary Medical Marijuana Riverside",
+ "h1": "NOW OPEN",
+ "head": {
+  "title": "Star Buds Dispensary Medical Marijuana Riverside",
+  "description": "Are you looking for a dispensary in Riverside, Illinois? Come by Star Buds Dispensary in Riverside today to discover the finest cannabis products!",
+  "canonical": "https://www.starbuds.us/riverside",
+  "robots": "",
+  "og": {
+   "title": "Star Buds Dispensary Marijuana | Riverside",
+   "description": "Are you looking for a dispensary in Riverside, Illinois? Come by Star Buds Dispensary in Riverside today to discover the finest cannabis products!",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/riverside",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Illinois",
+   "path": "/illinois"
+  },
+  {
+   "name": "NOW OPEN",
+   "path": "/riverside"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "NOW OPEN"
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "Star Buds Marijuana Dispensary Riverside"
+    },
+    {
+     "t": "rich",
+     "html": "<p>2704 S Harlem Ave, Riverside, IL 60546</p>\n<p><a href=\"tel:(719) 547-1009\">(708) 853-9640</a></p>"
+    },
+    {
+     "t": "button",
+     "text": "ORDER ONLINE",
+     "href": "https://shop.starbuds.us/",
+     "external": true
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>Star Buds Riverside is proud to be a recreational cannabis dispensary serving the community of Riverside, Illinois, come see us for all your marijuana needs. Our compassionate and knowledgeable staff is here to help you get exactly what you need at the best possible price.</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>HOURS</p>\n<p>MONDAY: 8:00AM-10:00PM</p>\n<p>TUESDAY: 8:00AM-10:00PM</p>\n<p>WEDNESDAY: 8:00AM-10:00PM</p>\n<p>THURSDAY: 8:00AM-10:00PM</p>\n<p>FRIDAY: 8:00AM-10:00PM</p>\n<p>SATURDAY: 8:00AM-10:00PM</p>\n<p>SUNDAY: 8:00AM-10:00PM</p>"
+    }
+   ]
+  }
+ ],
+ "store": {
+  "name": "Star Buds Marijuana Dispensary Riverside",
+  "address": [
+   "2704 S Harlem Ave, Riverside, IL 60546"
+  ],
+  "phone": "(708) 853-9640",
+  "tel": "+17088539640",
+  "hours": [
+   {
+    "day": "MONDAY",
+    "time": "8:00AM-10:00PM"
+   },
+   {
+    "day": "TUESDAY",
+    "time": "8:00AM-10:00PM"
+   },
+   {
+    "day": "WEDNESDAY",
+    "time": "8:00AM-10:00PM"
+   },
+   {
+    "day": "THURSDAY",
+    "time": "8:00AM-10:00PM"
+   },
+   {
+    "day": "FRIDAY",
+    "time": "8:00AM-10:00PM"
+   },
+   {
+    "day": "SATURDAY",
+    "time": "8:00AM-10:00PM"
+   },
+   {
+    "day": "SUNDAY",
+    "time": "8:00AM-10:00PM"
+   }
+  ],
+  "notes": [
+   "Star Buds Riverside is proud to be a recreational cannabis dispensary serving the community of Riverside, Illinois, come see us for all your marijuana needs. Our compassionate and knowledgeable staff is here to help you get exactly what you need at the best possible price."
+  ],
+  "links": [
+   {
+    "text": "ORDER ONLINE",
+    "href": "https://shop.starbuds.us/"
+   }
+  ],
+  "image": null,
+  "map": null
+ }
+}

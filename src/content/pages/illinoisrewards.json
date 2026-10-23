@@ -1,0 +1,187 @@
+{
+ "path": "/illinoisrewards",
+ "url": "https://www.starbuds.us/illinoisrewards",
+ "key": "illinoisrewards",
+ "kind": "rewards",
+ "state": "IL",
+ "title": "Rewards | Star Buds Marijuana Dispensary | Illinois",
+ "h1": "ILLINOIS HIGHER REWARDS",
+ "head": {
+  "title": "Rewards | Star Buds Marijuana Dispensary | Illinois",
+  "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+  "canonical": "https://www.starbuds.us/illinoisrewards",
+  "robots": "",
+  "og": {
+   "title": "Rewards | Star Buds Marijuana Dispensary | Illinois",
+   "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/illinoisrewards",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "ILLINOIS HIGHER REWARDS",
+   "path": "/illinoisrewards"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": {
+    "image": "https://static.wixstatic.com/media/60c3e1_94f48eda2c294ccd8ffb824aa23fab56~mv2.jpg",
+    "alt": "Higher-Rewards-Screens_BG.jpg"
+   },
+   "blocks": [
+    {
+     "t": "image",
+     "src": "https://static.wixstatic.com/media/60c3e1_98bcf9387f874d428ed4b511d3825cd9~mv2.png",
+     "alt": "NEW-Higher-Rewards-Screens_logo.png",
+     "href": null,
+     "w": 797,
+     "h": 391,
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "ILLINOIS HIGHER REWARDS"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Members receive over 10% back in rewards, free stuff and exclusive deals. Sign up now and start earning points on your next purchase.</p>"
+    },
+    {
+     "t": "image",
+     "src": "https://static.wixstatic.com/media/14d7dc_caa28b9a8cac4caca5457d81a07ee5fe~mv2.png",
+     "alt": "Starbuds_Icon-09.png",
+     "href": null,
+     "w": 39,
+     "h": 48,
+     "caption": ""
+    },
+    {
+     "t": "rich",
+     "html": "<p>100 POINTS</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>$5</p>\n<p>OFF</p>"
+    },
+    {
+     "t": "image",
+     "src": "https://static.wixstatic.com/media/14d7dc_caa28b9a8cac4caca5457d81a07ee5fe~mv2.png",
+     "alt": "Starbuds_Icon-09.png",
+     "href": null,
+     "w": 39,
+     "h": 48,
+     "caption": ""
+    },
+    {
+     "t": "rich",
+     "html": "<p>250 POINTS</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>$15</p>\n<p>OFF</p>"
+    },
+    {
+     "t": "image",
+     "src": "https://static.wixstatic.com/media/14d7dc_caa28b9a8cac4caca5457d81a07ee5fe~mv2.png",
+     "alt": "Starbuds_Icon-09.png",
+     "href": null,
+     "w": 39,
+     "h": 48,
+     "caption": ""
+    },
+    {
+     "t": "rich",
+     "html": "<p>500 POINTS</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>$40</p>\n<p>OFF</p>"
+    },
+    {
+     "t": "image",
+     "src": "https://static.wixstatic.com/media/14d7dc_caa28b9a8cac4caca5457d81a07ee5fe~mv2.png",
+     "alt": "Starbuds_Icon-09.png",
+     "href": null,
+     "w": 39,
+     "h": 48,
+     "caption": ""
+    },
+    {
+     "t": "rich",
+     "html": "<p>1,000 POINTS</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>$100</p>\n<p>OFF</p>"
+    },
+    {
+     "t": "image",
+     "src": "https://static.wixstatic.com/media/553d0f_7563873e3970433e97338c3baa6209cf~mv2.png",
+     "alt": "model3_edited.png",
+     "href": null,
+     "w": 42,
+     "h": 48,
+     "caption": ""
+    },
+    {
+     "t": "rich",
+     "html": "<p>250K POINTS</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>TESLA</p>\n<p>MODEL 3</p>"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>Simply present your rewards wallet with each visit and automatically earn points towards discounts and specials on your favorite Star Buds products. Best of all, it's absolutely free to sign up!</p>"
+    },
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": null,
+       "blocks": [
+        {
+         "t": "button",
+         "text": "JOIN",
+         "href": "https://lab.alpineiq.com/join/c/4068/102204",
+         "external": true
+        },
+        {
+         "t": "heading",
+         "level": 1,
+         "html": "<a href=\"https://lab.alpineiq.com/join/c/4068/102204\" target=\"_blank\" rel=\"noreferrer noopener\">NEW TO HIGHER REWARDS?</a>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

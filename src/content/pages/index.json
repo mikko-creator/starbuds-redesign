@@ -1,0 +1,222 @@
+{
+ "path": "/",
+ "url": "https://www.starbuds.us/",
+ "key": "index",
+ "kind": "home",
+ "state": null,
+ "title": "Home | Star Buds Marijuana Dispensary | Colorado, Illinois, Mississippi, Oklahoma, New York, Maryland",
+ "h1": "SUMMIT DISPENSARY NOW OPEN",
+ "head": {
+  "title": "Home | Star Buds Marijuana Dispensary | Colorado, Illinois, Mississippi, Oklahoma, New York, Maryland",
+  "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+  "canonical": "https://www.starbuds.us",
+  "robots": "",
+  "og": {
+   "title": "Home | Star Buds Marijuana Dispensary | Colorado, Illinois, Mississippi, Oklahoma, New York, Maryland",
+   "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org/",
+    "@type": "LocalBusiness",
+    "name": "Starbuds",
+    "url": "https://www.starbuds.us",
+    "address": {
+     "@type": "PostalAddress",
+     "addressCountry": "US",
+     "addressLocality": "Denver",
+     "postalCode": "80216",
+     "streetAddress": "7030 East 46th Avenue Drive"
+    },
+    "telephone": "+17204543524"
+   },
+   {
+    "@context": "https://schema.org/",
+    "@type": "WebSite",
+    "name": "Star Buds ",
+    "url": "https://www.starbuds.us"
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "slideshow",
+     "slides": [
+      {
+       "bg": {
+        "image": "https://static.wixstatic.com/media/3493a0_5e5d48474e184dc7bcbbc60ffd1acab4~mv2.jpg",
+        "color": null
+       },
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "STAR BUDS ILLINOIS"
+        },
+        {
+         "t": "heading",
+         "level": 1,
+         "html": "SUMMIT DISPENSARY<br> NOW OPEN"
+        },
+        {
+         "t": "button",
+         "text": "LEARN MORE & SHOP",
+         "href": "/illinois/",
+         "external": false
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Star Buds is your neighborhood dispensary. We provide a comfortable setting to learn about and purchase all types of cannabis products. Our carefully curated selection includes: flower, concentrates, edibles and topicals. We have something for everyone… from the occasional smoker to the daily consumer. We strive to educate customers, normalize usage and contribute to our local communities."
+    },
+    {
+     "t": "button",
+     "text": "FIND A STORE",
+     "href": "/locations/",
+     "external": false
+    },
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": null,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "STAR BUDS NEWS"
+        },
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/3493a0_496cefe3107348f68d0a5a037f69822b~mv2.jpg",
+         "alt": "Demystifying Cannabis Concentrates: A Journey from Plant to Potent Extracts",
+         "href": null,
+         "w": null,
+         "h": null,
+         "caption": ""
+        },
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "Demystifying Cannabis Concentrates: A Journey from Plant to Potent Extracts"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "FEATURED POST"
+        },
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/3493a0_5e4dbf4c08504fb0a5665970c6e8edaf~mv2.jpg",
+         "alt": "How Cannabis Is Grown: From Seed to Shelf at a Licensed Dispensary",
+         "href": null,
+         "w": null,
+         "h": null,
+         "caption": ""
+        },
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "How Cannabis Is Grown: From Seed to Shelf at a Licensed Dispensary"
+        },
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/3493a0_5336ff89a55a4f8f915c0b267ce639a7~mv2.jpg",
+         "alt": "THC, CBD, CBN & More: Understanding the Most Common Cannabinoids",
+         "href": null,
+         "w": null,
+         "h": null,
+         "caption": ""
+        },
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "THC, CBD, CBN &amp; More: Understanding the Most Common Cannabinoids"
+        },
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/3493a0_7d962fa2ae774894b8f836b5c6624736~mv2.jpg",
+         "alt": "How to Keep Cannabis Fresh: The Best Ways to Store Flower, Edibles, and Concentrates",
+         "href": null,
+         "w": null,
+         "h": null,
+         "caption": ""
+        },
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "How to Keep Cannabis Fresh: The Best Ways to Store Flower, Edibles, and Concentrates"
+        },
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/3493a0_175a39b1053c47a98c30848f4e6155d4~mv2.png",
+         "alt": "Why Your Edible Didn’t Kick In (Yet): Understanding Cannabis Edible Timing",
+         "href": null,
+         "w": null,
+         "h": null,
+         "caption": ""
+        },
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "Why Your Edible Didn’t Kick In (Yet): Understanding Cannabis Edible Timing"
+        },
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/aae440_5b2aa021bd33477bb78ea7029c7922b8~mv2.jpg",
+         "alt": "What Makes a Cannabis Product “Premium”? A Simple Guide for Everyday Shoppers",
+         "href": null,
+         "w": null,
+         "h": null,
+         "caption": ""
+        },
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "What Makes a Cannabis Product “Premium”? A Simple Guide for Everyday Shoppers"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "OTHER ARTICLES"
+        },
+        {
+         "t": "button",
+         "text": "VIEW ALL ARTICLES",
+         "href": "/blog/",
+         "external": false
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

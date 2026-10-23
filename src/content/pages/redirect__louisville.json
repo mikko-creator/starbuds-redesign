@@ -1,0 +1,14 @@
+{
+ "path": "/louisville",
+ "url": "https://www.starbuds.us/louisville",
+ "key": "redirect__louisville",
+ "kind": "redirect",
+ "state": "CO",
+ "title": "",
+ "h1": "",
+ "redirect": {
+  "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-louisville?store=1762&store_updated=true&wp_store_id=8780",
+  "status": 301,
+  "offOrigin": true
+ }
+}

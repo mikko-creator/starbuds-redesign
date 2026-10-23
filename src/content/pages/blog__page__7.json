@@ -1,0 +1,181 @@
+{
+ "path": "/blog/page/7",
+ "url": "https://www.starbuds.us/blog/page/7",
+ "key": "blog__page__7",
+ "kind": "blog",
+ "state": null,
+ "title": "Blog | Star Buds Marijuana Dispensary | Colorado | Page 7 of 9",
+ "h1": "BLOG",
+ "head": {
+  "title": "Blog | Star Buds Marijuana Dispensary | Colorado | Page 7 of 9",
+  "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+  "canonical": "https://www.starbuds.us/blog/page/7",
+  "robots": "",
+  "og": {
+   "title": "Blog | Star Buds Marijuana Dispensary | Colorado | Page 7 of 9",
+   "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/blog/page/7",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Blog",
+   "path": "/blog"
+  },
+  {
+   "name": "BLOG",
+   "path": "/blog/page/7"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "BLOG"
+    }
+   ]
+  }
+ ],
+ "posts": [
+  {
+   "path": "/single-post/2017/07/10/710-events-in-denver-co",
+   "title": "7/10 Events in Denver, Co",
+   "date": "2017-07-10T20:54:18.253Z",
+   "excerpt": "In case you didn't know, 7/10 is the official \"oil day\" in Colorado, very much like 4/20. 710 is \"OIL\" backwards & upside down...which...",
+   "image": "https://static.wixstatic.com/media/553d0f_3c1fa893b074411292b220d127fd8923~mv2_d_2944_2224_s_2.png"
+  },
+  {
+   "path": "/single-post/2017/07/06/grand-opening-party-cc",
+   "title": "GRAND OPENING PARTY CC",
+   "date": "2017-07-06T23:24:14.444Z",
+   "excerpt": "Don't miss our Grand Opening Event happening at our newest location in Commerce City, July 7th 11am-4pm. We're happy to have our eighth...",
+   "image": "https://static.wixstatic.com/media/553d0f_34cc55d899b54df48ec6f6b70c709527~mv2_d_3216_2408_s_4_2.png"
+  },
+  {
+   "path": "/single-post/2017/06/12/starbuds-commerce-city-now-open",
+   "title": "Starbuds Commerce City NOW OPEN!",
+   "date": "2017-06-12T17:13:36.646Z",
+   "excerpt": "We're happy to announce that we've opened our eighth location in Commerce City, located at 5844 Dahlia St.,Commerce City, CO. We will be...",
+   "image": "https://static.wixstatic.com/media/553d0f_a6a272b03e2c4aa3b17db97d41966de5~mv2.jpg"
+  },
+  {
+   "path": "/single-post/2017/05/22/how-to-be-the-perfect-host-for-first-time-cannabis-users",
+   "title": "How to Be the Perfect Host For First-Time Cannabis Users",
+   "date": "2017-05-23T17:23:00.000Z",
+   "excerpt": "“The First Time I Got High” is the name of a short story that most of us have written in our heads, but of course the ending is different...",
+   "image": "https://static.wixstatic.com/media/553d0f_3ba4c0d73820473aa1cc0bc91d128745~mv2.jpg"
+  },
+  {
+   "path": "/single-post/2017/05/22/denver-420-rally-license-banned-for-3-years",
+   "title": "Denver 420 Rally permit banned for 3 years",
+   "date": "2017-05-22T17:32:11.432Z",
+   "excerpt": "http://www.westword.com/news/denver-420-rally-organizer-fined-banned-from-parks-permits-for-three-years-9080365 Check out the article...",
+   "image": "https://static.wixstatic.com/media/553d0f_b452e6c8c88b4f43a16b0785c2db28ee~mv2.jpg"
+  },
+  {
+   "path": "/single-post/2017/05/13/5-tips-to-host-a-cannabis-friendly-memorial-day-party",
+   "title": "5 Tips to Host a Cannabis-Friendly Memorial Day Party",
+   "date": "2017-05-13T17:19:00.000Z",
+   "excerpt": "Cannabis has been a longtime ingredient in social functions, but until recently it has not received the same amount of attention or...",
+   "image": "https://static.wixstatic.com/media/553d0f_b4b85e758d4346dc99af7cdf2b0378a1~mv2.jpg"
+  },
+  {
+   "path": "/single-post/demystifying-cannabis-concentrates-a-journey-from-plant-to-potent-extracts",
+   "title": "Demystifying Cannabis Concentrates: A Journey from Plant to Potent Extracts",
+   "date": "2024-01-27T08:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_496cefe3107348f68d0a5a037f69822b~mv2.jpg"
+  },
+  {
+   "path": "/single-post/danksgiving-recipes",
+   "title": "Danksgiving Recipes",
+   "date": "2021-11-08T18:34:13.160Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_276d78d9288c4becb6746f78146a4cff~mv2.jpg"
+  },
+  {
+   "path": "/single-post/how-cannabis-is-grown-from-seed-to-shelf-at-a-licensed-dispensary",
+   "title": "How Cannabis Is Grown: From Seed to Shelf at a Licensed Dispensary",
+   "date": "2026-07-09T07:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_5e4dbf4c08504fb0a5665970c6e8edaf~mv2.jpg"
+  },
+  {
+   "path": "/single-post/thc-cbd-cbn-more-understanding-the-most-common-cannabinoids",
+   "title": "THC, CBD, CBN & More: Understanding the Most Common Cannabinoids",
+   "date": "2026-06-23T07:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_5336ff89a55a4f8f915c0b267ce639a7~mv2.jpg"
+  },
+  {
+   "path": "/single-post/how-to-keep-cannabis-fresh-the-best-ways-to-store-flower-edibles-and-concentrates",
+   "title": "How to Keep Cannabis Fresh: The Best Ways to Store Flower, Edibles, and Concentrates",
+   "date": "2026-05-16T07:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_7d962fa2ae774894b8f836b5c6624736~mv2.jpg"
+  },
+  {
+   "path": "/single-post/why-your-edible-didn-t-kick-in-yet-understanding-cannabis-edible-timing",
+   "title": "Why Your Edible Didn’t Kick In (Yet): Understanding Cannabis Edible Timing",
+   "date": "2026-04-11T07:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_175a39b1053c47a98c30848f4e6155d4~mv2.png"
+  },
+  {
+   "path": "/single-post/what-makes-a-cannabis-product-premium-a-simple-guide-for-everyday-shoppers",
+   "title": "What Makes a Cannabis Product “Premium”? A Simple Guide for Everyday Shoppers",
+   "date": "2026-03-13T07:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/aae440_5b2aa021bd33477bb78ea7029c7922b8~mv2.jpg"
+  },
+  {
+   "path": "/single-post/how-long-cannabis-actually-lasts-shelf-life-for-flower-edibles-and-vapes",
+   "title": "How Long Cannabis Actually Lasts: Shelf Life for Flower, Edibles, and Vapes",
+   "date": "2026-02-17T08:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_99409860d9b44fb5bb2b89c3dbe60fd5~mv2.jpg"
+  },
+  {
+   "path": "/single-post/why-cannabis-smells-so-strong-and-what-that-aroma-actually-means",
+   "title": "Why Cannabis Smells So Strong, And What That Aroma Actually Means",
+   "date": "2026-01-22T08:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_876cff4459834c3a8b5ef3e8ab1ef313~mv2.jpg"
+  },
+  {
+   "path": "/single-post/star-buds-now-open-in-summit-illinois",
+   "title": "Star Buds Now Open in Summit, Illinois: Your New Cannabis Destination",
+   "date": "2025-12-30T08:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_f2299dfa778040c99192587fdcc7bef6~mv2.png"
+  },
+  {
+   "path": "/single-post/why-your-weed-hits-differently-every-time",
+   "title": "Why Your Weed Hits Differently Every Time (And How to Choose Smarter at Star Buds)",
+   "date": "2025-11-12T08:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_0f5ae79ff58b4027aa47ad29f001f58f~mv2.jpg"
+  },
+  {
+   "path": "/single-post/the-art-of-the-perfect-pre-roll",
+   "title": "The Art of the Perfect Pre-Roll: What Separates a Great Smoke From a Bad One",
+   "date": "2025-10-23T07:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_5a4fe94803864d22817dcff48a5b1b2e~mv2.jpg"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-CBD",
+  "file": "assets/generated/g-cbd.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "fresh hemp leaves and a bare clear glass tincture bottle with a black dropper cap, the bottle completely bare with no label, no sticker and no paper on it, golden oil inside, on a weathered wooden glasshouse bench, soft early daylight falling through the arched panes of a Victorian glasshouse, green plants behind softly out of focus, calm and airy, deep green palette, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "safety_tolerance": "5"
+  },
+  "seed": 2439608314,
+  "requestId": "01a1662b-3eea-7890-b7b3-867e1372fd81",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "d4def414969bf217417423d935b24f1421d48de94bbe8a2f6ef947eddb23ff88",
+  "raw": "tmp/img/raw/G-CBD.1792715481619.jpg",
+  "attempt": 2,
+  "generatedAt": "2026-10-23T00:31:23.385Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "attempt 2: bare tincture bottle (no label), hemp leaves, daylight glasshouse; attempt 1 had a blank paper label",
+    "reviewedAt": "2026-10-23T00:36:07.361Z",
+    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+  }
+}

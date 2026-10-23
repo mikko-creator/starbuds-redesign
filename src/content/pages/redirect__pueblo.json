@@ -1,0 +1,14 @@
+{
+ "path": "/pueblo",
+ "url": "https://www.starbuds.us/pueblo",
+ "key": "redirect__pueblo",
+ "kind": "redirect",
+ "state": "CO",
+ "title": "",
+ "h1": "",
+ "redirect": {
+  "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-pueblo?store=4651&store_updated=true&wp_store_id=8788",
+  "status": 301,
+  "offOrigin": true
+ }
+}

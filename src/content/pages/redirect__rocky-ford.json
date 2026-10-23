@@ -1,0 +1,14 @@
+{
+ "path": "/rocky-ford",
+ "url": "https://www.starbuds.us/rocky-ford",
+ "key": "redirect__rocky-ford",
+ "kind": "redirect",
+ "state": "CO",
+ "title": "",
+ "h1": "",
+ "redirect": {
+  "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-rocky-ford?store=1763&store_updated=true&wp_store_id=8795",
+  "status": 301,
+  "offOrigin": true
+ }
+}

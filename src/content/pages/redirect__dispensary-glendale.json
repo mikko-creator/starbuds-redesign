@@ -1,0 +1,14 @@
+{
+ "path": "/dispensary-glendale",
+ "url": "https://www.starbuds.us/dispensary-glendale",
+ "key": "redirect__dispensary-glendale",
+ "kind": "redirect",
+ "state": "CO",
+ "title": "",
+ "h1": "",
+ "redirect": {
+  "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-glendale?store=1767&store_updated=true&wp_store_id=8774",
+  "status": 301,
+  "offOrigin": true
+ }
+}

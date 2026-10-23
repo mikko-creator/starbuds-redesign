@@ -1,0 +1,14 @@
+{
+ "path": "/pueblo-east",
+ "url": "https://www.starbuds.us/pueblo-east",
+ "key": "redirect__pueblo-east",
+ "kind": "redirect",
+ "state": "CO",
+ "title": "",
+ "h1": "",
+ "redirect": {
+  "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-pueblo-east?store=4655&store_updated=true&wp_store_id=8791",
+  "status": 301,
+  "offOrigin": true
+ }
+}

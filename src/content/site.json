@@ -1,0 +1,1358 @@
+{
+ "name": "Star Buds",
+ "origin": "https://www.starbuds.us",
+ "logo": {
+  "src": "https://static.wixstatic.com/media/553d0f_6849937938d44b3da3cc629ed33a8556~mv2.png",
+  "alt": "star buds recreational dispesnaries",
+  "footer": "https://static.wixstatic.com/media/553d0f_af6974ad8ea74a17a285e7a740843446~mv2.jpg",
+  "footerAlt": "Star Buds recreational marijuana dispensary"
+ },
+ "nav": [
+  {
+   "text": "ORDER STAR BUDS ONLINE",
+   "href": "/order-online/",
+   "cta": true
+  },
+  {
+   "text": "ABOUT",
+   "href": "/about/"
+  },
+  {
+   "text": "LOCATIONS",
+   "href": "/locations/",
+   "children": [
+    {
+     "text": "COLORADO",
+     "href": "https://starbudscolorado.com/stores",
+     "external": true
+    },
+    {
+     "text": "ILLINOIS",
+     "href": "/illinois/"
+    },
+    {
+     "text": "MARYLAND",
+     "href": "/maryland/"
+    },
+    {
+     "text": "NEW YORK",
+     "href": "/buffalo/"
+    },
+    {
+     "text": "MISSISSIPPI",
+     "href": "/mississippi/"
+    },
+    {
+     "text": "OKLAHOMA",
+     "href": "/oklahoma/"
+    }
+   ]
+  },
+  {
+   "text": "DEALS",
+   "href": "/deals/"
+  },
+  {
+   "text": "REWARDS",
+   "href": "/rewards/",
+   "children": [
+    {
+     "text": "COLORADO",
+     "href": "https://starbudscolorado.com/dispensary-loyalty-rewards",
+     "external": true
+    },
+    {
+     "text": "ILLINOIS",
+     "href": "/illinoisrewards/"
+    },
+    {
+     "text": "MARYLAND",
+     "href": "/marylandrewards/"
+    },
+    {
+     "text": "MISSISSIPPI",
+     "href": "/mississippirewards/"
+    },
+    {
+     "text": "NEW YORK",
+     "href": "https://lab.alpineiq.com/join/c/1130/101717?storeID=41",
+     "external": true
+    },
+    {
+     "text": "OKLAHOMA",
+     "href": "/oklahomarewards/"
+    }
+   ]
+  },
+  {
+   "text": "BLOG",
+   "href": "/blog/"
+  },
+  {
+   "text": "CONTACT",
+   "href": "/contact/"
+  }
+ ],
+ "footer": {
+  "links": [
+   {
+    "text": "Media",
+    "href": "/media/"
+   },
+   {
+    "text": "Blog",
+    "href": "/blog/"
+   },
+   {
+    "text": "Careers",
+    "href": "/careers/"
+   },
+   {
+    "text": "Work With Us",
+    "href": "/workwithus/"
+   }
+  ],
+  "copyright": "© 2013-2026 All Rights Reserved.",
+  "legal": [
+   {
+    "text": "Privacy Policy",
+    "href": "https://www.starbuds.us/_files/ugd/553d0f_ae91e44b03cf4726b19a36020f5975f3.pdf"
+   }
+  ],
+  "social": []
+ },
+ "ageGate": {
+  "title": "You must be over 21 years old to visit this site.",
+  "text": "Please verify your age by entering your birthday below.",
+  "fields": [
+   "MM",
+   "DD",
+   "YYYY"
+  ],
+  "button": "Enter",
+  "note": "By entering our website, you also consent to our use of essential cookies. We do not collect or sell any personal data.",
+  "source": "live render (lightbox is client-side; its copy is not in the SSR harvest)"
+ },
+ "states": [
+  {
+   "code": "CO",
+   "name": "Colorado",
+   "path": "https://starbudscolorado.com/stores",
+   "stores": [
+    {
+     "name": "Star Buds Recreational Marijuana Dispensary South Boulder",
+     "path": "/south-boulder",
+     "city": "South Boulder",
+     "address": [
+      "5190 S Boulder Rd, Boulder, CO 80303"
+     ],
+     "phone": "(303) 499-2898",
+     "tel": "+13034992898",
+     "hours": [
+      {
+       "day": "MONDAY",
+       "time": "8:00AM-10:00PM"
+      },
+      {
+       "day": "TUESDAY",
+       "time": "8:00AM-10:00PM"
+      },
+      {
+       "day": "WEDNESDAY",
+       "time": "8:00AM-10:00PM"
+      },
+      {
+       "day": "THURSDAY",
+       "time": "8:00AM-10:00PM"
+      },
+      {
+       "day": "FRIDAY",
+       "time": "8:00AM-10:00PM"
+      },
+      {
+       "day": "SATURDAY",
+       "time": "8:00AM-10:00PM"
+      },
+      {
+       "day": "SUNDAY",
+       "time": "8:00AM-10:00PM"
+      }
+     ],
+     "state": "CO"
+    }
+   ],
+   "offOrigin": "https://starbudscolorado.com/stores"
+  },
+  {
+   "code": "IL",
+   "name": "Illinois",
+   "path": "/illinois/",
+   "stores": [
+    {
+     "name": "HOFFMAN ESTATES",
+     "path": null,
+     "city": "Hoffman Estates",
+     "address": [
+      "5 E Golf Rd",
+      "Hoffman Estates, IL 60169"
+     ],
+     "phone": "(630) 635-2483",
+     "tel": "+16306352483",
+     "hours": [],
+     "state": "IL",
+     "offOrigin": "https://starbudsillinois.us/stores/star-buds-hoffman-estates",
+     "listedOn": "/illinois"
+    },
+    {
+     "name": "Star Buds Marijuana Dispensary Burbank",
+     "path": "/burbank",
+     "city": "Burbank",
+     "address": [
+      "7844 S Cicero Ave, Burbank, IL 60459-1584"
+     ],
+     "phone": "(708) 907-3441",
+     "tel": "+17089073441",
+     "hours": [
+      {
+       "day": "MONDAY",
+       "time": "8:00AM-10:00PM"
+      },
+      {
+       "day": "TUESDAY",
+       "time": "8:00AM-10:00PM"
+      },
+      {
+       "day": "WEDNESDAY",
+       "time": "8:00AM-10:00PM"
+      },
+      {
+       "day": "THURSDAY",
+       "time": "8:00AM-10:00PM"
+      },
+      {
+       "day": "FRIDAY",
+       "time": "8:00AM-10:00PM"
+      },
+      {
+       "day": "SATURDAY",
+       "time": "8:00AM-10:00PM"
+      },
+      {
+       "day": "SUNDAY",
+       "time": "8:00AM-10:00PM"
+      }
+     ],
+     "state": "IL",
+     "listedOn": "/illinois",
+     "shop": "https://starbudsillinois.us/stores/starbuds-burbank"
+    },
+    {
+     "name": "Star Buds Marijuana Dispensary Riverside",
+     "path": "/riverside",
+     "city": "Riverside",
+     "address": [
+      "2704 S Harlem Ave, Riverside, IL 60546"
+     ],
+     "phone": "(708) 853-9640",
+     "tel": "+17088539640",
+     "hours": [
+      {
+       "day": "MONDAY",
+       "time": "8:00AM-10:00PM"
+      },
+      {
+       "day": "TUESDAY",
+       "time": "8:00AM-10:00PM"
+      },
+      {
+       "day": "WEDNESDAY",
+       "time": "8:00AM-10:00PM"
+      },
+      {
+       "day": "THURSDAY",
+       "time": "8:00AM-10:00PM"
+      },
+      {
+       "day": "FRIDAY",
+       "time": "8:00AM-10:00PM"
+      },
+      {
+       "day": "SATURDAY",
+       "time": "8:00AM-10:00PM"
+      },
+      {
+       "day": "SUNDAY",
+       "time": "8:00AM-10:00PM"
+      }
+     ],
+     "state": "IL",
+     "listedOn": "/illinois",
+     "shop": "https://starbudsillinois.us/stores/star-buds-riverside"
+    },
+    {
+     "name": "SUMMIT",
+     "path": null,
+     "city": "Summit",
+     "address": [
+      "5436 South Harlem Ave",
+      "Summit, IL 60501"
+     ],
+     "phone": "(708) 701-2122",
+     "tel": "+17087012122",
+     "hours": [],
+     "state": "IL",
+     "offOrigin": "https://starbudsillinois.us/stores/star-buds-summit",
+     "listedOn": "/illinois"
+    },
+    {
+     "name": "WESTMONT",
+     "path": null,
+     "city": "Westmont",
+     "address": [
+      "101 W Ogden Ave",
+      "Westmont IL 60559"
+     ],
+     "phone": "(331) 233-6361",
+     "tel": "+13312336361",
+     "hours": [],
+     "state": "IL",
+     "offOrigin": "https://starbudsillinois.us/stores/star-buds-westmont",
+     "listedOn": "/illinois"
+    }
+   ]
+  },
+  {
+   "code": "MD",
+   "name": "Maryland",
+   "path": "/maryland/",
+   "stores": []
+  },
+  {
+   "code": "NY",
+   "name": "New York",
+   "path": "/buffalo/",
+   "stores": []
+  },
+  {
+   "code": "MS",
+   "name": "Mississippi",
+   "path": "/mississippi/",
+   "stores": [
+    {
+     "name": "GREENWOOD",
+     "path": null,
+     "city": "Greenwood",
+     "address": [
+      "2218 Highway 82 W",
+      "Greenwood MS, 38930"
+     ],
+     "phone": "(662) 456-1181",
+     "tel": "+16624561181",
+     "hours": [],
+     "state": "MS",
+     "offOrigin": "https://shop.starbuds.us/stores/greenwood-dispensary/",
+     "listedOn": "/mississippi"
+    },
+    {
+     "name": "NATCHEZ",
+     "path": null,
+     "city": "Natchez",
+     "address": [
+      "135 US-61 #1",
+      "Natchez, MS, 39120"
+     ],
+     "phone": "(601) 653-0400",
+     "tel": "+16016530400",
+     "hours": [],
+     "state": "MS",
+     "offOrigin": "https://shop.starbuds.us/stores/natchez-dispensary/",
+     "listedOn": "/mississippi"
+    },
+    {
+     "name": "OCEAN SPRINGS",
+     "path": null,
+     "city": "Ocean Springs",
+     "address": [
+      "718 Bienville Blvd Ste A",
+      "Ocean Springs, MS 39564"
+     ],
+     "phone": "(228) 215-1776",
+     "tel": "+12282151776",
+     "hours": [],
+     "state": "MS",
+     "offOrigin": "https://shop.starbuds.us/stores/ocean-springs-dispensary/",
+     "listedOn": "/mississippi"
+    },
+    {
+     "name": "PEARL",
+     "path": null,
+     "city": "Pearl",
+     "address": [
+      "190 Riverwind E Dr, Unit 306",
+      "Pearl, MS 39208"
+     ],
+     "phone": "(601) 706-6050",
+     "tel": "+16017066050",
+     "hours": [],
+     "state": "MS",
+     "offOrigin": "https://shop.starbuds.us/stores/pearl/",
+     "listedOn": "/mississippi"
+    },
+    {
+     "name": "Star Buds CBD Dispensary Oxford",
+     "path": "/oxford-cbd",
+     "city": "Oxford CBD",
+     "address": [
+      "1319 N LAMAR BLVD SUITE C, OXFORD MS, 38655"
+     ],
+     "phone": "(662) 638-3014",
+     "tel": "+16626383014",
+     "hours": [
+      {
+       "day": "MONDAY",
+       "time": "8:00AM-9:00PM"
+      },
+      {
+       "day": "TUESDAY",
+       "time": "8:00AM-9:00PM"
+      },
+      {
+       "day": "WEDNESDAY",
+       "time": "8:00AM-9:00PM"
+      },
+      {
+       "day": "THURSDAY",
+       "time": "8:00AM-9:00PM"
+      },
+      {
+       "day": "FRIDAY",
+       "time": "8:00AM-9:00PM"
+      },
+      {
+       "day": "SATURDAY",
+       "time": "8:00AM-9:00PM"
+      },
+      {
+       "day": "SUNDAY",
+       "time": "8:00AM-7:00PM"
+      }
+     ],
+     "state": "MS"
+    },
+    {
+     "name": "Star Buds Medical Marijuana Dispensary Oxford",
+     "path": "/oxford",
+     "city": "Oxford",
+     "address": [
+      "1319 N LAMAR BLVD SUITE A, OXFORD MS, 38655"
+     ],
+     "phone": "(662) 638-3008",
+     "tel": "+16626383008",
+     "hours": [
+      {
+       "day": "MONDAY",
+       "time": "8:00AM-9:00PM"
+      },
+      {
+       "day": "TUESDAY",
+       "time": "8:00AM-9:00PM"
+      },
+      {
+       "day": "WEDNESDAY",
+       "time": "8:00AM-9:00PM"
+      },
+      {
+       "day": "THURSDAY",
+       "time": "8:00AM-9:00PM"
+      },
+      {
+       "day": "FRIDAY",
+       "time": "8:00AM-9:00PM"
+      },
+      {
+       "day": "SATURDAY",
+       "time": "8:00AM-9:00PM"
+      },
+      {
+       "day": "SUNDAY",
+       "time": "8:00AM-7:00PM"
+      }
+     ],
+     "state": "MS",
+     "listedOn": "/mississippi",
+     "shop": "https://shop.starbuds.us/stores/oxford-dispensary/"
+    },
+    {
+     "name": "TUPELO",
+     "path": null,
+     "city": "Tupelo",
+     "address": [
+      "2546 Hwy 145 Ste D",
+      "Saltillo, MS 38866"
+     ],
+     "phone": "(662) 458-1872",
+     "tel": "+16624581872",
+     "hours": [],
+     "state": "MS",
+     "offOrigin": "https://shop.starbuds.us/stores/tupelo-saltillo-dispensary/",
+     "listedOn": "/mississippi"
+    }
+   ]
+  },
+  {
+   "code": "OK",
+   "name": "Oklahoma",
+   "path": "/oklahoma/",
+   "stores": [
+    {
+     "name": "Star Buds Dispensary Medical Weed Lawton",
+     "path": "/lawton",
+     "city": "Lawton",
+     "address": [
+      "2629 NW CACHE RD - LAWTON, OKLAHOMA 73505"
+     ],
+     "phone": "(580) 699-2833",
+     "tel": "+15806992833",
+     "hours": [
+      {
+       "day": "MONDAY",
+       "time": "8:00AM-12:00AM"
+      },
+      {
+       "day": "TUESDAY",
+       "time": "8:00AM-12:00AM"
+      },
+      {
+       "day": "WEDNESDAY",
+       "time": "8:00AM-12:00AM"
+      },
+      {
+       "day": "THURSDAY",
+       "time": "8:00AM-12:00AM"
+      },
+      {
+       "day": "FRIDAY",
+       "time": "8:00AM-12:00AM"
+      },
+      {
+       "day": "SATURDAY",
+       "time": "8:00AM-12:00AM"
+      },
+      {
+       "day": "SUNDAY",
+       "time": "8:00AM-12:00AM"
+      }
+     ],
+     "state": "OK",
+     "listedOn": "/oklahoma",
+     "shop": "https://shop.starbuds.us/stores/lawton-dispensary/"
+    },
+    {
+     "name": "Star Buds Medical Weed Dispensary Altus",
+     "path": "/altus",
+     "city": "Altus",
+     "address": [
+      "1100 FALCON RD SUITE 104 - ALTUS, OKLAHOMA 73521"
+     ],
+     "phone": "(580) 379-0487",
+     "tel": "+15803790487",
+     "hours": [
+      {
+       "day": "MONDAY",
+       "time": "8:00AM-12:00AM"
+      },
+      {
+       "day": "TUESDAY",
+       "time": "8:00AM-12:00AM"
+      },
+      {
+       "day": "WEDNESDAY",
+       "time": "8:00AM-12:00AM"
+      },
+      {
+       "day": "THURSDAY",
+       "time": "8:00AM-12:00AM"
+      },
+      {
+       "day": "FRIDAY",
+       "time": "8:00AM-12:00AM"
+      },
+      {
+       "day": "SATURDAY",
+       "time": "8:00AM-12:00AM"
+      },
+      {
+       "day": "SUNDAY",
+       "time": "8:00AM-12:00AM"
+      }
+     ],
+     "state": "OK",
+     "listedOn": "/oklahoma",
+     "shop": "https://shop.starbuds.us/stores/altus-dispensary/"
+    },
+    {
+     "name": "Star Buds Medical Weed Dispensary Ardmore",
+     "path": "/ardmore",
+     "city": "Ardmore",
+     "address": [
+      "2502 CROSSROADS DR. ARDMORE, OK 73401"
+     ],
+     "phone": "(580) 319-7935",
+     "tel": "+15803197935",
+     "hours": [
+      {
+       "day": "MONDAY",
+       "time": "8:00AM-12:00AM"
+      },
+      {
+       "day": "TUESDAY",
+       "time": "8:00AM-12:00AM"
+      },
+      {
+       "day": "WEDNESDAY",
+       "time": "8:00AM-12:00AM"
+      },
+      {
+       "day": "THURSDAY",
+       "time": "8:00AM-12:00AM"
+      },
+      {
+       "day": "FRIDAY",
+       "time": "8:00AM-12:00AM"
+      },
+      {
+       "day": "SATURDAY",
+       "time": "8:00AM-12:00AM"
+      },
+      {
+       "day": "SUNDAY",
+       "time": "8:00AM-12:00AM"
+      }
+     ],
+     "state": "OK",
+     "listedOn": "/oklahoma",
+     "shop": "https://shop.starbuds.us/stores/ardmore-dispensary/"
+    },
+    {
+     "name": "Star Buds Medical Weed Dispensary Bricktown",
+     "path": "/bricktown",
+     "city": "Bricktown",
+     "address": [
+      "224 E MAIN ST #200 - OKLAHOMA CITY, OKLAHOMA 73104"
+     ],
+     "phone": "(405) 225-1433",
+     "tel": "+14052251433",
+     "hours": [
+      {
+       "day": "MONDAY",
+       "time": "12:00PM-12:00AM"
+      },
+      {
+       "day": "TUESDAY",
+       "time": "12:00PM-12:00AM"
+      },
+      {
+       "day": "WEDNESDAY",
+       "time": "12:00PM-12:00AM"
+      },
+      {
+       "day": "THURSDAY",
+       "time": "12:00PM-12:00AM"
+      },
+      {
+       "day": "FRIDAY",
+       "time": "12:00PM-2:30AM"
+      },
+      {
+       "day": "SATURDAY",
+       "time": "12:00PM-2:30AM"
+      },
+      {
+       "day": "SUNDAY",
+       "time": "12:00PM-12:00AM"
+      }
+     ],
+     "state": "OK"
+    },
+    {
+     "name": "Star Buds Medical Weed Dispensary Chickasha",
+     "path": "/chickasha",
+     "city": "Chickasha",
+     "address": [
+      "718 S 4TH ST - CHICKASHA, OKLAHOMA 73018"
+     ],
+     "phone": "(405) 825-3424",
+     "tel": "+14058253424",
+     "hours": [
+      {
+       "day": "MONDAY",
+       "time": "8:00AM-10:00PM"
+      },
+      {
+       "day": "TUESDAY",
+       "time": "8:00AM-10:00PM"
+      },
+      {
+       "day": "WEDNESDAY",
+       "time": "8:00AM-10:00PM"
+      },
+      {
+       "day": "THURSDAY",
+       "time": "8:00AM-10:00PM"
+      },
+      {
+       "day": "FRIDAY",
+       "time": "8:00AM-10:00PM"
+      },
+      {
+       "day": "SATURDAY",
+       "time": "8:00AM-10:00PM"
+      },
+      {
+       "day": "SUNDAY",
+       "time": "8:00AM-10:00PM"
+      }
+     ],
+     "state": "OK",
+     "listedOn": "/oklahoma",
+     "shop": "https://shop.starbuds.us/stores/chickasha-dispensary/"
+    }
+   ]
+  },
+  {
+   "code": "SD",
+   "name": "South Dakota",
+   "path": null,
+   "stores": [
+    {
+     "name": "Star Buds Rapid City",
+     "path": "/rapid-city",
+     "city": "Rapid City",
+     "address": [
+      "1141 Deadwood Ave Rapid City SD 57702"
+     ],
+     "phone": "(605) 791-0168",
+     "tel": "+16057910168",
+     "hours": [
+      {
+       "day": "MONDAY",
+       "time": "11:00AM-7:00PM"
+      },
+      {
+       "day": "TUESDAY",
+       "time": "11:00AM-7:00PM"
+      },
+      {
+       "day": "WEDNESDAY",
+       "time": "11:00AM-7:00PM"
+      },
+      {
+       "day": "THURSDAY",
+       "time": "11:00AM-7:00PM"
+      },
+      {
+       "day": "FRIDAY",
+       "time": "11:00AM-7:00PM"
+      },
+      {
+       "day": "SATURDAY",
+       "time": "12:00PM-6:00PM"
+      },
+      {
+       "day": "SUNDAY",
+       "time": "12:00PM-6:00PM"
+      }
+     ],
+     "state": "SD"
+    }
+   ]
+  }
+ ],
+ "stores": [
+  {
+   "name": "Star Buds Recreational Marijuana Dispensary South Boulder",
+   "path": "/south-boulder",
+   "city": "South Boulder",
+   "address": [
+    "5190 S Boulder Rd, Boulder, CO 80303"
+   ],
+   "phone": "(303) 499-2898",
+   "tel": "+13034992898",
+   "hours": [
+    {
+     "day": "MONDAY",
+     "time": "8:00AM-10:00PM"
+    },
+    {
+     "day": "TUESDAY",
+     "time": "8:00AM-10:00PM"
+    },
+    {
+     "day": "WEDNESDAY",
+     "time": "8:00AM-10:00PM"
+    },
+    {
+     "day": "THURSDAY",
+     "time": "8:00AM-10:00PM"
+    },
+    {
+     "day": "FRIDAY",
+     "time": "8:00AM-10:00PM"
+    },
+    {
+     "day": "SATURDAY",
+     "time": "8:00AM-10:00PM"
+    },
+    {
+     "day": "SUNDAY",
+     "time": "8:00AM-10:00PM"
+    }
+   ],
+   "state": "CO"
+  },
+  {
+   "name": "HOFFMAN ESTATES",
+   "path": null,
+   "city": "Hoffman Estates",
+   "address": [
+    "5 E Golf Rd",
+    "Hoffman Estates, IL 60169"
+   ],
+   "phone": "(630) 635-2483",
+   "tel": "+16306352483",
+   "hours": [],
+   "state": "IL",
+   "offOrigin": "https://starbudsillinois.us/stores/star-buds-hoffman-estates",
+   "listedOn": "/illinois"
+  },
+  {
+   "name": "Star Buds Marijuana Dispensary Burbank",
+   "path": "/burbank",
+   "city": "Burbank",
+   "address": [
+    "7844 S Cicero Ave, Burbank, IL 60459-1584"
+   ],
+   "phone": "(708) 907-3441",
+   "tel": "+17089073441",
+   "hours": [
+    {
+     "day": "MONDAY",
+     "time": "8:00AM-10:00PM"
+    },
+    {
+     "day": "TUESDAY",
+     "time": "8:00AM-10:00PM"
+    },
+    {
+     "day": "WEDNESDAY",
+     "time": "8:00AM-10:00PM"
+    },
+    {
+     "day": "THURSDAY",
+     "time": "8:00AM-10:00PM"
+    },
+    {
+     "day": "FRIDAY",
+     "time": "8:00AM-10:00PM"
+    },
+    {
+     "day": "SATURDAY",
+     "time": "8:00AM-10:00PM"
+    },
+    {
+     "day": "SUNDAY",
+     "time": "8:00AM-10:00PM"
+    }
+   ],
+   "state": "IL",
+   "listedOn": "/illinois",
+   "shop": "https://starbudsillinois.us/stores/starbuds-burbank"
+  },
+  {
+   "name": "Star Buds Marijuana Dispensary Riverside",
+   "path": "/riverside",
+   "city": "Riverside",
+   "address": [
+    "2704 S Harlem Ave, Riverside, IL 60546"
+   ],
+   "phone": "(708) 853-9640",
+   "tel": "+17088539640",
+   "hours": [
+    {
+     "day": "MONDAY",
+     "time": "8:00AM-10:00PM"
+    },
+    {
+     "day": "TUESDAY",
+     "time": "8:00AM-10:00PM"
+    },
+    {
+     "day": "WEDNESDAY",
+     "time": "8:00AM-10:00PM"
+    },
+    {
+     "day": "THURSDAY",
+     "time": "8:00AM-10:00PM"
+    },
+    {
+     "day": "FRIDAY",
+     "time": "8:00AM-10:00PM"
+    },
+    {
+     "day": "SATURDAY",
+     "time": "8:00AM-10:00PM"
+    },
+    {
+     "day": "SUNDAY",
+     "time": "8:00AM-10:00PM"
+    }
+   ],
+   "state": "IL",
+   "listedOn": "/illinois",
+   "shop": "https://starbudsillinois.us/stores/star-buds-riverside"
+  },
+  {
+   "name": "SUMMIT",
+   "path": null,
+   "city": "Summit",
+   "address": [
+    "5436 South Harlem Ave",
+    "Summit, IL 60501"
+   ],
+   "phone": "(708) 701-2122",
+   "tel": "+17087012122",
+   "hours": [],
+   "state": "IL",
+   "offOrigin": "https://starbudsillinois.us/stores/star-buds-summit",
+   "listedOn": "/illinois"
+  },
+  {
+   "name": "WESTMONT",
+   "path": null,
+   "city": "Westmont",
+   "address": [
+    "101 W Ogden Ave",
+    "Westmont IL 60559"
+   ],
+   "phone": "(331) 233-6361",
+   "tel": "+13312336361",
+   "hours": [],
+   "state": "IL",
+   "offOrigin": "https://starbudsillinois.us/stores/star-buds-westmont",
+   "listedOn": "/illinois"
+  },
+  {
+   "name": "GREENWOOD",
+   "path": null,
+   "city": "Greenwood",
+   "address": [
+    "2218 Highway 82 W",
+    "Greenwood MS, 38930"
+   ],
+   "phone": "(662) 456-1181",
+   "tel": "+16624561181",
+   "hours": [],
+   "state": "MS",
+   "offOrigin": "https://shop.starbuds.us/stores/greenwood-dispensary/",
+   "listedOn": "/mississippi"
+  },
+  {
+   "name": "NATCHEZ",
+   "path": null,
+   "city": "Natchez",
+   "address": [
+    "135 US-61 #1",
+    "Natchez, MS, 39120"
+   ],
+   "phone": "(601) 653-0400",
+   "tel": "+16016530400",
+   "hours": [],
+   "state": "MS",
+   "offOrigin": "https://shop.starbuds.us/stores/natchez-dispensary/",
+   "listedOn": "/mississippi"
+  },
+  {
+   "name": "OCEAN SPRINGS",
+   "path": null,
+   "city": "Ocean Springs",
+   "address": [
+    "718 Bienville Blvd Ste A",
+    "Ocean Springs, MS 39564"
+   ],
+   "phone": "(228) 215-1776",
+   "tel": "+12282151776",
+   "hours": [],
+   "state": "MS",
+   "offOrigin": "https://shop.starbuds.us/stores/ocean-springs-dispensary/",
+   "listedOn": "/mississippi"
+  },
+  {
+   "name": "PEARL",
+   "path": null,
+   "city": "Pearl",
+   "address": [
+    "190 Riverwind E Dr, Unit 306",
+    "Pearl, MS 39208"
+   ],
+   "phone": "(601) 706-6050",
+   "tel": "+16017066050",
+   "hours": [],
+   "state": "MS",
+   "offOrigin": "https://shop.starbuds.us/stores/pearl/",
+   "listedOn": "/mississippi"
+  },
+  {
+   "name": "Star Buds CBD Dispensary Oxford",
+   "path": "/oxford-cbd",
+   "city": "Oxford CBD",
+   "address": [
+    "1319 N LAMAR BLVD SUITE C, OXFORD MS, 38655"
+   ],
+   "phone": "(662) 638-3014",
+   "tel": "+16626383014",
+   "hours": [
+    {
+     "day": "MONDAY",
+     "time": "8:00AM-9:00PM"
+    },
+    {
+     "day": "TUESDAY",
+     "time": "8:00AM-9:00PM"
+    },
+    {
+     "day": "WEDNESDAY",
+     "time": "8:00AM-9:00PM"
+    },
+    {
+     "day": "THURSDAY",
+     "time": "8:00AM-9:00PM"
+    },
+    {
+     "day": "FRIDAY",
+     "time": "8:00AM-9:00PM"
+    },
+    {
+     "day": "SATURDAY",
+     "time": "8:00AM-9:00PM"
+    },
+    {
+     "day": "SUNDAY",
+     "time": "8:00AM-7:00PM"
+    }
+   ],
+   "state": "MS"
+  },
+  {
+   "name": "Star Buds Medical Marijuana Dispensary Oxford",
+   "path": "/oxford",
+   "city": "Oxford",
+   "address": [
+    "1319 N LAMAR BLVD SUITE A, OXFORD MS, 38655"
+   ],
+   "phone": "(662) 638-3008",
+   "tel": "+16626383008",
+   "hours": [
+    {
+     "day": "MONDAY",
+     "time": "8:00AM-9:00PM"
+    },
+    {
+     "day": "TUESDAY",
+     "time": "8:00AM-9:00PM"
+    },
+    {
+     "day": "WEDNESDAY",
+     "time": "8:00AM-9:00PM"
+    },
+    {
+     "day": "THURSDAY",
+     "time": "8:00AM-9:00PM"
+    },
+    {
+     "day": "FRIDAY",
+     "time": "8:00AM-9:00PM"
+    },
+    {
+     "day": "SATURDAY",
+     "time": "8:00AM-9:00PM"
+    },
+    {
+     "day": "SUNDAY",
+     "time": "8:00AM-7:00PM"
+    }
+   ],
+   "state": "MS",
+   "listedOn": "/mississippi",
+   "shop": "https://shop.starbuds.us/stores/oxford-dispensary/"
+  },
+  {
+   "name": "TUPELO",
+   "path": null,
+   "city": "Tupelo",
+   "address": [
+    "2546 Hwy 145 Ste D",
+    "Saltillo, MS 38866"
+   ],
+   "phone": "(662) 458-1872",
+   "tel": "+16624581872",
+   "hours": [],
+   "state": "MS",
+   "offOrigin": "https://shop.starbuds.us/stores/tupelo-saltillo-dispensary/",
+   "listedOn": "/mississippi"
+  },
+  {
+   "name": "Star Buds Dispensary Medical Weed Lawton",
+   "path": "/lawton",
+   "city": "Lawton",
+   "address": [
+    "2629 NW CACHE RD - LAWTON, OKLAHOMA 73505"
+   ],
+   "phone": "(580) 699-2833",
+   "tel": "+15806992833",
+   "hours": [
+    {
+     "day": "MONDAY",
+     "time": "8:00AM-12:00AM"
+    },
+    {
+     "day": "TUESDAY",
+     "time": "8:00AM-12:00AM"
+    },
+    {
+     "day": "WEDNESDAY",
+     "time": "8:00AM-12:00AM"
+    },
+    {
+     "day": "THURSDAY",
+     "time": "8:00AM-12:00AM"
+    },
+    {
+     "day": "FRIDAY",
+     "time": "8:00AM-12:00AM"
+    },
+    {
+     "day": "SATURDAY",
+     "time": "8:00AM-12:00AM"
+    },
+    {
+     "day": "SUNDAY",
+     "time": "8:00AM-12:00AM"
+    }
+   ],
+   "state": "OK",
+   "listedOn": "/oklahoma",
+   "shop": "https://shop.starbuds.us/stores/lawton-dispensary/"
+  },
+  {
+   "name": "Star Buds Medical Weed Dispensary Altus",
+   "path": "/altus",
+   "city": "Altus",
+   "address": [
+    "1100 FALCON RD SUITE 104 - ALTUS, OKLAHOMA 73521"
+   ],
+   "phone": "(580) 379-0487",
+   "tel": "+15803790487",
+   "hours": [
+    {
+     "day": "MONDAY",
+     "time": "8:00AM-12:00AM"
+    },
+    {
+     "day": "TUESDAY",
+     "time": "8:00AM-12:00AM"
+    },
+    {
+     "day": "WEDNESDAY",
+     "time": "8:00AM-12:00AM"
+    },
+    {
+     "day": "THURSDAY",
+     "time": "8:00AM-12:00AM"
+    },
+    {
+     "day": "FRIDAY",
+     "time": "8:00AM-12:00AM"
+    },
+    {
+     "day": "SATURDAY",
+     "time": "8:00AM-12:00AM"
+    },
+    {
+     "day": "SUNDAY",
+     "time": "8:00AM-12:00AM"
+    }
+   ],
+   "state": "OK",
+   "listedOn": "/oklahoma",
+   "shop": "https://shop.starbuds.us/stores/altus-dispensary/"
+  },
+  {
+   "name": "Star Buds Medical Weed Dispensary Ardmore",
+   "path": "/ardmore",
+   "city": "Ardmore",
+   "address": [
+    "2502 CROSSROADS DR. ARDMORE, OK 73401"
+   ],
+   "phone": "(580) 319-7935",
+   "tel": "+15803197935",
+   "hours": [
+    {
+     "day": "MONDAY",
+     "time": "8:00AM-12:00AM"
+    },
+    {
+     "day": "TUESDAY",
+     "time": "8:00AM-12:00AM"
+    },
+    {
+     "day": "WEDNESDAY",
+     "time": "8:00AM-12:00AM"
+    },
+    {
+     "day": "THURSDAY",
+     "time": "8:00AM-12:00AM"
+    },
+    {
+     "day": "FRIDAY",
+     "time": "8:00AM-12:00AM"
+    },
+    {
+     "day": "SATURDAY",
+     "time": "8:00AM-12:00AM"
+    },
+    {
+     "day": "SUNDAY",
+     "time": "8:00AM-12:00AM"
+    }
+   ],
+   "state": "OK",
+   "listedOn": "/oklahoma",
+   "shop": "https://shop.starbuds.us/stores/ardmore-dispensary/"
+  },
+  {
+   "name": "Star Buds Medical Weed Dispensary Bricktown",
+   "path": "/bricktown",
+   "city": "Bricktown",
+   "address": [
+    "224 E MAIN ST #200 - OKLAHOMA CITY, OKLAHOMA 73104"
+   ],
+   "phone": "(405) 225-1433",
+   "tel": "+14052251433",
+   "hours": [
+    {
+     "day": "MONDAY",
+     "time": "12:00PM-12:00AM"
+    },
+    {
+     "day": "TUESDAY",
+     "time": "12:00PM-12:00AM"
+    },
+    {
+     "day": "WEDNESDAY",
+     "time": "12:00PM-12:00AM"
+    },
+    {
+     "day": "THURSDAY",
+     "time": "12:00PM-12:00AM"
+    },
+    {
+     "day": "FRIDAY",
+     "time": "12:00PM-2:30AM"
+    },
+    {
+     "day": "SATURDAY",
+     "time": "12:00PM-2:30AM"
+    },
+    {
+     "day": "SUNDAY",
+     "time": "12:00PM-12:00AM"
+    }
+   ],
+   "state": "OK"
+  },
+  {
+   "name": "Star Buds Medical Weed Dispensary Chickasha",
+   "path": "/chickasha",
+   "city": "Chickasha",
+   "address": [
+    "718 S 4TH ST - CHICKASHA, OKLAHOMA 73018"
+   ],
+   "phone": "(405) 825-3424",
+   "tel": "+14058253424",
+   "hours": [
+    {
+     "day": "MONDAY",
+     "time": "8:00AM-10:00PM"
+    },
+    {
+     "day": "TUESDAY",
+     "time": "8:00AM-10:00PM"
+    },
+    {
+     "day": "WEDNESDAY",
+     "time": "8:00AM-10:00PM"
+    },
+    {
+     "day": "THURSDAY",
+     "time": "8:00AM-10:00PM"
+    },
+    {
+     "day": "FRIDAY",
+     "time": "8:00AM-10:00PM"
+    },
+    {
+     "day": "SATURDAY",
+     "time": "8:00AM-10:00PM"
+    },
+    {
+     "day": "SUNDAY",
+     "time": "8:00AM-10:00PM"
+    }
+   ],
+   "state": "OK",
+   "listedOn": "/oklahoma",
+   "shop": "https://shop.starbuds.us/stores/chickasha-dispensary/"
+  },
+  {
+   "name": "Star Buds Rapid City",
+   "path": "/rapid-city",
+   "city": "Rapid City",
+   "address": [
+    "1141 Deadwood Ave Rapid City SD 57702"
+   ],
+   "phone": "(605) 791-0168",
+   "tel": "+16057910168",
+   "hours": [
+    {
+     "day": "MONDAY",
+     "time": "11:00AM-7:00PM"
+    },
+    {
+     "day": "TUESDAY",
+     "time": "11:00AM-7:00PM"
+    },
+    {
+     "day": "WEDNESDAY",
+     "time": "11:00AM-7:00PM"
+    },
+    {
+     "day": "THURSDAY",
+     "time": "11:00AM-7:00PM"
+    },
+    {
+     "day": "FRIDAY",
+     "time": "11:00AM-7:00PM"
+    },
+    {
+     "day": "SATURDAY",
+     "time": "12:00PM-6:00PM"
+    },
+    {
+     "day": "SUNDAY",
+     "time": "12:00PM-6:00PM"
+    }
+   ],
+   "state": "SD"
+  }
+ ]
+}

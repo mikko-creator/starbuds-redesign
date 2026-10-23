@@ -1,0 +1,137 @@
+{
+ "path": "/single-post/2017/07/06/grand-opening-party-cc",
+ "url": "https://www.starbuds.us/single-post/2017/07/06/grand-opening-party-cc",
+ "key": "single-post__2017__07__06__grand-opening-party-cc",
+ "kind": "post",
+ "state": null,
+ "title": "GRAND OPENING PARTY CC | Starbuds Marijuana Dispensary | Colorado",
+ "h1": "GRAND OPENING PARTY CC",
+ "head": {
+  "title": "GRAND OPENING PARTY CC | Starbuds Marijuana Dispensary | Colorado",
+  "description": "Don't miss our Grand Opening Event happening at our newest location in Commerce City, July 7th 11am-4pm.We're happy to have our eighth convenient location & ca",
+  "canonical": "https://www.starbuds.us/single-post/2017/07/06/grand-opening-party-cc",
+  "robots": "",
+  "og": {
+   "title": "GRAND OPENING PARTY CC | Starbuds Marijuana Dispensary | Colorado",
+   "description": " Don't miss our Grand Opening Event happening at our newest location in Commerce City, July 7th 11am-4pm.We're happy to have our eighth convenient location & can't wait to share some of our most exclusive deals,prizes, and more! Our ribbon cutting ceremony with the Commerce City Chamber of Commerce will start offthe event at 11AM followed by a TON of fun. FLO 107.1 will be there set up with a LIVE DJ, doing shout outs, giveaways & playing the hottest new hits! Have you ever wanted to get chauffe",
+   "image": "https://static.wixstatic.com/media/553d0f_34cc55d899b54df48ec6f6b70c709527~mv2_d_3216_2408_s_4_2.png/v1/fill/w_1000,h_749,al_c,q_90,usm_0.66_1.00_0.01/553d0f_34cc55d899b54df48ec6f6b70c709527~mv2_d_3216_2408_s_4_2.png",
+   "image:width": "3216",
+   "image:height": "2408",
+   "url": "https://www.starbuds.us/single-post/2017/07/06/grand-opening-party-cc",
+   "site_name": "Star Buds ",
+   "type": "article"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+     "@type": "Person",
+     "name": "starbuds",
+     "url": "https://www.starbuds.us/profile/denver/profile"
+    },
+    "dateModified": "2017-07-06T23:24:14.444Z",
+    "datePublished": "2017-07-06T23:24:14.444Z",
+    "headline": "GRAND OPENING PARTY CC | Starbuds Marijuana Dispensary | Colorado",
+    "mainEntityOfPage": {
+     "@id": "https://www.starbuds.us/single-post/2017/07/06/grand-opening-party-cc",
+     "@type": "itemPage",
+     "url": "https://www.starbuds.us/single-post/2017/07/06/grand-opening-party-cc"
+    },
+    "description": "Don't miss our Grand Opening Event happening at our newest location in Commerce City, July 7th 11am-4pm.We're happy to have our eighth convenient location & ca",
+    "url": "https://www.starbuds.us/single-post/2017/07/06/grand-opening-party-cc",
+    "image": {
+     "@type": "ImageObject",
+     "url": "https://static.wixstatic.com/media/553d0f_34cc55d899b54df48ec6f6b70c709527~mv2_d_3216_2408_s_4_2.png/v1/fill/w_1000,h_749,al_c,q_90,usm_0.66_1.00_0.01/553d0f_34cc55d899b54df48ec6f6b70c709527~mv2_d_3216_2408_s_4_2.png",
+     "width": "3216",
+     "height": "2408"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "Star Buds ",
+     "url": "https://www.starbuds.us"
+    }
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Blog",
+   "path": "/blog"
+  },
+  {
+   "name": "GRAND OPENING PARTY CC",
+   "path": "/single-post/2017/07/06/grand-opening-party-cc"
+  }
+ ],
+ "sections": [],
+ "post": {
+  "date": "2017-07-06T23:24:14.444Z",
+  "dateText": "Jul 6, 2017",
+  "readTime": "1 min read",
+  "hero": {
+   "src": "https://static.wixstatic.com/media/553d0f_34cc55d899b54df48ec6f6b70c709527~mv2_d_3216_2408_s_4_2.png",
+   "alt": ""
+  },
+  "categories": [],
+  "blocks": [
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/553d0f_34cc55d899b54df48ec6f6b70c709527~mv2_d_3216_2408_s_4_2.png",
+    "alt": "",
+    "href": null,
+    "w": 3216,
+    "h": 2408,
+    "caption": ""
+   },
+   {
+    "t": "rich",
+    "html": "<p>Don't miss our Grand Opening Event happening at our newest location in Commerce City, July 7th 11am-4pm.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>We're happy to have our eighth convenient location &amp; can't wait to share some of our most exclusive deals,</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>prizes, and more! Our ribbon cutting ceremony with the Commerce City Chamber of Commerce will start off</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>the event at 11AM followed by a TON of fun.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>FLO 107.1 will be there set up with a LIVE DJ, doing shout outs, giveaways &amp; playing the hottest new hits!</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Have you ever wanted to get chauffeured around with your friends in a CUSTOM, decked out Mercedes Sprinter Van?</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Starbuds will be RAFFLING off 2 hours for you and your friends to go wherever you want in Colorado, so make to</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>sure stop by the store to enter.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Not only will we be giving away a TON of cool gifts, we will have one of a kind deals from us and our excluive Vendors (High Tech, Ripple by Stillwater &amp; Taste Budz) who will be doing Buy One Get One for a Penny deals that are OUT of this world!</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>We cant wait to see you there!</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>(21+ only welcome)</p>"
+   }
+  ]
+ }
+}

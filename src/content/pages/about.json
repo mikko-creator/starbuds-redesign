@@ -1,0 +1,102 @@
+{
+ "path": "/about",
+ "url": "https://www.starbuds.us/about",
+ "key": "about",
+ "kind": "page",
+ "state": null,
+ "title": "About | Star Buds Marijuana Dispensary | Colorado, Illinois, Mississippi, Oklahoma, New York, Maryland",
+ "h1": "We are home to a top-notch selection of strains, including our signature Cannabis Cup-winning sativa, plus a wide array of popular concentrates, edibles, tinctures and more. Check out our products!",
+ "head": {
+  "title": "About | Star Buds Marijuana Dispensary | Colorado, Illinois, Mississippi, Oklahoma, New York, Maryland",
+  "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+  "canonical": "https://www.starbuds.us/about",
+  "robots": "",
+  "og": {
+   "title": "About | Star Buds Marijuana Dispensary | Colorado, Illinois, Mississippi, Oklahoma, New York, Maryland",
+   "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/about",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "We are home to a top-notch selection of strains, including our signature Cannabis Cup-winning sativa, plus a wide array of popular concentrates, edibles, tinctures and more. Check out our products!",
+   "path": "/about"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "image",
+     "src": "https://static.wixstatic.com/media/553d0f_6849937938d44b3da3cc629ed33a8556~mv2.png",
+     "alt": "Starbuds_US_Main_Est2013_HorizontalWordm",
+     "href": null,
+     "w": 600,
+     "h": 185,
+     "caption": ""
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "html": "We are home to a top-notch selection of strains, including our signature Cannabis Cup-winning sativa, plus a wide array of popular concentrates, edibles, tinctures and more. Check out our products!"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 4,
+     "html": "The Star Buds Difference"
+    },
+    {
+     "t": "divider"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Welcome to Star Buds, your premier destination for exceptional cannabis. With locations spanning across Colorado, Maryland, Mississippi, Illinois, and Oklahoma, we're proud to offer unparalleled service and product selection. From the moment you step into our dispensaries, you'll feel the difference. No more waiting in lobbies, ordering on an iPad, or settling for subpar products—our welcoming atmosphere invites you to fully immerse yourself while our knowledgeable, attentive team guides you through a personalized customer service experience.</p>\n<p>​</p>\n<p>Ready for the perks?</p>\n<p>When you sign up for our rewards program (it's totally free, by the way), you'll unlock instant benefits. With every purchase, earn valuable points that can be redeemed for savings on an extensive range of premium cannabis products and accessories. As a member of our Higher Rewards Loyalty Program, you'll also enjoy priority access to exclusive discounts and special Star Buds events. <a href=\"/rewards/\" target=\"_self\">Learn More »</a></p>\n<p>​</p>\n<p>The Star Buds Community</p>\n<p>Community is at the heart of everything we do. Through our <a href=\"/cancerreliefprogram/\" target=\"_self\">Cancer Relief Program</a>, we extend discounted access to cannabis products to those in need. We're also dedicated to honoring our veterans, providing ongoing discounts, and continuously seeking ways to make a positive impact in our communities.</p>\n<p>​</p>\n<p>At Star Buds, we pride ourselves on Shining High Above the Rest.</p>\n<p>Your journey with us is guaranteed to be nothing short of extraordinary.</p>"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "image",
+     "src": "https://static.wixstatic.com/media/553d0f_973f653d1f7a49fea87b579ad9be4096~mv2.png",
+     "alt": "high times cannabis cup winner 2015 best sativa, pootie tang",
+     "href": "https://www.cannabiscup.com/past-winners/",
+     "w": 379,
+     "h": 296,
+     "caption": ""
+    },
+    {
+     "t": "heading",
+     "level": 5,
+     "html": "PROUD WINNERS OF THE 2015 CANNABIS CUP FOR BEST SATIVA IN COLORADO"
+    },
+    {
+     "t": "button",
+     "text": "LEARN MORE",
+     "href": "https://www.cannabiscup.com/past-winners/#denver-",
+     "external": true
+    }
+   ]
+  }
+ ]
+}

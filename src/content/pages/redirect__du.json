@@ -1,0 +1,14 @@
+{
+ "path": "/du",
+ "url": "https://www.starbuds.us/du",
+ "key": "redirect__du",
+ "kind": "redirect",
+ "state": "CO",
+ "title": "",
+ "h1": "",
+ "redirect": {
+  "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-du?store=1760&store_updated=true&wp_store_id=8772",
+  "status": 301,
+  "offOrigin": true
+ }
+}

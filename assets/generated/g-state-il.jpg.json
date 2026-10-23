@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-STATE-IL",
+  "file": "assets/generated/g-state-il.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "landscape photograph of open tallgrass prairie at deep blue dusk, wild grasses and coneflowers in the foreground, a lone oak on the far horizon, wide starry sky above with a last warm glow at the horizon, no buildings, no roads, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "safety_tolerance": "5"
+  },
+  "seed": 527472803,
+  "requestId": "01a16627-420c-7e53-b6d1-74b682a56a32",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "398edb10b649c976ccd5696154ef0c8d3c62d5ee1f2192c16becf30ad1ab1df3",
+  "raw": "tmp/img/raw/G-STATE-IL.1792715219899.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-23T00:27:01.813Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "generic dusk landscape under stars, no landmark, no buildings, no text",
+    "reviewedAt": "2026-10-23T00:36:26.726Z",
+    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+  }
+}

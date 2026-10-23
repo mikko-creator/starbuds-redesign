@@ -1,0 +1,301 @@
+{
+ "path": "/media",
+ "url": "https://www.starbuds.us/media",
+ "key": "media",
+ "kind": "page",
+ "state": null,
+ "title": "MEDIA | Star Buds",
+ "h1": "IN THE PRESS",
+ "head": {
+  "title": "MEDIA | Star Buds",
+  "description": "",
+  "canonical": "https://www.starbuds.us/media",
+  "robots": "",
+  "og": {
+   "title": "MEDIA | Star Buds",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/media",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "IN THE PRESS",
+   "path": "/media"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "IN THE PRESS"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "repeater",
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/553d0f_55843d83b6c147d18d4c4afe9a3d9710~mv2.png",
+         "alt": "PotBarons.png",
+         "href": "http://www.msnbc.com/pot-barons/meet-brian-ruden-owner-starbuds",
+         "w": 216,
+         "h": 193,
+         "caption": ""
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "Meet Brian Ruden: Owner of Starbuds"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/553d0f_63485a23dc2748b0a6671adf31a8bba4~mv2.png",
+         "alt": "download-2.png",
+         "href": "https://growmag.com/",
+         "w": 216,
+         "h": 193,
+         "caption": ""
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "Grow Mag"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/553d0f_cbee7d8e6cb04a54a3c15f35885d7db1~mv2.jpg",
+         "alt": "boston-globe-logo-mmp.jpg",
+         "href": "https://www.bostonglobe.com/ideas/2018/02/09/uncommon-knowledge-the-impacts-legalization/jsqaeMDLCgGzkN5fQrGcWJ/story.html",
+         "w": 216,
+         "h": 193,
+         "caption": ""
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "The Impacts of Legalization"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/553d0f_8c7b8cf13dad4b638f48f9952d823e16~mv2_d_1200_1200_s_2.png",
+         "alt": "cannabist-social-logo-lgsq.png",
+         "href": "https://www.thecannabist.co/2015/05/15/cannabist-show-neos-vape-pens-marijuana-starbuds/35011/",
+         "w": 216,
+         "h": 193,
+         "caption": ""
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "The Cannabist Show"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/553d0f_68c11c80fe9e4d85b04b55082096bb40~mv2_d_1920_1920_s_2.png",
+         "alt": "logo-msnbc-png--1920.png",
+         "href": "http://www.msnbc.com/pot-barons",
+         "w": 216,
+         "h": 193,
+         "caption": ""
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "Pot Barons of Colorado"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/553d0f_374204060ca74ba09fe8b57cf7e90455~mv2.png",
+         "alt": "dopemagazine.png",
+         "href": "https://www.dopemagazine.com/pootie-tang/",
+         "w": 216,
+         "h": 193,
+         "caption": ""
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "Pootie Tang: A Smooth, Sweet and Stimulating Sativa"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/553d0f_b5fe5bd067c843efa45fb39a2ef7f272~mv2.png",
+         "alt": "forbes-logo-vector-2.png",
+         "href": "https://www.forbes.com/sites/julieweed/2016/05/21/good-news-for-marijuana-businesses-may-be-on-the-horizon/#7dd713806d82",
+         "w": 216,
+         "h": 193,
+         "caption": ""
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "Good News For Marijuana Businesses"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/553d0f_2fd4d7d1d6694bd8baf9335181fcc592~mv2.jpg",
+         "alt": "ncv-logo-white-share-420x315.jpg",
+         "href": "https://www.newcannabisventures.com/colorados-starbuds-partners-with-compass-cannabis-clinics-to-pursue-canadian-cannabis-retail-opportunities/",
+         "w": 216,
+         "h": 193,
+         "caption": ""
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "Starbuds Partners with Cannabis Clinics"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/553d0f_0c973af6f94647b59017f3caaa94b5b5~mv2.png",
+         "alt": "rolling_stone_logo.png",
+         "href": "https://www.rollingstone.com/culture/culture-features/the-rolling-stone-guide-to-legal-pot-colorado-627824/",
+         "w": 216,
+         "h": 193,
+         "caption": ""
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "The Rolling Stone Guide to Legal Pot: Colorado"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "divider"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "html": "JULIE'S KITCHEN"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "html": "COOKING AT HOME WITH JULIE DOOLEY FROM STAR BAR EDIBLES"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "html": "CANNABIS INFUSED COOKIE DOUGH"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "html": "CANNABIS INFUSED MARINARA SAUCE"
+    },
+    {
+     "t": "button",
+     "text": "THE RECIPE",
+     "href": "https://www.starbuds.us/_files/ugd/553d0f_2c5bab4853534311a3a5f14b554d673e.pdf",
+     "external": false
+    },
+    {
+     "t": "button",
+     "text": "THE RECIPE",
+     "href": "https://www.starbuds.us/_files/ugd/553d0f_15ac1c3dba2841e5af7608cbe362df3a.pdf",
+     "external": false
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 4,
+     "html": "CANNABUTTER OR CANNA COCONUT OIL"
+    },
+    {
+     "t": "button",
+     "text": "THE RECIPE",
+     "href": "https://www.starbuds.us/_files/ugd/553d0f_9acd43295a1b4fe8adc14109ebfdbde3.pdf",
+     "external": false
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "divider"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "STAR BUDS FEATURED ON YOUTUBE"
+    },
+    {
+     "t": "embed",
+     "src": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fgijacklin%2Fvideos%2F10155288734998713&autoplay=false&mute=false&width=790px&height=455px",
+     "title": "External Facebook",
+     "kind": "other",
+     "height": null,
+     "host": "www.facebook.com"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "path": "/single-post/2020/04/13/tale-of-two-pot-dispensaries-coping-with-covid-19",
+ "url": "https://www.starbuds.us/single-post/2020/04/13/tale-of-two-pot-dispensaries-coping-with-covid-19",
+ "key": "single-post__2020__04__13__tale-of-two-pot-dispensaries-coping-with-covid-19",
+ "kind": "post",
+ "state": null,
+ "title": "Tale Of Two Pot Dispensaries: Coping with COVID-19",
+ "h1": "Tale Of Two Pot Dispensaries: Coping with COVID-19",
+ "head": {
+  "title": "Tale Of Two Pot Dispensaries: Coping with COVID-19",
+  "description": "",
+  "canonical": "https://www.starbuds.us/single-post/2020/04/13/tale-of-two-pot-dispensaries-coping-with-covid-19",
+  "robots": "",
+  "og": {
+   "title": "Tale Of Two Pot Dispensaries: Coping with COVID-19",
+   "description": " It was the worst of times; it was the best of times. For two cannabis businesses, one based in Colorado and the other in Massachusetts, it’s been a mixture of both during the COVID-19 pandemic. READ THE FULL ARTICLE HERE",
+   "image": "https://static.wixstatic.com/media/553d0f_28bcc171d6464c84a90cb6dc0ca5dd48~mv2.jpg/v1/fill/w_899,h_492,al_c,lg_1,q_85/553d0f_28bcc171d6464c84a90cb6dc0ca5dd48~mv2.jpg",
+   "image:width": "749",
+   "image:height": "410",
+   "url": "https://www.starbuds.us/single-post/2020/04/13/tale-of-two-pot-dispensaries-coping-with-covid-19",
+   "site_name": "Star Buds ",
+   "type": "article"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+     "@type": "Person",
+     "name": "starbuds",
+     "url": "https://www.starbuds.us/profile/denver/profile"
+    },
+    "dateModified": "2020-04-13T15:35:10.113Z",
+    "datePublished": "2020-04-13T15:35:10.113Z",
+    "headline": "Tale Of Two Pot Dispensaries: Coping with COVID-19",
+    "mainEntityOfPage": {
+     "@id": "https://www.starbuds.us/single-post/2020/04/13/tale-of-two-pot-dispensaries-coping-with-covid-19",
+     "@type": "itemPage",
+     "url": "https://www.starbuds.us/single-post/2020/04/13/tale-of-two-pot-dispensaries-coping-with-covid-19"
+    },
+    "description": " It was the worst of times; it was the best of times. For two cannabis businesses, one based in Colorado and the other in Massachusetts, it’s been a mixture of both during the COVID-19 pandemic. READ THE FULL ARTICLE HERE",
+    "url": "https://www.starbuds.us/single-post/2020/04/13/tale-of-two-pot-dispensaries-coping-with-covid-19",
+    "image": {
+     "@type": "ImageObject",
+     "url": "https://static.wixstatic.com/media/553d0f_28bcc171d6464c84a90cb6dc0ca5dd48~mv2.jpg/v1/fill/w_899,h_492,al_c,lg_1,q_85/553d0f_28bcc171d6464c84a90cb6dc0ca5dd48~mv2.jpg",
+     "width": "749",
+     "height": "410"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "Star Buds ",
+     "url": "https://www.starbuds.us"
+    }
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Blog",
+   "path": "/blog"
+  },
+  {
+   "name": "Tale Of Two Pot Dispensaries: Coping with COVID-19",
+   "path": "/single-post/2020/04/13/tale-of-two-pot-dispensaries-coping-with-covid-19"
+  }
+ ],
+ "sections": [],
+ "post": {
+  "date": "2020-04-13T15:35:10.113Z",
+  "dateText": "Apr 13, 2020",
+  "readTime": "1 min read",
+  "hero": {
+   "src": "https://static.wixstatic.com/media/553d0f_28bcc171d6464c84a90cb6dc0ca5dd48~mv2.jpg",
+   "alt": ""
+  },
+  "categories": [],
+  "blocks": [
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/553d0f_28bcc171d6464c84a90cb6dc0ca5dd48~mv2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 749,
+    "h": 410,
+    "caption": ""
+   },
+   {
+    "t": "rich",
+    "html": "<p>It was the worst of times; it was the best of times. For two cannabis businesses, one based in Colorado and the other in Massachusetts, it’s been a mixture of both during the COVID-19 pandemic.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 3,
+    "html": "<a href=\"http://www.forbes.com/sites/irisdorbian/2020/04/13/tale-of-two-dispensaries-coping-with-covid-19\" target=\"_blank\" rel=\"noopener\">READ THE FULL ARTICLE HERE</a>"
+   }
+  ]
+ }
+}

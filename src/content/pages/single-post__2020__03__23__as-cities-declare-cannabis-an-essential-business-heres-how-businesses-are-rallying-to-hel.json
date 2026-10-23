@@ -1,0 +1,106 @@
+{
+ "path": "/single-post/2020/03/23/as-cities-declare-cannabis-an-essential-business-heres-how-businesses-are-rallying-to-hel",
+ "url": "https://www.starbuds.us/single-post/2020/03/23/as-cities-declare-cannabis-an-essential-business-heres-how-businesses-are-rallying-to-hel",
+ "key": "single-post__2020__03__23__as-cities-declare-cannabis-an-essential-business-heres-how-businesses-are-rallying-to-hel",
+ "kind": "post",
+ "state": null,
+ "title": "As Cities Declare Cannabis An 'Essential Business,' Here's How Businesses Are Rallying T",
+ "h1": "As Cities Declare Cannabis An 'Essential Business,' Here's How Businesses Are Rallying T",
+ "head": {
+  "title": "As Cities Declare Cannabis An 'Essential Business,' Here's How Businesses Are Rallying T",
+  "description": "",
+  "canonical": "https://www.starbuds.us/single-post/2020/03/23/as-cities-declare-cannabis-an-essential-business-heres-how-businesses-are-rallying-to-hel",
+  "robots": "",
+  "og": {
+   "title": "As Cities Declare Cannabis An 'Essential Business,' Here's How Businesses Are Rallying T",
+   "description": " If there is any good news coming out of the coronavirus crisis, it may be city officials' decision to classify cannabis as an \"essential business.\" READ MORE HERE ",
+   "image": "https://static.wixstatic.com/media/553d0f_85c8b0db57394ca5af96e0ade3f09d83~mv2.jpg/v1/fill/w_899,h_492,al_c,lg_1,q_85/553d0f_85c8b0db57394ca5af96e0ade3f09d83~mv2.jpg",
+   "image:width": "749",
+   "image:height": "410",
+   "url": "https://www.starbuds.us/single-post/2020/03/23/as-cities-declare-cannabis-an-essential-business-heres-how-businesses-are-rallying-to-hel",
+   "site_name": "Star Buds ",
+   "type": "article"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+     "@type": "Person",
+     "name": "starbuds",
+     "url": "https://www.starbuds.us/profile/denver/profile"
+    },
+    "dateModified": "2020-03-23T16:09:49.349Z",
+    "datePublished": "2020-03-23T16:09:49.349Z",
+    "headline": "As Cities Declare Cannabis An 'Essential Business,' Here's How Businesses Are Rallying T",
+    "mainEntityOfPage": {
+     "@id": "https://www.starbuds.us/single-post/2020/03/23/as-cities-declare-cannabis-an-essential-business-heres-how-businesses-are-rallying-to-hel",
+     "@type": "itemPage",
+     "url": "https://www.starbuds.us/single-post/2020/03/23/as-cities-declare-cannabis-an-essential-business-heres-how-businesses-are-rallying-to-hel"
+    },
+    "description": " If there is any good news coming out of the coronavirus crisis, it may be city officials' decision to classify cannabis as an \"essential business.\" READ MORE HERE ",
+    "url": "https://www.starbuds.us/single-post/2020/03/23/as-cities-declare-cannabis-an-essential-business-heres-how-businesses-are-rallying-to-hel",
+    "image": {
+     "@type": "ImageObject",
+     "url": "https://static.wixstatic.com/media/553d0f_85c8b0db57394ca5af96e0ade3f09d83~mv2.jpg/v1/fill/w_899,h_492,al_c,lg_1,q_85/553d0f_85c8b0db57394ca5af96e0ade3f09d83~mv2.jpg",
+     "width": "749",
+     "height": "410"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "Star Buds ",
+     "url": "https://www.starbuds.us"
+    }
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Blog",
+   "path": "/blog"
+  },
+  {
+   "name": "As Cities Declare Cannabis An 'Essential Business,' Here's How Businesses Are Rallying T",
+   "path": "/single-post/2020/03/23/as-cities-declare-cannabis-an-essential-business-heres-how-businesses-are-rallying-to-hel"
+  }
+ ],
+ "sections": [],
+ "post": {
+  "date": "2020-03-23T16:09:49.349Z",
+  "dateText": "Mar 23, 2020",
+  "readTime": "1 min read",
+  "hero": {
+   "src": "https://static.wixstatic.com/media/553d0f_85c8b0db57394ca5af96e0ade3f09d83~mv2.jpg",
+   "alt": ""
+  },
+  "categories": [],
+  "blocks": [
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/553d0f_85c8b0db57394ca5af96e0ade3f09d83~mv2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 749,
+    "h": 410,
+    "caption": ""
+   },
+   {
+    "t": "rich",
+    "html": "<p>If there is any good news coming out of the coronavirus crisis, it may be city officials' decision to classify cannabis as an \"essential business.\"</p>"
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "<a href=\"http://www.greenentrepreneur.com/article/347831\" target=\"_blank\" rel=\"noopener\">READ MORE HERE</a>"
+   },
+   {
+    "t": "rich",
+    "html": "<p><a href=\"http://www.greenentrepreneur.com/article/347831\" target=\"_blank\" rel=\"noopener\"> </a></p>"
+   }
+  ]
+ }
+}

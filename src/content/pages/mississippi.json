@@ -1,0 +1,156 @@
+{
+ "path": "/mississippi",
+ "url": "https://www.starbuds.us/mississippi",
+ "key": "mississippi",
+ "kind": "state",
+ "state": "MS",
+ "title": "Locations | Star Buds Marijuana Dispensary | Mississippi",
+ "h1": "GREENWOOD 2218 Highway 82 W Greenwood MS, 38930 (662) 456-1181",
+ "head": {
+  "title": "Locations | Star Buds Marijuana Dispensary | Mississippi",
+  "description": "Star Buds Dispensaries | CBD Store | Flower, Concentrates, Edibles, Topicals and Tinctures",
+  "canonical": "https://www.starbuds.us/mississippi",
+  "robots": "",
+  "og": {
+   "title": "Locations | Star Buds Marijuana Dispensary | Mississippi",
+   "description": "Star Buds Dispensaries | CBD Store | Flower, Concentrates, Edibles, Topicals and Tinctures",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/mississippi",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Locations",
+   "path": "/locations"
+  },
+  {
+   "name": "GREENWOOD 2218 Highway 82 W Greenwood MS, 38930 (662) 456-1181",
+   "path": "/mississippi"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "repeater",
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "GREENWOOD <br> 2218 Highway 82 W<br> Greenwood MS, 38930<br> (662) 456-1181"
+        },
+        {
+         "t": "button",
+         "text": "VIEW HOURS & SHOP",
+         "href": "https://shop.starbuds.us/stores/greenwood-dispensary/",
+         "external": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "OXFORD<br> 1319 N Lamar Blvd Suite A<br> Oxford MS, 38655<br> (662) 638-3008"
+        },
+        {
+         "t": "button",
+         "text": "VIEW HOURS & SHOP",
+         "href": "https://shop.starbuds.us/stores/oxford-dispensary/",
+         "external": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "NATCHEZ<br> 135 US-61 #1<br> Natchez, MS, 39120<br> (601) 653-0400"
+        },
+        {
+         "t": "button",
+         "text": "VIEW HOURS & SHOP",
+         "href": "https://shop.starbuds.us/stores/natchez-dispensary/",
+         "external": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "PEARL<br> 190 Riverwind E Dr, Unit 306<br> Pearl, MS 39208<br> (601) 706-6050"
+        },
+        {
+         "t": "button",
+         "text": "VIEW HOURS & SHOP",
+         "href": "https://shop.starbuds.us/stores/pearl/",
+         "external": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "OCEAN SPRINGS<br> 718 Bienville Blvd Ste A<br> Ocean Springs, MS 39564<br> (228) 215-1776"
+        },
+        {
+         "t": "button",
+         "text": "VIEW HOURS & SHOP",
+         "href": "https://shop.starbuds.us/stores/ocean-springs-dispensary/",
+         "external": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "TUPELO<br> 2546 Hwy 145 Ste D<br> Saltillo, MS 38866<br> (662) 458-1872"
+        },
+        {
+         "t": "button",
+         "text": "VIEW HOURS & SHOP",
+         "href": "https://shop.starbuds.us/stores/tupelo-saltillo-dispensary/",
+         "external": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "embed",
+     "src": "",
+     "title": "Google Map",
+     "kind": "map",
+     "height": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "CUT-ACANTHUS",
+  "file": "assets/generated/cut-acanthus.png",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "studio product photograph of a single gilded antique brass acanthus leaf scroll ornament, Victorian architectural metalwork, one horizontal S-shaped scroll of curling acanthus leaves, front view, fully in frame with space around it, isolated on a plain flat dark charcoal grey seamless background, warm studio light on the gilding, crisp edges, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+  "input": {
+    "aspect_ratio": "3:2",
+    "output_format": "jpeg",
+    "safety_tolerance": "5"
+  },
+  "seed": 3692796766,
+  "requestId": "01a16627-8b0f-7fb1-aafe-b80ae65b87db",
+  "cutout": {
+    "model": "fal-ai/birefnet/v2",
+    "requestId": "01a16627-bd7d-78f1-90c9-8cc0dda21465"
+  },
+  "width": 2076,
+  "height": 441,
+  "sha256": "a7ba49715256e84f3ce5e9dfc31ea71da7e4fc143f63b003f6c5686675e4fa35",
+  "raw": "tmp/img/raw/CUT-ACANTHUS.1792715240272.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-23T00:27:27.533Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "gilded acanthus scroll, clean edges, trimmed (2076x441)",
+    "reviewedAt": "2026-10-23T00:36:16.541Z",
+    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+  },
+  "postprocess": [
+    {
+      "note": "trimmed to the alpha bounding box + 3% padding (tmp/img/prep.py trim)",
+      "at": "2026-10-23T00:34:15.098Z"
+    }
+  ]
+}

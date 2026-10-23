@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-STATE-SD",
+  "file": "assets/generated/g-state-sd.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "landscape photograph of dark ponderosa pine forested hills with rounded weathered granite boulders at deep blue dusk, a starry sky above with a faint warm glow at the horizon, quiet and generic, no carved rock, no monuments, no buildings, no roads, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "safety_tolerance": "5"
+  },
+  "seed": 382112696,
+  "requestId": "01a16627-697f-7b50-a01a-fd8a3d615cbd",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "f4bb4b4e0a8a8af14a581625a79bdc09eba92050e96182703d6d57933e167a9f",
+  "raw": "tmp/img/raw/G-STATE-SD.1792715229944.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-23T00:27:11.760Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "generic dusk landscape under stars, no landmark, no buildings, no text",
+    "reviewedAt": "2026-10-23T00:36:31.227Z",
+    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+  }
+}

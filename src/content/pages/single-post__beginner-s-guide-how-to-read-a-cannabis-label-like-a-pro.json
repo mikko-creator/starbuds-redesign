@@ -1,0 +1,205 @@
+{
+ "path": "/single-post/beginner-s-guide-how-to-read-a-cannabis-label-like-a-pro",
+ "url": "https://www.starbuds.us/single-post/beginner-s-guide-how-to-read-a-cannabis-label-like-a-pro",
+ "key": "single-post__beginner-s-guide-how-to-read-a-cannabis-label-like-a-pro",
+ "kind": "post",
+ "state": null,
+ "title": "Beginner’s Guide: How to Read a Cannabis Label Like a Pro",
+ "h1": "Beginner’s Guide: How to Read a Cannabis Label Like a Pro",
+ "head": {
+  "title": "Beginner’s Guide: How to Read a Cannabis Label Like a Pro",
+  "description": "",
+  "canonical": "https://www.starbuds.us/single-post/beginner-s-guide-how-to-read-a-cannabis-label-like-a-pro",
+  "robots": "",
+  "og": {
+   "title": "Beginner’s Guide: How to Read a Cannabis Label Like a Pro",
+   "description": "Navigating a cannabis label for the first time can feel a little like trying to read a new language—but once you get the hang of it, that label becomes your best friend. At Star Buds Westmont, we love helping our customers shop smarter, and understanding cannabis product labels is key to choosing the right experience for you.Whether you're new to cannabis or just want to level up your knowledge, this guide will break down the essentials.THC vs. CBD Percentages—What Do They Really Mean?Let’s star",
+   "image": "https://static.wixstatic.com/media/3493a0_381abdbaaafd4e57adccd4d93173493c~mv2.jpg/v1/fill/w_1000,h_436,al_c,q_85,usm_0.66_1.00_0.01/3493a0_381abdbaaafd4e57adccd4d93173493c~mv2.jpg",
+   "image:width": "3000",
+   "image:height": "1307",
+   "url": "https://www.starbuds.us/single-post/beginner-s-guide-how-to-read-a-cannabis-label-like-a-pro",
+   "site_name": "Star Buds ",
+   "type": "article"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+     "@type": "Person",
+     "name": "starbuds",
+     "url": "https://www.starbuds.us/profile/denver/profile"
+    },
+    "dateModified": "2025-06-10T07:00:00.000Z",
+    "datePublished": "2025-06-10T07:00:00.000Z",
+    "headline": "Beginner’s Guide: How to Read a Cannabis Label Like a Pro",
+    "mainEntityOfPage": {
+     "@id": "https://www.starbuds.us/single-post/beginner-s-guide-how-to-read-a-cannabis-label-like-a-pro",
+     "@type": "itemPage",
+     "url": "https://www.starbuds.us/single-post/beginner-s-guide-how-to-read-a-cannabis-label-like-a-pro"
+    },
+    "description": "Navigating a cannabis label for the first time can feel a little like trying to read a new language—but once you get the hang of it, that label becomes your best friend. At Star Buds Westmont, we love helping our customers shop smarter, and understanding cannabis product labels is key to choosing the right experience for you.Whether you're new to cannabis or just want to level up your knowledge, this guide will break down the essentials.THC vs. CBD Percentages—What Do They Really Mean?Let’s star",
+    "url": "https://www.starbuds.us/single-post/beginner-s-guide-how-to-read-a-cannabis-label-like-a-pro",
+    "image": {
+     "@type": "ImageObject",
+     "url": "https://static.wixstatic.com/media/3493a0_381abdbaaafd4e57adccd4d93173493c~mv2.jpg/v1/fill/w_1000,h_436,al_c,q_85,usm_0.66_1.00_0.01/3493a0_381abdbaaafd4e57adccd4d93173493c~mv2.jpg",
+     "width": "3000",
+     "height": "1307"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "Star Buds ",
+     "url": "https://www.starbuds.us"
+    }
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Blog",
+   "path": "/blog"
+  },
+  {
+   "name": "Beginner’s Guide: How to Read a Cannabis Label Like a Pro",
+   "path": "/single-post/beginner-s-guide-how-to-read-a-cannabis-label-like-a-pro"
+  }
+ ],
+ "sections": [],
+ "post": {
+  "date": "2025-06-10T07:00:00.000Z",
+  "dateText": "Jun 10, 2025",
+  "readTime": "2 min read",
+  "hero": {
+   "src": "https://static.wixstatic.com/media/3493a0_381abdbaaafd4e57adccd4d93173493c~mv2.jpg",
+   "alt": ""
+  },
+  "categories": [],
+  "blocks": [
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/3493a0_381abdbaaafd4e57adccd4d93173493c~mv2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 3000,
+    "h": 1307,
+    "caption": ""
+   },
+   {
+    "t": "rich",
+    "html": "<p>Navigating a cannabis label for the first time can feel a little like trying to read a new language—but once you get the hang of it, that label becomes your best friend. At <strong>Star Buds Westmont</strong>, we love helping our customers shop smarter, and understanding cannabis product labels is key to choosing the right experience for you.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Whether you're new to cannabis or just want to level up your knowledge, this guide will break down the essentials.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 3,
+    "html": "THC vs. CBD Percentages—What Do They Really Mean?"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Let’s start with the big numbers you’ll notice on any cannabis product label: <strong>THC</strong> and <strong>CBD</strong>.</p>"
+   },
+   {
+    "t": "list",
+    "ordered": false,
+    "items": [
+     "<strong>THC (Tetrahydrocannabinol)</strong> is the main psychoactive compound in cannabis. The higher the THC percentage, the more intense the euphoric or “high” feeling may be.",
+     "<strong>CBD (Cannabidiol)</strong> is non-intoxicating and often associated with relaxation, stress relief, or pain management."
+    ]
+   },
+   {
+    "t": "rich",
+    "html": "<blockquote><p><strong>Quick tip:</strong> If you're new to cannabis, start with lower THC percentages (10–15%) and look for balanced or CBD-dominant options.</p></blockquote>"
+   },
+   {
+    "t": "heading",
+    "level": 3,
+    "html": "What Does “Indica-Dominant” or “Sativa-Dominant” Mean?"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Many cannabis strains are labeled as <strong>Indica</strong>, <strong>Sativa</strong>, or <strong>Hybrid</strong>. These terms offer general clues about how a product might make you feel:</p>"
+   },
+   {
+    "t": "list",
+    "ordered": false,
+    "items": [
+     "<strong>Indica</strong>: Known for relaxing, body-heavy effects. Great for winding down at night.",
+     "<strong>Sativa</strong>: Often uplifting and energizing. Ideal for daytime use or creative activities.",
+     "<strong>Hybrid</strong>: A mix of both—can offer balance or lean toward one side."
+    ]
+   },
+   {
+    "t": "rich",
+    "html": "<blockquote><p><strong>At Star Buds Westmont</strong>, our staff is always happy to help you choose based on the vibe you’re going for—not just the label.</p></blockquote>"
+   },
+   {
+    "t": "heading",
+    "level": 3,
+    "html": "What Does “Full-Spectrum” Mean?"
+   },
+   {
+    "t": "rich",
+    "html": "<p>When a label says <strong>full-spectrum</strong>, it means the product contains a wide range of cannabinoids and terpenes found in the cannabis plant—not just THC or CBD. This creates what’s known as the <strong>entourage effect</strong>, where the various compounds work together for a more complete and nuanced experience.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<blockquote><p>Think of full-spectrum like a full band vs. a solo singer—each element adds depth and harmony to the experience.</p></blockquote>"
+   },
+   {
+    "t": "heading",
+    "level": 3,
+    "html": "Decoding Terpenes"
+   },
+   {
+    "t": "rich",
+    "html": "<p><strong>Terpenes</strong> are aromatic compounds that give cannabis its unique smell—and they also influence how it affects your body and mind. Some common ones you might see:</p>"
+   },
+   {
+    "t": "list",
+    "ordered": false,
+    "items": [
+     "<strong>Limonene</strong> – Uplifting, citrusy, stress-relieving",
+     "<strong>Myrcene</strong> – Relaxing, earthy, great for nighttime",
+     "<strong>Pinene</strong> – Focused, piney, potentially anti-inflammatory"
+    ]
+   },
+   {
+    "t": "rich",
+    "html": "<p>More and more cannabis products now include terpene profiles. Pay attention to them—they can help you choose strains that align with your goals, like winding down, boosting energy, or easing stress.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 3,
+    "html": "Matching Label Info to Your Desired Experience"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Here’s a simple breakdown:</p>"
+   },
+   {
+    "t": "html",
+    "html": "<table><tr><td>Desired Effect</td><td>Look For On Label</td></tr><tr><td>Chill &amp; Relaxation</td><td>Indica-dominant, THC &lt;20%, Myrcene, CBD-rich</td></tr><tr><td>Uplifting &amp; Social</td><td>Sativa-dominant, Limonene, THC 15–25%</td></tr><tr><td>Pain Relief</td><td>Full-spectrum, CBD + THC, Caryophyllene</td></tr><tr><td>Sleep Support</td><td>High Myrcene, Indica, THC &gt;20%</td></tr><tr><td>Focus &amp; Creativity</td><td>Pinene, Sativa-leaning Hybrid, low Myrcene</td></tr></table>"
+   },
+   {
+    "t": "heading",
+    "level": 3,
+    "html": "Final Thoughts from Star Buds Westmont"
+   },
+   {
+    "t": "rich",
+    "html": "<p>We know there’s a lot to take in, but once you start paying attention to labels, you’ll unlock a whole new level of cannabis confidence. At <strong>Star Buds Westmont</strong>, our budtenders are happy to walk you through labels, answer questions, and help you find the right fit for your lifestyle.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Come by, ask away, and let us help you shop like a pro.</p>"
+   }
+  ]
+ }
+}

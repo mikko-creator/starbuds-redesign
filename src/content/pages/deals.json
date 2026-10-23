@@ -1,0 +1,73 @@
+{
+ "path": "/deals",
+ "url": "https://www.starbuds.us/deals",
+ "key": "deals",
+ "kind": "deals",
+ "state": null,
+ "title": "Deals | Star Buds Marijuana Dispensary",
+ "h1": "",
+ "head": {
+  "title": "Deals | Star Buds Marijuana Dispensary",
+  "description": "Deals at Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+  "canonical": "https://www.starbuds.us/deals",
+  "robots": "",
+  "og": {
+   "title": "Deals | Star Buds Marijuana Dispensary",
+   "description": "Deals at Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/deals",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Deals | Star Buds Marijuana Dispensary",
+   "path": "/deals"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>We know you love a great deal. <br> Get one at Star Buds today and every day.</p>\n<p>Everyone wants to buy their favorite products for less. That's why our customers shop at Star Buds - we have a great deal for everyone at all times. Check out what's available now:</p>"
+    },
+    {
+     "t": "button",
+     "text": "SHOP STAR BUDS DEALS",
+     "href": "http://shop.starbuds.us",
+     "external": true
+    },
+    {
+     "t": "button",
+     "text": "SHOP STAR BUDS COLORADO DEALS",
+     "href": "http://starbudscolorado.com/dispensary-deals",
+     "external": true
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "embed",
+     "src": "",
+     "title": "Google Map",
+     "kind": "map",
+     "height": null
+    }
+   ]
+  }
+ ]
+}

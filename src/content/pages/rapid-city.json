@@ -1,0 +1,118 @@
+{
+ "path": "/rapid-city",
+ "url": "https://www.starbuds.us/rapid-city",
+ "key": "rapid-city",
+ "kind": "store",
+ "state": "SD",
+ "title": "RAPID CITY | Star Buds",
+ "h1": "Star Buds Rapid City",
+ "head": {
+  "title": "RAPID CITY | Star Buds",
+  "description": "",
+  "canonical": "https://www.starbuds.us/rapid-city",
+  "robots": "",
+  "og": {
+   "title": "RAPID CITY | Star Buds",
+   "image": "https://static.wixstatic.com/media/553d0f_af6974ad8ea74a17a285e7a740843446%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/553d0f_af6974ad8ea74a17a285e7a740843446%7Emv2.jpg",
+   "image:width": "2500",
+   "image:height": "1330",
+   "url": "https://www.starbuds.us/rapid-city",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Locations",
+   "path": "/locations"
+  },
+  {
+   "name": "Star Buds Rapid City",
+   "path": "/rapid-city"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "Star Buds Rapid City"
+    },
+    {
+     "t": "rich",
+     "html": "<p>1141 Deadwood Ave Rapid City SD 57702</p>\n<p>(605) 791-0168</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Star Buds Rapid City is proud to be a CBD store serving the community of Rapid City, come see us for all your wellness needs. Our compassionate and knowledgeable staff is here to help you get exactly what you need at the best possible price.</p>"
+    },
+    {
+     "t": "embed",
+     "src": "",
+     "title": "Google Map",
+     "kind": "map",
+     "height": null
+    },
+    {
+     "t": "rich",
+     "html": "<p>HOURS</p>\n<p>MONDAY: 11:00AM-7:00PM</p>\n<p>TUESDAY: 11:00AM-7:00PM</p>\n<p>WEDNESDAY: 11:00AM-7:00PM</p>\n<p>THURSDAY: 11:00AM-7:00PM</p>\n<p>FRIDAY: 11:00AM-7:00PM</p>\n<p>SATURDAY: 12:00PM-6:00PM</p>\n<p>SUNDAY: 12:00PM-6:00PM</p>"
+    }
+   ]
+  }
+ ],
+ "store": {
+  "name": "Star Buds Rapid City",
+  "address": [
+   "1141 Deadwood Ave Rapid City SD 57702"
+  ],
+  "phone": "(605) 791-0168",
+  "tel": "+16057910168",
+  "hours": [
+   {
+    "day": "MONDAY",
+    "time": "11:00AM-7:00PM"
+   },
+   {
+    "day": "TUESDAY",
+    "time": "11:00AM-7:00PM"
+   },
+   {
+    "day": "WEDNESDAY",
+    "time": "11:00AM-7:00PM"
+   },
+   {
+    "day": "THURSDAY",
+    "time": "11:00AM-7:00PM"
+   },
+   {
+    "day": "FRIDAY",
+    "time": "11:00AM-7:00PM"
+   },
+   {
+    "day": "SATURDAY",
+    "time": "12:00PM-6:00PM"
+   },
+   {
+    "day": "SUNDAY",
+    "time": "12:00PM-6:00PM"
+   }
+  ],
+  "notes": [
+   "Star Buds Rapid City is proud to be a CBD store serving the community of Rapid City, come see us for all your wellness needs. Our compassionate and knowledgeable staff is here to help you get exactly what you need at the best possible price."
+  ],
+  "links": [],
+  "image": null,
+  "map": {
+   "kind": "map",
+   "src": ""
+  }
+ }
+}

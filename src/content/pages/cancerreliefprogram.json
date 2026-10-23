@@ -1,0 +1,108 @@
+{
+ "path": "/cancerreliefprogram",
+ "url": "https://www.starbuds.us/cancerreliefprogram",
+ "key": "cancerreliefprogram",
+ "kind": "page",
+ "state": null,
+ "title": "CANCER RELIEF PROGRAM | United States | Star Buds",
+ "h1": "CANCER RELIEF PROGRAM",
+ "head": {
+  "title": "CANCER RELIEF PROGRAM | United States | Star Buds",
+  "description": "At Star Buds, we attempt to provide relief, offering discounted Hash Oil for Current Cancer Patients",
+  "canonical": "https://www.starbuds.us/cancerreliefprogram",
+  "robots": "",
+  "og": {
+   "title": "CANCER RELIEF PROGRAM | United States | Star Buds",
+   "description": "At Star Buds, we attempt to provide relief, offering discounted Hash Oil for Current Cancer Patients",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/cancerreliefprogram",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "CANCER RELIEF PROGRAM",
+   "path": "/cancerreliefprogram"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "CANCER RELIEF PROGRAM"
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "Brought to you by Star Buds"
+    },
+    {
+     "t": "divider"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "html": "Discounted Hash Oil for Current Cancer Patients"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>At Star Buds, we care about our customers and our communities.</p>\n<p>​</p>\n<p>Star Buds embraces the idea that a business should give something back to the customers and communities supporting it. Beyond our daily mission of providing top quality products and customer service, we strive to find unique opportunities to do some good. In an effort to help those who use cannabis as a regular part of their cancer treatment, we have put together the Star Buds Cancer Relief Program. Eligible customers (see Terms and Conditions) may purchase one gram of select hash oil each month for just one dollar ($1).</p>\n<p>We hope this program helps to ensure that the cost of cannabis is one less hurdle on the road to recovery.</p>"
+    },
+    {
+     "t": "divider"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "html": "About Our Product"
+    },
+    {
+     "t": "rich",
+     "html": "<p>The Star Buds Hash Oil Syringe is designed with the user in mind. During the extraction process, the hash oil is exposed to heat in order to decarboxylate the THCA, resulting in a final product rich in Active THC. This enables the user to choose their preferred route of administration: oral, vaporized, or smoked.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "html": "Terms &amp; Conditions"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Eligibility shall be at the sole discretion of Star Buds, and providing the documentation below shall not be a guarantee of eligibility.</p>\n<p>Customer must be a cancer patient who has either received treatment or had an oncology follow-up appointment within the past six months.</p>\n<p>To demonstrate eligibility at the point of purchase, customer must present a document issued in the regular course of business by a recognizable medical provider or medical insurer (eg. St. Joseph’s Hospital, Kaiser Permanente, etc.) The document must contain each of the following:</p>"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "The name of the medical provider or medical insurer",
+      "The name of the patient (which must match customer’s valid ID)",
+      "The date of the treatment or doctor visit",
+      "An indication that the treatment or doctor visit was cancer related",
+      "Documentation must be presented once every six months.",
+      "Customer must join or be an existing member of the Star Buds Loyalty Program.",
+      "Customer is limited to one gram per month at the one dollar rate. Additional purchases will be at regular store price.",
+      "Star Buds will not retain, copy, or share customer’s medical documentation.",
+      "Star Buds will not share the identity of any customers participating in the SCRP."
+     ]
+    }
+   ]
+  }
+ ]
+}

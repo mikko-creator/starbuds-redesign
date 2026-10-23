@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-STATE-NY",
+  "file": "assets/generated/g-state-ny.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "landscape photograph of a calm lakeshore at deep blue dusk, smooth stones at the water's edge, low wooded hills across the still lake, a starry sky reflected in the water, a faint warm glow at the horizon, no buildings, no boats, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "safety_tolerance": "5"
+  },
+  "seed": 2526267882,
+  "requestId": "01a16627-5177-7c33-b839-9e2d5911e0e9",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "de5ce3b41b068934cb7e574a1979d887f65a6f4b2be4d184efb14ab0753c5ef1",
+  "raw": "tmp/img/raw/G-STATE-NY.1792715227611.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-23T00:27:09.647Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "generic dusk landscape under stars, no landmark, no buildings, no text",
+    "reviewedAt": "2026-10-23T00:36:29.894Z",
+    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+  }
+}

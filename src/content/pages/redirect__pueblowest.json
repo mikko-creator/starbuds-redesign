@@ -1,0 +1,14 @@
+{
+ "path": "/pueblowest",
+ "url": "https://www.starbuds.us/pueblowest",
+ "key": "redirect__pueblowest",
+ "kind": "redirect",
+ "state": "CO",
+ "title": "",
+ "h1": "",
+ "redirect": {
+  "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-pueblo-west?store=1089&store_updated=true&wp_store_id=8793",
+  "status": 301,
+  "offOrigin": true
+ }
+}

@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-TOPICALS",
+  "file": "assets/generated/g-topicals.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "a plain unlabeled amber glass dropper bottle and a small open plain glass jar of pale cream balm beside a fresh cannabis fan leaf on a dark green marble surface, warm lantern light, botanical still life, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "safety_tolerance": "5"
+  },
+  "seed": 2962042951,
+  "requestId": "01a16626-fe19-7b82-b0e4-7693bbb45f18",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "9ad59f3db1e5af5d29f9c866162f2435a0a52040d7671c647e8c2354fff09270",
+  "raw": "tmp/img/raw/G-TOPICALS.1792715209324.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-23T00:26:51.474Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "plain amber dropper bottle and balm jar, fan leaves, marble; no print (crop)",
+    "reviewedAt": "2026-10-23T00:36:07.050Z",
+    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+  }
+}

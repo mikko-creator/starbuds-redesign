@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-CONCENTRATES",
+  "file": "assets/generated/g-concentrates.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "a small soft irregular mound of freshly pressed hash rosin, a waxy cannabis concentrate, smooth opaque creamy pale-gold texture like thick soft wax with a fine sandy grain and a glossy oily sheen, no large crystals, no chunks, tiny glistening terpene droplets, a little translucent amber terpene oil pooling at its base, on a small square of unbleached parchment paper, a slim plain brass dab tool resting beside it, dark slate surface, macro still life, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "safety_tolerance": "5"
+  },
+  "seed": 2525521720,
+  "requestId": "01a1662a-b214-7cc0-89dd-05621708ebb9",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "5ea4a6e6f3f039e51abbdc0d8e99bec686b6f27fd4d0b8192dbf231ea25a9d90",
+  "raw": "tmp/img/raw/G-CONCENTRATES.1792715447226.jpg",
+  "attempt": 2,
+  "generatedAt": "2026-10-23T00:30:48.962Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "attempt 2 restored: glossy pale-gold rosin mound on parchment with a brass dab tool and kief crumbs; attempt 1 read as rock sugar, attempt 3 as a custard dessert (both archived); residual risk: the mound is glossy and could read as jelly to some viewers",
+    "reviewedAt": "2026-10-23T00:36:06.740Z",
+    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+  }
+}

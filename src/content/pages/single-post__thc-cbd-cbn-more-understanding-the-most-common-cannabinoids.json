@@ -1,0 +1,175 @@
+{
+ "path": "/single-post/thc-cbd-cbn-more-understanding-the-most-common-cannabinoids",
+ "url": "https://www.starbuds.us/single-post/thc-cbd-cbn-more-understanding-the-most-common-cannabinoids",
+ "key": "single-post__thc-cbd-cbn-more-understanding-the-most-common-cannabinoids",
+ "kind": "post",
+ "state": null,
+ "title": "THC, CBD, CBN & More: Understanding the Most Common Cannabinoids",
+ "h1": "THC, CBD, CBN & More: Understanding the Most Common Cannabinoids",
+ "head": {
+  "title": "THC, CBD, CBN & More: Understanding the Most Common Cannabinoids",
+  "description": "",
+  "canonical": "https://www.starbuds.us/single-post/thc-cbd-cbn-more-understanding-the-most-common-cannabinoids",
+  "robots": "",
+  "og": {
+   "title": "THC, CBD, CBN & More: Understanding the Most Common Cannabinoids",
+   "description": "A Beginner's Guide to the Cannabinoids Found in CannabisMany shoppers immediately look at THC percentage when choosing cannabis. While THC certainly plays an important role, it's only one of more than one hundred naturally occurring cannabinoids found in the cannabis plant.Understanding these compounds can help you make more informed purchases the next time you visit Star Buds.THCTHC (tetrahydrocannabinol) is the cannabinoid most commonly associated with cannabis.Products containing THC may prod",
+   "image": "https://static.wixstatic.com/media/3493a0_5336ff89a55a4f8f915c0b267ce639a7~mv2.jpg/v1/fill/w_1000,h_1000,al_c,q_85,usm_0.66_1.00_0.01/3493a0_5336ff89a55a4f8f915c0b267ce639a7~mv2.jpg",
+   "image:width": "5120",
+   "image:height": "5121",
+   "url": "https://www.starbuds.us/single-post/thc-cbd-cbn-more-understanding-the-most-common-cannabinoids",
+   "site_name": "Star Buds ",
+   "type": "article"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+     "@type": "Person",
+     "name": "starbuds",
+     "url": "https://www.starbuds.us/profile/denver/profile"
+    },
+    "dateModified": "2026-06-23T07:00:00.000Z",
+    "datePublished": "2026-06-23T07:00:00.000Z",
+    "headline": "THC, CBD, CBN & More: Understanding the Most Common Cannabinoids",
+    "mainEntityOfPage": {
+     "@id": "https://www.starbuds.us/single-post/thc-cbd-cbn-more-understanding-the-most-common-cannabinoids",
+     "@type": "itemPage",
+     "url": "https://www.starbuds.us/single-post/thc-cbd-cbn-more-understanding-the-most-common-cannabinoids"
+    },
+    "description": "A Beginner's Guide to the Cannabinoids Found in CannabisMany shoppers immediately look at THC percentage when choosing cannabis. While THC certainly plays an important role, it's only one of more than one hundred naturally occurring cannabinoids found in the cannabis plant.Understanding these compounds can help you make more informed purchases the next time you visit Star Buds.THCTHC (tetrahydrocannabinol) is the cannabinoid most commonly associated with cannabis.Products containing THC may prod",
+    "url": "https://www.starbuds.us/single-post/thc-cbd-cbn-more-understanding-the-most-common-cannabinoids",
+    "image": {
+     "@type": "ImageObject",
+     "url": "https://static.wixstatic.com/media/3493a0_5336ff89a55a4f8f915c0b267ce639a7~mv2.jpg/v1/fill/w_1000,h_1000,al_c,q_85,usm_0.66_1.00_0.01/3493a0_5336ff89a55a4f8f915c0b267ce639a7~mv2.jpg",
+     "width": "5120",
+     "height": "5121"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "Star Buds ",
+     "url": "https://www.starbuds.us"
+    }
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Blog",
+   "path": "/blog"
+  },
+  {
+   "name": "THC, CBD, CBN & More: Understanding the Most Common Cannabinoids",
+   "path": "/single-post/thc-cbd-cbn-more-understanding-the-most-common-cannabinoids"
+  }
+ ],
+ "sections": [],
+ "post": {
+  "date": "2026-06-23T07:00:00.000Z",
+  "dateText": "Jun 23",
+  "readTime": "1 min read",
+  "hero": {
+   "src": "https://static.wixstatic.com/media/3493a0_5336ff89a55a4f8f915c0b267ce639a7~mv2.jpg",
+   "alt": ""
+  },
+  "categories": [],
+  "blocks": [
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/3493a0_5336ff89a55a4f8f915c0b267ce639a7~mv2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 5120,
+    "h": 5121,
+    "caption": ""
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "A Beginner's Guide to the Cannabinoids Found in Cannabis"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Many shoppers immediately look at THC percentage when choosing cannabis. While THC certainly plays an important role, it's only one of more than one hundred naturally occurring cannabinoids found in the cannabis plant.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Understanding these compounds can help you make more informed purchases the next time you visit Star Buds.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "THC"
+   },
+   {
+    "t": "rich",
+    "html": "<p>THC (tetrahydrocannabinol) is the cannabinoid most commonly associated with cannabis.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Products containing THC may produce intoxicating effects, making it the primary ingredient many recreational consumers seek.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "CBD"
+   },
+   {
+    "t": "rich",
+    "html": "<p>CBD (cannabidiol) is another naturally occurring cannabinoid found in cannabis.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Unlike THC, CBD is generally non-intoxicating and is often found in balanced flower, tinctures, gummies, and other cannabis products.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Many consumers enjoy products containing both THC and CBD because they provide a different overall experience than THC alone.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "CBN"
+   },
+   {
+    "t": "rich",
+    "html": "<p>CBN is a cannabinoid that develops naturally as THC ages.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Many nighttime cannabis products include CBN because consumers often seek it as part of their evening routine.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "CBG"
+   },
+   {
+    "t": "rich",
+    "html": "<p>CBG is often referred to as the \"parent cannabinoid\" because many other cannabinoids develop from it during the plant's growth.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Although typically found in smaller amounts, breeders are creating more CBG-rich strains every year.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "It's About More Than THC"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Cannabinoids work alongside terpenes to create each strain's unique character.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Instead of simply buying the product with the highest THC percentage, ask your Star Buds budtender about cannabinoid balance and terpene profiles. You may discover a product that better matches your personal preferences!</p>"
+   }
+  ]
+ }
+}

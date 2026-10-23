@@ -1,0 +1,87 @@
+{
+ "path": "/consent",
+ "url": "https://www.starbuds.us/consent",
+ "key": "consent",
+ "kind": "legal",
+ "state": null,
+ "title": "Consent | Star Buds Marijuana Dispensary | Colorado",
+ "h1": "ARE YOU OVER",
+ "head": {
+  "title": "Consent | Star Buds Marijuana Dispensary | Colorado",
+  "description": "Star Buds is the Colorado-based source for medical & recreational marijuana, with many strains & a range of edibles. Locations in Denver, Aurora, Pueblo & more.",
+  "canonical": "https://www.starbuds.us/consent",
+  "robots": "",
+  "og": {
+   "title": "Consent | Star Buds Marijuana Dispensary | Colorado",
+   "description": "Star Buds is the Colorado-based source for medical & recreational marijuana, with many strains & a range of edibles. Locations in Denver, Aurora, Pueblo & more.",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/consent",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "ARE YOU OVER",
+   "path": "/consent"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "image",
+     "src": "https://static.wixstatic.com/media/553d0f_e33df51cd3f2483bbb76c9bd2ccf8e4a~mv2.png",
+     "alt": "Starbuds_US_Main_Est2013_HorizontalWordm",
+     "href": null,
+     "w": 600,
+     "h": 183,
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 4,
+     "html": "ARE YOU OVER"
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "html": "THE AGE OF 21?"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "button",
+     "text": "Yes",
+     "href": "/",
+     "external": false
+    },
+    {
+     "t": "button",
+     "text": "No",
+     "href": "http://www.google.com",
+     "external": true
+    }
+   ]
+  }
+ ]
+}

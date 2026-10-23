@@ -1,0 +1,14 @@
+{
+ "path": "/nwdenver",
+ "url": "https://www.starbuds.us/nwdenver",
+ "key": "redirect__nwdenver",
+ "kind": "redirect",
+ "state": "CO",
+ "title": "",
+ "h1": "",
+ "redirect": {
+  "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-pecos-hwy-36?store=1761&store_updated=true&wp_store_id=8786",
+  "status": 301,
+  "offOrigin": true
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "path": "/buffalo",
+ "url": "https://www.starbuds.us/buffalo",
+ "key": "redirect__buffalo",
+ "kind": "redirect",
+ "state": "NY",
+ "title": "",
+ "h1": "",
+ "redirect": {
+  "to": "https://shop.starbuds.us/stores/buffalo-dispensary",
+  "status": 301,
+  "offOrigin": true
+ }
+}

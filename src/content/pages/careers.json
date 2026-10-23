@@ -1,0 +1,99 @@
+{
+ "path": "/careers",
+ "url": "https://www.starbuds.us/careers",
+ "key": "careers",
+ "kind": "page",
+ "state": null,
+ "title": "Careers | Star Buds Marijuana Dispensary | Colorado",
+ "h1": "CAREERS",
+ "head": {
+  "title": "Careers | Star Buds Marijuana Dispensary | Colorado",
+  "description": "Star Buds, is looking to hire smart people who thrive in fast-pace, team oriented environments in the communities of Denver, Aurora & Pueblo. Send us your resume",
+  "canonical": "https://www.starbuds.us/careers",
+  "robots": "",
+  "og": {
+   "title": "Careers | Star Buds Marijuana Dispensary | Colorado",
+   "description": "Star Buds, is looking to hire smart people who thrive in fast-pace, team oriented environments in the communities of Denver, Aurora & Pueblo. Send us your resume",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/careers",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "CAREERS",
+   "path": "/careers"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "CAREERS"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Now Hiring For All Positions In Colorado!</p>"
+    },
+    {
+     "t": "button",
+     "text": "SEE AVAILABLE COLORADO POSITIONS",
+     "href": "https://www.indeed.com/cmp/Schwazze/jobs",
+     "external": true
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>WE'RE LOOKING FOR THOSE THAT ARE PASSIONATE, UNAPOLOGETICALLY COMMITTED, &amp; HAVE HUNGER FOR SUCCESS.</p>"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "We hire smart people who thrive in a fast-paced, team oriented environment, where everyday brings a new challenge. If you have been looking for an opportunity that allows you to become part of something bigger, something great, we want to talk to you!"
+    },
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": null,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 1,
+         "html": "INTERESTED IN JOINING US?"
+        },
+        {
+         "t": "rich",
+         "html": "<p>NOW HIRING BUDTENDERS, SEND US YOUR RESUME!</p>"
+        },
+        {
+         "t": "button",
+         "text": "APPLY NOW",
+         "href": "mailto:CONTACT@STARBUDS.US?subject=Interested in joining the Starbuds Team?",
+         "external": false
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "path": "/community",
+ "url": "https://www.starbuds.us/community",
+ "key": "community",
+ "kind": "page",
+ "state": null,
+ "title": "Community | Star Buds Marijuana Dispensary | Colorado",
+ "h1": "COMMUNITY",
+ "head": {
+  "title": "Community | Star Buds Marijuana Dispensary | Colorado",
+  "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+  "canonical": "https://www.starbuds.us/community",
+  "robots": "",
+  "og": {
+   "title": "Community | Star Buds Marijuana Dispensary | Colorado",
+   "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/community",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "COMMUNITY",
+   "path": "/community"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "COMMUNITY"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>At Star Buds, we care about our customers and our communities.</p>\n<p>​</p>\n<p>Star Buds embraces the idea that a business should give something back to the customers and communities supporting it. Beyond our daily mission of providing top quality products and customer service, we strive to find unique opportunities to do some good.</p>"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "repeater",
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "CDOT D.U.I. CAMPAIGN"
+        },
+        {
+         "t": "button",
+         "text": "LEARN MORE",
+         "href": "/cdot/",
+         "external": false
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "CANCER RELIEF PROGRAM"
+        },
+        {
+         "t": "button",
+         "text": "LEARN MORE",
+         "href": "/cancerreliefprogram/",
+         "external": false
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "repeater",
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "ADOPT A HIGHWAY"
+        },
+        {
+         "t": "rich",
+         "html": "<p>Roadside litter costs millions of dollars annually to control. Often, it is impossible to keep up with the trash that people have dumped on Colorado roads.</p>\n<p>​</p>\n<p>Star Buds is proud to partner with the Adopt-A-Highway program in Colorado. This initiative is an effective way to help keep our roadways and environments clean.</p>"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "COLORADO TOY DRIVE"
+        },
+        {
+         "t": "rich",
+         "html": "<p>This past holiday season Denver teamed up with King Soopers, 97.3 KBCO, and KOA NewsRadio to collect new toys and cash donations for children and youth served by the Boys &amp; Girls Clubs of Metro Denver. King Soopers collected new, unwrapped toys at all Metro Area locations. Coloradans were encouraged to donate items such as toys, games, art kits, DVDs, video games, sporting equipment, electronics, helmets and other gifts for children and youth. All items were distributed at Boys &amp; Girls Clubs’ holiday parties so that every child gets a gift this year.</p>"
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "FIREFIGHTER &amp; POLICE SUPPORT"
+        },
+        {
+         "t": "rich",
+         "html": "<p>Aurora Police Association and Star Buds came together to support the \"Shop with a Cop\" Event.</p>\n<p>​</p>\n<p>The program is designed to unite Aurora Police officers and public safety employees with local disadvantaged children for a special day of shopping. Each child is guaranteed new shoes, several outfits of clothing, and backpacks filled with school supplies. Children and families will be carefully selected and screened by a committee of local law enforcement officers. Approximately $200 will be spent on each child. Our goal is to sponsor as many children as possible, through the support of donations from our citizens and businesses in the community.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

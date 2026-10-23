@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-STATE-CO",
+  "file": "assets/generated/g-state-co.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "landscape photograph of generic rolling Rocky Mountain foothills at deep blue dusk, layered pine-covered ridgelines fading into haze, grassy slopes in the foreground, first stars and a faint Milky Way above, a last warm glow on the horizon, no buildings, no roads, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "safety_tolerance": "5"
+  },
+  "seed": 3461410870,
+  "requestId": "01a16627-31b7-7ac1-a0f1-374bd0ce48a8",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "0de554a0da4f455995293e147e5be1a995a1a40b11a91a84436b4d7346bcf14c",
+  "raw": "tmp/img/raw/G-STATE-CO.1792715219127.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-23T00:27:01.048Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "generic dusk landscape under stars, no landmark, no buildings, no text",
+    "reviewedAt": "2026-10-23T00:36:26.423Z",
+    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+  }
+}

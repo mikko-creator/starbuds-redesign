@@ -1,0 +1,181 @@
+{
+ "path": "/blog/page/8",
+ "url": "https://www.starbuds.us/blog/page/8",
+ "key": "blog__page__8",
+ "kind": "blog",
+ "state": null,
+ "title": "Blog | Star Buds Marijuana Dispensary | Colorado | Page 8 of 9",
+ "h1": "BLOG",
+ "head": {
+  "title": "Blog | Star Buds Marijuana Dispensary | Colorado | Page 8 of 9",
+  "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+  "canonical": "https://www.starbuds.us/blog/page/8",
+  "robots": "",
+  "og": {
+   "title": "Blog | Star Buds Marijuana Dispensary | Colorado | Page 8 of 9",
+   "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/blog/page/8",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Blog",
+   "path": "/blog"
+  },
+  {
+   "name": "BLOG",
+   "path": "/blog/page/8"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "BLOG"
+    }
+   ]
+  }
+ ],
+ "posts": [
+  {
+   "path": "/single-post/2017/03/16/what-is-the-difference-between-indica-and-sativa-marijuana-plants",
+   "title": "What Is The Difference Between Indica and Sativa Cannabis?",
+   "date": "2017-03-16T21:42:00.000Z",
+   "excerpt": "Sativa and Indica cannabis leaves side-by-side. Indica and Sativa are the two major types of cannabis plants. They can be mixed together...",
+   "image": "https://static.wixstatic.com/media/553d0f_a241c20cfbca46d0b64754a33dc19e66~mv2_d_4942_2150_s_2.jpg"
+  },
+  {
+   "path": "/single-post/2017/02/14/how-to-have-a-happy-valentines-day-with-cannabis",
+   "title": "How to Have a Happy Valentine's Day with Cannabis",
+   "date": "2017-02-14T17:46:00.000Z",
+   "excerpt": "Valentine’s Day is a great time to show your stoner sweetie how much he/she means to you. Fortunately, you can make this Valentine’s Day...",
+   "image": "https://static.wixstatic.com/media/553d0f_11130d524c0f4efd88b83be23ec9030e~mv2.jpg"
+  },
+  {
+   "path": "/single-post/2017/02/02/the-trump-administration-and-marijuana-reform-inevitable",
+   "title": "The Trump Administration and Marijuana Reform - Inevitable?",
+   "date": "2017-02-02T18:52:00.000Z",
+   "excerpt": "In 2012, Colorado citizens voted to become the first state to legalize weed for purely recreational purposes, leaving the federal...",
+   "image": "https://static.wixstatic.com/media/553d0f_d1b1f67db4074676a996db6d2aba45fb~mv2.jpg"
+  },
+  {
+   "path": "/single-post/2017/01/23/10-lesser-known-uses-for-cbd",
+   "title": "10 Lesser-Known Uses for CBD",
+   "date": "2017-01-23T19:00:00.000Z",
+   "excerpt": "Among the cannabinoids in cannabis, the main psychoactive compound, THC, often outshines the one that provides a natural anti-anxiety,...",
+   "image": "https://static.wixstatic.com/media/0e0726_25e9ebbc514344b6950d8ff95414f8c5~mv2_d_5616_3744_s_4_2.jpg"
+  },
+  {
+   "path": "/single-post/2017/01/19/five-facts-that-you-should-know-about-cbd",
+   "title": "Five facts that you should know about CBD",
+   "date": "2017-01-19T18:56:00.000Z",
+   "excerpt": "1. CBD is a key ingredient in cannabis CBD is one of over 60 compounds found in cannabis that belong to a class of molecules called...",
+   "image": "https://static.wixstatic.com/media/0e0726_fc1bd421d178441ab210fecc85e5194a~mv2.jpg"
+  },
+  {
+   "path": "/single-post/2017/01/03/which-states-legalized-marijuana-in-2016",
+   "title": "Which States Legalized Marijuana in 2016?",
+   "date": "2017-01-04T05:17:00.000Z",
+   "excerpt": "With a long and tumultuous election year over, there is one thing that America can rejoice over. On November 8, eight states legalized...",
+   "image": "https://static.wixstatic.com/media/553d0f_746379011bf44b48bfc10baf8cd57eff~mv2.jpg"
+  },
+  {
+   "path": "/single-post/demystifying-cannabis-concentrates-a-journey-from-plant-to-potent-extracts",
+   "title": "Demystifying Cannabis Concentrates: A Journey from Plant to Potent Extracts",
+   "date": "2024-01-27T08:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_496cefe3107348f68d0a5a037f69822b~mv2.jpg"
+  },
+  {
+   "path": "/single-post/danksgiving-recipes",
+   "title": "Danksgiving Recipes",
+   "date": "2021-11-08T18:34:13.160Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_276d78d9288c4becb6746f78146a4cff~mv2.jpg"
+  },
+  {
+   "path": "/single-post/how-cannabis-is-grown-from-seed-to-shelf-at-a-licensed-dispensary",
+   "title": "How Cannabis Is Grown: From Seed to Shelf at a Licensed Dispensary",
+   "date": "2026-07-09T07:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_5e4dbf4c08504fb0a5665970c6e8edaf~mv2.jpg"
+  },
+  {
+   "path": "/single-post/thc-cbd-cbn-more-understanding-the-most-common-cannabinoids",
+   "title": "THC, CBD, CBN & More: Understanding the Most Common Cannabinoids",
+   "date": "2026-06-23T07:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_5336ff89a55a4f8f915c0b267ce639a7~mv2.jpg"
+  },
+  {
+   "path": "/single-post/how-to-keep-cannabis-fresh-the-best-ways-to-store-flower-edibles-and-concentrates",
+   "title": "How to Keep Cannabis Fresh: The Best Ways to Store Flower, Edibles, and Concentrates",
+   "date": "2026-05-16T07:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_7d962fa2ae774894b8f836b5c6624736~mv2.jpg"
+  },
+  {
+   "path": "/single-post/why-your-edible-didn-t-kick-in-yet-understanding-cannabis-edible-timing",
+   "title": "Why Your Edible Didn’t Kick In (Yet): Understanding Cannabis Edible Timing",
+   "date": "2026-04-11T07:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_175a39b1053c47a98c30848f4e6155d4~mv2.png"
+  },
+  {
+   "path": "/single-post/what-makes-a-cannabis-product-premium-a-simple-guide-for-everyday-shoppers",
+   "title": "What Makes a Cannabis Product “Premium”? A Simple Guide for Everyday Shoppers",
+   "date": "2026-03-13T07:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/aae440_5b2aa021bd33477bb78ea7029c7922b8~mv2.jpg"
+  },
+  {
+   "path": "/single-post/how-long-cannabis-actually-lasts-shelf-life-for-flower-edibles-and-vapes",
+   "title": "How Long Cannabis Actually Lasts: Shelf Life for Flower, Edibles, and Vapes",
+   "date": "2026-02-17T08:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_99409860d9b44fb5bb2b89c3dbe60fd5~mv2.jpg"
+  },
+  {
+   "path": "/single-post/why-cannabis-smells-so-strong-and-what-that-aroma-actually-means",
+   "title": "Why Cannabis Smells So Strong, And What That Aroma Actually Means",
+   "date": "2026-01-22T08:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_876cff4459834c3a8b5ef3e8ab1ef313~mv2.jpg"
+  },
+  {
+   "path": "/single-post/star-buds-now-open-in-summit-illinois",
+   "title": "Star Buds Now Open in Summit, Illinois: Your New Cannabis Destination",
+   "date": "2025-12-30T08:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_f2299dfa778040c99192587fdcc7bef6~mv2.png"
+  },
+  {
+   "path": "/single-post/why-your-weed-hits-differently-every-time",
+   "title": "Why Your Weed Hits Differently Every Time (And How to Choose Smarter at Star Buds)",
+   "date": "2025-11-12T08:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_0f5ae79ff58b4027aa47ad29f001f58f~mv2.jpg"
+  },
+  {
+   "path": "/single-post/the-art-of-the-perfect-pre-roll",
+   "title": "The Art of the Perfect Pre-Roll: What Separates a Great Smoke From a Bad One",
+   "date": "2025-10-23T07:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_5a4fe94803864d22817dcff48a5b1b2e~mv2.jpg"
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "path": "/single-post/2017/08/31/phish-fans-rejoice-fluffhead-kush-is-here",
+ "url": "https://www.starbuds.us/single-post/2017/08/31/phish-fans-rejoice-fluffhead-kush-is-here",
+ "key": "single-post__2017__08__31__phish-fans-rejoice-fluffhead-kush-is-here",
+ "kind": "post",
+ "state": null,
+ "title": "Phish Fans REJOICE! Fluffhead Kush is here.",
+ "h1": "Phish Fans REJOICE! Fluffhead Kush is here.",
+ "head": {
+  "title": "Phish Fans REJOICE! Fluffhead Kush is here.",
+  "description": "",
+  "canonical": "https://www.starbuds.us/single-post/2017/08/31/phish-fans-rejoice-fluffhead-kush-is-here",
+  "robots": "",
+  "og": {
+   "title": "Phish Fans REJOICE! Fluffhead Kush is here.",
+   "description": "Phish is ending it's summer tour here in Colorado at Dick's Sporting Goods....and we have a treat for all fans!FLUFFHEAD KUSH IS HERE!   Starbuds Commerce City is just a few minutes down the road from Dick's, so stop by and stock up before the weekend!  Mention this ad & receive 10% off your entire purchase.  ONLY VALID AT OUR COMMERCE CITY STORE, 5844 Dahlia St. Open Daily 8am- 10pm!    ",
+   "image": "https://static.wixstatic.com/media/553d0f_b382437452db4e80b0c9800c98064c29~mv2.png/v1/fill/w_1000,h_572,al_c,q_90,usm_0.66_1.00_0.01/553d0f_b382437452db4e80b0c9800c98064c29~mv2.png",
+   "image:width": "1304",
+   "image:height": "746",
+   "url": "https://www.starbuds.us/single-post/2017/08/31/phish-fans-rejoice-fluffhead-kush-is-here",
+   "site_name": "Star Buds ",
+   "type": "article"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+     "@type": "Person",
+     "name": "starbuds",
+     "url": "https://www.starbuds.us/profile/denver/profile"
+    },
+    "dateModified": "2017-08-31T17:14:49.113Z",
+    "datePublished": "2017-08-31T17:14:49.113Z",
+    "headline": "Phish Fans REJOICE! Fluffhead Kush is here.",
+    "mainEntityOfPage": {
+     "@id": "https://www.starbuds.us/single-post/2017/08/31/phish-fans-rejoice-fluffhead-kush-is-here",
+     "@type": "itemPage",
+     "url": "https://www.starbuds.us/single-post/2017/08/31/phish-fans-rejoice-fluffhead-kush-is-here"
+    },
+    "description": "Phish is ending it's summer tour here in Colorado at Dick's Sporting Goods....and we have a treat for all fans!FLUFFHEAD KUSH IS HERE!   Starbuds Commerce City is just a few minutes down the road from Dick's, so stop by and stock up before the weekend!  Mention this ad & receive 10% off your entire purchase.  ONLY VALID AT OUR COMMERCE CITY STORE, 5844 Dahlia St. Open Daily 8am- 10pm!    ",
+    "url": "https://www.starbuds.us/single-post/2017/08/31/phish-fans-rejoice-fluffhead-kush-is-here",
+    "image": {
+     "@type": "ImageObject",
+     "url": "https://static.wixstatic.com/media/553d0f_b382437452db4e80b0c9800c98064c29~mv2.png/v1/fill/w_1000,h_572,al_c,q_90,usm_0.66_1.00_0.01/553d0f_b382437452db4e80b0c9800c98064c29~mv2.png",
+     "width": "1304",
+     "height": "746"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "Star Buds ",
+     "url": "https://www.starbuds.us"
+    }
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Blog",
+   "path": "/blog"
+  },
+  {
+   "name": "Phish Fans REJOICE! Fluffhead Kush is here.",
+   "path": "/single-post/2017/08/31/phish-fans-rejoice-fluffhead-kush-is-here"
+  }
+ ],
+ "sections": [],
+ "post": {
+  "date": "2017-08-31T17:14:49.113Z",
+  "dateText": "Aug 31, 2017",
+  "readTime": "1 min read",
+  "hero": {
+   "src": "https://static.wixstatic.com/media/553d0f_b382437452db4e80b0c9800c98064c29~mv2.png",
+   "alt": ""
+  },
+  "categories": [],
+  "blocks": [
+   {
+    "t": "rich",
+    "html": "<p>Phish is ending it's summer tour here in Colorado at Dick's Sporting Goods....and we have a treat for all fans!</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>FLUFFHEAD KUSH IS HERE!</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Starbuds Commerce City is just a few minutes down the road from Dick's, so stop by and stock up before the weekend! Mention this ad &amp; receive 10% off your entire purchase.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>ONLY VALID AT OUR COMMERCE CITY STORE, 5844 Dahlia St. Open Daily 8am- 10pm!</p>"
+   },
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/553d0f_b382437452db4e80b0c9800c98064c29~mv2.png",
+    "alt": "",
+    "href": null,
+    "w": 1304,
+    "h": 746,
+    "caption": ""
+   }
+  ]
+ }
+}

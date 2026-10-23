@@ -1,0 +1,317 @@
+{
+ "path": "/altus",
+ "url": "https://www.starbuds.us/altus",
+ "key": "altus",
+ "kind": "store",
+ "state": "OK",
+ "title": "Star Buds Medical Marijuana Dispensary Altus",
+ "h1": "Star Buds Medical Weed Dispensary Altus",
+ "head": {
+  "title": "Star Buds Medical Marijuana Dispensary Altus",
+  "description": "Star Buds Altus is proud to be a medical cannabis dispensary, come see us for all your marijuana needs. Our compassionate and knowledgeable staff is here to help you get exactly what you need at the best possible price.",
+  "canonical": "https://www.starbuds.us/altus",
+  "robots": "",
+  "og": {
+   "title": "Star Buds Medical Marijuana Dispensary Altus",
+   "description": "Star Buds Altus is proud to be a medical cannabis dispensary, come see us for all your marijuana needs. Our compassionate and knowledgeable staff is here to help you get exactly what you need at the best possible price.",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/altus",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": [
+   {
+    "@context": "http://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Star Buds Medical Weed Dispensary Altus",
+    "openingHours": "Su 0800-0000 Mo 0800-0000 Tu 0800-0000 We 0800-0000 Th 0800-0000 Fr 0800-0000 Sa 0800-0000",
+    "additionalProperty": "https://en.wikipedia.org/wiki/Cannabis_dispensaries_in_the_United_States",
+    "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+    "areaServed": {
+     "@type": "GeoCircle",
+     "name": "Star Buds Medical Weed Dispensary Altus service area",
+     "geoMidpoint": {
+      "@type": "GeoCoordinates",
+      "postalCode": "73521",
+      "latitude": "34.6519449",
+      "longitude": "-99.3171606",
+      "description": "Our office location can be found here.",
+      "name": "Star Buds Medical Weed Dispensary Altus geo location"
+     },
+     "geoRadius": "20000",
+     "description": "Star Buds Medical Weed Dispensary Altus proudly serves the entire city of Altus Oklahoma"
+    },
+    "email": "info@starbuds.us",
+    "address": {
+     "@type": "PostalAddress",
+     "postalCode": "73521",
+     "addressRegion": "Oklahoma",
+     "addressCountry": "United States",
+     "streetAddress": "1100 Falcon Road #Suite 104",
+     "addressLocality": "Altus"
+    },
+    "paymentAccepted": "Cash, Credit Card",
+    "telephone": "15803790487",
+    "image": {
+     "@type": "ImageObject",
+     "name": "Star Buds Medical Weed Dispensary Altus image",
+     "url": "https://u.localviking.com/gmb/media/l6/l6ymn2xv/star-buds-medical-marijuana-dispensary-altus-altus.png"
+    },
+    "ContactPoint": {
+     "@type": "ContactPoint",
+     "name": "Star Buds Medical Weed Dispensary Altus inquiry",
+     "availableLanguage": "https://en.wikipedia.org/wiki/List_of_dialects_of_the_English_language",
+     "telephone": "+15803790487",
+     "contactType": "customer support",
+     "@id": "https://www.starbuds.us/contact"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "34.6519449",
+     "longitude": "-99.3171606",
+     "description": "Our office location can be found here.",
+     "name": "Star Buds Medical Weed Dispensary Altus geo location"
+    },
+    "description": "Star Buds is a Medical Marijuana Dispensary located in Altus, Oklahoma. Established in 2013 in Denver, CO, Star Buds is changing the way people think about cannabis and marijuana. By carefully curating the industry's best selection of flower, concentrates, edibles, and topicals we have something for everyone - from the canna-curious to the daily consumer. Whether you visit one of our 25 locations or shop online, our knowledgeable staff will guide you through your cannabis experience. Take your time, have fun, and experience the Star Buds difference! We are open 365 days a year, 7 days a week including holidays for your convenience. Visit us today and see why our dispensaries are Shining High Above the Rest!",
+    "priceRange": "10-50",
+    "url": "https://www.starbuds.us/altus",
+    "currenciesAccepted": "usd",
+    "hasMap": "https://maps.google.com/?cid=7496347929601139008",
+    "logo": "https://u.localviking.com/gmb/media/5p/5pyvyjvo/9jjmqxCyMNF1gRsdDfkmayFMh4xtaTAe-fHEIeMh9qGIvlXSrKHaTz51LeVwup0ey420GCsNbxhr3Wa8eA_s0.png",
+    "serviceArea": {
+     "@type": "GeoCircle",
+     "name": "Star Buds Medical Weed Dispensary Altus service area",
+     "geoMidpoint": {
+      "@type": "GeoCoordinates",
+      "postalCode": "73521",
+      "latitude": "34.6519449",
+      "longitude": "-99.3171606",
+      "description": "Our office location can be found here.",
+      "name": "Star Buds Medical Weed Dispensary Altus geo location"
+     },
+     "geoRadius": "20000",
+     "description": "Star Buds Medical Weed Dispensary Altus proudly serves the entire city of Altus"
+    },
+    "sameAs": [
+     "https://www.bing.com/maps?ss=ypid.YN873x1801584502993904207&mkt=en-US",
+     "https://www.brownbook.net/business/47190794/star-buds-medical-weed-dispensary-altus",
+     "https://us.centralindex.com/company/1369668065230848/star-buds-medical-weed-dispensary-altus/altus",
+     "https://www.chamberofcommerce.com/united-states/oklahoma/altus/physicians-naturopathic/2012257750-star-buds-medical-weed-dispensary-altus",
+     "https://citysquares.com/b/star-buds-medical-weed-dispensary-altus-23599309",
+     "https://www.dexknows.com/altus-ok/bp/star-buds-medical-marijuana-dispensary-altus-553183671",
+     "https://www.elocal.com/profile/star-buds-medical-marijuana-dispensary-altus-20459444#!/tab=about",
+     "https://ezlocal.com/ok/altus/herb-shop/0916267482",
+     "https://localstack.com/biz/star-buds-medical-weed-dispensary-altus-altus-ok/36351901",
+     "https://www.mapquest.com/us/oklahoma/star-buds-medical-marijuana-dispensary-altus-425464131",
+     "https://nextdoor.com/pages/star-buds-altus-altus-ok/",
+     "https://local.yahoo.com/info-224207463",
+     "https://www.yelp.com/biz/star-buds-altus-medical-marijuana-dispensary-altus-altus",
+     "https://www.yellowpages.com/altus-ok/mip/star-buds-medical-marijuana-dispensary-altus-553183671?from=yext"
+    ],
+    "@id": "https://www.starbuds.us/altus"
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Oklahoma",
+   "path": "/oklahoma"
+  },
+  {
+   "name": "Star Buds Medical Weed Dispensary Altus",
+   "path": "/altus"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": null,
+       "blocks": [
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/8bc6ee_411f46249afd4e53868abd35caa94af6~mv2.jpg",
+         "alt": "",
+         "href": null,
+         "w": 518,
+         "h": 292,
+         "caption": ""
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "button",
+     "text": "ORDER ONLINE",
+     "href": "https://dutchie.com/stores/starbuds-altus",
+     "external": true
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "<a href=\"https://www.google.com/maps/place/Star+Buds+Medical+Weed+Dispensary+Altus/@34.6519449,-99.3193493,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x680860b9809c6140!8m2!3d34.6519449!4d-99.317164\" target=\"_blank\" rel=\"noreferrer noopener\">Star Buds Medical Weed Dispensary Altus</a>"
+    },
+    {
+     "t": "rich",
+     "html": "<p><a href=\"https://www.google.com/maps/place/Starbuds+Medical+Marijuana+Dispensary+Altus/@34.6287802,-99.3718273,13.02z/data=!4m9!1m3!2m2!1sdispensary+near+me!6e6!3m4!1s0x87ab65c1313d9e7b:0x680860b9809c6140!8m2!3d34.6519449!4d-99.3171606\" target=\"_blank\">1100 FALCON RD SUITE 104 - ALTUS, OKLAHOMA 73521</a></p>\n<p><a href=\"tel:(580) 379-0487\">(580) 379-0487</a></p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Welcome to Star Buds dispensary in Altus! We are the premier weed dispensary in Altus Oklahoma, we are your source for all of your medical marijuana needs. Since the beginning Star Buds has made customer satisfaction a top priority. We have fostered relationships with the top growers and suppliers to provide an industry leading selection of dispensary products. We understand how fast the cannabis industry is developing and changing and how difficult it can be to keep up with product availability and product evolution. That's why our compassionate and knowledgeable staff is here to answer your questions, guide you through the process and help you get exactly what you need at the best possible price. It is our goal to provide our customers with the knowledge and information they need to make the most informed purchasing decisions. Looking for extra speed and convenience? Skip the line and place your <a href=\"https://dutchie.com/stores/starbuds-altus\" target=\"_blank\" rel=\"noreferrer noopener\">order online</a> to pick up in store! Looking to save money on your next visit to one of our dispensaries? take advantage of all of the current ways to save by checking out our <a href=\"/ok-deals/\" target=\"_blank\" rel=\"noreferrer noopener\">deals page</a> that gets updated regularly!</p>\n<p>​</p>\n<p>Star Buds Altus Medical Weed Dispensary is proud to serve cannabis consumers in Jackson County to include the communities of <a href=\"https://www.altusok.gov/\" target=\"_blank\" rel=\"noreferrer noopener\">Altus</a>, Blair, Duke, Eldorado, Elmer, Frederick, Gould, Granite, Headrick, Mangum, Manitou, Martha, Mountain Park, Odell, Olustee, Roosevelt, Snyder, Tipton, and the surrounding areas.</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>HOURS</p>\n<p>MONDAY: 8:00AM-12:00AM</p>\n<p>TUESDAY: 8:00AM-12:00AM</p>\n<p>WEDNESDAY: 8:00AM-12:00AM</p>\n<p>THURSDAY: 8:00AM-12:00AM</p>\n<p>FRIDAY: 8:00AM-12:00AM</p>\n<p>SATURDAY: 8:00AM-12:00AM</p>\n<p>SUNDAY: 8:00AM-12:00AM</p>"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Come Visit Our Medical Marijuana Dispensary!"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Welcome to Star Buds Medical Weed Dispensary Altus, the best dispensary near you to provide the highest quality and award-winning weed strains in Oklahoma. Our location is <a href=\"https://www.google.com/maps/place/Star+Buds+Medical+Marijuana+Dispensary+Altus/@34.6519493,-99.3193493,17z/data=!3m1!4b1!4m5!3m4!1s0x87ab65c1313d9e7b:0x680860b9809c6140!8m2!3d34.6519449!4d-99.317164\" target=\"_blank\" rel=\"noreferrer noopener\">1100 Falcon Rd Suite 104, Altus, OK 73521</a>, right across the street from Altus City Reservoir near Altus Lake and a short drive away from Altus Air Force Base.</p>\n<p>At our core, we create a welcoming and truly unique experience among other weed dispensaries in the area. We encourage you to take your time inside our dispensary and enjoy the ambiance of our clean and friendly cannabis store. Smell the aroma of every premium cannabis strain, inspect the trichomes on various cannabis flowers, and feel welcomed to ask any questions about our top-notch cannabis products.</p>\n<p>Whether you have visited other dispensaries near you or are new to medical marijuana, Star Buds Altus has everything you need. Each budtender is knowledgeable and prepared to provide you with outstanding customer service and expert advice to help you pick out marijuana products specific to your needs. We have various medical cannabis products, including cannabis flowers, pre-rolls, concentrates, edibles, tinctures, and smoking accessories.</p>"
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>Above all, we provide each customer with an outstanding and unmatched <a href=\"/oklahomarewards/\" target=\"_blank\" rel=\"noreferrer noopener\">rewards program</a>. Every customer is eligible to earn reward points that count towards savings on various marijuana products! Stop by our location or order online to pick up in-store or curbside anytime Monday through Sunday from 8:00 am to 12:00 am and see why Star Buds Medical Weed Dispensary Altus is shining high above the rest.</p>\n<p>​</p>\n<p>Star Buds Dispensaries was created in 2013 with a goal in mind to change the way people think about cannabis. Our store is open 7 days a week 8:00am to 12:00 am 365 days a year to add to your convenience. Stop in today at one of our 7<a href=\"/oklahoma/\" target=\"_blank\" rel=\"noreferrer noopener\"> Oklahoma locations</a> and experience the difference with Star Buds dispensaries!</p>"
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>Know Before You Go…</p>\n<p>This is my first time visiting Star Buds. What should I bring with me?</p>\n<p>All visitors must be at least 18 years of age with a valid medical card and must provide a valid photo ID. We take cash and debit cards and there is also an ATM inside our dispensary for your convenience.</p>\n<p>Is your dispensary open late?</p>\n<p>We understand that normal operating hours are not always convenient for our consumers with busy lifestyles, which is why our dispensary is open every day from 8:00 am to 12:00 am.</p>\n<p>Does Star Buds offer any discounts or ways to save on orders?</p>\n<p>We run product specials seven days a week, and our loyalty rewards program offers even more savings. We are happy to provide our MED card holders and veterans with a discount upon request.</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Read What Our Customers Are Saying</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>“Starbuds is my favorite place in Altus to visit, I go here to get medication for anxiety and the employees here are super friendly. Every time I have visited this dispensary they never fail to make me feel welcome and comfortable. I really enjoy the selection of music that they play in the store from the alternative rock and classic songs to the newer hip hop songs, there is a great ambiance and atmosphere at Starbuds, and has one of the biggest selections to choose from in Altus. Starbuds has great deals daily. they offer very good quality products and new stuff constantly. Great place to visit!” - JRH, Google</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>“Very knowledgeable and honest on all products.</p>\n<p>I purchased their Green Hornet gummies. Their product taste just like a gummy bear and their effect is perfect, when you know your own dosage. I also purchased two pre-rolls both recommended by the lovely woman helping me. Both were amazing! The CBD in the flower is amazing for my body. The THC effect was perfect dosage for me. The only down side of the pre-roll was the tip was rolled with some flower stuffed in it causing a nasty resin. I also purchased flower and just as amazing and effective in both THC and CBD. All recommended by the wonderful employee.” - Santos, Google</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>“I can say I just got my medical card today and this is the first dispensary I bought from they have excellent customer service and prices” - Danny, Google</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>“Awesome selection, good prices, great employees! My favorite local dispensary for sure!” - Lauren, Google</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>More Reviews About our <a href=\"https://www.google.com/search?q=Star+Buds+altus&amp;ei=jaHcYNGmM5i4qtsP846buAg&amp;oq=Star+Buds+altus&amp;gs_lcp=Cgdnd3Mtd2l6EAMyDQguEMcBEK8BEEMQkwIyBAgAEAo6BwgAEEcQsAM6CAgAEBYQChAeOgoILhDHARCvARAKOgsILhDHARCvARCTAjoCCAA6CAguEMcBEK8BSgQIQRgAUNEaWPI0YIQ4aAVwAngAgAGDAYgB5wWSAQMzLjSYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&amp;sclient=gws-wiz&amp;ved=0ahUKEwiRofqA6b_xAhUYnGoFHXPHBocQ4dUDCA4&amp;uact=5#lrd=0x87ab65c1313d9e7b:0x680860b9809c6140,1,,,\" target=\"_blank\" rel=\"noreferrer noopener\">Altus Medical Marijuana Dispensary</a></p>"
+    }
+   ]
+  }
+ ],
+ "store": {
+  "name": "Star Buds Medical Weed Dispensary Altus",
+  "address": [
+   "1100 FALCON RD SUITE 104 - ALTUS, OKLAHOMA 73521"
+  ],
+  "phone": "(580) 379-0487",
+  "tel": "+15803790487",
+  "hours": [
+   {
+    "day": "MONDAY",
+    "time": "8:00AM-12:00AM"
+   },
+   {
+    "day": "TUESDAY",
+    "time": "8:00AM-12:00AM"
+   },
+   {
+    "day": "WEDNESDAY",
+    "time": "8:00AM-12:00AM"
+   },
+   {
+    "day": "THURSDAY",
+    "time": "8:00AM-12:00AM"
+   },
+   {
+    "day": "FRIDAY",
+    "time": "8:00AM-12:00AM"
+   },
+   {
+    "day": "SATURDAY",
+    "time": "8:00AM-12:00AM"
+   },
+   {
+    "day": "SUNDAY",
+    "time": "8:00AM-12:00AM"
+   }
+  ],
+  "notes": [
+   "Welcome to Star Buds dispensary in Altus! We are the premier weed dispensary in Altus Oklahoma, we are your source for all of your medical marijuana needs. Since the beginning Star Buds has made customer satisfaction a top priority. We have fostered relationships with the top growers and suppliers to provide an industry leading selection of dispensary products. We understand how fast the cannabis industry is developing and changing and how difficult it can be to keep up with product availability and product evolution. That's why our compassionate and knowledgeable staff is here to answer your questions, guide you through the process and help you get exactly what you need at the best possible price. It is our goal to provide our customers with the knowledge and information they need to make the most informed purchasing decisions. Looking for extra speed and convenience? Skip the line and place your <a href=\"https://dutchie.com/stores/starbuds-altus\" target=\"_blank\" rel=\"noreferrer noopener\">order online</a> to pick up in store! Looking to save money on your next visit to one of our dispensaries? take advantage of all of the current ways to save by checking out our <a href=\"/ok-deals/\" target=\"_blank\" rel=\"noreferrer noopener\">deals page</a> that gets updated regularly!",
+   "​",
+   "Star Buds Altus Medical Weed Dispensary is proud to serve cannabis consumers in Jackson County to include the communities of <a href=\"https://www.altusok.gov/\" target=\"_blank\" rel=\"noreferrer noopener\">Altus</a>, Blair, Duke, Eldorado, Elmer, Frederick, Gould, Granite, Headrick, Mangum, Manitou, Martha, Mountain Park, Odell, Olustee, Roosevelt, Snyder, Tipton, and the surrounding areas.",
+   "Welcome to Star Buds Medical Weed Dispensary Altus, the best dispensary near you to provide the highest quality and award-winning weed strains in Oklahoma. Our location is <a href=\"https://www.google.com/maps/place/Star+Buds+Medical+Marijuana+Dispensary+Altus/@34.6519493,-99.3193493,17z/data=!3m1!4b1!4m5!3m4!1s0x87ab65c1313d9e7b:0x680860b9809c6140!8m2!3d34.6519449!4d-99.317164\" target=\"_blank\" rel=\"noreferrer noopener\">1100 Falcon Rd Suite 104, Altus, OK 73521</a>, right across the street from Altus City Reservoir near Altus Lake and a short drive away from Altus Air Force Base.",
+   "At our core, we create a welcoming and truly unique experience among other weed dispensaries in the area. We encourage you to take your time inside our dispensary and enjoy the ambiance of our clean and friendly cannabis store. Smell the aroma of every premium cannabis strain, inspect the trichomes on various cannabis flowers, and feel welcomed to ask any questions about our top-notch cannabis products.",
+   "Whether you have visited other dispensaries near you or are new to medical marijuana, Star Buds Altus has everything you need. Each budtender is knowledgeable and prepared to provide you with outstanding customer service and expert advice to help you pick out marijuana products specific to your needs. We have various medical cannabis products, including cannabis flowers, pre-rolls, concentrates, edibles, tinctures, and smoking accessories.",
+   "Above all, we provide each customer with an outstanding and unmatched <a href=\"/oklahomarewards/\" target=\"_blank\" rel=\"noreferrer noopener\">rewards program</a>. Every customer is eligible to earn reward points that count towards savings on various marijuana products! Stop by our location or order online to pick up in-store or curbside anytime Monday through Sunday from 8:00 am to 12:00 am and see why Star Buds Medical Weed Dispensary Altus is shining high above the rest.",
+   "​",
+   "Star Buds Dispensaries was created in 2013 with a goal in mind to change the way people think about cannabis. Our store is open 7 days a week 8:00am to 12:00 am 365 days a year to add to your convenience. Stop in today at one of our 7<a href=\"/oklahoma/\" target=\"_blank\" rel=\"noreferrer noopener\"> Oklahoma locations</a> and experience the difference with Star Buds dispensaries!",
+   "Know Before You Go…",
+   "This is my first time visiting Star Buds. What should I bring with me?",
+   "All visitors must be at least 18 years of age with a valid medical card and must provide a valid photo ID. We take cash and debit cards and there is also an ATM inside our dispensary for your convenience.",
+   "Is your dispensary open late?",
+   "We understand that normal operating hours are not always convenient for our consumers with busy lifestyles, which is why our dispensary is open every day from 8:00 am to 12:00 am.",
+   "Does Star Buds offer any discounts or ways to save on orders?",
+   "We run product specials seven days a week, and our loyalty rewards program offers even more savings. We are happy to provide our MED card holders and veterans with a discount upon request.",
+   "Read What Our Customers Are Saying",
+   "“Starbuds is my favorite place in Altus to visit, I go here to get medication for anxiety and the employees here are super friendly. Every time I have visited this dispensary they never fail to make me feel welcome and comfortable. I really enjoy the selection of music that they play in the store from the alternative rock and classic songs to the newer hip hop songs, there is a great ambiance and atmosphere at Starbuds, and has one of the biggest selections to choose from in Altus. Starbuds has great deals daily. they offer very good quality products and new stuff constantly. Great place to visit!” - JRH, Google",
+   "“Very knowledgeable and honest on all products.",
+   "I purchased their Green Hornet gummies. Their product taste just like a gummy bear and their effect is perfect, when you know your own dosage. I also purchased two pre-rolls both recommended by the lovely woman helping me. Both were amazing! The CBD in the flower is amazing for my body. The THC effect was perfect dosage for me. The only down side of the pre-roll was the tip was rolled with some flower stuffed in it causing a nasty resin. I also purchased flower and just as amazing and effective in both THC and CBD. All recommended by the wonderful employee.” - Santos, Google",
+   "“I can say I just got my medical card today and this is the first dispensary I bought from they have excellent customer service and prices” - Danny, Google",
+   "“Awesome selection, good prices, great employees! My favorite local dispensary for sure!” - Lauren, Google",
+   "More Reviews About our <a href=\"https://www.google.com/search?q=Star+Buds+altus&amp;ei=jaHcYNGmM5i4qtsP846buAg&amp;oq=Star+Buds+altus&amp;gs_lcp=Cgdnd3Mtd2l6EAMyDQguEMcBEK8BEEMQkwIyBAgAEAo6BwgAEEcQsAM6CAgAEBYQChAeOgoILhDHARCvARAKOgsILhDHARCvARCTAjoCCAA6CAguEMcBEK8BSgQIQRgAUNEaWPI0YIQ4aAVwAngAgAGDAYgB5wWSAQMzLjSYAQCgAQGqAQdnd3Mtd2l6yAEIwAEB&amp;sclient=gws-wiz&amp;ved=0ahUKEwiRofqA6b_xAhUYnGoFHXPHBocQ4dUDCA4&amp;uact=5#lrd=0x87ab65c1313d9e7b:0x680860b9809c6140,1,,,\" target=\"_blank\" rel=\"noreferrer noopener\">Altus Medical Marijuana Dispensary</a>"
+  ],
+  "links": [
+   {
+    "text": "ORDER ONLINE",
+    "href": "https://dutchie.com/stores/starbuds-altus"
+   }
+  ],
+  "image": "https://static.wixstatic.com/media/8bc6ee_411f46249afd4e53868abd35caa94af6~mv2.jpg",
+  "map": null
+ }
+}

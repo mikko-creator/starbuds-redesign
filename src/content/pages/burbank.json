@@ -1,0 +1,109 @@
+{
+ "path": "/burbank",
+ "url": "https://www.starbuds.us/burbank",
+ "key": "burbank",
+ "kind": "store",
+ "state": "IL",
+ "title": "Star Buds Dispensary Medical Marijuana Burbank",
+ "h1": "Star Buds Marijuana Dispensary Burbank",
+ "head": {
+  "title": "Star Buds Dispensary Medical Marijuana Burbank",
+  "description": "Are you looking for a dispensary in Burbank, Illinois? Come by Star Buds Dispensary in Burbank today to discover the finest cannabis products!",
+  "canonical": "https://www.starbuds.us/burbank",
+  "robots": "",
+  "og": {
+   "title": "Star Buds Dispensary Medical Marijuana Oxford",
+   "description": "Are you looking for a dispensary in Burbank, Illinois? Come by Star Buds Dispensary in Burbank today to discover the finest cannabis products!",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/burbank",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Illinois",
+   "path": "/illinois"
+  },
+  {
+   "name": "Star Buds Marijuana Dispensary Burbank",
+   "path": "/burbank"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "Star Buds Marijuana Dispensary Burbank"
+    },
+    {
+     "t": "rich",
+     "html": "<p>7844 S Cicero Ave, Burbank, IL 60459-1584</p>\n<p><a href=\"tel:(719) 547-1009\">(708) 907-3441</a></p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Star Buds Riverside is proud to be a recreational cannabis dispensary serving the community of Riverside, Illinois, come see us for all your marijuana needs. Our compassionate and knowledgeable staff is here to help you get exactly what you need at the best possible price.</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>HOURS</p>\n<p>MONDAY: 8:00AM-10:00PM</p>\n<p>TUESDAY: 8:00AM-10:00PM</p>\n<p>WEDNESDAY: 8:00AM-10:00PM</p>\n<p>THURSDAY: 8:00AM-10:00PM</p>\n<p>FRIDAY: 8:00AM-10:00PM</p>\n<p>SATURDAY: 8:00AM-10:00PM</p>\n<p>SUNDAY: 8:00AM-10:00PM</p>"
+    }
+   ]
+  }
+ ],
+ "store": {
+  "name": "Star Buds Marijuana Dispensary Burbank",
+  "address": [
+   "7844 S Cicero Ave, Burbank, IL 60459-1584"
+  ],
+  "phone": "(708) 907-3441",
+  "tel": "+17089073441",
+  "hours": [
+   {
+    "day": "MONDAY",
+    "time": "8:00AM-10:00PM"
+   },
+   {
+    "day": "TUESDAY",
+    "time": "8:00AM-10:00PM"
+   },
+   {
+    "day": "WEDNESDAY",
+    "time": "8:00AM-10:00PM"
+   },
+   {
+    "day": "THURSDAY",
+    "time": "8:00AM-10:00PM"
+   },
+   {
+    "day": "FRIDAY",
+    "time": "8:00AM-10:00PM"
+   },
+   {
+    "day": "SATURDAY",
+    "time": "8:00AM-10:00PM"
+   },
+   {
+    "day": "SUNDAY",
+    "time": "8:00AM-10:00PM"
+   }
+  ],
+  "notes": [
+   "Star Buds Riverside is proud to be a recreational cannabis dispensary serving the community of Riverside, Illinois, come see us for all your marijuana needs. Our compassionate and knowledgeable staff is here to help you get exactly what you need at the best possible price."
+  ],
+  "links": [],
+  "image": null,
+  "map": null
+ }
+}

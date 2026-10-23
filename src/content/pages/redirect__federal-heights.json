@@ -1,0 +1,14 @@
+{
+ "path": "/federal-heights",
+ "url": "https://www.starbuds.us/federal-heights",
+ "key": "redirect__federal-heights",
+ "kind": "redirect",
+ "state": "CO",
+ "title": "",
+ "h1": "",
+ "redirect": {
+  "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-federal-heights?store=4499&store_updated=true&wp_store_id=8425",
+  "status": 301,
+  "offOrigin": true
+ }
+}

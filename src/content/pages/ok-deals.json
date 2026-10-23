@@ -1,0 +1,222 @@
+{
+ "path": "/ok-deals",
+ "url": "https://www.starbuds.us/ok-deals",
+ "key": "ok-deals",
+ "kind": "deals",
+ "state": "OK",
+ "title": "OKLAHOMA | Star Buds",
+ "h1": "Marijuana Deals at Star Buds oklahoma",
+ "head": {
+  "title": "OKLAHOMA | Star Buds",
+  "description": "",
+  "canonical": "https://www.starbuds.us/ok-deals",
+  "robots": "",
+  "og": {
+   "title": "OKLAHOMA | Star Buds",
+   "image": "https://static.wixstatic.com/media/553d0f_af6974ad8ea74a17a285e7a740843446%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/553d0f_af6974ad8ea74a17a285e7a740843446%7Emv2.jpg",
+   "image:width": "2500",
+   "image:height": "1330",
+   "url": "https://www.starbuds.us/ok-deals",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Marijuana Deals at Star Buds oklahoma",
+   "path": "/ok-deals"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": null,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 1,
+         "html": "Marijuana Deals at Star Buds oklahoma"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": {
+        "image": "https://static.wixstatic.com/media/60c3e1_d5d3385d677c457885717ef34077119e~mv2.png",
+        "color": null
+       },
+       "blocks": []
+      },
+      {
+       "bg": null,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "community DISCOUNTS"
+        },
+        {
+         "t": "rich",
+         "html": "<p>Star Buds Oklahoma offers a 10% discount every day for:</p>"
+        },
+        {
+         "t": "list",
+         "ordered": false,
+         "items": [
+          "Veterans and Active Military",
+          "Tribal Members",
+          "Cannabis Industry Employee"
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": null,
+       "blocks": [
+        {
+         "t": "columns",
+         "cols": [
+          {
+           "bg": null,
+           "blocks": [
+            {
+             "t": "heading",
+             "level": 3,
+             "html": "daily deals at Star buds Oklahoma"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "No need to wait for a sale. You save seven days a week with our daily deals!"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "MUNCHEEZMONDAY"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "BUY ONE, GET ONE 25% OFF<br> (Equal or lesser value)"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "TOP SHELF TUESDAY"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "$25 TOP SHELF EIGHTHS<br> (Valid on Top Shelf Only)"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "WAX WEDNESDAY"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "FEATURED 1G CONCENTRATES<br> 10 FOR $75"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "TOP SHELF THURSDAY"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "$25 TOP SHELF EIGHTHS<br> (Valid on Top Shelf Only)"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "FIRE FRIDAY"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "TWO 1.5G KAVIAR CONES FOR $25"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "SUPER SATURDAY"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "SPEND $25 GET A FREE GRAM OF PREMIUM FLOWER"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "SUNDAY FUNDAY"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "YOU PICK ANY DAILY DEAL"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": null,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Early Bird Gets the herb"
+        },
+        {
+         "t": "rich",
+         "html": "<p>Take advantage of our morning happy hour every day of the week</p>"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "rich",
+     "html": "<p>TERMS AND CONDITIONS: ALL PRICES ARE POST-TAX. ALL DEALS WHILE SUPPLIES LAST. RESTRICTIONS APPLY.</p>"
+    }
+   ]
+  }
+ ]
+}

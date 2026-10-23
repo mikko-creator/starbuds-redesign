@@ -1,0 +1,231 @@
+{
+ "path": "/coloradorewards",
+ "url": "https://www.starbuds.us/coloradorewards",
+ "key": "coloradorewards",
+ "kind": "rewards",
+ "state": "CO",
+ "title": "Rewards | Star Buds Marijuana Dispensary | Colorado",
+ "h1": "GRATIFY REWARDS",
+ "head": {
+  "title": "Rewards | Star Buds Marijuana Dispensary | Colorado",
+  "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+  "canonical": "https://www.starbuds.us/coloradorewards",
+  "robots": "",
+  "og": {
+   "title": "Rewards | Star Buds Marijuana Dispensary | Colorado",
+   "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/coloradorewards",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "GRATIFY REWARDS",
+   "path": "/coloradorewards"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "GRATIFY REWARDS"
+    },
+    {
+     "t": "image",
+     "src": "https://static.wixstatic.com/media/60c3e1_a7dc299be488447e8a1c80bfebda498e~mv2.png",
+     "alt": "GratifyLogo_RGB_Finals-03-Light-Green-Background.png",
+     "href": null,
+     "w": 371,
+     "h": 168,
+     "caption": ""
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Same Points. Same Perks. New Name In Colorado."
+    },
+    {
+     "t": "rich",
+     "html": "<p>Members earn points on every purchase, enjoy exclusive access to specials and get up to 15% back in rewards. Sign up now and start earning points on your next purchase!</p>"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "image",
+     "src": "https://static.wixstatic.com/media/60c3e1_ced2f785220547baaa0a786f699ad88e~mv2.png",
+     "alt": "Gratify-GratifyPoints-StarBuds.png",
+     "href": null,
+     "w": 706,
+     "h": 379,
+     "caption": ""
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "Already a member?"
+    },
+    {
+     "t": "button",
+     "text": "SIGN UP",
+     "href": "https://lab.alpineiq.com/joinMembers/1653",
+     "external": true
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": null,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 1,
+         "html": "Already a member?"
+        },
+        {
+         "t": "button",
+         "text": "LOGIN",
+         "href": "https://lab.alpineiq.com/wallet/1653",
+         "external": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "Higher Rewards Frequently Asked Questions"
+    },
+    {
+     "t": "button",
+     "text": "What is Gratify Rewards?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>Gratify Rewards is the Schwazze customer loyalty program for Star Buds in Colorado. After you join, you earn points on your purchases that can be used as rewards credit towards future purchases. It’s free to join and members can join or exit the program at any time.</p>"
+    },
+    {
+     "t": "button",
+     "text": "What do members receive?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>Members earn one point for every $1 spent pre-tax. In addition to exclusive members-only deals and early access to specials, members receive up to 15% back in rewards and free merchandise. The points and rewards vary by state.</p>"
+    },
+    {
+     "t": "button",
+     "text": "Does it cost to join?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>NO! It’s free to join, and members can join or exit the program at any time.</p>"
+    },
+    {
+     "t": "button",
+     "text": "How are points earned and redeemed?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>It’s easy to earn points! The total amount of your pre-tax purchase is applied toward your rewards account. For every $1 you spend you earn one point.</p>\n<p>Rewards credits may be redeemed on a subsequent visit after they are earned. Credits cannot be used on the same transaction that they are earned. To redeem your Rewards credits simply let your budtender know when you check-out. Rewards points and credits are deducted from your account balance at the time of redemption. Points will only be converted to Rewards credits in 100, 250, 500, 750, 1000 point increments.</p>"
+    },
+    {
+     "t": "button",
+     "text": "What’s required to enroll?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>A phone number is required to enroll. Email is optional.</p>"
+    },
+    {
+     "t": "button",
+     "text": "Why do you need my phone numbers and email?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>We do not share this information to any third-party providers. Customers can opt out of any program communications at any time.</p>"
+    },
+    {
+     "t": "button",
+     "text": "Do members have to “opt-in” to texts?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>Yes, under the Telephone Consumers Protection Act (TCPA) you will receive a text when you enroll asking you to opt-in. To continue to receive messages you must reply YES to that message. If you don’t reply YES you will not be opted in to receive future text communications.</p>"
+    },
+    {
+     "t": "button",
+     "text": "How do Gratify Rewards members check point balances?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>Members can check points and update account information in their personalized online wallet.</p>"
+    },
+    {
+     "t": "button",
+     "text": "Do points ever expire?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>Your points do not expire unless you make no purchases at a Star Buds Colorado store for 180 days.</p>"
+    }
+   ]
+  },
+  {
+   "id": "s5",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p><a href=\"https://schwazze.com/wp-content/uploads/2022/07/Terms-of-Use.pdf\" target=\"_blank\" rel=\"noreferrer noopener\">For more information see Gratify Rewards Terms and Conditions</a></p>"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,176 @@
+{
+ "path": "/single-post/the-best-cannabis-products-for-a-chill-night-in",
+ "url": "https://www.starbuds.us/single-post/the-best-cannabis-products-for-a-chill-night-in",
+ "key": "single-post__the-best-cannabis-products-for-a-chill-night-in",
+ "kind": "post",
+ "state": null,
+ "title": "The Best Cannabis Products for a Chill Night In",
+ "h1": "The Best Cannabis Products for a Chill Night In",
+ "head": {
+  "title": "The Best Cannabis Products for a Chill Night In",
+  "description": "",
+  "canonical": "https://www.starbuds.us/single-post/the-best-cannabis-products-for-a-chill-night-in",
+  "robots": "",
+  "og": {
+   "title": "The Best Cannabis Products for a Chill Night In",
+   "description": "Sometimes, all you need is a night to yourself (or with someone special), some comfy clothes, good vibes, and the perfect cannabis companion. Whether you’re binging a new series, journaling in your cozy nook, or setting up a bubble bath—Star Buds Westmont has everything you need for a cannabis comfort night in.Here’s your ultimate guide to turning your home into the ultimate chill zone.Recommended Cannabis Products for Relaxation1. Flower Picks for a Mellow Mood • Ice Cream Cake: Indica-dominant",
+   "image": "https://static.wixstatic.com/media/3493a0_790bd1c68d6b4393aa1fd9bb4b93692f~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/3493a0_790bd1c68d6b4393aa1fd9bb4b93692f~mv2.jpg",
+   "image:width": "4000",
+   "image:height": "2667",
+   "url": "https://www.starbuds.us/single-post/the-best-cannabis-products-for-a-chill-night-in",
+   "site_name": "Star Buds ",
+   "type": "article"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+     "@type": "Person",
+     "name": "starbuds",
+     "url": "https://www.starbuds.us/profile/denver/profile"
+    },
+    "dateModified": "2025-07-03T07:00:00.000Z",
+    "datePublished": "2025-07-03T07:00:00.000Z",
+    "headline": "The Best Cannabis Products for a Chill Night In",
+    "mainEntityOfPage": {
+     "@id": "https://www.starbuds.us/single-post/the-best-cannabis-products-for-a-chill-night-in",
+     "@type": "itemPage",
+     "url": "https://www.starbuds.us/single-post/the-best-cannabis-products-for-a-chill-night-in"
+    },
+    "description": "Sometimes, all you need is a night to yourself (or with someone special), some comfy clothes, good vibes, and the perfect cannabis companion. Whether you’re binging a new series, journaling in your cozy nook, or setting up a bubble bath—Star Buds Westmont has everything you need for a cannabis comfort night in.Here’s your ultimate guide to turning your home into the ultimate chill zone.Recommended Cannabis Products for Relaxation1. Flower Picks for a Mellow Mood • Ice Cream Cake: Indica-dominant",
+    "url": "https://www.starbuds.us/single-post/the-best-cannabis-products-for-a-chill-night-in",
+    "image": {
+     "@type": "ImageObject",
+     "url": "https://static.wixstatic.com/media/3493a0_790bd1c68d6b4393aa1fd9bb4b93692f~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/3493a0_790bd1c68d6b4393aa1fd9bb4b93692f~mv2.jpg",
+     "width": "4000",
+     "height": "2667"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "Star Buds ",
+     "url": "https://www.starbuds.us"
+    }
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Blog",
+   "path": "/blog"
+  },
+  {
+   "name": "The Best Cannabis Products for a Chill Night In",
+   "path": "/single-post/the-best-cannabis-products-for-a-chill-night-in"
+  }
+ ],
+ "sections": [],
+ "post": {
+  "date": "2025-07-03T07:00:00.000Z",
+  "dateText": "Jul 3, 2025",
+  "readTime": "2 min read",
+  "hero": {
+   "src": "https://static.wixstatic.com/media/3493a0_790bd1c68d6b4393aa1fd9bb4b93692f~mv2.jpg",
+   "alt": ""
+  },
+  "categories": [],
+  "blocks": [
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/3493a0_790bd1c68d6b4393aa1fd9bb4b93692f~mv2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 4000,
+    "h": 2667,
+    "caption": ""
+   },
+   {
+    "t": "rich",
+    "html": "<p>Sometimes, all you need is a night to yourself (or with someone special), some comfy clothes, good vibes, and the perfect cannabis companion. Whether you’re binging a new series, journaling in your cozy nook, or setting up a bubble bath—<strong>Star Buds Westmont</strong> has everything you need for a <em>cannabis comfort night in</em>.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Here’s your ultimate guide to turning your home into the ultimate chill zone.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 3,
+    "html": "Recommended Cannabis Products for Relaxation"
+   },
+   {
+    "t": "rich",
+    "html": "<p><strong>1. Flower Picks for a Mellow Mood</strong></p>"
+   },
+   {
+    "t": "list",
+    "ordered": false,
+    "items": [
+     "<strong>Ice Cream Cake</strong>: Indica-dominant, sweet and creamy, ideal for stress relief and deep couch sessions.",
+     "<strong>GMO Cookies</strong>: Funky, potent, and perfect for zoning out with a playlist.",
+     "<strong>Lavender Jones</strong>: A hybrid with floral notes and calming effects—great for decompressing after work."
+    ]
+   },
+   {
+    "t": "rich",
+    "html": "<p><strong>2. Edibles to Ease Into the Evening</strong></p>"
+   },
+   {
+    "t": "list",
+    "ordered": false,
+    "items": [
+     "<strong>Live Rosin Gummies</strong>: Great for a full-body high with terpene-rich flavor. Try a low-dose if you're new.",
+     "<strong>CBD:THC Ratio Gummies</strong>: A 1:1 or 2:1 CBD to THC edible offers mood support without being overwhelming."
+    ]
+   },
+   {
+    "t": "rich",
+    "html": "<p><strong>3. Vape Carts for Smooth Sessions</strong></p>"
+   },
+   {
+    "t": "list",
+    "ordered": false,
+    "items": [
+     "<strong>Limoncello (Live Resin)</strong>: Light, citrusy, and upbeat. Great for journaling, cleaning, or painting.",
+     "<strong>Northern Lights</strong>: Heavy-hitting and full-bodied—ideal before bed or while watching your comfort show."
+    ]
+   },
+   {
+    "t": "heading",
+    "level": 3,
+    "html": "How to Create a “Cannabis Comfort Night”"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Let’s go beyond the products. A great night in is about setting the <em>vibe</em>. Here’s how to make it magical:</p>"
+   },
+   {
+    "t": "list",
+    "ordered": false,
+    "items": [
+     "<strong>Candles or Incense</strong>: Set the mood with relaxing scents like lavender, sandalwood, or eucalyptus.",
+     "<strong>Snacks</strong>: Sweet, salty, or gourmet—your favorite munchies are a must.",
+     "<strong>Playlists</strong>: Chillhop, ambient, or a throwback mix. Music enhances the sensory experience.",
+     "<strong>Lighting</strong>: Dim the lights or use string lights for a calming glow.",
+     "<strong>Activities</strong>: Puzzles, reading, coloring books, or just lying back and zoning out—do whatever soothes your soul."
+    ]
+   },
+   {
+    "t": "heading",
+    "level": 3,
+    "html": "Final Thoughts"
+   },
+   {
+    "t": "rich",
+    "html": "<p>At <strong>Star Buds Westmont</strong>, we’re here to support your self-care rituals and cozy routines. Whether it’s a Friday night in or just a little solo time midweek, we’ve got products and staff recommendations to help you find your chill.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Stop by or order ahead online, and let us help you plan your perfect night.</p>"
+   }
+  ]
+ }
+}

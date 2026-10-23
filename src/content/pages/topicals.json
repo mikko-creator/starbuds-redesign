@@ -1,0 +1,145 @@
+{
+ "path": "/topicals",
+ "url": "https://www.starbuds.us/topicals",
+ "key": "topicals",
+ "kind": "products",
+ "state": null,
+ "title": "Topicals | Star Buds Marijuana Dispensary | Colorado",
+ "h1": "TOPICALS",
+ "head": {
+  "title": "Topicals | Star Buds Marijuana Dispensary | Colorado",
+  "description": "At Star Buds, strains, concentrates & edibles aren't all we carry. We take pride in our topicals at all locations. Come by for Topical Tuesdays and save!",
+  "canonical": "https://www.starbuds.us/topicals",
+  "robots": "",
+  "og": {
+   "title": "Topicals | Star Buds Marijuana Dispensary | Colorado",
+   "description": "At Star Buds, strains, concentrates & edibles aren't all we carry. We take pride in our topicals at all locations. Come by for Topical Tuesdays and save!",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/topicals",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "TOPICALS",
+   "path": "/topicals"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": {
+    "image": "https://static.wixstatic.com/media/553d0f_fd7ea1040d564ea397c3fb2c8ee8cbc2~mv2.jpg",
+    "alt": ""
+   },
+   "blocks": []
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "TOPICALS"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "gallery",
+     "items": [
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_c0c37c1f3e2a43319efd998e5309f2d5~mv2_d_2268_1553_s_2.jpg",
+       "alt": "Dixie Synergy",
+       "title": "Dixie Synergy",
+       "description": "",
+       "href": null,
+       "w": 2268,
+       "h": 1553
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_229a4bf1fda3432bb4bb10f801ab8cd7~mv2.jpg",
+       "alt": "CBx Sciences",
+       "title": "CBx Sciences",
+       "description": "",
+       "href": null,
+       "w": 770,
+       "h": 770
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_d10a8ef09219470f834975e844dea653~mv2.jpg",
+       "alt": "Coda Signature",
+       "title": "Coda Signature",
+       "description": "",
+       "href": null,
+       "w": 822,
+       "h": 500
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_8ce25a7dc53d4615b164485fc44d5f69~mv2.jpg",
+       "alt": "Apothecanna",
+       "title": "Apothecanna",
+       "description": "The first all-natural beauty and wellness line supercharged by cannabis. Designed to enhance your active lifestyle, the all-natural ingredients in Apothecanna are purposefully picked for their therapeutic values. We bring back the strength of traditional plant medicine to treat modern problems. Simply put, it’s nature to the next level.",
+       "href": null,
+       "w": 490,
+       "h": 342
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_cf9b1876701540a39ac1d8c91e50b1ca~mv2.png",
+       "alt": "FORIA",
+       "title": "FORIA",
+       "description": "",
+       "href": null,
+       "w": 817,
+       "h": 708
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_755203f8b765402e810ee9ea0b64bad2~mv2_d_3186_2371_s_2.jpg",
+       "alt": "Mary's Medicinals",
+       "title": "Mary's Medicinals",
+       "description": "",
+       "href": null,
+       "w": 3186,
+       "h": 2371
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_41963b650cb243a58c350ab614c7d205~mv2_d_4183_2690_s_4_2.jpg",
+       "alt": "Rocky Mountain Apothecary",
+       "title": "Rocky Mountain Apothecary",
+       "description": "",
+       "href": null,
+       "w": 4183,
+       "h": 2690
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_3a10db7c565b48219ecd2b3f86eeb824~mv2.jpg",
+       "alt": "Mary Jane's Medicinals",
+       "title": "Mary Jane's Medicinals",
+       "description": "",
+       "href": null,
+       "w": 720,
+       "h": 531
+      }
+     ],
+     "text": []
+    },
+    {
+     "t": "rich",
+     "html": "<p>- PRODUCT SELECTION AND AVAILABILITY VARIES BY LOCATION -</p>"
+    }
+   ]
+  }
+ ]
+}

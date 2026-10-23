@@ -1,0 +1,261 @@
+{
+ "path": "/single-post/hightails-to-elevate-your-summer-beverages",
+ "url": "https://www.starbuds.us/single-post/hightails-to-elevate-your-summer-beverages",
+ "key": "single-post__hightails-to-elevate-your-summer-beverages",
+ "kind": "post",
+ "state": null,
+ "title": "Hightails To Elevate Your Summer Beverages",
+ "h1": "Hightails To Elevate Your Summer Beverages",
+ "head": {
+  "title": "Hightails To Elevate Your Summer Beverages",
+  "description": "",
+  "canonical": "https://www.starbuds.us/single-post/hightails-to-elevate-your-summer-beverages",
+  "robots": "",
+  "og": {
+   "title": "Hightails To Elevate Your Summer Beverages",
+   "description": "The only thing more relaxing than a cocktail on a hot summer day is one that gets you high.  Our friends at Dixie have that perfected with their Elixir THC infused drinks, available in Berry Lemonade, Cherry Limeade, Fruit Punch, Half & Half and Root Beer flavors.  These delicious products are great by themselves but they can become the centerpiece of a refreshing “hightail” to take you to a higher level.  Check out these great recipes and try them for yourself.GINGER CHERRY BLOSSOMA THC twist o",
+   "image": "https://static.wixstatic.com/media/553d0f_e4a9821fefb847c7ac14bb11fbe6efa2~mv2.jpg/v1/fill/w_365,h_365,al_c,lg_1,q_80/553d0f_e4a9821fefb847c7ac14bb11fbe6efa2~mv2.jpg",
+   "image:width": "261",
+   "image:height": "261",
+   "url": "https://www.starbuds.us/single-post/hightails-to-elevate-your-summer-beverages",
+   "site_name": "Star Buds ",
+   "type": "article"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+     "@type": "Person",
+     "name": "starbuds",
+     "url": "https://www.starbuds.us/profile/denver/profile"
+    },
+    "dateModified": "2021-07-13T19:58:28.999Z",
+    "datePublished": "2021-07-13T18:49:13.903Z",
+    "headline": "Hightails To Elevate Your Summer Beverages",
+    "mainEntityOfPage": {
+     "@id": "https://www.starbuds.us/single-post/hightails-to-elevate-your-summer-beverages",
+     "@type": "itemPage",
+     "url": "https://www.starbuds.us/single-post/hightails-to-elevate-your-summer-beverages"
+    },
+    "description": "The only thing more relaxing than a cocktail on a hot summer day is one that gets you high.  Our friends at Dixie have that perfected with their Elixir THC infused drinks, available in Berry Lemonade, Cherry Limeade, Fruit Punch, Half & Half and Root Beer flavors.  These delicious products are great by themselves but they can become the centerpiece of a refreshing “hightail” to take you to a higher level.  Check out these great recipes and try them for yourself.GINGER CHERRY BLOSSOMA THC twist o",
+    "url": "https://www.starbuds.us/single-post/hightails-to-elevate-your-summer-beverages",
+    "image": {
+     "@type": "ImageObject",
+     "url": "https://static.wixstatic.com/media/553d0f_e4a9821fefb847c7ac14bb11fbe6efa2~mv2.jpg/v1/fill/w_365,h_365,al_c,lg_1,q_80/553d0f_e4a9821fefb847c7ac14bb11fbe6efa2~mv2.jpg",
+     "width": "261",
+     "height": "261"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "Star Buds ",
+     "url": "https://www.starbuds.us"
+    }
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Blog",
+   "path": "/blog"
+  },
+  {
+   "name": "Hightails To Elevate Your Summer Beverages",
+   "path": "/single-post/hightails-to-elevate-your-summer-beverages"
+  }
+ ],
+ "sections": [],
+ "post": {
+  "date": "2021-07-13T18:49:13.903Z",
+  "dateText": "Jul 13, 2021",
+  "readTime": "2 min read",
+  "hero": {
+   "src": "https://static.wixstatic.com/media/553d0f_e4a9821fefb847c7ac14bb11fbe6efa2~mv2.jpg",
+   "alt": ""
+  },
+  "categories": [
+   {
+    "name": "THC",
+    "path": "/blog/categories/thc/"
+   }
+  ],
+  "blocks": [
+   {
+    "t": "rich",
+    "html": "<p>The only thing more relaxing than a cocktail on a hot summer day is one that gets you high. Our friends at Dixie have that perfected with their Elixir THC infused drinks, available in Berry Lemonade, Cherry Limeade, Fruit Punch, Half &amp; Half and Root Beer flavors. These delicious products are great by themselves but they can become the centerpiece of a refreshing “hightail” to take you to a higher level. Check out these great recipes and try them for yourself.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "GINGER CHERRY BLOSSOM"
+   },
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/553d0f_e4a9821fefb847c7ac14bb11fbe6efa2~mv2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 261,
+    "h": 261,
+    "caption": ""
+   },
+   {
+    "t": "rich",
+    "html": "<p>A THC twist on a classic Moscow Mule. The flavors of cherry and lime come to life when blended with a crisp ginger beer.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>• 8 oz. ginger beer</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>• Add 1 serving Dixie Cherry Limeade</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>*(1 serving = half capful = 6mg THC)</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>• Juice from 2 lime wedges</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>• Pour over ice and garnish with maraschino cherries</p>"
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "SPARKLING SANGRIA HIGH TEA"
+   },
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/553d0f_7dd62234127a40b3b0e1da4585e28c43~mv2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 261,
+    "h": 261,
+    "caption": ""
+   },
+   {
+    "t": "rich",
+    "html": "<p>John Daly and Arnold Palmer inspired many a blend of tea and lemonade, but the addition of honey, fruit and mint makes this a perfect summer beverage.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>• 12 oz. chilled club soda</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>• Add 1 serving Dixie Half &amp; Half</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>*(1 serving = half capful = 6mg THC)</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>• Add a squeeze of honey</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>• Stir in diced peaches &amp; raspberries</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>• Garnish with mint leaves</p>"
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "FRUIT PUNCH FIZZ"
+   },
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/553d0f_c8d1c13b79a54092877bebb88a40179b~mv2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 261,
+    "h": 261,
+    "caption": ""
+   },
+   {
+    "t": "rich",
+    "html": "<p>Summer and fruit punch go hand in hand with this infused version of a rum punch. Blend your favorite fruit juices to make it just the way you want.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>• 1.5 oz. pineapple juice</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>• 1.5 oz. cranberry juice</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>• Add 1 serving Dixie Fruit Punch</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>*(1 serving = half capful = 6mg THC)</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>• 4 oz. lemon-lime club soda</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>• Pour over ice, garnish with pineapple</p>"
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "WILD BERRY CRUSH"
+   },
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/553d0f_0dabc969595341c4835097a6e043be32~mv2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 261,
+    "h": 261,
+    "caption": ""
+   },
+   {
+    "t": "rich",
+    "html": "<p>Muddled fruit in a drink brings out the freshness that just tastes like summer. A sugar rim on the glass brightens the berry and lemonade flavors.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>• Rim a glass with sugar</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>• Muddle 3–4 fresh blackberries</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>• Add 1 serving Dixie Berry Lemonade</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>*(1 serving = half capful = 6mg THC)</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>• Stir in 7 oz. lemonade</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>• Pour over ice and garnish with</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>fresh blackberries</p>"
+   }
+  ]
+ }
+}

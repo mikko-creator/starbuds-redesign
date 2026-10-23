@@ -1,0 +1,181 @@
+{
+ "path": "/blog/page/2",
+ "url": "https://www.starbuds.us/blog/page/2",
+ "key": "blog__page__2",
+ "kind": "blog",
+ "state": null,
+ "title": "Blog | Star Buds Marijuana Dispensary | Colorado | Page 2 of 9",
+ "h1": "BLOG",
+ "head": {
+  "title": "Blog | Star Buds Marijuana Dispensary | Colorado | Page 2 of 9",
+  "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+  "canonical": "https://www.starbuds.us/blog/page/2",
+  "robots": "",
+  "og": {
+   "title": "Blog | Star Buds Marijuana Dispensary | Colorado | Page 2 of 9",
+   "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/blog/page/2",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Blog",
+   "path": "/blog"
+  },
+  {
+   "name": "BLOG",
+   "path": "/blog/page/2"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "BLOG"
+    }
+   ]
+  }
+ ],
+ "posts": [
+  {
+   "path": "/single-post/benefits-of-regulated-thc-dispensaries-vs-intoxicating-hemp-products",
+   "title": "Benefits of Regulated THC Dispensaries vs. Intoxicating Hemp Products",
+   "date": "2025-08-08T21:59:37.395Z",
+   "excerpt": "With cannabis products showing up everywhere—from boutique dispensaries to gas stations—it’s important to understand the difference...",
+   "image": "https://static.wixstatic.com/media/11062b_e62864cf7ebd4fb9a8855f05a09cbf1a~mv2.jpg"
+  },
+  {
+   "path": "/single-post/the-best-cannabis-products-for-a-chill-night-in",
+   "title": "The Best Cannabis Products for a Chill Night In",
+   "date": "2025-07-03T07:00:00.000Z",
+   "excerpt": "Sometimes, all you need is a night to yourself (or with someone special), some comfy clothes, good vibes, and the perfect cannabis...",
+   "image": "https://static.wixstatic.com/media/3493a0_790bd1c68d6b4393aa1fd9bb4b93692f~mv2.jpg"
+  },
+  {
+   "path": "/single-post/beginner-s-guide-how-to-read-a-cannabis-label-like-a-pro",
+   "title": "Beginner’s Guide: How to Read a Cannabis Label Like a Pro",
+   "date": "2025-06-10T07:00:00.000Z",
+   "excerpt": "Navigating a cannabis label for the first time can feel a little like trying to read a new language—but once you get the hang of it, that...",
+   "image": "https://static.wixstatic.com/media/3493a0_381abdbaaafd4e57adccd4d93173493c~mv2.jpg"
+  },
+  {
+   "path": "/single-post/cannabis-and-creativity-how-certain-strains-can-spark-your-next-great-idea",
+   "title": "Cannabis and Creativity: How Certain Strains Can Spark Your Next Great Idea",
+   "date": "2025-05-08T07:00:00.000Z",
+   "excerpt": "Whether you're painting a canvas, writing a song, or just brainstorming your next big move, cannabis can be a powerful creative ally. At...",
+   "image": "https://static.wixstatic.com/media/3493a0_f2345b7f490843a0ac9e30836fdad7b9~mv2.jpg"
+  },
+  {
+   "path": "/single-post/star-buds-westmont-is-now-open",
+   "title": "Star Buds Westmont Is Now Open!",
+   "date": "2025-04-05T07:00:00.000Z",
+   "excerpt": "Exciting news for cannabis enthusiasts in the Chicagoland area: Star Buds Westmont is now officially open! Located at 101 W Ogden Ave,...",
+   "image": "https://static.wixstatic.com/media/3493a0_d898cbb864cd4fab8be375930c5ba2eb~mv2.jpg"
+  },
+  {
+   "path": "/single-post/which-strain-makes-you-laugh-the-most",
+   "title": "Which Strain Makes You Laugh the Most?",
+   "date": "2025-03-18T07:00:00.000Z",
+   "excerpt": "Ever had one of those laugh-until-you-cry moments? The kind where everything feels lighter, funnier, and just plain better? Sometimes,...",
+   "image": "https://static.wixstatic.com/media/3493a0_f670d2fd7db2475fba7a3eb9cb5a5134~mv2.jpg"
+  },
+  {
+   "path": "/single-post/demystifying-cannabis-concentrates-a-journey-from-plant-to-potent-extracts",
+   "title": "Demystifying Cannabis Concentrates: A Journey from Plant to Potent Extracts",
+   "date": "2024-01-27T08:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_496cefe3107348f68d0a5a037f69822b~mv2.jpg"
+  },
+  {
+   "path": "/single-post/danksgiving-recipes",
+   "title": "Danksgiving Recipes",
+   "date": "2021-11-08T18:34:13.160Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_276d78d9288c4becb6746f78146a4cff~mv2.jpg"
+  },
+  {
+   "path": "/single-post/how-cannabis-is-grown-from-seed-to-shelf-at-a-licensed-dispensary",
+   "title": "How Cannabis Is Grown: From Seed to Shelf at a Licensed Dispensary",
+   "date": "2026-07-09T07:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_5e4dbf4c08504fb0a5665970c6e8edaf~mv2.jpg"
+  },
+  {
+   "path": "/single-post/thc-cbd-cbn-more-understanding-the-most-common-cannabinoids",
+   "title": "THC, CBD, CBN & More: Understanding the Most Common Cannabinoids",
+   "date": "2026-06-23T07:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_5336ff89a55a4f8f915c0b267ce639a7~mv2.jpg"
+  },
+  {
+   "path": "/single-post/how-to-keep-cannabis-fresh-the-best-ways-to-store-flower-edibles-and-concentrates",
+   "title": "How to Keep Cannabis Fresh: The Best Ways to Store Flower, Edibles, and Concentrates",
+   "date": "2026-05-16T07:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_7d962fa2ae774894b8f836b5c6624736~mv2.jpg"
+  },
+  {
+   "path": "/single-post/why-your-edible-didn-t-kick-in-yet-understanding-cannabis-edible-timing",
+   "title": "Why Your Edible Didn’t Kick In (Yet): Understanding Cannabis Edible Timing",
+   "date": "2026-04-11T07:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_175a39b1053c47a98c30848f4e6155d4~mv2.png"
+  },
+  {
+   "path": "/single-post/what-makes-a-cannabis-product-premium-a-simple-guide-for-everyday-shoppers",
+   "title": "What Makes a Cannabis Product “Premium”? A Simple Guide for Everyday Shoppers",
+   "date": "2026-03-13T07:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/aae440_5b2aa021bd33477bb78ea7029c7922b8~mv2.jpg"
+  },
+  {
+   "path": "/single-post/how-long-cannabis-actually-lasts-shelf-life-for-flower-edibles-and-vapes",
+   "title": "How Long Cannabis Actually Lasts: Shelf Life for Flower, Edibles, and Vapes",
+   "date": "2026-02-17T08:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_99409860d9b44fb5bb2b89c3dbe60fd5~mv2.jpg"
+  },
+  {
+   "path": "/single-post/why-cannabis-smells-so-strong-and-what-that-aroma-actually-means",
+   "title": "Why Cannabis Smells So Strong, And What That Aroma Actually Means",
+   "date": "2026-01-22T08:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_876cff4459834c3a8b5ef3e8ab1ef313~mv2.jpg"
+  },
+  {
+   "path": "/single-post/star-buds-now-open-in-summit-illinois",
+   "title": "Star Buds Now Open in Summit, Illinois: Your New Cannabis Destination",
+   "date": "2025-12-30T08:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_f2299dfa778040c99192587fdcc7bef6~mv2.png"
+  },
+  {
+   "path": "/single-post/why-your-weed-hits-differently-every-time",
+   "title": "Why Your Weed Hits Differently Every Time (And How to Choose Smarter at Star Buds)",
+   "date": "2025-11-12T08:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_0f5ae79ff58b4027aa47ad29f001f58f~mv2.jpg"
+  },
+  {
+   "path": "/single-post/the-art-of-the-perfect-pre-roll",
+   "title": "The Art of the Perfect Pre-Roll: What Separates a Great Smoke From a Bad One",
+   "date": "2025-10-23T07:00:00.000Z",
+   "excerpt": "",
+   "image": "https://static.wixstatic.com/media/3493a0_5a4fe94803864d22817dcff48a5b1b2e~mv2.jpg"
+  }
+ ]
+}

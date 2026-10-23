@@ -1,0 +1,366 @@
+{
+  "schema": "starbuds-reforge/image-plan@1",
+  "note": "MEDIA lane. Illustrative industry imagery added by the redesign (BUILD-CONTRACT 4.5). Every file is AI-generated and labelled (IPTC trainedAlgorithmicMedia); none depicts Star Buds, its stores, staff, customers, products or brands. src/build.mjs reads images[] { id, file, cutout?, alt } and the loop slots { id, kind: 'video', alt, video }; tools/fal-gen.mjs reads defaults + prompt/input.",
+  "defaults": {
+    "model": "fal-ai/flux-pro/v1.1-ultra",
+    "style": "cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+    "input": {
+      "aspect_ratio": "16:9",
+      "output_format": "jpeg",
+      "safety_tolerance": "5"
+    },
+    "cutoutModel": "fal-ai/birefnet/v2",
+    "cutoutInput": {
+      "model": "General Use (Heavy)",
+      "operating_resolution": "2048x2048",
+      "output_format": "png",
+      "refine_foreground": true
+    }
+  },
+  "images": [
+    {
+      "id": "G-HERO",
+      "file": "assets/generated/g-hero.jpg",
+      "role": "home hero; V-HERO loop source",
+      "usedFor": [
+        "home hero"
+      ],
+      "alt": "A Victorian glass conservatory at night, cannabis plants growing under warm lantern light beneath a starry glass roof",
+      "prompt": "wide interior view of a grand Victorian wrought-iron and glass conservatory at night, tall arched glass roof with a clear starry night sky visible through the panes, lush green cannabis plants growing in large terracotta planters on the right half and centre, warm brass lanterns glowing among the leaves, soft mist drifting low over a stone floor, the left third of the frame calm and dark with only soft shadowy greenery for headline space, eye-level camera, anamorphic depth"
+    },
+    {
+      "id": "G-STARS",
+      "file": "assets/generated/g-stars.jpg",
+      "role": "night band backdrop; V-STARS loop source",
+      "usedFor": [
+        "contact",
+        "legal",
+        "locations hub",
+        "fallback state art"
+      ],
+      "alt": "A starry night sky seen through the curved iron ribs and arched panes of a glasshouse roof",
+      "prompt": "looking straight up at a clear night sky through the clean, plain, empty glass panes of a Victorian glasshouse roof, curved black wrought-iron ribs and thin glazing bars silhouetted against a dense field of stars and a faint Milky Way, deep blue-green night, nothing on or behind the glass, no reflections, no figures, no statues, a soft warm glow only at the very bottom edge",
+      "provider": "higgsfield",
+      "hfModel": "cinematic_studio_2_5",
+      "note": "the shipped file is the Higgsfield candidate (see docs/MEDIA.md); the prompt above is the fal prompt of the unused alternate"
+    },
+    {
+      "id": "G-FLOWER",
+      "file": "assets/generated/g-flower.jpg",
+      "role": "section art: products, flower, order online",
+      "usedFor": [
+        "products",
+        "order-online"
+      ],
+      "alt": "Macro of a cured cannabis bud with frosted trichomes resting on the pan of a brass apothecary scale",
+      "prompt": "extreme macro photograph of a single cured cannabis flower bud covered in frosty glistening trichomes with fine orange pistils, resting in the shallow pan of an antique polished brass apothecary balance scale with a plain smooth unmarked pan, dark green velvet behind, warm lantern side light, very shallow depth of field"
+    },
+    {
+      "id": "G-LEAF",
+      "file": "assets/generated/g-leaf.jpg",
+      "role": "dark band art; V-LEAF loop source",
+      "usedFor": [
+        "home"
+      ],
+      "alt": "A backlit cannabis fan leaf with dew drops glowing green against a dark background",
+      "prompt": "a single cannabis fan leaf with seven serrated leaflets, backlit so the leaf glows translucent green and its veins show, tiny dew drops along the serrated edges catching warm light, placed slightly right of centre against a near-black deep green background, soft bokeh of distant lantern light"
+    },
+    {
+      "id": "G-CLOCHE",
+      "file": "assets/generated/g-cloche.jpg",
+      "role": "arch-framed feature photo",
+      "usedFor": [
+        "home"
+      ],
+      "alt": "A cured cannabis bud under a Victorian glass bell jar on a dark wooden plinth",
+      "prompt": "a Victorian clear glass bell jar cloche with a small round glass knob covering a single cured cannabis flower bud on a round dark walnut wood plinth, standing on a table inside a dim glasshouse at night, warm lantern reflections curving on the glass, ferns and plant silhouettes softly out of focus behind, mist",
+      "input": {
+        "aspect_ratio": "3:4"
+      }
+    },
+    {
+      "id": "G-PREROLL",
+      "file": "assets/generated/g-preroll.jpg",
+      "role": "section art: deals",
+      "usedFor": [
+        "deals"
+      ],
+      "alt": "Unbranded pre-rolls and loose cannabis buds on a brass tray",
+      "prompt": "three slim cone-shaped cannabis pre-roll joints made of thin plain unprinted white paper, each packed with ground green cannabis flower visible at its open wide end and twisted shut at the narrow tip, lying side by side on a polished antique brass serving tray, a few loose cured cannabis buds beside them, dark green velvet tablecloth, warm lantern light from the left, still life"
+    },
+    {
+      "id": "G-VAPE",
+      "file": "assets/generated/g-vape.jpg",
+      "role": "section art: vapes",
+      "usedFor": [
+        "vapes"
+      ],
+      "alt": "A blank vape cartridge filled with amber oil lying on dark green velvet",
+      "prompt": "a single blank unbranded glass vape cartridge filled with clear golden amber oil, plain smooth metal mouthpiece and plain metal base with no markings, lying diagonally on folds of dark green velvet, warm lantern rim light, still life macro"
+    },
+    {
+      "id": "G-EDIBLES",
+      "file": "assets/generated/g-edibles.jpg",
+      "role": "section art: edibles",
+      "usedFor": [
+        "edibles"
+      ],
+      "alt": "An apothecary shelf of plain glass jars and tins holding dried botanicals",
+      "prompt": "an antique wooden apothecary shelf holding bare clear glass jars with cork stoppers and small plain round metal tins, every jar and tin completely bare with no labels, no tags and no paper on them, filled with dried herbs, dried flowers and dried cannabis buds, a sprig of fresh leaves, inside a glasshouse at night, warm lantern light"
+    },
+    {
+      "id": "G-CONCENTRATES",
+      "file": "assets/generated/g-concentrates.jpg",
+      "role": "section art: concentrates",
+      "usedFor": [
+        "concentrates"
+      ],
+      "alt": "A small mound of pale gold hash rosin on parchment paper beside a brass dab tool",
+      "prompt": "a small soft irregular mound of freshly pressed hash rosin, a waxy cannabis concentrate, smooth opaque creamy pale-gold texture like thick soft wax with a fine sandy grain and a glossy oily sheen, no large crystals, no chunks, tiny glistening terpene droplets, a little translucent amber terpene oil pooling at its base, on a small square of unbleached parchment paper, a slim plain brass dab tool resting beside it, dark slate surface, macro still life"
+    },
+    {
+      "id": "G-TOPICALS",
+      "file": "assets/generated/g-topicals.jpg",
+      "role": "section art: topicals",
+      "usedFor": [
+        "topicals"
+      ],
+      "alt": "A plain amber dropper bottle and an open jar of balm beside a cannabis leaf on marble",
+      "prompt": "a plain unlabeled amber glass dropper bottle and a small open plain glass jar of pale cream balm beside a fresh cannabis fan leaf on a dark green marble surface, warm lantern light, botanical still life"
+    },
+    {
+      "id": "G-CBD",
+      "file": "assets/generated/g-cbd.jpg",
+      "role": "section art: cbd",
+      "usedFor": [
+        "cbd",
+        "oxford-cbd"
+      ],
+      "alt": "Hemp leaves and a plain tincture bottle on a glasshouse bench in soft daylight",
+      "prompt": "fresh hemp leaves and a bare clear glass tincture bottle with a black dropper cap, the bottle completely bare with no label, no sticker and no paper on it, golden oil inside, on a weathered wooden glasshouse bench, soft early daylight falling through the arched panes of a Victorian glasshouse, green plants behind softly out of focus, calm and airy, deep green palette"
+    },
+    {
+      "id": "G-POTTING",
+      "file": "assets/generated/g-potting.jpg",
+      "role": "section art: about, team, media, community, careers",
+      "usedFor": [
+        "about",
+        "team",
+        "community",
+        "careers"
+      ],
+      "alt": "A Victorian potting bench with terracotta pots, brass tools and young cannabis plants",
+      "prompt": "a Victorian wooden potting bench inside a glasshouse at night, stacked terracotta pots, aged brass hand trowel and a brass watering can, young cannabis plants growing in terracotta pots, a warm brass lantern glowing, iron-framed windows behind"
+    },
+    {
+      "id": "G-REWARDS",
+      "file": "assets/generated/g-rewards.jpg",
+      "role": "section art: rewards",
+      "usedFor": [
+        "rewards",
+        "gratify terms"
+      ],
+      "alt": "Small brass star tokens scattered on deep green velvet",
+      "prompt": "small polished brass five-pointed star tokens scattered across deep green velvet, plain smooth stars with no engraving, warm lantern light glinting on their bevelled edges, shallow depth of field, still life"
+    },
+    {
+      "id": "G-DELIVERY",
+      "file": "assets/generated/g-delivery.jpg",
+      "role": "section art: delivery",
+      "usedFor": [
+        "delivery"
+      ],
+      "alt": "A rain-speckled glass pane at dusk with warm city lights blurred beyond",
+      "prompt": "close-up of a rain-speckled window pane at dusk, raindrops in sharp focus on the glass, beyond it warm amber and green city lights dissolved into soft round bokeh, no readable shapes, a thin dark wrought-iron window mullion at one edge"
+    },
+    {
+      "id": "G-JOURNAL",
+      "file": "assets/generated/g-journal.jpg",
+      "role": "section art: blog",
+      "usedFor": [
+        "blog",
+        "blog categories",
+        "posts without a photo"
+      ],
+      "alt": "A brass magnifying glass over a cannabis leaf on dark slate",
+      "prompt": "an antique brass magnifying glass with a plain smooth handle lying over a fresh cannabis leaf on a dark slate surface, the lens enlarging the leaf's serrated edge, warm lantern light, botanical still life"
+    },
+    {
+      "id": "G-STATE-CO",
+      "file": "assets/generated/g-state-co.jpg",
+      "role": "state art",
+      "usedFor": [
+        "/colorado and its stores"
+      ],
+      "alt": "Rolling mountain foothills at dusk under a starry sky",
+      "prompt": "landscape photograph of generic rolling Rocky Mountain foothills at deep blue dusk, layered pine-covered ridgelines fading into haze, grassy slopes in the foreground, first stars and a faint Milky Way above, a last warm glow on the horizon, no buildings, no roads"
+    },
+    {
+      "id": "G-STATE-IL",
+      "file": "assets/generated/g-state-il.jpg",
+      "role": "state art",
+      "usedFor": [
+        "/illinois and its stores"
+      ],
+      "alt": "A tallgrass prairie at dusk under a starry sky",
+      "prompt": "landscape photograph of open tallgrass prairie at deep blue dusk, wild grasses and coneflowers in the foreground, a lone oak on the far horizon, wide starry sky above with a last warm glow at the horizon, no buildings, no roads"
+    },
+    {
+      "id": "G-STATE-MD",
+      "file": "assets/generated/g-state-md.jpg",
+      "role": "state art",
+      "usedFor": [
+        "/maryland and its stores"
+      ],
+      "alt": "A tidal marsh with winding creeks at dusk under a starry sky",
+      "prompt": "landscape photograph of a tidal salt marsh at deep blue dusk, winding tidal creeks reflecting the last light, golden-green cordgrass, a starry sky above with a faint warm glow at the horizon, no buildings, no boats"
+    },
+    {
+      "id": "G-STATE-MS",
+      "file": "assets/generated/g-state-ms.jpg",
+      "role": "state art",
+      "usedFor": [
+        "/mississippi and its stores"
+      ],
+      "alt": "Cypress trees standing in still river delta water at dusk under a starry sky",
+      "prompt": "landscape photograph of a cypress river delta at deep blue dusk, bald cypress trees with hanging moss standing in still dark water, mirror reflections, a starry sky above with a faint warm glow at the horizon, no buildings, no boats"
+    },
+    {
+      "id": "G-STATE-NY",
+      "file": "assets/generated/g-state-ny.jpg",
+      "role": "state art",
+      "usedFor": [
+        "/new-york and its stores"
+      ],
+      "alt": "A calm lakeshore with wooded hills at dusk under a starry sky",
+      "prompt": "landscape photograph of a calm lakeshore at deep blue dusk, smooth stones at the water's edge, low wooded hills across the still lake, a starry sky reflected in the water, a faint warm glow at the horizon, no buildings, no boats"
+    },
+    {
+      "id": "G-STATE-OK",
+      "file": "assets/generated/g-state-ok.jpg",
+      "role": "state art",
+      "usedFor": [
+        "/oklahoma and its stores"
+      ],
+      "alt": "Red-earth plains with wind-swept grass at dusk under a starry sky",
+      "prompt": "landscape photograph of rolling red-earth plains at deep blue dusk, patches of rust-red soil between wind-swept prairie grass, a few distant cottonwood trees, a wide starry sky with a last warm glow at the horizon, no buildings, no roads"
+    },
+    {
+      "id": "G-STATE-SD",
+      "file": "assets/generated/g-state-sd.jpg",
+      "role": "state art",
+      "usedFor": [
+        "/south-dakota and its stores"
+      ],
+      "alt": "Dark pine-covered hills with granite outcrops at dusk under a starry sky",
+      "prompt": "landscape photograph of dark ponderosa pine forested hills with rounded weathered granite boulders at deep blue dusk, a starry sky above with a faint warm glow at the horizon, quiet and generic, no carved rock, no monuments, no buildings, no roads"
+    },
+    {
+      "id": "CUT-CLOCHE",
+      "file": "assets/generated/cut-cloche.png",
+      "cutout": true,
+      "role": "front-plane cut-out (made with tools/fal-one.mjs --cutout-model Matting, see docs/MEDIA.md)",
+      "usedFor": [
+        "home"
+      ],
+      "alt": "A cannabis bud under a Victorian glass bell jar",
+      "prompt": "product photograph of a Victorian clear glass bell jar cloche with a small round glass knob on top, covering a single cured cannabis flower bud that sits on a round dark walnut wood base, the whole object centred and fully in frame with space around it, isolated on a pure black seamless background, crisp white rim highlights tracing the glass edges, warm light on the bud",
+      "input": {
+        "aspect_ratio": "3:4"
+      },
+      "provider": "fal.ai",
+      "note": "made with tools/fal-one.mjs --cutout --cutout-model Matting (fal-gen has one global cut-out model); do not regenerate it with fal-gen",
+      "optional": true
+    },
+    {
+      "id": "CUT-LEAF",
+      "file": "assets/generated/cut-leaf.png",
+      "cutout": true,
+      "role": "front-plane cut-out",
+      "usedFor": [
+        "home",
+        "section seams"
+      ],
+      "alt": "A single cannabis fan leaf",
+      "prompt": "studio product photograph of a single fresh green cannabis fan leaf with seven serrated leaflets and a short stem, flat and fully in frame with space around it, centred, isolated on a plain flat neutral mid-grey seamless background, soft even light, crisp edges, no shadow",
+      "input": {
+        "aspect_ratio": "1:1"
+      }
+    },
+    {
+      "id": "CUT-BUD",
+      "file": "assets/generated/cut-bud.png",
+      "cutout": true,
+      "role": "front-plane cut-out",
+      "usedFor": [
+        "home",
+        "product pages"
+      ],
+      "alt": "A cured cannabis bud with frosted trichomes",
+      "prompt": "studio macro product photograph of a single dense cured cannabis flower bud with frosty trichomes and orange pistils, centred and fully in frame with space around it, isolated on a plain flat neutral mid-grey seamless background, warm key light, crisp edges",
+      "input": {
+        "aspect_ratio": "1:1"
+      }
+    },
+    {
+      "id": "CUT-ACANTHUS",
+      "file": "assets/generated/cut-acanthus.png",
+      "cutout": true,
+      "role": "front-plane ornament cut-out",
+      "usedFor": [
+        "section seams"
+      ],
+      "alt": "A gilded brass acanthus scroll ornament",
+      "prompt": "studio product photograph of a single gilded antique brass acanthus leaf scroll ornament, Victorian architectural metalwork, one horizontal S-shaped scroll of curling acanthus leaves, front view, fully in frame with space around it, isolated on a plain flat dark charcoal grey seamless background, warm studio light on the gilding, crisp edges",
+      "input": {
+        "aspect_ratio": "3:2"
+      }
+    },
+    {
+      "id": "CUT-STAR",
+      "file": "assets/generated/cut-star.png",
+      "cutout": true,
+      "role": "front-plane ornament cut-out",
+      "usedFor": [
+        "section seams",
+        "rewards"
+      ],
+      "alt": "A plain brass five-pointed star ornament",
+      "prompt": "studio product photograph of a single plain polished brass five-pointed star ornament with bevelled faceted arms, no engraving, no marks, front view, centred, fully in frame with space around it, isolated on a plain flat dark charcoal grey seamless background, warm studio light, crisp edges",
+      "input": {
+        "aspect_ratio": "1:1"
+      }
+    },
+    {
+      "id": "V-HERO",
+      "kind": "video",
+      "alt": "Slow drift through a Victorian glass conservatory at night, mist moving between cannabis plants under a starry roof",
+      "video": {
+        "mp4": "assets/generated/video/v-hero.mp4",
+        "webm": "assets/generated/video/v-hero.webm",
+        "mp4Phone": "assets/generated/video/v-hero-phone.mp4",
+        "poster": "assets/generated/g-hero.jpg"
+      }
+    },
+    {
+      "id": "V-STARS",
+      "kind": "video",
+      "alt": "Stars twinkling through the iron ribs of a glasshouse roof",
+      "video": {
+        "mp4": "assets/generated/video/v-stars.mp4",
+        "webm": "assets/generated/video/v-stars.webm",
+        "poster": "assets/generated/g-stars.jpg"
+      }
+    },
+    {
+      "id": "V-LEAF",
+      "kind": "video",
+      "alt": "A backlit cannabis fan leaf swaying gently in the dark",
+      "video": {
+        "mp4": "assets/generated/video/v-leaf.mp4",
+        "webm": "assets/generated/video/v-leaf.webm",
+        "poster": "assets/generated/g-leaf.jpg"
+      }
+    }
+  ]
+}

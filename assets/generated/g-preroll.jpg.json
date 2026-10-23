@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-PREROLL",
+  "file": "assets/generated/g-preroll.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "three slim cone-shaped cannabis pre-roll joints made of thin plain unprinted white paper, each packed with ground green cannabis flower visible at its open wide end and twisted shut at the narrow tip, lying side by side on a polished antique brass serving tray, a few loose cured cannabis buds beside them, dark green velvet tablecloth, warm lantern light from the left, still life, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "safety_tolerance": "5"
+  },
+  "seed": 767849721,
+  "requestId": "01a1662a-b210-7280-8a9c-f261d3b55d51",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "7cfcb6a7d35c56a349908983d962a4a492b0bb1416dd49062a6296aecf02e5ba",
+  "raw": "tmp/img/raw/G-PREROLL.1792715450237.jpg",
+  "attempt": 2,
+  "generatedAt": "2026-10-23T00:30:51.490Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "attempt 2: two pre-rolls with visible ground flower on a brass tray; plain paper, no print (crop); attempt 1 read as rolled paper scrolls",
+    "reviewedAt": "2026-10-23T00:36:05.790Z",
+    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+  }
+}

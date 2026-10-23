@@ -1,0 +1,190 @@
+{
+ "path": "/workwithus",
+ "url": "https://www.starbuds.us/workwithus",
+ "key": "workwithus",
+ "kind": "page",
+ "state": null,
+ "title": "WORK WITH US | Star Buds",
+ "h1": "BUSINESS INQUIRIES",
+ "head": {
+  "title": "WORK WITH US | Star Buds",
+  "description": "",
+  "canonical": "https://www.starbuds.us/workwithus",
+  "robots": "",
+  "og": {
+   "title": "WORK WITH US | Star Buds",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/workwithus",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "BUSINESS INQUIRIES",
+   "path": "/workwithus"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": null,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Star Buds is a retail-focused cannabis company based out of Colorado. As pioneers in the industry with experience in all facets of cannabis from retail to cultivation to manufacturing, Star Buds is seeking to work with partners across the United States.</p>\n<p>The Star Buds team has helped win highly competitive licenses in Hawaii, Louisiana, Massachusetts, and Maryland. We work with our partners</p>\n<p>to help them be highly successful in their cannabis business. Star Buds can provide help winning license applications, finding and securing real estate locations, providing branding, marketing, operational, accounting and compliance expertise. Star Buds believes providing the best customer service in the industry will allow us to grow to be the most successful cannabis retailer in America.</p>"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "BUSINESS INQUIRIES"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": null,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 1,
+         "html": "BRAND SOLUTIONS"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": {
+        "image": "https://static.wixstatic.com/media/0e4af9d92b404903b674276377301988.jpg",
+        "color": null
+       },
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Licensing</p>"
+        }
+       ]
+      },
+      {
+       "bg": {
+        "image": "https://static.wixstatic.com/media/a4dc4a37e4904958aa58ff268caf9820.jpg",
+        "color": null
+       },
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>OPERATIONS</p>"
+        }
+       ]
+      },
+      {
+       "bg": {
+        "image": "https://static.wixstatic.com/media/34ea9c8b307142318556706b9f298f13.jpeg",
+        "color": null
+       },
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Marketing</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": null,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "GET IN TOUCH"
+        },
+        {
+         "t": "form",
+         "title": "Success! Message received.",
+         "fields": [
+          {
+           "type": "text",
+           "label": "Name *",
+           "name": "name-*",
+           "required": true,
+           "options": []
+          },
+          {
+           "type": "email",
+           "label": "Email *",
+           "name": "email",
+           "required": true,
+           "options": []
+          },
+          {
+           "type": "text",
+           "label": "Subject",
+           "name": "subject",
+           "required": false,
+           "options": []
+          },
+          {
+           "type": "textarea",
+           "label": "Message",
+           "name": "",
+           "required": false,
+           "options": []
+          }
+         ],
+         "submit": "Send",
+         "blocks": [
+          {
+           "t": "rich",
+           "html": "<p>Success! Message received.</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "html",
+     "html": "<p>Get In Touch</p>"
+    }
+   ]
+  }
+ ]
+}

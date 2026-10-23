@@ -1,0 +1,231 @@
+{
+ "path": "/single-post/2018/01/26/snoop-bloggy-blog-the-evolution-of-snoop",
+ "url": "https://www.starbuds.us/single-post/2018/01/26/snoop-bloggy-blog-the-evolution-of-snoop",
+ "key": "single-post__2018__01__26__snoop-bloggy-blog-the-evolution-of-snoop",
+ "kind": "post",
+ "state": null,
+ "title": "Snoop Bloggy Blog: The Evolution of Snoop",
+ "h1": "Snoop Bloggy Blog: The Evolution of Snoop",
+ "head": {
+  "title": "Snoop Bloggy Blog: The Evolution of Snoop",
+  "description": "",
+  "canonical": "https://www.starbuds.us/single-post/2018/01/26/snoop-bloggy-blog-the-evolution-of-snoop",
+  "robots": "",
+  "og": {
+   "title": "Snoop Bloggy Blog: The Evolution of Snoop",
+   "description": " Quoted as smoking “81 blunts a day,” Snoop Dogg is a legend - especially in the cannabis industry.  That isn’t up for debate.  But just how did he manage to become a prominent cannabis figurehead and business mogul?  Starbuds investigates.   THE EVOLUTION OF SNOOP 1971Cordozar Calvin Broadus was born.  Gaining the nickname ‘Snoopy’ early on from his mother, he embraced it and later used it as his stage name ‘Snoop Dogg.’  He played piano and sang throughout his childhood, and began experimentin",
+   "image": "https://static.wixstatic.com/media/553d0f_bf80633f814c43d1b7f8a6d7e65706c6~mv2_d_3386_2206_s_2.jpg/v1/fill/w_1000,h_652,al_c,q_85,usm_0.66_1.00_0.01/553d0f_bf80633f814c43d1b7f8a6d7e65706c6~mv2_d_3386_2206_s_2.jpg",
+   "image:width": "3386",
+   "image:height": "2206",
+   "url": "https://www.starbuds.us/single-post/2018/01/26/snoop-bloggy-blog-the-evolution-of-snoop",
+   "site_name": "Star Buds ",
+   "type": "article"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+     "@type": "Person",
+     "name": "starbuds",
+     "url": "https://www.starbuds.us/profile/denver/profile"
+    },
+    "dateModified": "2018-01-25T21:55:32.852Z",
+    "datePublished": "2018-01-25T21:55:32.852Z",
+    "headline": "Snoop Bloggy Blog: The Evolution of Snoop",
+    "mainEntityOfPage": {
+     "@id": "https://www.starbuds.us/single-post/2018/01/26/snoop-bloggy-blog-the-evolution-of-snoop",
+     "@type": "itemPage",
+     "url": "https://www.starbuds.us/single-post/2018/01/26/snoop-bloggy-blog-the-evolution-of-snoop"
+    },
+    "description": " Quoted as smoking “81 blunts a day,” Snoop Dogg is a legend - especially in the cannabis industry.  That isn’t up for debate.  But just how did he manage to become a prominent cannabis figurehead and business mogul?  Starbuds investigates.   THE EVOLUTION OF SNOOP 1971Cordozar Calvin Broadus was born.  Gaining the nickname ‘Snoopy’ early on from his mother, he embraced it and later used it as his stage name ‘Snoop Dogg.’  He played piano and sang throughout his childhood, and began experimentin",
+    "url": "https://www.starbuds.us/single-post/2018/01/26/snoop-bloggy-blog-the-evolution-of-snoop",
+    "image": {
+     "@type": "ImageObject",
+     "url": "https://static.wixstatic.com/media/553d0f_bf80633f814c43d1b7f8a6d7e65706c6~mv2_d_3386_2206_s_2.jpg/v1/fill/w_1000,h_652,al_c,q_85,usm_0.66_1.00_0.01/553d0f_bf80633f814c43d1b7f8a6d7e65706c6~mv2_d_3386_2206_s_2.jpg",
+     "width": "3386",
+     "height": "2206"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "Star Buds ",
+     "url": "https://www.starbuds.us"
+    }
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Blog",
+   "path": "/blog"
+  },
+  {
+   "name": "Snoop Bloggy Blog: The Evolution of Snoop",
+   "path": "/single-post/2018/01/26/snoop-bloggy-blog-the-evolution-of-snoop"
+  }
+ ],
+ "sections": [],
+ "post": {
+  "date": "2018-01-25T21:55:32.852Z",
+  "dateText": "Jan 25, 2018",
+  "readTime": "2 min read",
+  "hero": {
+   "src": "https://static.wixstatic.com/media/553d0f_407329984630419782533d1c79fe5d6b~mv2_d_3000_3000_s_4_2.jpg",
+   "alt": ""
+  },
+  "categories": [],
+  "blocks": [
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/553d0f_407329984630419782533d1c79fe5d6b~mv2_d_3000_3000_s_4_2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 3000,
+    "h": 3000,
+    "caption": ""
+   },
+   {
+    "t": "rich",
+    "html": "<p>Quoted as smoking “81 blunts a day,” Snoop Dogg is a legend - especially in the cannabis industry. That isn’t up for debate. But just how did he manage to become a prominent cannabis figurehead and business mogul? Starbuds investigates.</p>"
+   },
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/553d0f_0deb27ae9dde48e8a8724a672a8e69dd~mv2_d_3733_1417_s_2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 3733,
+    "h": 1417,
+    "caption": ""
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "THE EVOLUTION OF SNOOP"
+   },
+   {
+    "t": "heading",
+    "level": 3,
+    "html": "1971"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Cordozar Calvin Broadus was born. Gaining the nickname ‘Snoopy’ early on from his mother, he embraced it and later used it as his stage name ‘Snoop Dogg.’ He played piano and sang throughout his childhood, and began experimenting with rap in sixth grade. After completing high school, he faced numerous drug possession charges, serving time in prison.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 3,
+    "html": "1992"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Snoop’s big break. The crime thriller Deep Cover starring Laurence Fishbone and Jeff Goldblum is released. The theme song for Deep Cover was composed by Dr. Dre and then-newcomer Snoop Dogg. Snoop continued to work with Dr. Dre on Dr. Dre’s debut solo album “The Chronic.”</p>"
+   },
+   {
+    "t": "heading",
+    "level": 3,
+    "html": "1993"
+   },
+   {
+    "t": "rich",
+    "html": "<p>“Doggystyle,” Snoop’s debut solo album was released.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 3,
+    "html": "1994 - 2006"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Single “Gin and Juice” earned Snoop a Grammy Award for Best Solo Performance. In the next few years, Snoop became a musical icon, releasing hit after hit, topping the charts.</p>"
+   },
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/553d0f_bf80633f814c43d1b7f8a6d7e65706c6~mv2_d_3386_2206_s_2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 3386,
+    "h": 2206,
+    "caption": ""
+   },
+   {
+    "t": "heading",
+    "level": 3,
+    "html": "2006"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Appearing on an episode of ‘Weeds’ (naturally…), Snoop dubbed a new strain of cannabis “MILFweed” during a chance meeting with characters Nancy and Conrad at a recording studio.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 3,
+    "html": "2012"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Snoop announced he was working on a reggae album (Reincarnated). Later he announced he was changing his name to Snoop Lion after a spiritual awakening in Jamaica.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 3,
+    "html": "2015"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Snoop made significant investments in the cannabis industry, becoming the first A-list celebrity to brand his own line of edibles, concentrates, and flower called “<a href=\"http://www.leafsbysnoop.com\" target=\"_blank\" rel=\"noopener\">Leafs By Snoop</a>.” A few of his edibles even mimic his song titles, for example “Peaches N Cream” is not only one of his hit songs, but it is also the name of one of his delicious edibles.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Snoop also launched the cannabis lifestyle platform ‘Merry Jane,’ which hosts an annual weed wellness retreat in Colorado.</p>"
+   },
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/553d0f_b8c14da2581f44918595f8531377cab0~mv2_d_2922_2604_s_4_2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 2922,
+    "h": 2604,
+    "caption": ""
+   },
+   {
+    "t": "heading",
+    "level": 3,
+    "html": "2016"
+   },
+   {
+    "t": "rich",
+    "html": "<p>‘Martha and Snoop’s Potluck Dinner’ party premiered on VH1, where Snoop teamed up with Martha Stewart to cook meals and make drinks for a series of surprise celebrity guests. Guests included Queen Latifah, RuPaul, Jamie Fox, P. Diddy, Wiz Khalifa, Rick Ross, 2Chainz, DJ Khaled, 50 Cent, and Kate Upton, just to name a few.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Snoop is involved with other cannabis-centric entertainment ventures such as Mary + Jane, Planet Snoop, Rolling with Rogen, Fresh Out the Box, Fork With Me, Highly Productive, Smoke in the Kitchen, and Wide World of Cannabis.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Snoop continues his advocacy for the legalization of marijuana through his Merry Jane venture, and his performance at the 2016 Democratic National Convention following Hillary Clinton’s closing speech cemented him as a true cannabis trailblazer.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 3,
+    "html": "Where does Starbuds fit in?"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Only a limited number of dispensaries carry <a href=\"http://www.leafsbysnoop.com\" target=\"_blank\" rel=\"noopener\">Leafs by Snoop</a>, and Starbuds is one of them! Stop by any of our locations to get on Snoop’s level!</p>"
+   },
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/553d0f_8a5091c4edd041d3a02305b061f12135~mv2_d_2500_1667_s_2.png",
+    "alt": "",
+    "href": "http://www.leafsbysnoop.com",
+    "w": 2500,
+    "h": 1667,
+    "caption": ""
+   }
+  ]
+ }
+}

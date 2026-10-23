@@ -1,0 +1,33 @@
+{
+  "tool": "tmp/img/record-ops.mjs install",
+  "slot": "G-STARS",
+  "file": "assets/generated/g-stars.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (Higgsfield, cinematic_studio_2_5). Illustrative only: never a photograph of Star Buds (starbuds.us), its stores, staff, customers, products or brands.",
+  "provider": "higgsfield",
+  "model": "cinematic_studio_2_5",
+  "params": {
+    "aspect_ratio": "16:9",
+    "resolution": "4k"
+  },
+  "jobId": "6a7d7086-b891-42ca-bf27-972134383c9b",
+  "raw": "tmp/hf/g-stars-hf.png",
+  "rawSize": "5504x3072",
+  "postprocess": [
+    {
+      "note": "downscaled 2x (Lanczos) to 2752x1536, JPEG q92 (tmp/img/prep.py half)"
+    }
+  ],
+  "prompt": "Cinematic night photograph looking straight up through the curved wrought-iron ribs and arched glass panes of a Victorian glasshouse roof at a clear night sky full of stars and a faint Milky Way, iron ribs silhouetted in dark graphite, faint condensation on the glass, a soft warm lantern glow along the lower edge of the frame, deep blue-green night, fine film grain. No people, no text, no lettering, no logos.",
+  "alt": "A starry night sky seen through the curved iron ribs and arched panes of a glasshouse roof",
+  "width": 2752,
+  "height": 1536,
+  "sha256": "e0d307ba225c6acd1e44197f0cea383425c00d948d26ab06b7581108fce672e8",
+  "installedAt": "2026-10-23T00:34:11.295Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Higgsfield cinematic_studio_2_5: ornate Victorian iron dome, Milky Way; no text, no figures (crop of lower band); chosen over fal attempt 2 (clean but plain); fal attempt 1 rejected for pseudo-text and a human silhouette",
+    "reviewedAt": "2026-10-23T00:36:03.269Z",
+    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+  }
+}

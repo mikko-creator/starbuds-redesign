@@ -1,0 +1,14 @@
+{
+ "path": "/lakeside",
+ "url": "https://www.starbuds.us/lakeside",
+ "key": "redirect__lakeside",
+ "kind": "redirect",
+ "state": "CO",
+ "title": "",
+ "h1": "",
+ "redirect": {
+  "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-lakeside?store=1765&store_updated=true&wp_store_id=8776",
+  "status": 301,
+  "offOrigin": true
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "path": "/southeast-aurora",
+ "url": "https://www.starbuds.us/southeast-aurora",
+ "key": "redirect__southeast-aurora",
+ "kind": "redirect",
+ "state": "CO",
+ "title": "",
+ "h1": "",
+ "redirect": {
+  "to": "https://starbudscolorado.com/stores/recreational-marijuana-dispensary-aurora-southeast/?store=506&wp_store_id=5768",
+  "status": 301,
+  "offOrigin": true
+ }
+}

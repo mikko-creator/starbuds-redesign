@@ -1,0 +1,101 @@
+{
+ "path": "/single-post/2017/06/12/starbuds-commerce-city-now-open",
+ "url": "https://www.starbuds.us/single-post/2017/06/12/starbuds-commerce-city-now-open",
+ "key": "single-post__2017__06__12__starbuds-commerce-city-now-open",
+ "kind": "post",
+ "state": null,
+ "title": "Starbuds Commerce City NOW OPEN! | Starbuds Marijuana Dispensary | Col",
+ "h1": "Starbuds Commerce City NOW OPEN!",
+ "head": {
+  "title": "Starbuds Commerce City NOW OPEN! | Starbuds Marijuana Dispensary | Col",
+  "description": "We're happy to announce that we've opened our eighth location in Commerce City, located at 5844 Dahlia St.,Commerce City, CO. We will be holding a Grand Opening",
+  "canonical": "https://www.starbuds.us/single-post/2017/06/12/starbuds-commerce-city-now-open",
+  "robots": "",
+  "og": {
+   "title": "Starbuds Commerce City NOW OPEN! | Starbuds Marijuana Dispensary | Col",
+   "description": "We're happy to announce that we've opened our eighth location in Commerce City, located at 5844 Dahlia St.,Commerce City, CO. We will be holding a Grand Opening Day in the next few weeks that will include vendors, ribbon cutting, food, fun & much more.  Our hours are 8AM-10PM DAILY, so make sure you stop by and check it out!We look forward to seeing you!    ",
+   "image": "https://static.wixstatic.com/media/553d0f_a6a272b03e2c4aa3b17db97d41966de5~mv2.jpg/v1/fill/w_731,h_554,al_c,lg_1,q_85/553d0f_a6a272b03e2c4aa3b17db97d41966de5~mv2.jpg",
+   "image:width": "609",
+   "image:height": "462",
+   "url": "https://www.starbuds.us/single-post/2017/06/12/starbuds-commerce-city-now-open",
+   "site_name": "Star Buds ",
+   "type": "article"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+     "@type": "Person",
+     "name": "starbuds",
+     "url": "https://www.starbuds.us/profile/denver/profile"
+    },
+    "dateModified": "2017-06-12T17:13:36.646Z",
+    "datePublished": "2017-06-12T17:13:36.646Z",
+    "headline": "Starbuds Commerce City NOW OPEN! | Starbuds Marijuana Dispensary | Col",
+    "mainEntityOfPage": {
+     "@id": "https://www.starbuds.us/single-post/2017/06/12/starbuds-commerce-city-now-open",
+     "@type": "itemPage",
+     "url": "https://www.starbuds.us/single-post/2017/06/12/starbuds-commerce-city-now-open"
+    },
+    "description": "We're happy to announce that we've opened our eighth location in Commerce City, located at 5844 Dahlia St.,Commerce City, CO. We will be holding a Grand Opening",
+    "url": "https://www.starbuds.us/single-post/2017/06/12/starbuds-commerce-city-now-open",
+    "image": {
+     "@type": "ImageObject",
+     "url": "https://static.wixstatic.com/media/553d0f_a6a272b03e2c4aa3b17db97d41966de5~mv2.jpg/v1/fill/w_731,h_554,al_c,lg_1,q_85/553d0f_a6a272b03e2c4aa3b17db97d41966de5~mv2.jpg",
+     "width": "609",
+     "height": "462"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "Star Buds ",
+     "url": "https://www.starbuds.us"
+    }
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Blog",
+   "path": "/blog"
+  },
+  {
+   "name": "Starbuds Commerce City NOW OPEN!",
+   "path": "/single-post/2017/06/12/starbuds-commerce-city-now-open"
+  }
+ ],
+ "sections": [],
+ "post": {
+  "date": "2017-06-12T17:13:36.646Z",
+  "dateText": "Jun 12, 2017",
+  "readTime": "1 min read",
+  "hero": {
+   "src": "https://static.wixstatic.com/media/553d0f_a6a272b03e2c4aa3b17db97d41966de5~mv2.jpg",
+   "alt": ""
+  },
+  "categories": [],
+  "blocks": [
+   {
+    "t": "rich",
+    "html": "<p>We're happy to announce that we've opened our eighth location in Commerce City, located at 5844 Dahlia St.,Commerce City, CO. We will be holding a Grand Opening Day in the next few weeks that will include vendors, ribbon cutting, food, fun &amp; much more. Our hours are 8AM-10PM DAILY, so make sure you stop by and check it out!</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>We look forward to seeing you!</p>"
+   },
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/553d0f_a6a272b03e2c4aa3b17db97d41966de5~mv2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 609,
+    "h": 462,
+    "caption": ""
+   }
+  ]
+ }
+}

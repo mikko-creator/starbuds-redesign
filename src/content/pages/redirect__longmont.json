@@ -1,0 +1,14 @@
+{
+ "path": "/longmont",
+ "url": "https://www.starbuds.us/longmont",
+ "key": "redirect__longmont",
+ "kind": "redirect",
+ "state": "CO",
+ "title": "",
+ "h1": "",
+ "redirect": {
+  "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-longmont?store=3659&store_updated=true&wp_store_id=8437",
+  "status": 301,
+  "offOrigin": true
+ }
+}

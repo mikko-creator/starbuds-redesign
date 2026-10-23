@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-EDIBLES",
+  "file": "assets/generated/g-edibles.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "an antique wooden apothecary shelf holding bare clear glass jars with cork stoppers and small plain round metal tins, every jar and tin completely bare with no labels, no tags and no paper on them, filled with dried herbs, dried flowers and dried cannabis buds, a sprig of fresh leaves, inside a glasshouse at night, warm lantern light, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "safety_tolerance": "5"
+  },
+  "seed": 2531350080,
+  "requestId": "01a1662a-b216-76e2-92b8-27386cb2e748",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "404d30671d48bf691bd2db3f2c2d3a57ce2c98aba0fab07d757d50c0592aae59",
+  "raw": "tmp/img/raw/G-EDIBLES.1792715448569.jpg",
+  "attempt": 2,
+  "generatedAt": "2026-10-23T00:30:50.511Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "attempt 2: bare jars of dried buds; attempt 1 had pseudo-text labels; two tiny out-of-focus background jars carry blank kraft bands with no text (crop)",
+    "reviewedAt": "2026-10-23T00:36:06.448Z",
+    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+  }
+}

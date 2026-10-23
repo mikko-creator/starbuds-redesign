@@ -1,0 +1,77 @@
+{
+ "path": "/age",
+ "url": "https://www.starbuds.us/age",
+ "key": "age",
+ "kind": "legal",
+ "state": null,
+ "title": "Age Gate | Star Buds",
+ "h1": "WELCOME!",
+ "head": {
+  "title": "Age Gate | Star Buds",
+  "description": "",
+  "canonical": "https://www.starbuds.us/age",
+  "robots": "",
+  "og": {
+   "title": "Age Gate | Star Buds",
+   "image": "https://static.wixstatic.com/media/553d0f_af6974ad8ea74a17a285e7a740843446%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/553d0f_af6974ad8ea74a17a285e7a740843446%7Emv2.jpg",
+   "image:width": "2500",
+   "image:height": "1330",
+   "url": "https://www.starbuds.us/age",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "WELCOME!",
+   "path": "/age"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": {
+    "image": "https://static.wixstatic.com/media/3493a0_5e5d48474e184dc7bcbbc60ffd1acab4~mv2.jpg",
+    "alt": "Starbuds_No-Leaf Pattern-05.jpg"
+   },
+   "blocks": [
+    {
+     "t": "image",
+     "src": "https://static.wixstatic.com/media/60c3e1_87a33293b3ff4b4ca0dea91e13918c6f~mv2.png",
+     "alt": "Starbuds_US_Main_Est2013_HorizontalWordmark_ColorReversed-(3).png",
+     "href": null,
+     "w": 249,
+     "h": 66,
+     "caption": ""
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "WELCOME!"
+    },
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "Please verify that you are over 21 years of age."
+    },
+    {
+     "t": "button",
+     "text": "Yes",
+     "href": "/",
+     "external": false
+    },
+    {
+     "t": "button",
+     "text": "No",
+     "href": "http://google.com",
+     "external": true
+    }
+   ]
+  }
+ ]
+}

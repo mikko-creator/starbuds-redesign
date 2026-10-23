@@ -1,0 +1,156 @@
+{
+ "path": "/vapes",
+ "url": "https://www.starbuds.us/vapes",
+ "key": "vapes",
+ "kind": "products",
+ "state": null,
+ "title": "Vapes | Star Buds Marijuana Dispensary | Colorado",
+ "h1": "VAPES",
+ "head": {
+  "title": "Vapes | Star Buds Marijuana Dispensary | Colorado",
+  "description": "Star Buds Marijuana Dispensary of Colorado provides the finest and most potent concentrates in Colorado, including shatter, pens, vapes & Kaviar. ",
+  "canonical": "https://www.starbuds.us/vapes",
+  "robots": "",
+  "og": {
+   "title": "Vapes | Star Buds Marijuana Dispensary | Colorado",
+   "description": "Star Buds Marijuana Dispensary of Colorado provides the finest and most potent concentrates in Colorado, including shatter, pens, vapes & Kaviar. ",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/vapes",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "VAPES",
+   "path": "/vapes"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": {
+        "image": "https://static.wixstatic.com/media/553d0f_9adbf4593d484c16aa23bfc61c98d935~mv2_d_9958_4310_s_4_2.jpg",
+        "color": null
+       },
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "STARBUDS VAPE CARTRIDGES (500mg)"
+        },
+        {
+         "t": "rich",
+         "html": "<p>Available at all Locations</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "VAPES"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "gallery",
+     "items": [
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_9be66d63c28b4d03a894ec9fa35e240d~mv2.jpg",
+       "alt": "Mezz",
+       "title": "Mezz",
+       "description": "",
+       "href": null,
+       "w": 713,
+       "h": 713
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_b71038836cd8412eb8f8705c47769a47~mv2.jpg",
+       "alt": "The Clear",
+       "title": "The Clear",
+       "description": "",
+       "href": null,
+       "w": 400,
+       "h": 400
+      },
+      {
+       "src": "https://static.wixstatic.com/media/0e0726_847ac00966e148828efd1c1bca6b8887~mv2.png",
+       "alt": "EvoLab Alchemy and Chroma",
+       "title": "EvoLab Alchemy and Chroma",
+       "description": "",
+       "href": null,
+       "w": 690,
+       "h": 730
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_48dbd102e30b411888e115068f314830~mv2.jpg",
+       "alt": "Starbuds Cartridge",
+       "title": "Starbuds Cartridge",
+       "description": "Available exclusively at all seven Starbuds locations.",
+       "href": null,
+       "w": 1920,
+       "h": 1080
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_87fe6c5115b54ac08eb1776c39ba9900~mv2.jpg",
+       "alt": "O.Pen",
+       "title": "O.Pen",
+       "description": "O.penVAPE has become one of the largest brands in the cannabis industry by providing a superior vaporizing pen with a lifetime warranty and by partnering with Organa Labs to offer medical marijuana patients and recreational users healthier alternatives to smoking and edibles that are consistent and safe. At O.penVAPE, they firmly believe that their products promote wellness and can be an integral part of a healthy lifestyle for both medicinal and recreational purposes.",
+       "href": null,
+       "w": 750,
+       "h": 429
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_0495ce4562c74a69956f73bfb795ce1f~mv2_d_10285_4180_s_4_2.jpg",
+       "alt": "Starbuds Vape Pen",
+       "title": "Starbuds Vape Pen",
+       "description": "",
+       "href": null,
+       "w": 10285,
+       "h": 4180
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_1570d5e3bfba4174b57bef32f81c05d8~mv2.png",
+       "alt": "CSC Distillate",
+       "title": "CSC Distillate",
+       "description": "",
+       "href": null,
+       "w": 242,
+       "h": 255
+      }
+     ],
+     "text": []
+    },
+    {
+     "t": "rich",
+     "html": "<p>- PRODUCT SELECTION AND AVAILABILITY VARIES BY LOCATION -</p>"
+    }
+   ]
+  }
+ ]
+}

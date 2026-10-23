@@ -1,0 +1,287 @@
+{
+ "path": "/products",
+ "url": "https://www.starbuds.us/products",
+ "key": "products",
+ "kind": "products",
+ "state": null,
+ "title": "Star Buds Products",
+ "h1": "PRODUCTS",
+ "head": {
+  "title": "Star Buds Products",
+  "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+  "canonical": "https://www.starbuds.us/products",
+  "robots": "",
+  "og": {
+   "title": "Star Buds Products",
+   "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/products",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "PRODUCTS",
+   "path": "/products"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "PRODUCTS"
+    },
+    {
+     "t": "rich",
+     "html": "<p>What are you in the mood for? Flower? Concentrates? Edibles? At Star Buds, we have all those products and more!</p>\n<p>Find more information about your favorites below.</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>- PRODUCT SELECTION AND AVAILABILITY VARIES BY LOCATION -</p>"
+    },
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": null,
+       "blocks": [
+        {
+         "t": "repeater",
+         "items": [
+          {
+           "blocks": [
+            {
+             "t": "image",
+             "src": "https://static.wixstatic.com/media/553d0f_bea32d6b012a47b18e11856252c0347b~mv2.jpg",
+             "alt": "",
+             "href": null,
+             "w": 531,
+             "h": 651,
+             "caption": "",
+             "role": "background"
+            },
+            {
+             "t": "heading",
+             "level": 4,
+             "html": "STRAINS"
+            },
+            {
+             "t": "heading",
+             "level": 4,
+             "html": "WE HAVE A VARIETY OF STRAINS TO MEET YOUR SPECIFIC"
+            },
+            {
+             "t": "heading",
+             "level": 4,
+             "html": "NEEDS, INCLUDING OUR CANNABIS CUP-WINNING POOTIE TANG"
+            },
+            {
+             "t": "heading",
+             "level": 4,
+             "html": "​"
+            },
+            {
+             "t": "button",
+             "text": "VIEW PRODUCTS",
+             "href": "/",
+             "external": false
+            }
+           ]
+          },
+          {
+           "blocks": [
+            {
+             "t": "image",
+             "src": "https://static.wixstatic.com/media/553d0f_374e1ca93f174b44ae4c7e2a58039992~mv2.jpg",
+             "alt": "",
+             "href": null,
+             "w": 5096,
+             "h": 2120,
+             "caption": "",
+             "role": "background"
+            },
+            {
+             "t": "heading",
+             "level": 4,
+             "html": "EDIBLES"
+            },
+            {
+             "t": "heading",
+             "level": 4,
+             "html": "FROM STAR BAR EDIBLES TO CHEEBA CHEWS TO INCREDIBLES,"
+            },
+            {
+             "t": "heading",
+             "level": 4,
+             "html": "STAR BUDS HAS YOUR EDIBLE MARIJUANA PRODUCT NEEDS"
+            },
+            {
+             "t": "button",
+             "text": "VIEW PRODUCTS",
+             "href": "/edibles/",
+             "external": false
+            }
+           ]
+          },
+          {
+           "blocks": [
+            {
+             "t": "image",
+             "src": "https://static.wixstatic.com/media/553d0f_bba638d679634533a9ff8077db2c6ca8~mv2_d_3488_2335_s_2.jpeg",
+             "alt": "",
+             "href": null,
+             "w": 3488,
+             "h": 2335,
+             "caption": "",
+             "role": "background"
+            },
+            {
+             "t": "heading",
+             "level": 4,
+             "html": "CBD"
+            },
+            {
+             "t": "heading",
+             "level": 4,
+             "html": "EVIDENCE OF CBD'S MEDICAL BENEFITS CONTINUES TO GROW AND AT"
+            },
+            {
+             "t": "heading",
+             "level": 4,
+             "html": "STARBUDS WE CARRY AN ARRAY OF CBD PRODUCTS"
+            },
+            {
+             "t": "button",
+             "text": "VIEW PRODUCTS",
+             "href": "/cbd/",
+             "external": false
+            }
+           ]
+          },
+          {
+           "blocks": [
+            {
+             "t": "image",
+             "src": "https://static.wixstatic.com/media/553d0f_6ef590ffb4964003b3192e5d1aca98ad~mv2.jpg",
+             "alt": "",
+             "href": null,
+             "w": 770,
+             "h": 627,
+             "caption": "",
+             "role": "background"
+            },
+            {
+             "t": "heading",
+             "level": 4,
+             "html": "CONCENTRATES"
+            },
+            {
+             "t": "heading",
+             "level": 4,
+             "html": "WE CARRY THE FINEST AND MOST POTENT CONCENTRATES"
+            },
+            {
+             "t": "heading",
+             "level": 4,
+             "html": "IN COLORADO, INCLUDING SHATTER, WAX AND KAVIAR"
+            },
+            {
+             "t": "button",
+             "text": "VIEW PRODUCTS",
+             "href": "/concentrates/",
+             "external": false
+            }
+           ]
+          },
+          {
+           "blocks": [
+            {
+             "t": "image",
+             "src": "https://static.wixstatic.com/media/553d0f_abd8c6aac9c44e2bb20f632bb991dc16~mv2_d_2000_1500_s_2.jpg",
+             "alt": "",
+             "href": null,
+             "w": 2000,
+             "h": 1500,
+             "caption": "",
+             "role": "background"
+            },
+            {
+             "t": "heading",
+             "level": 4,
+             "html": "VAPES"
+            },
+            {
+             "t": "heading",
+             "level": 4,
+             "html": "VAPE PENS ARE A DISCREET AND CONVENIENT WAY TO"
+            },
+            {
+             "t": "heading",
+             "level": 4,
+             "html": "CONSUME MARIJUANA AND CANNABIS PRODUCTS"
+            },
+            {
+             "t": "button",
+             "text": "VIEW PRODUCTS",
+             "href": "/vapes/",
+             "external": false
+            }
+           ]
+          },
+          {
+           "blocks": [
+            {
+             "t": "image",
+             "src": "https://static.wixstatic.com/media/553d0f_63a4dbfa3ec246538fa6be4bf9a74fe8~mv2.jpg",
+             "alt": "",
+             "href": null,
+             "w": 640,
+             "h": 420,
+             "caption": "",
+             "role": "background"
+            },
+            {
+             "t": "heading",
+             "level": 4,
+             "html": "TOPICALS"
+            },
+            {
+             "t": "heading",
+             "level": 4,
+             "html": "CANNABIS TOPICALS ARE A GREAT WAY TO"
+            },
+            {
+             "t": "heading",
+             "level": 4,
+             "html": "ENJOY THE BENEFITS OF THC AND CBD"
+            },
+            {
+             "t": "button",
+             "text": "VIEW PRODUCTS",
+             "href": "/topicals/",
+             "external": false
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

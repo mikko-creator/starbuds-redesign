@@ -1,0 +1,14 @@
+{
+ "path": "/ordway",
+ "url": "https://www.starbuds.us/ordway",
+ "key": "redirect__ordway",
+ "kind": "redirect",
+ "state": "CO",
+ "title": "",
+ "h1": "",
+ "redirect": {
+  "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-ordway?store=4649&store_updated=true&wp_store_id=8784",
+  "status": 301,
+  "offOrigin": true
+ }
+}

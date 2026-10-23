@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-VAPE",
+  "file": "assets/generated/g-vape.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "a single blank unbranded glass vape cartridge filled with clear golden amber oil, plain smooth metal mouthpiece and plain metal base with no markings, lying diagonally on folds of dark green velvet, warm lantern rim light, still life macro, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "safety_tolerance": "5"
+  },
+  "seed": 433496871,
+  "requestId": "01a16626-df77-7e91-80ae-463b12be0230",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "5d249ec8cf44032f147128b538d3e535796ca80a09b54ac7cace298b51b5dfc1",
+  "raw": "tmp/img/raw/G-VAPE.1792715201447.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-23T00:26:43.042Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "blank cartridge, no print on body or mouthpiece (crop); small brass star flecks on the velvet",
+    "reviewedAt": "2026-10-23T00:36:06.109Z",
+    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+  }
+}

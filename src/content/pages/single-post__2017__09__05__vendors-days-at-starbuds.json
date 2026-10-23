@@ -1,0 +1,145 @@
+{
+ "path": "/single-post/2017/09/05/vendors-days-at-starbuds",
+ "url": "https://www.starbuds.us/single-post/2017/09/05/vendors-days-at-starbuds",
+ "key": "single-post__2017__09__05__vendors-days-at-starbuds",
+ "kind": "post",
+ "state": null,
+ "title": "Vendors Days at Starbuds!",
+ "h1": "Vendors Days at Starbuds!",
+ "head": {
+  "title": "Vendors Days at Starbuds!",
+  "description": "",
+  "canonical": "https://www.starbuds.us/single-post/2017/09/05/vendors-days-at-starbuds",
+  "robots": "",
+  "og": {
+   "title": "Vendors Days at Starbuds!",
+   "description": " Exciting things are happening at ALL Starbuds locations. We have a schedule of vendor dayswhere some of the best companies out there set up in Starbuds talking to our customersabout their products and giving EXCLUSIVE deals.  Here is a list of the current vendors who will be set up over the next few weeks,make sure you stop by to check them out!  9.6.2017 (2:00 PM - 5:00 PM)  Nature's High Edibles @ Starbuds DU 9.7.2017 (12:30 PM - 2:30 PM)  CSC  @ Starbuds Brighton             (3:00 PM- 6:00 P",
+   "image": "https://static.wixstatic.com/media/553d0f_2927e6d27f474704ac7abc86f59c723a~mv2.png/v1/fill/w_515,h_571,al_c,lg_1,q_85/553d0f_2927e6d27f474704ac7abc86f59c723a~mv2.png",
+   "image:width": "368",
+   "image:height": "408",
+   "url": "https://www.starbuds.us/single-post/2017/09/05/vendors-days-at-starbuds",
+   "site_name": "Star Buds ",
+   "type": "article"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+     "@type": "Person",
+     "name": "starbuds",
+     "url": "https://www.starbuds.us/profile/denver/profile"
+    },
+    "dateModified": "2017-09-05T21:11:35.821Z",
+    "datePublished": "2017-09-05T21:11:35.821Z",
+    "headline": "Vendors Days at Starbuds!",
+    "mainEntityOfPage": {
+     "@id": "https://www.starbuds.us/single-post/2017/09/05/vendors-days-at-starbuds",
+     "@type": "itemPage",
+     "url": "https://www.starbuds.us/single-post/2017/09/05/vendors-days-at-starbuds"
+    },
+    "description": " Exciting things are happening at ALL Starbuds locations. We have a schedule of vendor dayswhere some of the best companies out there set up in Starbuds talking to our customersabout their products and giving EXCLUSIVE deals.  Here is a list of the current vendors who will be set up over the next few weeks,make sure you stop by to check them out!  9.6.2017 (2:00 PM - 5:00 PM)  Nature's High Edibles @ Starbuds DU 9.7.2017 (12:30 PM - 2:30 PM)  CSC  @ Starbuds Brighton             (3:00 PM- 6:00 P",
+    "url": "https://www.starbuds.us/single-post/2017/09/05/vendors-days-at-starbuds",
+    "image": {
+     "@type": "ImageObject",
+     "url": "https://static.wixstatic.com/media/553d0f_2927e6d27f474704ac7abc86f59c723a~mv2.png/v1/fill/w_515,h_571,al_c,lg_1,q_85/553d0f_2927e6d27f474704ac7abc86f59c723a~mv2.png",
+     "width": "368",
+     "height": "408"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "Star Buds ",
+     "url": "https://www.starbuds.us"
+    }
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Blog",
+   "path": "/blog"
+  },
+  {
+   "name": "Vendors Days at Starbuds!",
+   "path": "/single-post/2017/09/05/vendors-days-at-starbuds"
+  }
+ ],
+ "sections": [],
+ "post": {
+  "date": "2017-09-05T21:11:35.821Z",
+  "dateText": "Sep 5, 2017",
+  "readTime": "1 min read",
+  "hero": {
+   "src": "https://static.wixstatic.com/media/553d0f_2927e6d27f474704ac7abc86f59c723a~mv2.png",
+   "alt": ""
+  },
+  "categories": [],
+  "blocks": [
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/553d0f_2927e6d27f474704ac7abc86f59c723a~mv2.png",
+    "alt": "",
+    "href": null,
+    "w": 368,
+    "h": 408,
+    "caption": ""
+   },
+   {
+    "t": "rich",
+    "html": "<p>Exciting things are happening at ALL Starbuds locations. We have a schedule of vendor days</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>where some of the best companies out there set up in Starbuds talking to our customers</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>about their products and giving EXCLUSIVE deals.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Here is a list of the current vendors who will be set up over the next few weeks,</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>make sure you stop by to check them out!</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>9.6.2017 (2:00 PM - 5:00 PM) Nature's High Edibles @ Starbuds DU</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>9.7.2017 (12:30 PM - 2:30 PM) CSC @ Starbuds Brighton</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>(3:00 PM- 6:00 PM) 1906 @ Starbuds Brighton</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>9.8.2017- (11:00 AM- 3:00 PM) Northern Standard @ Starbuds Brighton</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>9.8.2017- (2:00 PM - 6:00 PM) Lovia @ Starbuds Commerce City</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>9.15.2017- (2:00 PM- 5:00 PM) O-Pen Vape @ Starbuds Commerce City</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>9.15.2017- (1:30 PM - 3:30 PM) Cheeba Chews @ Starbuds Commerce City</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Stay tuned for updates on more vendors coming soon!</p>"
+   }
+  ]
+ }
+}

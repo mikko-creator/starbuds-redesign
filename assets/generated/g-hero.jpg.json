@@ -1,0 +1,35 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-HERO",
+  "file": "assets/generated/g-hero.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "wide interior view of a grand Victorian wrought-iron and glass conservatory at night, tall arched glass roof with a clear starry night sky visible through the panes, lush green cannabis plants growing in large terracotta planters on the right half and centre, warm brass lanterns glowing among the leaves, soft mist drifting low over a stone floor, the left third of the frame calm and dark with only soft shadowy greenery for headline space, eye-level camera, anamorphic depth, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "safety_tolerance": "5"
+  },
+  "seed": 3218523119,
+  "requestId": "01a16626-add5-7a60-88d7-5347745842ac",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "27d0e7af3d5a803502524fe53f760cc3ce9d2436a0b5c3e11bc6fb0789ce20ec",
+  "raw": "tmp/img/raw/G-HERO.1792715190431.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-23T00:26:33.562Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "night conservatory, starry roof, cannabis in terracotta, lanterns, mist; no people or text (crops of door, lanterns, glass); two stray light dots in the far doorway retouched out; left third busier than asked (lanterns), workable under the hero pane",
+    "reviewedAt": "2026-10-23T00:36:02.844Z",
+    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+  },
+  "postprocess": [
+    {
+      "note": "two stray light dots in the fog of the far doorway removed (median filter in a 77x45 px box, tmp/img/prep.py despeck); pre-retouch copy: tmp/img/g-hero.before-despeck.jpg",
+      "at": "2026-10-23T00:35:34.171Z"
+    }
+  ]
+}

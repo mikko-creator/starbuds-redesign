@@ -1,0 +1,228 @@
+{
+ "path": "/maryland",
+ "url": "https://www.starbuds.us/maryland",
+ "key": "maryland",
+ "kind": "state",
+ "state": "MD",
+ "title": "Star Buds Recreational Marijuana Dispensary Baltimore",
+ "h1": "Star Buds Marijuana Dispensary Baltimore",
+ "head": {
+  "title": "Star Buds Recreational Marijuana Dispensary Baltimore",
+  "description": "Star Buds Baltimore is proud to be the first Star Buds location in Maryland! We are a recreational cannabis dispensary, come see us for all your marijuana needs. Our compassionate and knowledgeable staff is here to help you get exactly what you need at the best possible price.",
+  "canonical": "https://www.starbuds.us/maryland",
+  "robots": "",
+  "og": {
+   "title": "Star Buds Recreational Marijuana Dispensary Baltimore",
+   "description": "Star Buds Baltimore is proud to be the first Star Buds location in Maryland! We are a recreational cannabis dispensary, come see us for all your marijuana needs. Our compassionate and knowledgeable staff is here to help you get exactly what you need at the best possible price.",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/maryland",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": [
+   {
+    "@context": "http://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Star Buds Medical Marijuana Dispensary Baltimore",
+    "openingHours": "Su 0800-2200 Mo 0800-2200 Tu 0800-2200 We 0800-2200 Th 0800-2200 Fr 0800-2200 Sa 0800-2200",
+    "additionalProperty": "https://en.wikipedia.org/wiki/Cannabis_dispensaries_in_the_United_States",
+    "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+    "areaServed": {
+     "@type": "GeoCircle",
+     "name": "Star Buds Medical Marijuana Dispensary Baltimore service area",
+     "geoMidpoint": {
+      "@type": "GeoCoordinates",
+      "postalCode": "21206",
+      "latitude": "39.3471164",
+      "longitude": "-76.5389108",
+      "description": "Our office location can be found here.",
+      "name": "Star Buds Medical Marijuana Dispensary Baltimore geo location"
+     },
+     "geoRadius": "20000",
+     "description": "Star Buds Medical Marijuana Dispensary Baltimore proudly serves the entire city of Baltimore Maryland"
+    },
+    "email": "info@starbuds.us",
+    "address": {
+     "@type": "PostalAddress",
+     "postalCode": "21206",
+     "addressRegion": "Maryland",
+     "addressCountry": "United States",
+     "streetAddress": "5975 Belair Road",
+     "addressLocality": "Baltimore"
+    },
+    "paymentAccepted": "Cash, Credit Card",
+    "telephone": "14434387494",
+    "image": {
+     "@type": "ImageObject",
+     "name": "Star Buds Medical Marijuana Dispensary Baltimore image",
+     "url": "https://u.localviking.com/gmb/media/5p/5p9ey7el/DBb7PlRlKl9W8t1SQoDWEYf7i1fTXRXo2PDg3pnOk3L12sAj-iOFZTbtdwmlJmik1CRMGM6BKWQEHn6r7g_s0.png"
+    },
+    "ContactPoint": {
+     "@type": "ContactPoint",
+     "name": "Star Buds Medical Marijuana Dispensary Baltimore inquiry",
+     "availableLanguage": "https://en.wikipedia.org/wiki/List_of_dialects_of_the_English_language",
+     "telephone": "+14434387494",
+     "contactType": "customer support",
+     "@id": "https://www.starbuds.us/contact"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "39.3471164",
+     "longitude": "-76.5389108",
+     "description": "Our office location can be found here.",
+     "name": "Star Buds Medical Marijuana Dispensary Baltimore geo location"
+    },
+    "description": "Star buds Baltimore is a premier medical cannabis dispensary that takes pride in excellent patient care. Star buds has a knowledgeable, compassionate staff and the largest selection of medical cannabis and CBD products. Although Star buds is a Colorado brand, Star buds Baltimore is locally owned and operated.",
+    "priceRange": "10-300",
+    "url": "https://www.starbuds.us/baltimore",
+    "currenciesAccepted": "USD",
+    "hasMap": "https://maps.google.com/?cid=13212597770895002973",
+    "logo": "https://u.localviking.com/gmb/media/l8/l8eey9ml/ABDAaZEwx2zfQ3i8FwfpljYk7mJGSnq3onKQY3HFsFKOfXgVN3ipkYmZsF0wqr7hsWV_DMdQnR09EUevyA_s0.png",
+    "serviceArea": {
+     "@type": "GeoCircle",
+     "name": "Star Buds Medical Marijuana Dispensary Baltimore service area",
+     "geoMidpoint": {
+      "@type": "GeoCoordinates",
+      "postalCode": "21206",
+      "latitude": "39.3471164",
+      "longitude": "-76.5389108",
+      "description": "Our office location can be found here.",
+      "name": "Star Buds Medical Marijuana Dispensary Baltimore geo location"
+     },
+     "geoRadius": "20000",
+     "description": "Star Buds Medical Marijuana Dispensary Baltimore proudly serves the entire city of Baltimore"
+    },
+    "sameAs": [
+     "https://www.bing.com/maps?ss=ypid.YN873x5758910293251963884&mkt=en-US",
+     "https://www.chamberofcommerce.com/united-states/maryland/baltimore/healing-practitioners/2012247465-star-buds-medical-marijuana-dispensary-baltimore",
+     "https://citysquares.com/b/star-buds-medical-marijuana-dispensary-baltimore-264516",
+     "https://www.dexknows.com/baltimore-md/bp/star-buds-medical-marijuana-dispensary-baltimore-557691535",
+     "https://www.dexknows.com/baltimore-md/bp/star-buds-medical-marijuana-dispensary-baltimore-557691535",
+     "https://www.elocal.com/profile/star-buds-medical-marijuana-dispensary-baltimore-20459424#!/tab=about",
+     "https://ezlocal.com/md/baltimore/herb-shop/0915459873",
+     "https://localpages.com/md/baltimore/lpd-43109949",
+     "https://www.mapquest.com/places/star-buds-medical-marijuana-dispensary-baltimore-baltimore-md-425464130",
+     "https://nextdoor.com/pages/starbuds-medical-marijuana-dispensary-baltimore-baltimore-md/",
+     "https://local.yahoo.com/info-214586919",
+     "https://www.yellowpages.com/baltimore-md/mip/star-buds-medical-marijuana-dispensary-baltimore-557691535?from=yext",
+     "https://www.leafly.com/dispensary-info/starbuds-baltimore",
+     "https://weedmaps.com/dispensaries/starbuds-baltimore",
+     "https://www.facebook.com/starbudsbaltimore/",
+     "https://dutchie.com/stores/star-buds-baltimore",
+     "https://www.yelp.com/biz/star-buds-medical-marijuana-dispensary-baltimore-baltimore"
+    ],
+    "@id": "https://www.starbuds.us/baltimore"
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Locations",
+   "path": "/locations"
+  },
+  {
+   "name": "Star Buds Marijuana Dispensary Baltimore",
+   "path": "/maryland"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": null,
+       "blocks": []
+      }
+     ]
+    },
+    {
+     "t": "image",
+     "src": "https://static.wixstatic.com/media/553d0f_0b230f95b65e4dce82d7d2e971ba1a24~mv2.jpg",
+     "alt": "dispensary near me",
+     "href": null,
+     "w": 576,
+     "h": 304,
+     "caption": ""
+    },
+    {
+     "t": "button",
+     "text": "ORDER ONLINE",
+     "href": "https://shop.starbuds.us/stores/baltimore-dispensary/",
+     "external": true
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "Star Buds Marijuana Dispensary Baltimore"
+    },
+    {
+     "t": "rich",
+     "html": "<p><a href=\"https://www.google.com/maps/place/Starbuds+Medical+Marijuana+Dispensary+Baltimore/@39.308877,-76.668357,12z/data=!4m9!1m3!2m2!1sdispensary+near+me!6e6!3m4!1s0x89c8060e4653eaad:0xb75c93ab56508d5d!8m2!3d39.3471206!4d-76.5389052\" target=\"_blank\">5975 S BELAIR RD - BALTIMORE, MARYLAND 21206</a></p>\n<p><a href=\"tel:(443) 438-7494\">(443) 438-7494</a></p>"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "<a href=\"https://www.facebook.com/starbudsbmore\" target=\"_blank\" rel=\"noreferrer noopener\" aria-label=\"Facebook\"></a>",
+      "<a href=\"https://www.instagram.com/star.budsmd/\" target=\"_blank\" rel=\"noreferrer noopener\" aria-label=\"Instagram\"></a>"
+     ]
+    },
+    {
+     "t": "rich",
+     "html": "<p>Star Buds Baltimore is proud to be the first Star Buds location in Maryland! We are a recreational cannabis dispensary, come see us for all your marijuana needs. Our compassionate and knowledgeable staff is here to help you get exactly what you need at the best possible price.</p>\n<p>​</p>\n<p>Star Buds Baltimore Recreational Marijuana Dispensary is proud to serve cannabis consumers in <a href=\"https://www.baltimorecountymd.gov/\" target=\"_blank\" rel=\"noreferrer noopener\">Baltimore County</a> to include the communities of Aberdeen, Abingdon, Arbutus, <a href=\"https://www.baltimorecity.gov/\" target=\"_blank\" rel=\"noreferrer noopener\">Baltimore</a>, Bel Air, Bel Air North, Bel Air South, Belcamp, Brooklandville, Brooklyn, Brooklyn Park, Carney, Catonsville, Chase, Cockeysville, Columbia, Curtis Bay, Dundalk, Edgemere, Edgewood, Elkridge, Essex, Ferndale, Fork, Fort, Howard, Garrison, Glen Arm, Glen Burnie, Gwynn Oak, Halethorpe, Hanover, Hunt Valley, Hydes, Jessup, Joppa, Kingsville, Linthicum Heights, Lutherville Timonium, Middle River, Milford, Mill, Nottingham, Overlea, Owings Mills, <a href=\"https://goo.gl/maps/wVKAMamssb2eh3G36\" target=\"_blank\" rel=\"noreferrer noopener\">Parkville</a>, Pasadena, Perry Hall, Pikesville, Randallstown, Riderwood, Riviera Beach, Rosedale, Rossville, Russett, Severn, Sparrows Point, Stevenson, Towson, Upper Falls, White Marsh, Woodlawn and the surrounding areas.</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>HOURS</p>\n<p>MONDAY: 9:00AM-9:00PM</p>\n<p>TUESDAY: 9:00AM-9:00PM</p>\n<p>WEDNESDAY: 9:00AM-9:00PM</p>\n<p>THURSDAY: 9:00AM-9:00PM</p>\n<p>FRIDAY: 9:00AM-9:00PM</p>\n<p>SATURDAY: 9:00AM-9:00PM</p>\n<p>SUNDAY: 9:00AM-9:00PM</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Come Visit Our Marijuana Dispensary!</p>\n<p>Here at Star Buds Baltimore, we pride ourselves on servicing high-quality cannabis at our clean, safe, and friendly medical dispensary. If you are looking for a one-of-a-kind experience and the best dispensary near you, we encourage you to come by and take your time viewing our premium marijuana products. Located at <a href=\"https://www.google.com/maps/place/Star+Buds+Medical+Marijuana+Dispensary+Baltimore/@39.3471164,-76.5389537,15z/data=!4m5!3m4!1s0x0:0xb75c93ab56508d5d!8m2!3d39.3471707!4d-76.5388484\" target=\"_blank\" rel=\"noreferrer noopener\">5975 Belair Rd, Baltimore, MD 21206</a>, we are just off Belair Rd and Powell Ave and just outside of Cedmont. Unlike many other dispensaries in the area, we strive to provide you with the best dispensary experience possible.</p>\n<p>At Star Buds Medical Marijuana Dispensary in Baltimore, we have an assortment of high-quality cannabis, including <a href=\"/strains/\" target=\"_blank\" rel=\"noreferrer noopener\">flower</a>, pre-rolls, <a href=\"/vapes/\" target=\"_blank\" rel=\"noreferrer noopener\">vapes</a>, and carts, <a href=\"/concentrates/\" target=\"_blank\" rel=\"noreferrer noopener\">concentrates</a>, <a href=\"/edibles/\" target=\"_blank\" rel=\"noreferrer noopener\">edibles</a>, tinctures, <a href=\"/topicals/\" target=\"_blank\" rel=\"noreferrer noopener\">topicals</a>, <a href=\"/cbd/\" target=\"_blank\" rel=\"noreferrer noopener\">CBD</a>, accessories, and apparel. Whether you have questions about our products or are looking for something specific, our expert budtenders are available to help you choose the right cannabis product for your needs. Above all, we provide you with the best <a href=\"/marylandrewards/\" target=\"_blank\" rel=\"noreferrer noopener\">rewards program</a> among other dispensaries in Baltimore County and an online ordering system that allows you to quickly choose your favorite cannabis products and pick them up in-store! Please stop by and experience why we are the premier medical marijuana dispensary in Baltimore!</p>\n<p>Know Before You Go…</p>\n<p>This is my first time visiting Star Buds. What should I bring with me?</p>\n<p>All visitors must be at least 21 years of age and must provide a valid photo ID. We take cash and there is also an ATM inside our dispensary for your convenience.</p>\n<p>Is your dispensary open late?</p>\n<p>We understand that normal operating hours are not always convenient for our consumers with busy lifestyles, which is why our dispensary is open every day from 9:00 am to 9:00 pm.</p>\n<p>Does Star Buds offer any discounts or ways to save on orders?</p>\n<p>We run product specials seven days a week, and our loyalty rewards program offers even more savings. We are happy to provide our MED card holders and veterans with a discount upon request.</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Read What Our Customers Are Saying</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>“Everyone on the staff from security to the budtenders are polite, friendly and there to help. The rewards system and daily deals make Starbuds Baltimore a great experience. I would say this is my preferred dispensary in Baltimore” - Theo</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>“Starbuds is, by far, the best dispensary in the area!!! Every experience I have had, so far, has been exceptional. Very clean and organized. I never have to wait long to be helped. The staff are all very friendly and knowledgeable. They take time to listen to your needs before offering suggestions that will best meet your individual wants &amp; needs. … I really enjoy every visit to Starbuds! My favorite dispensary in the area!!!” - Nicole</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>“I had a really great experience and StarBuds. Alicia was my Budtender, she gave me some really good strains and excellent customer service. Alicia explained all the great deals they have during the week and on weekends. She was very welcoming and friendly, the whole staff was very nice. I would definitely recommend StarBuds.” - Jasmine</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>“Best Maryland Dispensary, hands down. Staff is friendly and knowledgeable. This dispensary puts their buds out in jars and weigh and package your medicine right in front of you. They also offer every day discounts (senior, military, etc), daily deals (Sunday shake ounces are my personal favorite), a rewards program, and send out a text blast with special one-off promotions.” - Jeremy</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p><a href=\"https://www.google.com/search?q=star+buds+baltimore&amp;oq=star+buds&amp;aqs=chrome.0.69i59l3j0i10j69i57j69i61j69i60l2.3039j0j4&amp;sourceid=chrome&amp;ie=UTF-8#lrd=0x89c8060e4653eaad:0xb75c93ab56508d5d,1,,,\" target=\"_blank\">More Reviews About Our </a><a href=\"https://www.google.com/search?q=star+buds+baltimore&amp;oq=star+buds&amp;aqs=chrome.0.69i59l3j0i10j69i57j69i61j69i60l2.3039j0j4&amp;sourceid=chrome&amp;ie=UTF-8#lrd=0x89c8060e4653eaad:0xb75c93ab56508d5d,1,,,\" target=\"_blank\">Baltimore Marijuana Dispensary.</a></p>"
+    },
+    {
+     "t": "image",
+     "src": "https://static.wixstatic.com/media/553d0f_6477a44ef1b742e7a145aa3cc4d5ef6d~mv2.jpg",
+     "alt": "",
+     "href": null,
+     "w": 151,
+     "h": 150,
+     "caption": ""
+    }
+   ]
+  }
+ ]
+}

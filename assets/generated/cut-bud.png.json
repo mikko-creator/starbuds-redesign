@@ -1,0 +1,38 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "CUT-BUD",
+  "file": "assets/generated/cut-bud.png",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "studio macro product photograph of a single dense cured cannabis flower bud with frosty trichomes and orange pistils, centred and fully in frame with space around it, isolated on a plain flat neutral mid-grey seamless background, warm key light, crisp edges, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+  "input": {
+    "aspect_ratio": "1:1",
+    "output_format": "jpeg",
+    "safety_tolerance": "5"
+  },
+  "seed": 1357502063,
+  "requestId": "01a16627-88d6-7111-86ae-4e2e59e6128c",
+  "cutout": {
+    "model": "fal-ai/birefnet/v2",
+    "requestId": "01a16627-b1cf-7c92-99db-ab7a37b54897"
+  },
+  "width": 679,
+  "height": 868,
+  "sha256": "18856e6fb08d3fc850fc7bd5f3306ff82a59e544307724c22f20cf779cb5c8c7",
+  "raw": "tmp/img/raw/CUT-BUD.1792715237989.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-23T00:27:27.546Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "clean edges, trimmed",
+    "reviewedAt": "2026-10-23T00:36:15.935Z",
+    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+  },
+  "postprocess": [
+    {
+      "note": "trimmed to the alpha bounding box + 3% padding (tmp/img/prep.py trim)",
+      "at": "2026-10-23T00:34:14.067Z"
+    }
+  ]
+}

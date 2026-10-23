@@ -1,0 +1,109 @@
+{
+ "path": "/single-post/artsy-promoting-art-to-the-world",
+ "url": "https://www.starbuds.us/single-post/artsy-promoting-art-to-the-world",
+ "key": "single-post__artsy-promoting-art-to-the-world",
+ "kind": "post",
+ "state": null,
+ "title": "Artsy: Promoting Art to the World",
+ "h1": "Artsy: Promoting Art to the World",
+ "head": {
+  "title": "Artsy: Promoting Art to the World",
+  "description": "",
+  "canonical": "https://www.starbuds.us/single-post/artsy-promoting-art-to-the-world",
+  "robots": "",
+  "og": {
+   "title": "Artsy: Promoting Art to the World",
+   "description": "Artsy is a Denver-based cannabis company pushing the boundaries of what it means to be a socially conscious company. Led by industry pioneers and a dedicated team, Artsy invests in and supports the art community in all its operating locations. Artsy’s mission is to incubate a global community of creative, kind, and empathetic givers that improve the communities they live in. Artsy brings this mission to life by combining a best-in-class grow and plant optimization with a brand identity that stan",
+   "image": "https://static.wixstatic.com/media/3493a0_8d4b401cec8a4b68a96348852a572cc4~mv2.png/v1/fill/w_600,h_400,al_c/3493a0_8d4b401cec8a4b68a96348852a572cc4~mv2.png",
+   "image:width": "600",
+   "image:height": "400",
+   "url": "https://www.starbuds.us/single-post/artsy-promoting-art-to-the-world",
+   "site_name": "Star Buds ",
+   "type": "article"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+     "@type": "Person",
+     "name": "starbuds",
+     "url": "https://www.starbuds.us/profile/denver/profile"
+    },
+    "dateModified": "2022-08-09T15:30:08.244Z",
+    "datePublished": "2022-08-09T15:30:08.244Z",
+    "headline": "Artsy: Promoting Art to the World",
+    "mainEntityOfPage": {
+     "@id": "https://www.starbuds.us/single-post/artsy-promoting-art-to-the-world",
+     "@type": "itemPage",
+     "url": "https://www.starbuds.us/single-post/artsy-promoting-art-to-the-world"
+    },
+    "description": "Artsy is a Denver-based cannabis company pushing the boundaries of what it means to be a socially conscious company. Led by industry pioneers and a dedicated team, Artsy invests in and supports the art community in all its operating locations. Artsy’s mission is to incubate a global community of creative, kind, and empathetic givers that improve the communities they live in. Artsy brings this mission to life by combining a best-in-class grow and plant optimization with a brand identity that stan",
+    "url": "https://www.starbuds.us/single-post/artsy-promoting-art-to-the-world",
+    "image": {
+     "@type": "ImageObject",
+     "url": "https://static.wixstatic.com/media/3493a0_8d4b401cec8a4b68a96348852a572cc4~mv2.png/v1/fill/w_720,h_480,al_c,lg_1,q_85/3493a0_8d4b401cec8a4b68a96348852a572cc4~mv2.png",
+     "width": "600",
+     "height": "400"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "Star Buds ",
+     "url": "https://www.starbuds.us"
+    }
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Blog",
+   "path": "/blog"
+  },
+  {
+   "name": "Artsy: Promoting Art to the World",
+   "path": "/single-post/artsy-promoting-art-to-the-world"
+  }
+ ],
+ "sections": [],
+ "post": {
+  "date": "2022-08-09T15:30:08.244Z",
+  "dateText": "Aug 9, 2022",
+  "readTime": "2 min read",
+  "hero": null,
+  "categories": [],
+  "blocks": [
+   {
+    "t": "rich",
+    "html": "<p>Artsy is a Denver-based cannabis company pushing the boundaries of what it means to be a socially conscious company. Led by industry pioneers and a dedicated team, Artsy invests in and supports the art community in all its operating locations.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Artsy’s mission is to incubate a global community of creative, kind, and empathetic givers that improve the communities they live in. Artsy brings this mission to life by combining a best-in-class grow and plant optimization with a brand identity that stands-out from other flower cultivators.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p><strong>Top-Shelf Cannabis</strong></p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Artsy is founded on crafting top-shelf flower and putting it into the hands of consumers who appreciate the details of cannabis cultivation. Their gardens are managed with strict protocols, using the highest quality genetics in meticulously curated grow rooms. Artsy’s proven cultivation process delivers only top-shelf, pesticide-free flower with vivid curb appeal and robust terpene profiles with consistent THC levels you can trust. They never rush the curing process resulting in perfect flowers that retain an appropriate amount of moisture and powerful terpene profiles, creating an inviting scent. To top it off, all of their flower is hand-trimmed and individually manicured to ensure the perfect-sized buds for your enjoyment.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p><strong>Artsy strives to be more than simply a cannabis producer.</strong></p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>“Artsy is an experience, a feeling, and a community,” says Josh Haupt, Artsy owner and founder. They invest in local charities and organizations aligned with their mission to make an impact in communities where they operate. “Doing good while doing well is the base of our existence.”</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>They support up and coming artists, from singers and songwriters to mural artists and poets, by projecting their voice to the world. Given Artsy’s wide distribution throughout Colorado they are able to provide great exposure by featuring artists’ work on their packaging, apparel, stickers, and other merch. You can find various Artsy strains on the Connoisseur Shelf at any of our Star Buds stores.</p>"
+   }
+  ]
+ }
+}

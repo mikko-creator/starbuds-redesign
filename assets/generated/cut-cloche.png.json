@@ -1,0 +1,40 @@
+{
+  "tool": "tools/fal-one.mjs --cutout --cutout-model Matting",
+  "slot": "CUT-CLOCHE",
+  "file": "assets/generated/cut-cloche.png",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its stores, staff, customers, products or brands.",
+  "provider": "fal.ai",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "product photograph of a Victorian clear glass bell jar cloche with a small round glass knob on top, covering a single cured cannabis flower bud that sits on a round dark walnut wood base, the whole object centred and fully in frame with space around it, isolated on a pure black seamless background, crisp white rim highlights tracing the glass edges, warm light on the bud, cinematic, sharp focus, no people, no hands, no text, no lettering, no labels, no logos",
+  "input": {
+    "aspect_ratio": "3:4",
+    "output_format": "jpeg",
+    "safety_tolerance": "5"
+  },
+  "seed": 308189769,
+  "requestId": "01a16628-1a0a-7de1-8a09-4999f6b32cb3",
+  "raw": "tmp/img/cloche/cut-cloche-a.jpg",
+  "cutout": {
+    "model": "fal-ai/birefnet/v2",
+    "variant": "Matting",
+    "requestId": "01a16628-5247-7f52-a4e4-6e943b9ff00f",
+    "file": "tmp/img/cloche/cut-cloche-a.cut.png"
+  },
+  "postprocess": [
+    {
+      "note": "trimmed to the alpha bounding box + 3% padding (tmp/img/prep.py trim)"
+    }
+  ],
+  "alt": "A cannabis bud under a Victorian glass bell jar",
+  "width": 1162,
+  "height": 1721,
+  "sha256": "4160120815423c9a7cc8de81b69c63a2f5f370e3f2141625a6907f356921a378",
+  "installedAt": "2026-10-23T00:34:11.644Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "Matting cut-out: glass stays see-through over dark and ivory grounds (composite check), bud and walnut base solid; trimmed",
+    "reviewedAt": "2026-10-23T00:36:14.939Z",
+    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+  }
+}

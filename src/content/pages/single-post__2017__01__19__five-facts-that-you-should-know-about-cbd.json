@@ -1,0 +1,214 @@
+{
+ "path": "/single-post/2017/01/19/five-facts-that-you-should-know-about-cbd",
+ "url": "https://www.starbuds.us/single-post/2017/01/19/five-facts-that-you-should-know-about-cbd",
+ "key": "single-post__2017__01__19__five-facts-that-you-should-know-about-cbd",
+ "kind": "post",
+ "state": null,
+ "title": "Five facts that you should know about CBD | Starbuds Dispensary",
+ "h1": "Five facts that you should know about CBD",
+ "head": {
+  "title": "Five facts that you should know about CBD | Starbuds Dispensary",
+  "description": "1. CBD is a key ingredient in cannabisCBD is one of over 60 compounds found in cannabis that belong to a class of molecules called cannabinoids. Of these compou",
+  "canonical": "https://www.starbuds.us/single-post/2017/01/19/five-facts-that-you-should-know-about-cbd",
+  "robots": "",
+  "og": {
+   "title": "Five facts that you should know about CBD | Starbuds Dispensary",
+   "description": "1. CBD is a key ingredient in cannabisCBD is one of over 60 compounds found in cannabis that belong to a class of molecules called cannabinoids. Of these compounds, CBD and THC are usually present in the highest concentrations, and are therefore the most recognized and studied.CBD and THC levels tend to vary among different plants. Marijuana grown for recreational purposes often contains more THC than CBD. However, by using selective breeding techniques, cannabis breeders have managed to create ",
+   "image": "https://static.wixstatic.com/media/0e0726_fc1bd421d178441ab210fecc85e5194a~mv2.jpg/v1/fill/w_768,h_480,al_c,lg_1,q_85/0e0726_fc1bd421d178441ab210fecc85e5194a~mv2.jpg",
+   "image:width": "640",
+   "image:height": "400",
+   "url": "https://www.starbuds.us/single-post/2017/01/19/five-facts-that-you-should-know-about-cbd",
+   "site_name": "Star Buds ",
+   "type": "article"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+     "@type": "Person",
+     "name": "starbuds",
+     "url": "https://www.starbuds.us/profile/denver/profile"
+    },
+    "dateModified": "2017-01-19T18:56:00.000Z",
+    "datePublished": "2017-01-19T18:56:00.000Z",
+    "headline": "Five facts that you should know about CBD | Starbuds Dispensary",
+    "mainEntityOfPage": {
+     "@id": "https://www.starbuds.us/single-post/2017/01/19/five-facts-that-you-should-know-about-cbd",
+     "@type": "itemPage",
+     "url": "https://www.starbuds.us/single-post/2017/01/19/five-facts-that-you-should-know-about-cbd"
+    },
+    "description": "1. CBD is a key ingredient in cannabisCBD is one of over 60 compounds found in cannabis that belong to a class of molecules called cannabinoids. Of these compou",
+    "url": "https://www.starbuds.us/single-post/2017/01/19/five-facts-that-you-should-know-about-cbd",
+    "image": {
+     "@type": "ImageObject",
+     "url": "https://static.wixstatic.com/media/0e0726_fc1bd421d178441ab210fecc85e5194a~mv2.jpg/v1/fill/w_768,h_480,al_c,lg_1,q_85/0e0726_fc1bd421d178441ab210fecc85e5194a~mv2.jpg",
+     "width": "640",
+     "height": "400"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "Star Buds ",
+     "url": "https://www.starbuds.us"
+    }
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Blog",
+   "path": "/blog"
+  },
+  {
+   "name": "Five facts that you should know about CBD",
+   "path": "/single-post/2017/01/19/five-facts-that-you-should-know-about-cbd"
+  }
+ ],
+ "sections": [],
+ "post": {
+  "date": "2017-01-19T18:56:00.000Z",
+  "dateText": "Jan 19, 2017",
+  "readTime": "3 min read",
+  "hero": {
+   "src": "https://static.wixstatic.com/media/0e0726_fc1bd421d178441ab210fecc85e5194a~mv2.jpg",
+   "alt": ""
+  },
+  "categories": [],
+  "blocks": [
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/0e0726_fc1bd421d178441ab210fecc85e5194a~mv2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 640,
+    "h": 400,
+    "caption": ""
+   },
+   {
+    "t": "heading",
+    "level": 6,
+    "html": "1. CBD is a key ingredient in cannabis"
+   },
+   {
+    "t": "rich",
+    "html": "<p>CBD is one of over 60 compounds found in cannabis that belong to a class of molecules called cannabinoids. Of these compounds, CBD and THC are usually present in the highest concentrations, and are therefore the most recognized and studied.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>CBD and THC levels tend to vary among different plants. Marijuana grown for recreational purposes often contains more THC than CBD. However, by using selective breeding techniques, cannabis breeders have managed to create varieties with high levels of CBD and next to zero levels of THC. These strains are rare but have become more popular in recent years.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 6,
+    "html": "2. CBD is non-psychoactive"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Unlike THC, CBD does not cause a high. While this makes CBD a poor choice for recreational users, it gives the chemical a significant advantage as a medicine, since health professionals prefer treatments with minimal side effects.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>CBD is non-psychoactive because it does not act on the same pathways as THC. These pathways, called CB1 receptors, are highly concentrated in the brain and are responsible for the mind-altering effects of THC.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>A 2011 review published in Current Drug Safety concludes that CBD “does not interfere with several psychomotor and psychological functions.” The authors add that several studies suggest that CBD is “well tolerated and safe” even at high doses.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 6,
+    "html": "3. CBD has a wide range of medical benefits"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Although CBD and THC act on different pathways of the body, they seem to have many of the same medical benefits. According to a 2013 review published in the British Journal of Clinical Pharmacology, studies have found CBD to possess the following medical properties:</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Antiemetic: Reduces nausea and vomiting</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Anticonvulsant: Suppresses seizure activity</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Antipsychotic: Combats psychosis disorders</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Anti-inflammatory: Combats inflammatory disorders</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Anti-oxidant: Combats neurodegenerative disorders</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Anti-tumoral/Anti-cancer: Combats tumor and cancer cells</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Anxiolytic/Anti-depressant: Combats anxiety and depression disorders</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Unfortunately, most of this evidence comes from animals, since very few studies on CBD have been carried out in human patients.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>But a pharmaceutical version of CBD was recently developed by a drug company based in the UK. The company, GW Pharmaceuticals, is now funding clinical trials on CBD as a treatment for schizophrenia and certain types of epilepsy.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Likewise, a team of researchers at the California Pacific Medical Center, led by Dr. Sean McAllister, has stated that they hope to begin trials on CBD as a breast cancer therapy.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 6,
+    "html": "4. CBD reduces the negative effects of THC"
+   },
+   {
+    "t": "rich",
+    "html": "<p>CBD seems to offer natural protection against the marijuana high. Numerous studies suggest that CBD acts to reduce the intoxicating effects of THC, such as memory impairment and paranoia.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>CBD also appears to counteract the sleep-inducing effects of THC, which may explain why some strains of cannabis are known to increase alertness.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Both CBD and THC have been found to present no risk of lethal overdose. However, to reduce potential side effects, medical users may be better off using cannabis with higher levels of CBD.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 6,
+    "html": "5. CBD is still illegal"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Even though CBD shows much promise as a medicine, it remains illegal in many parts of the world. CBD is classified as a Schedule I drug in the United States and a Schedule II drug in Canada.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>On Dec. 14 2016, the U.S. Drug Enforcement Agency (DEA) made it clear that any marijuana-based extract is considered a Schedule I drug under federal law, including CBD oils and other types of CBD-rich extracts.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>On the other hand, the U.S. Food and Drug Administration recently approved a request to trial a pharmaceutical version of CBD in children with rare forms of epilepsy. The drug is made by GW Pharmaceuticals and is called Epidiolex.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>According to the company, the drug consists of “more than 98 percent CBD, trace quantities of some other cannabinoids, and zero THC.” GW Pharmaceuticals makes another cannabis-based drug called Sativex, which has been approved in over 24 countries for treating multiple sclerosis.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>A patent awarded to the U.S. Health and Human Services in 2003 (US6630507) also covers the use of CBD as a treatment for various neurodegenerative and inflammatory disorders.</p>"
+   }
+  ]
+ }
+}

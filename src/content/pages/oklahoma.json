@@ -1,0 +1,211 @@
+{
+ "path": "/oklahoma",
+ "url": "https://www.starbuds.us/oklahoma",
+ "key": "oklahoma",
+ "kind": "state",
+ "state": "OK",
+ "title": "Locations | Star Buds Marijuana Dispensary | Oklahoma",
+ "h1": "ALTUS",
+ "head": {
+  "title": "Locations | Star Buds Marijuana Dispensary | Oklahoma",
+  "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+  "canonical": "https://www.starbuds.us/oklahoma",
+  "robots": "",
+  "og": {
+   "title": "Locations | Star Buds Marijuana Dispensary | Oklahoma",
+   "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/oklahoma",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Locations",
+   "path": "/locations"
+  },
+  {
+   "name": "ALTUS",
+   "path": "/oklahoma"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "repeater",
+     "items": [
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/553d0f_b654cbeb10974d11a0f39722a1a1a29c~mv2.jpg",
+         "alt": "",
+         "href": null,
+         "w": 1599,
+         "h": 1101,
+         "caption": "",
+         "role": "background"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "ALTUS"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "1100 Falcon Rd - Suite 104"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "Altus, OK 73521"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "<a href=\"tel:(580) 379-0487\">(580) 379-0487</a>"
+        },
+        {
+         "t": "button",
+         "text": "VIEW HOURS & SHOP",
+         "href": "https://shop.starbuds.us/stores/altus-dispensary/",
+         "external": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/553d0f_b1062e94355b4d179229435cbc6e8d7f~mv2.jpg",
+         "alt": "",
+         "href": null,
+         "w": 713,
+         "h": 557,
+         "caption": "",
+         "role": "background"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "CHICKASHA"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "718 S 4th St"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "Chickasha, OK 73018"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "<a href=\"tel:(405) 825-3424\">(405) 825-3424</a>"
+        },
+        {
+         "t": "button",
+         "text": "VIEW HOURS & SHOP",
+         "href": "https://shop.starbuds.us/stores/chickasha-dispensary/",
+         "external": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/b86374_c6d6914f99b64a20b54b18e48622d448~mv2.jpg",
+         "alt": "FullSizeRender2_edited.jpg",
+         "href": null,
+         "w": 2234,
+         "h": 1438,
+         "caption": "",
+         "role": "background"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "ARDMORE<br> 2502 Crossroads Dr.<br> Ardmore OK 73401<br> (580) 319-7935"
+        },
+        {
+         "t": "button",
+         "text": "VIEW HOURS & SHOP",
+         "href": "https://shop.starbuds.us/stores/ardmore-dispensary/",
+         "external": true
+        }
+       ]
+      },
+      {
+       "blocks": [
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/553d0f_e037159889f64cd2b2cb59a618038672~mv2_d_2703_2536_s_4_2.jpg",
+         "alt": "",
+         "href": null,
+         "w": 2703,
+         "h": 2536,
+         "caption": "",
+         "role": "background"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "LAWTON"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "2629 NW Cache Rd - Suite 3"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "Lawton, OK 73505"
+        },
+        {
+         "t": "heading",
+         "level": 4,
+         "html": "<a href=\"tel:(580) 699-2833\">(580) 699-2833</a>"
+        },
+        {
+         "t": "button",
+         "text": "VIEW HOURS & SHOP",
+         "href": "https://shop.starbuds.us/stores/lawton-dispensary/",
+         "external": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "embed",
+     "src": "",
+     "title": "Google Map",
+     "kind": "map",
+     "height": null
+    }
+   ]
+  }
+ ]
+}

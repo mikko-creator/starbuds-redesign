@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-JOURNAL",
+  "file": "assets/generated/g-journal.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "an antique brass magnifying glass with a plain smooth handle lying over a fresh cannabis leaf on a dark slate surface, the lens enlarging the leaf's serrated edge, warm lantern light, botanical still life, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "safety_tolerance": "5"
+  },
+  "seed": 4195114130,
+  "requestId": "01a16627-2e8a-7d23-997c-5c36f2db06c8",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "65d8f11496c61fdb972341fa51e19ae5e750c14a4d7510448a82fcc456205205",
+  "raw": "tmp/img/raw/G-JOURNAL.1792715214903.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-23T00:26:56.801Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "brass magnifier over a leaf on slate, no marks",
+    "reviewedAt": "2026-10-23T00:36:09.439Z",
+    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+  }
+}

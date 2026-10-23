@@ -1,0 +1,14 @@
+{
+ "path": "/boulder",
+ "url": "https://www.starbuds.us/boulder",
+ "key": "redirect__boulder",
+ "kind": "redirect",
+ "state": "CO",
+ "title": "",
+ "h1": "",
+ "redirect": {
+  "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-boulder?store=3597&store_updated=true&wp_store_id=5770",
+  "status": 301,
+  "offOrigin": true
+ }
+}

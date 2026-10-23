@@ -1,0 +1,163 @@
+{
+ "path": "/single-post/why-your-weed-hits-differently-every-time",
+ "url": "https://www.starbuds.us/single-post/why-your-weed-hits-differently-every-time",
+ "key": "single-post__why-your-weed-hits-differently-every-time",
+ "kind": "post",
+ "state": null,
+ "title": "Why Your Weed Hits Differently Every Time (And How to Choose Smarter at Star Buds)",
+ "h1": "Why Your Weed Hits Differently Every Time (And How to Choose Smarter at Star Buds)",
+ "head": {
+  "title": "Why Your Weed Hits Differently Every Time (And How to Choose Smarter at Star Buds)",
+  "description": "Have you ever bought the same strain twice and had totally different experiences? One time you’re relaxed and giggly, the next you’re stuck on the couch overthinking a text from 2016. You’re not imagining things: cannabis doesn’t hit the same every time, and there are real reasons why.",
+  "canonical": "https://www.starbuds.us/single-post/why-your-weed-hits-differently-every-time",
+  "robots": "",
+  "og": {
+   "title": "Why Your Weed Hits Differently Every Time (And How to Choose Smarter at Star Buds)",
+   "description": "Have you ever bought the same strain twice and had totally different experiences? One time you’re relaxed and giggly, the next you’re stuck on the couch overthinking a text from 2016. You’re not imagining things: cannabis doesn’t hit the same every time, and there are real reasons why.",
+   "image": "https://static.wixstatic.com/media/3493a0_0f5ae79ff58b4027aa47ad29f001f58f~mv2.jpg/v1/fill/w_2500,h_1569,al_c/3493a0_0f5ae79ff58b4027aa47ad29f001f58f~mv2.jpg",
+   "image:width": "2500",
+   "image:height": "1569",
+   "url": "https://www.starbuds.us/single-post/why-your-weed-hits-differently-every-time",
+   "site_name": "Star Buds ",
+   "type": "article"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+     "@type": "Person",
+     "name": "kalimutty",
+     "url": "https://www.starbuds.us/profile/kalimutty/profile"
+    },
+    "dateModified": "2025-11-12T08:00:00.000Z",
+    "datePublished": "2025-11-12T08:00:00.000Z",
+    "headline": "Why Your Weed Hits Differently Every Time (And How to Choose Smarter at Star Buds)",
+    "mainEntityOfPage": {
+     "@id": "https://www.starbuds.us/single-post/why-your-weed-hits-differently-every-time",
+     "@type": "itemPage",
+     "url": "https://www.starbuds.us/single-post/why-your-weed-hits-differently-every-time"
+    },
+    "description": "Have you ever bought the same strain twice and had totally different experiences? One time you’re relaxed and giggly, the next you’re stuck on the couch overthinking a text from 2016. You’re not imagining things: cannabis doesn’t hit the same every time, and there are real reasons why.",
+    "url": "https://www.starbuds.us/single-post/why-your-weed-hits-differently-every-time",
+    "image": {
+     "@type": "ImageObject",
+     "url": "https://static.wixstatic.com/media/3493a0_0f5ae79ff58b4027aa47ad29f001f58f~mv2.jpg/v1/fill/w_1000,h_628,al_c,q_85,usm_0.66_1.00_0.01/3493a0_0f5ae79ff58b4027aa47ad29f001f58f~mv2.jpg",
+     "width": "5309",
+     "height": "3332"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "Star Buds ",
+     "url": "https://www.starbuds.us"
+    }
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Blog",
+   "path": "/blog"
+  },
+  {
+   "name": "Why Your Weed Hits Differently Every Time (And How to Choose Smarter at Star Buds)",
+   "path": "/single-post/why-your-weed-hits-differently-every-time"
+  }
+ ],
+ "sections": [],
+ "post": {
+  "date": "2025-11-12T08:00:00.000Z",
+  "dateText": "Nov 12, 2025",
+  "readTime": "1 min read",
+  "hero": {
+   "src": "https://static.wixstatic.com/media/3493a0_0f5ae79ff58b4027aa47ad29f001f58f~mv2.jpg",
+   "alt": ""
+  },
+  "categories": [],
+  "blocks": [
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/3493a0_0f5ae79ff58b4027aa47ad29f001f58f~mv2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 5309,
+    "h": 3332,
+    "caption": ""
+   },
+   {
+    "t": "rich",
+    "html": "<p>Have you ever bought the <em>same strain</em> twice and had totally different experiences? One time you’re relaxed and giggly, the next you’re stuck on the couch overthinking a text from 2016. You’re not imagining things: <strong>cannabis doesn’t hit the same every time</strong>, and there are real reasons why.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>At <strong>Star Buds</strong>, we believe better cannabis experiences start with better understanding. Here’s why your weed can feel different—and how to shop smarter next time.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 3,
+    "html": "Terpenes Matter More Than You Think"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Most people focus on THC percentages, but <strong>terpenes</strong>—the aromatic compounds in cannabis—play a huge role in how a product makes you feel.</p>"
+   },
+   {
+    "t": "list",
+    "ordered": false,
+    "items": [
+     "<strong>Myrcene</strong> → relaxing, couch-lock vibes",
+     "<strong>Limonene</strong> → uplifting, mood-boosting effects",
+     "<strong>Pinene</strong> → alert, focused, clear-headed"
+    ]
+   },
+   {
+    "t": "rich",
+    "html": "<p>Two products with identical THC levels can feel completely different depending on terpene content. That’s why Star Buds budtenders always look beyond the number.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 3,
+    "html": "Your Body Chemistry Changes"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Hydration, sleep, stress, food intake, and tolerance all influence how cannabis affects you. Even the time of day matters. That “perfect” strain from last weekend might hit differently after a long workday or an empty stomach.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 3,
+    "html": "Freshness &amp; Storage Count"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Cannabis degrades over time. Heat, light, and air break down cannabinoids and terpenes, dulling effects and flavor. Shopping at a regulated dispensary like <strong>Star Buds</strong> ensures proper storage and fresh inventory—something you won’t get from unregulated sources.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 3,
+    "html": "How to Choose Smarter at Star Buds"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Next time you shop:</p>"
+   },
+   {
+    "t": "list",
+    "ordered": false,
+    "items": [
+     "Ask about <strong>terpene profiles</strong>, not just THC",
+     "Tell your budtender <em>how you want to feel</em>",
+     "Rotate strains instead of chasing the highest percentage"
+    ]
+   },
+   {
+    "t": "rich",
+    "html": "<p>Cannabis is personal, and when you shop intentionally, it shows!</p>"
+   }
+  ]
+ }
+}

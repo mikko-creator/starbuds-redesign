@@ -1,0 +1,97 @@
+{
+ "path": "/single-post/2017/04/27/extended-hours-for-dispensaries-in-denver-county",
+ "url": "https://www.starbuds.us/single-post/2017/04/27/extended-hours-for-dispensaries-in-denver-county",
+ "key": "single-post__2017__04__27__extended-hours-for-dispensaries-in-denver-county",
+ "kind": "post",
+ "state": null,
+ "title": "Extended Hours for Dispensaries in Denver County | Starbuds Dispensary",
+ "h1": "Extended Hours for Dispensaries in Denver County",
+ "head": {
+  "title": "Extended Hours for Dispensaries in Denver County | Starbuds Dispensary",
+  "description": "On Monday, April 24th, 2017, the Denver City Council voted to allow extended hours for dispensaries Operating hours were previously 8 a.m -7 p.m.",
+  "canonical": "https://www.starbuds.us/single-post/2017/04/27/extended-hours-for-dispensaries-in-denver-county",
+  "robots": "",
+  "og": {
+   "title": "Extended Hours for Dispensaries in Denver County | Starbuds Dispensary",
+   "description": "On Monday, April 24th, 2017, the Denver City Council voted to allow extended hours for dispensaries in the city. Operating hours were previously 8 a.m. to 7 p.m., but as of May 1st, 2017, stores may stay open until 10 p.m.!  It's 8:00 and you forgot to get a few joints for the night? Have no fear, Starbuds' Denver locations have you covered. We're looking forward to serving Denver's night owls!  ",
+   "image": "https://static.wixstatic.com/media/553d0f_52ebb7f039ea45a995671b39bbaeee97~mv2.png/v1/fill/w_1000,h_676,al_c,q_90,usm_0.66_1.00_0.01/553d0f_52ebb7f039ea45a995671b39bbaeee97~mv2.png",
+   "image:width": "1080",
+   "image:height": "730",
+   "url": "https://www.starbuds.us/single-post/2017/04/27/extended-hours-for-dispensaries-in-denver-county",
+   "site_name": "Star Buds ",
+   "type": "article"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+     "@type": "Person",
+     "name": "starbuds",
+     "url": "https://www.starbuds.us/profile/denver/profile"
+    },
+    "dateModified": "2017-04-27T19:20:52.046Z",
+    "datePublished": "2017-04-27T19:20:52.046Z",
+    "headline": "Extended Hours for Dispensaries in Denver County | Starbuds Dispensary",
+    "mainEntityOfPage": {
+     "@id": "https://www.starbuds.us/single-post/2017/04/27/extended-hours-for-dispensaries-in-denver-county",
+     "@type": "itemPage",
+     "url": "https://www.starbuds.us/single-post/2017/04/27/extended-hours-for-dispensaries-in-denver-county"
+    },
+    "description": "On Monday, April 24th, 2017, the Denver City Council voted to allow extended hours for dispensaries Operating hours were previously 8 a.m -7 p.m.",
+    "url": "https://www.starbuds.us/single-post/2017/04/27/extended-hours-for-dispensaries-in-denver-county",
+    "image": {
+     "@type": "ImageObject",
+     "url": "https://static.wixstatic.com/media/553d0f_52ebb7f039ea45a995671b39bbaeee97~mv2.png/v1/fill/w_1000,h_676,al_c,q_90,usm_0.66_1.00_0.01/553d0f_52ebb7f039ea45a995671b39bbaeee97~mv2.png",
+     "width": "1080",
+     "height": "730"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "Star Buds ",
+     "url": "https://www.starbuds.us"
+    }
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Blog",
+   "path": "/blog"
+  },
+  {
+   "name": "Extended Hours for Dispensaries in Denver County",
+   "path": "/single-post/2017/04/27/extended-hours-for-dispensaries-in-denver-county"
+  }
+ ],
+ "sections": [],
+ "post": {
+  "date": "2017-04-27T19:20:52.046Z",
+  "dateText": "Apr 27, 2017",
+  "readTime": "1 min read",
+  "hero": {
+   "src": "https://static.wixstatic.com/media/553d0f_52ebb7f039ea45a995671b39bbaeee97~mv2.png",
+   "alt": ""
+  },
+  "categories": [],
+  "blocks": [
+   {
+    "t": "rich",
+    "html": "<p>On Monday, April 24th, 2017, the Denver City Council voted to allow extended hours for dispensaries in the city. Operating hours were previously 8 a.m. to 7 p.m., but as of May 1st, 2017, stores may stay open until 10 p.m.! It's 8:00 and you forgot to get a few joints for the night? Have no fear, Starbuds' Denver locations have you covered. We're looking forward to serving Denver's night owls!</p>"
+   },
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/553d0f_52ebb7f039ea45a995671b39bbaeee97~mv2.png",
+    "alt": "",
+    "href": null,
+    "w": 1080,
+    "h": 730,
+    "caption": ""
+   }
+  ]
+ }
+}

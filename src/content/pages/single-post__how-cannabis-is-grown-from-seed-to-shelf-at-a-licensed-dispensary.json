@@ -1,0 +1,194 @@
+{
+ "path": "/single-post/how-cannabis-is-grown-from-seed-to-shelf-at-a-licensed-dispensary",
+ "url": "https://www.starbuds.us/single-post/how-cannabis-is-grown-from-seed-to-shelf-at-a-licensed-dispensary",
+ "key": "single-post__how-cannabis-is-grown-from-seed-to-shelf-at-a-licensed-dispensary",
+ "kind": "post",
+ "state": null,
+ "title": "How Cannabis Is Grown: From Seed to Shelf at a Licensed Dispensary",
+ "h1": "How Cannabis Is Grown: From Seed to Shelf at a Licensed Dispensary",
+ "head": {
+  "title": "How Cannabis Is Grown: From Seed to Shelf at a Licensed Dispensary",
+  "description": "",
+  "canonical": "https://www.starbuds.us/single-post/how-cannabis-is-grown-from-seed-to-shelf-at-a-licensed-dispensary",
+  "robots": "",
+  "og": {
+   "title": "How Cannabis Is Grown: From Seed to Shelf at a Licensed Dispensary",
+   "description": "Ever Wonder How Cannabis Gets from the Grow Facility to Your Favorite Star Buds Store?Every cannabis product on our shelves follows a carefully regulated journey before it reaches your hands. Licensed cannabis cultivation is one of the most closely monitored agricultural industries in the country, with quality controls every step of the way.Step 1: CultivationCannabis begins its life from either seeds or clones inside licensed cultivation facilities.Professional growers carefully monitor: • Ligh",
+   "image": "https://static.wixstatic.com/media/3493a0_5e4dbf4c08504fb0a5665970c6e8edaf~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/3493a0_5e4dbf4c08504fb0a5665970c6e8edaf~mv2.jpg",
+   "image:width": "6000",
+   "image:height": "4000",
+   "url": "https://www.starbuds.us/single-post/how-cannabis-is-grown-from-seed-to-shelf-at-a-licensed-dispensary",
+   "site_name": "Star Buds ",
+   "type": "article"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+     "@type": "Person",
+     "name": "starbuds",
+     "url": "https://www.starbuds.us/profile/denver/profile"
+    },
+    "dateModified": "2026-07-09T07:00:00.000Z",
+    "datePublished": "2026-07-09T07:00:00.000Z",
+    "headline": "How Cannabis Is Grown: From Seed to Shelf at a Licensed Dispensary",
+    "mainEntityOfPage": {
+     "@id": "https://www.starbuds.us/single-post/how-cannabis-is-grown-from-seed-to-shelf-at-a-licensed-dispensary",
+     "@type": "itemPage",
+     "url": "https://www.starbuds.us/single-post/how-cannabis-is-grown-from-seed-to-shelf-at-a-licensed-dispensary"
+    },
+    "description": "Ever Wonder How Cannabis Gets from the Grow Facility to Your Favorite Star Buds Store?Every cannabis product on our shelves follows a carefully regulated journey before it reaches your hands. Licensed cannabis cultivation is one of the most closely monitored agricultural industries in the country, with quality controls every step of the way.Step 1: CultivationCannabis begins its life from either seeds or clones inside licensed cultivation facilities.Professional growers carefully monitor: • Ligh",
+    "url": "https://www.starbuds.us/single-post/how-cannabis-is-grown-from-seed-to-shelf-at-a-licensed-dispensary",
+    "image": {
+     "@type": "ImageObject",
+     "url": "https://static.wixstatic.com/media/3493a0_5e4dbf4c08504fb0a5665970c6e8edaf~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/3493a0_5e4dbf4c08504fb0a5665970c6e8edaf~mv2.jpg",
+     "width": "6000",
+     "height": "4000"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "Star Buds ",
+     "url": "https://www.starbuds.us"
+    }
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Blog",
+   "path": "/blog"
+  },
+  {
+   "name": "How Cannabis Is Grown: From Seed to Shelf at a Licensed Dispensary",
+   "path": "/single-post/how-cannabis-is-grown-from-seed-to-shelf-at-a-licensed-dispensary"
+  }
+ ],
+ "sections": [],
+ "post": {
+  "date": "2026-07-09T07:00:00.000Z",
+  "dateText": "Jul 9",
+  "readTime": "1 min read",
+  "hero": {
+   "src": "https://static.wixstatic.com/media/3493a0_5e4dbf4c08504fb0a5665970c6e8edaf~mv2.jpg",
+   "alt": ""
+  },
+  "categories": [],
+  "blocks": [
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/3493a0_5e4dbf4c08504fb0a5665970c6e8edaf~mv2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 6000,
+    "h": 4000,
+    "caption": ""
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "Ever Wonder How Cannabis Gets from the Grow Facility to Your Favorite Star Buds Store?"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Every cannabis product on our shelves follows a carefully regulated journey before it reaches your hands. Licensed cannabis cultivation is one of the most closely monitored agricultural industries in the country, with quality controls every step of the way.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "Step 1: Cultivation"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Cannabis begins its life from either seeds or clones inside licensed cultivation facilities.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Professional growers carefully monitor:</p>"
+   },
+   {
+    "t": "list",
+    "ordered": false,
+    "items": [
+     "Lighting",
+     "Temperature",
+     "Humidity",
+     "Nutrients",
+     "Water quality"
+    ]
+   },
+   {
+    "t": "rich",
+    "html": "<p>These controlled environments help produce healthy, consistent plants.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "Step 2: Harvest and Curing"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Once mature, plants are harvested and slowly dried before entering the curing process. Proper curing helps preserve cannabinoids and terpenes while improving aroma, flavor, and smoothness.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>This step cannot be rushed if quality is the goal.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "Step 3: Laboratory Testing"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Before cannabis can be sold at a licensed dispensary, it undergoes mandatory testing for:</p>"
+   },
+   {
+    "t": "list",
+    "ordered": false,
+    "items": [
+     "Potency",
+     "Pesticides",
+     "Heavy metals",
+     "Mold",
+     "Microbial contaminants",
+     "Residual solvents (where applicable)"
+    ]
+   },
+   {
+    "t": "rich",
+    "html": "<p>Only products that pass testing can be offered to consumers.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "Step 4: Packaging"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Products are placed into compliant, child-resistant packaging with clearly labeled cannabinoid information, serving sizes (where applicable), and tracking information.</p>"
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "Step 5: Available at Star Buds"
+   },
+   {
+    "t": "rich",
+    "html": "<p>By the time cannabis arrives at Star Buds, it has completed a highly regulated process designed to prioritize consistency, transparency, and consumer confidence.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Our team is always happy to explain where products come from, how they're made, and which options might be right for your next visit.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Whether you're shopping for flower, pre-rolls, concentrates, edibles, or vapes, you can feel confident knowing your cannabis has met strict quality standards before reaching our shelves.</p>"
+   }
+  ]
+ }
+}

@@ -1,0 +1,216 @@
+{
+ "path": "/rewards",
+ "url": "https://www.starbuds.us/rewards",
+ "key": "rewards",
+ "kind": "rewards",
+ "state": null,
+ "title": "Rewards | Star Buds Marijuana Dispensary | Colorado, Illinois, Mississippi, Oklahoma, New York, Maryland",
+ "h1": "REWARDS",
+ "head": {
+  "title": "Rewards | Star Buds Marijuana Dispensary | Colorado, Illinois, Mississippi, Oklahoma, New York, Maryland",
+  "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+  "canonical": "https://www.starbuds.us/rewards",
+  "robots": "",
+  "og": {
+   "title": "Rewards | Star Buds Marijuana Dispensary | Colorado, Illinois, Mississippi, Oklahoma, New York, Maryland",
+   "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/rewards",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "REWARDS",
+   "path": "/rewards"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": {
+        "image": "https://static.wixstatic.com/media/60c3e1_94f48eda2c294ccd8ffb824aa23fab56~mv2.jpg",
+        "color": null
+       },
+       "blocks": [
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/60c3e1_98bcf9387f874d428ed4b511d3825cd9~mv2.png",
+         "alt": "NEW-Higher-Rewards-Screens_logo.png",
+         "href": null,
+         "w": 749,
+         "h": 367,
+         "caption": ""
+        },
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "Join our Higher Rewards Loyalty Program and get rewarded when you visit the store! Simply present your custom rewards wallet on each visit and automatically earn points towards discounts and specials on your favorite products. Best of all, it’s absolutely FREE!"
+        },
+        {
+         "t": "button",
+         "text": "ILLINOIS",
+         "href": "/illinoisrewards/",
+         "external": false
+        },
+        {
+         "t": "button",
+         "text": "MARYLAND",
+         "href": "/marylandrewards/",
+         "external": false
+        },
+        {
+         "t": "button",
+         "text": "MISSISSIPPI",
+         "href": "/mississippirewards/",
+         "external": false
+        },
+        {
+         "t": "button",
+         "text": "NEW YORK",
+         "href": "https://lab.alpineiq.com/join/c/1130/101717?storeID=41",
+         "external": true
+        },
+        {
+         "t": "button",
+         "text": "OKLAHOMA",
+         "href": "/oklahomarewards/",
+         "external": false
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": null,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 1,
+         "html": "REWARDS"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "ALREADY A HIGHER REWARDS MEMBER?"
+    },
+    {
+     "t": "button",
+     "text": "LOGIN",
+     "href": "https://lab.alpineiq.com/wallet/1130",
+     "external": true
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "NEW TO HIGHER REWARDS?"
+    },
+    {
+     "t": "button",
+     "text": "JOIN",
+     "href": "https://lab.alpineiq.com/joinMembers/1130",
+     "external": true
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": null,
+       "blocks": [
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/60c3e1_a7dc299be488447e8a1c80bfebda498e~mv2.png",
+         "alt": "GratifyLogo_RGB_Finals-03-Light-Green-Background.png",
+         "href": null,
+         "w": 600,
+         "h": 271,
+         "caption": ""
+        },
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "Join our Colorado Loyalty Program and get rewarded when you visit the store! Simply present your custom rewards wallet on each visit and automatically earn points towards discounts and specials on your favorite products. Best of all, it’s absolutely FREE!"
+        },
+        {
+         "t": "button",
+         "text": "COLORADO GRATIFY REWARDS",
+         "href": "https://starbudscolorado.com/dispensary-loyalty-rewards",
+         "external": true
+        },
+        {
+         "t": "rich",
+         "html": "<p><a href=\"https://schwazze.com/wp-content/uploads/2022/07/Terms-of-Use.pdf\" target=\"_blank\" rel=\"noreferrer noopener\">For more information see Gratify Rewards Terms and Conditions</a></p>"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "html",
+     "html": "<p>Gratify</p>"
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "ALREADY A GRATIFY REWARDS MEMBER?"
+    },
+    {
+     "t": "button",
+     "text": "LOGIN",
+     "href": "https://lab.alpineiq.com/wallet/1653",
+     "external": true
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "NEW TO GRATIFY REWARDS?"
+    },
+    {
+     "t": "button",
+     "text": "JOIN",
+     "href": "https://lab.alpineiq.com/joinMembers/1653",
+     "external": true
+    }
+   ]
+  }
+ ]
+}

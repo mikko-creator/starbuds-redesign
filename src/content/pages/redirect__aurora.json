@@ -1,0 +1,14 @@
+{
+ "path": "/aurora",
+ "url": "https://www.starbuds.us/aurora",
+ "key": "redirect__aurora",
+ "kind": "redirect",
+ "state": "CO",
+ "title": "",
+ "h1": "",
+ "redirect": {
+  "to": "https://starbudscolorado.com/stores/recreational-marijuana-dispensary-aurora/?store=1764&wp_store_id=8441",
+  "status": 301,
+  "offOrigin": true
+ }
+}

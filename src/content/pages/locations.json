@@ -1,0 +1,103 @@
+{
+ "path": "/locations",
+ "url": "https://www.starbuds.us/locations",
+ "key": "locations",
+ "kind": "locations",
+ "state": null,
+ "title": "Locations | Star Buds Marijuana Dispensary | Colorado, Illinois, Mississippi, Oklahoma, New York, Maryland",
+ "h1": "",
+ "head": {
+  "title": "Locations | Star Buds Marijuana Dispensary | Colorado, Illinois, Mississippi, Oklahoma, New York, Maryland",
+  "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+  "canonical": "https://www.starbuds.us/locations",
+  "robots": "",
+  "og": {
+   "title": "Locations | Star Buds Marijuana Dispensary | Colorado, Illinois, Mississippi, Oklahoma, New York, Maryland",
+   "description": "Star Buds Dispensaries | CBD and THC Marijuana Dispensary | Flower, Concentrates, Edibles, Topicals and Tinctures",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/locations",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Locations | Star Buds Marijuana Dispensary | Colorado, Illinois, Mississippi, Oklahoma, New York, Maryland",
+   "path": "/locations"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>With locations across the United States,</p>\n<p>Star Buds makes it easy to fulfill your needs.</p>\n<p>We are your home for a top-notch selection of flower strains, including our signature Cannabis Cup &amp; Dope Cup winning sativa, plus a wide array of popular concentrates, CBD, edibles, tinctures and much more. See where you can find our stores below!</p>"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "button",
+     "text": "COLORADO LOCATIONS",
+     "href": "https://starbudscolorado.com/stores",
+     "external": true
+    },
+    {
+     "t": "button",
+     "text": "ILLINOIS LOCATIONS",
+     "href": "/illinois/",
+     "external": false
+    },
+    {
+     "t": "button",
+     "text": "MARYLAND LOCATION",
+     "href": "/maryland/",
+     "external": false
+    },
+    {
+     "t": "button",
+     "text": "MISSISSIPPI LOCATIONS",
+     "href": "/mississippi/",
+     "external": false
+    },
+    {
+     "t": "button",
+     "text": "NEW YORK LOCATION",
+     "href": "/buffalo/",
+     "external": false
+    },
+    {
+     "t": "button",
+     "text": "OKLAHOMA LOCATIONS",
+     "href": "/oklahoma/",
+     "external": false
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "embed",
+     "src": "",
+     "title": "Google Map",
+     "kind": "map",
+     "height": null
+    }
+   ]
+  }
+ ]
+}

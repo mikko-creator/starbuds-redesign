@@ -1,0 +1,34 @@
+{
+  "tool": "tools/make-loop.mjs",
+  "input": "tmp/hf/v-hero-pingpong.mp4",
+  "inputDuration": 20,
+  "fps": 24,
+  "fade": 0.25,
+  "loopDuration": 19.75,
+  "outputs": {
+    "assets/generated/video/v-hero.mp4": 6195374,
+    "assets/generated/video/v-hero.webm": 5119819,
+    "tmp/hf/posters/v-hero-poster.webp (moved out: not shipped; the plan poster is assets/generated/g-hero.jpg)": 227426,
+    "assets/generated/video/v-hero-phone.mp4": 1374464
+  },
+  "calmness": {
+    "metric": "ffmpeg signalstats YDIF (mean absolute luma change between consecutive frames, 0-255), measured over two plays of the loop",
+    "frames": 947,
+    "max": 4.91038,
+    "p95": 4.41614,
+    "mean": 3.592,
+    "framesOver20": 0,
+    "seamChange": 3.4726
+  },
+  "aiLabel": "AI-generated illustrative motion (Higgsfield kling-video/v3.0-turbo/image-to-video). IPTC digital source type: http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia. Not footage of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
+  "generatedAt": "2026-10-23T01:24:57.806Z",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (Higgsfield kling-video/v3.0-turbo/image-to-video, 1080p, 10 s) from the AI still G-HERO (assets/generated/g-hero.jpg); forward-then-reversed (ping-pong) clip tmp/hf/v-hero-pingpong.mp4, then tools/make-loop.mjs --fade 0.25. Not footage of Star Buds (starbuds.us), its stores, staff, customers, products or brands.",
+  "source": {
+    "slot": "G-HERO",
+    "still": "assets/generated/g-hero.jpg",
+    "requestId": "2c82ba40-2c78-498e-9ffa-111c8d1c04b7",
+    "rawClip": "tmp/hf/v-hero.mp4",
+    "rawRecord": "tmp/hf/v-hero.mp4.json"
+  }
+}

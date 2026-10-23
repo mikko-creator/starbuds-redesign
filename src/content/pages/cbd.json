@@ -1,0 +1,154 @@
+{
+ "path": "/cbd",
+ "url": "https://www.starbuds.us/cbd",
+ "key": "cbd",
+ "kind": "products",
+ "state": null,
+ "title": "CBD | Star Buds Marijuana Dispensary | Colorado",
+ "h1": "CANNABINOIDS",
+ "head": {
+  "title": "CBD | Star Buds Marijuana Dispensary | Colorado",
+  "description": "Evidence of CBD’s medical benefits continues to grow and at Starbuds we carry an array of CBD products including Cheeba Chews. Come by pick some up!",
+  "canonical": "https://www.starbuds.us/cbd",
+  "robots": "",
+  "og": {
+   "title": "CBD | Star Buds Marijuana Dispensary | Colorado",
+   "description": "Evidence of CBD’s medical benefits continues to grow and at Starbuds we carry an array of CBD products including Cheeba Chews. Come by pick some up!",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/cbd",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "CANNABINOIDS",
+   "path": "/cbd"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 2,
+     "html": "TRY OUR CBD PRODUCTS"
+    },
+    {
+     "t": "rich",
+     "html": "<p>AVAILABLE AT EVERY</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>STARBUDS</p>"
+    },
+    {
+     "t": "button",
+     "text": "FIND NEAREST LOCATION",
+     "href": "/locations/",
+     "external": false
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "CANNABINOIDS"
+    },
+    {
+     "t": "rich",
+     "html": "<p>CBD, or cannabidiol, is quickly changing the debate surrounding the use of marijuana as a medicine.Most people have heard of a chemical called THC, which is the <a href=\"http://www.leafscience.com/2014/03/16/6-surprising-facts-thc/\" target=\"_blank\">ingredient in marijuana</a> that gets users high. But recently, attention has shifted to another compound in marijuana called CBD — and for good reason. Because while doctors can’t seem to look past certain side effects of THC, CBD doesn’t appear to present that problem. On the other hand, evidence of CBD’s medical benefits continues to grow.</p>"
+    }
+   ]
+  },
+  {
+   "id": "s3",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "gallery",
+     "items": [
+      {
+       "src": "https://static.wixstatic.com/media/0e0726_fc2e39f52a87426d8d62c6024345e36f~mv2.jpg",
+       "alt": "Cheeba Chews CBD",
+       "title": "Cheeba Chews CBD",
+       "description": "",
+       "href": null,
+       "w": 500,
+       "h": 366
+      },
+      {
+       "src": "https://static.wixstatic.com/media/0e0726_438fac331f9144709fa4d4fa7b63d1d2~mv2.jpg",
+       "alt": "Highly Edibles CBD",
+       "title": "Highly Edibles CBD",
+       "description": "",
+       "href": null,
+       "w": 600,
+       "h": 600
+      },
+      {
+       "src": "https://static.wixstatic.com/media/0e0726_51db68aa50c744c19787456276ec4d95~mv2.jpg",
+       "alt": "Incredibles CBD",
+       "title": "Incredibles CBD",
+       "description": "",
+       "href": null,
+       "w": 600,
+       "h": 600
+      },
+      {
+       "src": "https://static.wixstatic.com/media/0e0726_c453654c1132444780ae9395db10abb5~mv2_d_2665_2761_s_4_2.jpg",
+       "alt": "Waui Stick CBD",
+       "title": "Waui Stick CBD",
+       "description": "",
+       "href": null,
+       "w": 2665,
+       "h": 2761
+      },
+      {
+       "src": "https://static.wixstatic.com/media/0e0726_ec1a589750334389a882784478e6971a~mv2.jpg",
+       "alt": "O.Pen CBD",
+       "title": "O.Pen CBD",
+       "description": "",
+       "href": null,
+       "w": 564,
+       "h": 435
+      },
+      {
+       "src": "https://static.wixstatic.com/media/0e0726_d40fcf1bd81942faac547e4455325b4f~mv2.png",
+       "alt": "Mary's CBD Patch",
+       "title": "Mary's CBD Patch",
+       "description": "",
+       "href": null,
+       "w": 275,
+       "h": 293
+      }
+     ],
+     "text": []
+    }
+   ]
+  },
+  {
+   "id": "s4",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>- PRODUCT SELECTION AND AVAILABILITY VARIES BY LOCATION -</p>"
+    }
+   ]
+  }
+ ]
+}

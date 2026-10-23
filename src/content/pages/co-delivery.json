@@ -1,0 +1,298 @@
+{
+ "path": "/co-delivery",
+ "url": "https://www.starbuds.us/co-delivery",
+ "key": "co-delivery",
+ "kind": "delivery",
+ "state": "CO",
+ "title": "Marijuana Delivery from Star Buds | Star Buds",
+ "h1": "Marijuana delivery from Star Buds Colorado",
+ "head": {
+  "title": "Marijuana Delivery from Star Buds | Star Buds",
+  "description": "Marijuana Delivery from Star Buds",
+  "canonical": "https://www.starbuds.us/co-delivery",
+  "robots": "",
+  "og": {
+   "title": "Marijuana Delivery from Star Buds | Star Buds",
+   "description": "Marijuana Delivery from Star Buds",
+   "image": "https://static.wixstatic.com/media/553d0f_c81e2e78962149c093835b07a4170a7b~mv2.jpg/v1/fill/w_2500,h_2500,al_c/553d0f_c81e2e78962149c093835b07a4170a7b~mv2.jpg",
+   "image:width": "2500",
+   "image:height": "2500",
+   "url": "https://www.starbuds.us/co-delivery",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Marijuana delivery from Star Buds Colorado",
+   "path": "/co-delivery"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": null,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 1,
+         "html": "Marijuana delivery from Star Buds Colorado"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": {
+        "image": "https://static.wixstatic.com/media/553d0f_c1c946dff5614ea4b8efd4c4f56f1a9a~mv2.jpg",
+        "color": null
+       },
+       "blocks": [
+        {
+         "t": "image",
+         "src": "https://static.wixstatic.com/media/553d0f_129214cd587c423b8d1bff4c5837c810~mv2.png",
+         "alt": "Delivery_van.png",
+         "href": null,
+         "w": 767,
+         "h": 281,
+         "caption": ""
+        },
+        {
+         "t": "heading",
+         "level": 1,
+         "html": "delivery is now<br> available in aurora!"
+        },
+        {
+         "t": "list",
+         "ordered": true,
+         "items": [
+          "​PLACE YOUR ORDER ONLINE",
+          "SELECT DELIVERY WITHIN AURORA CITY LIIMITS",
+          "RECEIVE YOUR ORDER AT YOUR HOME"
+         ]
+        },
+        {
+         "t": "button",
+         "text": "ORDER ONLINE",
+         "href": "https://dutchie.com/stores/starbuds-aurora",
+         "external": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "Delivery Frequently Asked Questions"
+    },
+    {
+     "t": "html",
+     "html": "<p>General1</p>"
+    },
+    {
+     "t": "button",
+     "text": "Where do you deliver?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>Currently, at-home cannabis delivery is available within Aurora city limits. Delivery will be expanding to Denver and other cities soon.</p>"
+    },
+    {
+     "t": "button",
+     "text": "How do I place an order for delivery?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>Placing an order for delivery is as easy as placing an online order. Simply select “delivery,” enter your address and personal information at checkout. Delivery orders are accepted 9:00am – 7:00pm. You can expect your order to be delivered within two-three hours after placing your order. Deliveries are made 9:00am-9:00pm.</p>"
+    },
+    {
+     "t": "button",
+     "text": "How do I pay for my delivery order?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>Delivery orders can only be paid with a debit card &amp; PIN upon delivery. Cash is not accepted.</p>"
+    },
+    {
+     "t": "button",
+     "text": "Is there a minimum delivery order or delivery fee?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>The minimum for deliver orders is $50 (pre-tax). The delivery fee is $10, regardless of order size.</p>"
+    },
+    {
+     "t": "button",
+     "text": "Do I need to be home for the delivery?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>Yes, you must be home to receive your delivery, and our delivery specialist will ask to see a valid ID. The ID must match the name and information of the person who placed the order. If you are not home at the time of delivery, your order will be cancelled.</p>"
+    },
+    {
+     "t": "button",
+     "text": "What happens when my order arrives?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>Receiving a cannabis delivery isn’t much different than other deliveries that require a signature. Upon arrival at your house, our delivery specialist will ask to see a valid ID. The ID must match the name and information of the person who placed the order. After reviewing your order with you, the delivery specialist will take your payment using a debit card and request your signature to confirm you received your order.</p>"
+    },
+    {
+     "t": "button",
+     "text": "What if I am not home when my delivery arrives?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>We understand that life happens. Unfortunately, we will need to cancel the order and you will need to resubmit the order or pickup at the store.</p>"
+    },
+    {
+     "t": "button",
+     "text": "Can I change my delivery order?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>Orders can be modified prior to receiving the “out for delivery” text message. Please call 720-459-7143 and we will do our best to accommodate any changes.</p>"
+    },
+    {
+     "t": "button",
+     "text": "Can any product on the online menu be delivered?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>Absolutely! If a product is available on our online menu, we can deliver it to you.</p>"
+    },
+    {
+     "t": "button",
+     "text": "How much can I buy?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>The same daily purchase limits apply for delivered orders and in-store purchases. You can purchase up to one ounce of flower or its equivalent of cannabis products each day:</p>"
+    },
+    {
+     "t": "list",
+     "ordered": false,
+     "items": [
+      "8 grams of concentrate = 1 ounce of flower",
+      "800mg of infused products (edibles, tinctures, etc.) = 1 ounce of flower"
+     ]
+    },
+    {
+     "t": "button",
+     "text": "Can I place an order for next day delivery?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>At this time all deliveries occur on the same day they are placed. Delivery orders are accepted 9:00am – 7:00pm and deliveries are made 9:00am-9:00pm.</p>"
+    },
+    {
+     "t": "button",
+     "text": "I don’t want my neighbors to know cannabis is being delivered, will the car or driver be marked?\"",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>Despite cannabis being legal in Colorado, we understand there are still preconceived ideas and misconceptions out there. We respect your privacy, our delivery vehicles are not marked with any words, logos or graphics that would identify it as a marijuana delivery.</p>"
+    },
+    {
+     "t": "button",
+     "text": "How many orders can I place in one day?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>You can receive one cannabis delivery order per day from a dispensary, regardless if you did not purchase your daily limit.</p>"
+    },
+    {
+     "t": "button",
+     "text": "What if my order is incorrect or missing items?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>We strive to ensure orders are correct prior to leaving our facility. At the time of delivery, we will review the order with you to ensure it is correct. If something is wrong with your order you may choose to accept or reject the entire order.</p>"
+    },
+    {
+     "t": "button",
+     "text": "Who do I contact if there’s an issue with my order?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>Please contact the store you ordered from to resolve any order or delivery issues. <a href=\"\" target=\"_blank\" rel=\"noopener\">See store contact info.</a></p>"
+    },
+    {
+     "t": "button",
+     "text": "Can I use my loyalty points for delivery orders?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>You earn loyalty points on all purchases, whether in-store or delivered. However, points can only be redeemed on purchases made in-store.</p>"
+    },
+    {
+     "t": "button",
+     "text": "Will you accept my ID if it is damaged?",
+     "href": "",
+     "external": false
+    },
+    {
+     "t": "rich",
+     "html": "<p>The Colorado Medical Enforcement Division has strict guidelines on the condition of acceptable IDs. If your Colorado ID is damaged, we recommend creating a <a href=\"https://mycolorado.state.co.us/\" target=\"_blank\" rel=\"noopener\">Colorado Digital ID™</a> available in the myColorado app from the <a href=\"https://apps.apple.com/us/app/mycolorado/id1447566714\" target=\"_blank\" rel=\"noopener\">Apple App Store</a> or <a href=\"https://play.google.com/store/apps/details?id=com.soc.mycolorado&amp;hl=en_US&amp;gl=US\" target=\"_blank\" rel=\"noopener\">Google Play Store.</a></p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p><a href=\"/co-delivery-tc/\" target=\"_self\">Delivery Terms &amp; Conditions</a></p>"
+    }
+   ]
+  }
+ ]
+}

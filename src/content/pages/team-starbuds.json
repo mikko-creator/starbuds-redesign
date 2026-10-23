@@ -1,0 +1,88 @@
+{
+ "path": "/team-starbuds",
+ "url": "https://www.starbuds.us/team-starbuds",
+ "key": "team-starbuds",
+ "kind": "page",
+ "state": null,
+ "title": "TEAM STAR BUDS | Star Buds",
+ "h1": "team starbuds",
+ "head": {
+  "title": "TEAM STAR BUDS | Star Buds",
+  "description": "",
+  "canonical": "https://www.starbuds.us/team-starbuds",
+  "robots": "",
+  "og": {
+   "title": "TEAM STAR BUDS | Star Buds",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/team-starbuds",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "team starbuds",
+   "path": "/team-starbuds"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "team starbuds"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "rich",
+     "html": "<p>HOW LONG HAVE YOU BEEN WITH STARBUDS?</p>\n<p>​</p>\n<p>​</p>\n<p>​</p>\n<p>FAVORITE INDICA?</p>\n<p>​</p>\n<p>​</p>\n<p>​</p>\n<p>FAVORITE SATIVA?</p>\n<p>​</p>\n<p>​</p>\n<p>FAVORITE INDICA?</p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>FEATURED</p>\n<p>Master Grower</p>"
+    },
+    {
+     "t": "divider"
+    },
+    {
+     "t": "rich",
+     "html": "<p>FEATURED</p>\n<p>Master Grower</p>"
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "DAN MORGAN"
+    },
+    {
+     "t": "image",
+     "src": "https://static.wixstatic.com/media/553d0f_aeb8a2450d4b441581d7b97aeea9c679~mv2.jpg",
+     "alt": "",
+     "href": null,
+     "w": 350,
+     "h": 389,
+     "caption": ""
+    },
+    {
+     "t": "heading",
+     "level": 4,
+     "html": "DAN MORGAN"
+    }
+   ]
+  }
+ ]
+}

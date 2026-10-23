@@ -1,0 +1,228 @@
+{
+ "path": "/edibles",
+ "url": "https://www.starbuds.us/edibles",
+ "key": "edibles",
+ "kind": "products",
+ "state": null,
+ "title": "Edibles | Star Buds Marijuana Dispensary | Colorado",
+ "h1": "- DAILY DEAL -",
+ "head": {
+  "title": "Edibles | Star Buds Marijuana Dispensary | Colorado",
+  "description": "From Cheeba Chews to Incredibles to Cannapunch, Starbuds has your edible marijuana product needs.",
+  "canonical": "https://www.starbuds.us/edibles",
+  "robots": "",
+  "og": {
+   "title": "Edibles | Star Buds Marijuana Dispensary | Colorado",
+   "description": "From Cheeba Chews to Incredibles to Cannapunch, Starbuds has your edible marijuana product needs.",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/edibles",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "- DAILY DEAL -",
+   "path": "/edibles"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "columns",
+     "cols": [
+      {
+       "bg": null,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 1,
+         "html": "- DAILY DEAL -"
+        },
+        {
+         "t": "heading",
+         "level": 1,
+         "html": "MUNCHIE MONDAY"
+        },
+        {
+         "t": "heading",
+         "level": 1,
+         "html": "BUY ONE EDIBLE, GET ONE HALF OFF"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "EDIBLES"
+    },
+    {
+     "t": "rich",
+     "html": "<p>PRODUCT SELECTION AND AVAILABILITY VARIES BY LOCATION</p>"
+    },
+    {
+     "t": "gallery",
+     "items": [
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_aa2683211f2b4b82947f7d1c2ff80fd4~mv2.jpg",
+       "alt": "Star Bar Edibles",
+       "title": "Star Bar Edibles",
+       "description": "Star Bar Edibles",
+       "href": null,
+       "w": 2804,
+       "h": 2512
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_a0d811a20131420fb81697db43a163c5~mv2.jpg",
+       "alt": "Wana Edibles",
+       "title": "Wana Edibles",
+       "description": "Wana Edibles",
+       "href": null,
+       "w": 800,
+       "h": 440
+      },
+      {
+       "src": "https://static.wixstatic.com/media/0e0726_c6a46ba0450b46298a1e1de86156a5fd~mv2.jpg",
+       "alt": "Coda Chocolates",
+       "title": "Coda Chocolates",
+       "description": "The Crescendo Collection includes two each of Juniper Lemon, Earl Grey, and Burnt Carmel Truffles. The Forté collection includes two each of Hazelnut, Passion Fruit Szechuan, and Tiramisu truffles. Each piece is infused with 10mg of THC. Coda Signature is also featuring two varieties of Hot Chocolate on a spoon. Each has 10 milligrams of THC in a single serving package.",
+       "href": null,
+       "w": 1000,
+       "h": 906
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_98e070488c244abeb5632b6da200d32e~mv2.png",
+       "alt": "Love’s Oven",
+       "title": "Love’s Oven",
+       "description": "Love’s Oven",
+       "href": null,
+       "w": 498,
+       "h": 311
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_cf24f62a71fc47d49ebed68d9ed6c7ac~mv2.jpg",
+       "alt": "Canyon Cultivation",
+       "title": "Canyon Cultivation",
+       "description": "Canyon Cultivation",
+       "href": null,
+       "w": 750,
+       "h": 750
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_8182823b2fdb4191af5b699b29f749a6~mv2.png",
+       "alt": "Cheeba Chews",
+       "title": "Cheeba Chews",
+       "description": "Cheeba Chews got its start in the year 2009, as a patient/caregiver had trim from 12 plants and nothing to do with it. He wanted to create a consistent, potent edible for Colorado patients. In turn, their hash chocolate taffy was born. In the time since their launch, Cheeba Chews has developed a number a options to choose from. They recently released a high-CBD version of their taffy for anxiety, seizures, and chronic pain. Awards: 1st Place- 2011 (HighTimes Denver Medical Cup) Best Edible 2n",
+       "href": null,
+       "w": 1000,
+       "h": 662
+      },
+      {
+       "src": "https://static.wixstatic.com/media/0e0726_7dc91208c3414bf287bde1c01425d1d1~mv2.jpg",
+       "alt": "Sweet Grass Kitchen",
+       "title": "Sweet Grass Kitchen",
+       "description": "",
+       "href": null,
+       "w": 600,
+       "h": 600
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_3711d3917d7b4ce385314a4cb55a4474~mv2.jpg",
+       "alt": "Green Hornet",
+       "title": "Green Hornet",
+       "description": "Green Hornet",
+       "href": null,
+       "w": 620,
+       "h": 420
+      },
+      {
+       "src": "https://static.wixstatic.com/media/0e0726_be9c247e7c084319991220100d807194~mv2_d_4390_2926_s_4_2.jpg",
+       "alt": "Stratos Pills",
+       "title": "Stratos Pills",
+       "description": "A line of functional medicinal tablets formulated to satisfy your specific needs and desires. Energy Tablets – Sativa – 100mg Energy Tablets – Sativa – 300mg Energy Tablets – Sativa – 500mg Relax Tablets – Hybrid – 100mg Relax Tablets – Hybrid – 300mg Relax Tablets – Hybrid – 500mg Sleep Tablets – Indica – 100mg Sleep Tablets – Indica – 300mg Sleep Tablets – Indica – 500mg",
+       "href": null,
+       "w": 4390,
+       "h": 2926
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_6046ac60f75a41f09a6b9534cb73409a~mv2.jpg",
+       "alt": "Leafs by Snoop",
+       "title": "Leafs by Snoop",
+       "description": "There are many Leafs by Snoop edibles, from gummies to chocolate bars. Cannabis infused candies are called Dogg Treats and come in flavors like peach drops, lemon drops, watermelon drops, cherry drops, peach gummies, and cherry gummies. The candy bars are potent as well as delicious, handcrafted with cannabis oil and premium chocolate. You can get them in dark chocolate, milk chocolate, dark chocolate with almonds, peaches n cream, blueberries n cream, or strawberries in cream with waffle bits.",
+       "href": null,
+       "w": 880,
+       "h": 548
+      },
+      {
+       "src": "https://static.wixstatic.com/media/0e0726_eba0f34a76c045d1b0953dead2a451ea~mv2.jpg",
+       "alt": "Blue Kudu Chocolates",
+       "title": "Blue Kudu Chocolates",
+       "description": "Blue Kudu providesstate of the art, natural extraction methods and infusion processes that enable them to ensure that BlueKudu products are one of the most consistently effective edibles on the market. Recognizing that everyone uses their products for a specific need, BlueKudu products are available in three unique types – Hybrid, Indica, and Sativa.",
+       "href": null,
+       "w": 470,
+       "h": 353
+      },
+      {
+       "src": "https://static.wixstatic.com/media/0e0726_4d2e3c26df884b9184827cf28b0531e3~mv2.jpg",
+       "alt": "Igadi Cookies",
+       "title": "Igadi Cookies",
+       "description": "Chocolate Chip, White Chocolate Macadamia Nut, or Sugar cookies that come in 100 mg bottles.",
+       "href": null,
+       "w": 597,
+       "h": 600
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_2f07eafd8e874cd4852c0fd530b3cdcf~mv2.jpg",
+       "alt": "Americanna Gummies",
+       "title": "Americanna Gummies",
+       "description": "Americanna gummies are simply one of the best tasting gummies in the world, even before they infuse them with our oil. Each gummy is individually infused, with an exact precision that ensures that every gummy has the same amount of THC, fully homogeneous, to guarantee that every one is medicated perfectly with 10mg for recreational users, and 25mg for medical patients.",
+       "href": null,
+       "w": 600,
+       "h": 450
+      },
+      {
+       "src": "https://static.wixstatic.com/media/0e0726_2f545df46b7a4156afc74473875a85b0~mv2.png",
+       "alt": "Dr. J's Chocolate Bars",
+       "title": "Dr. J's Chocolate Bars",
+       "description": "Since 2009, Dr. J’s has strived to produce premium quality marijuana edibles using high quality ingredients. Starting with Hash Infusion and moving into CO2 extraction, Dr. J’s will always listen to their customers and continue to create new and desired products every day.",
+       "href": null,
+       "w": 500,
+       "h": 255
+      },
+      {
+       "src": "https://static.wixstatic.com/media/0e0726_1540a6f053f14fdaadac46910d4384ea~mv2.jpg",
+       "alt": "Stroopwafel",
+       "title": "Stroopwafel",
+       "description": "",
+       "href": null,
+       "w": 700,
+       "h": 357
+      },
+      {
+       "src": "https://static.wixstatic.com/media/553d0f_b111c6e93c0a4f2fbceaa29c6968812b~mv2.jpg",
+       "alt": "Incredibles",
+       "title": "Incredibles",
+       "description": "With experienced leadership having over 20 years of combined food and product manufacturing experience, its no surprise that incredibles’ mission is to consistently provide high-quality, handcrafted infused products that taste great. incredibles products, which include a wide variety of chocolate bars, gum-e bites, and e-pens for both medical and adult-use are carried by more than 760 Colorado dispensaries. Every edible consists of precisely measured e-portions ensuring dose accuracy and effecti",
+       "href": null,
+       "w": 900,
+       "h": 675
+      }
+     ],
+     "text": []
+    }
+   ]
+  }
+ ]
+}

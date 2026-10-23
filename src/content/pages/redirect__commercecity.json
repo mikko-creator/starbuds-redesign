@@ -1,0 +1,14 @@
+{
+ "path": "/commercecity",
+ "url": "https://www.starbuds.us/commercecity",
+ "key": "redirect__commercecity",
+ "kind": "redirect",
+ "state": "CO",
+ "title": "",
+ "h1": "",
+ "redirect": {
+  "to": "https://www.starbudscolorado.com/stores/recreational-marijuana-dispensary-commerce-city?store=1758&store_updated=true&wp_store_id=8770",
+  "status": 301,
+  "offOrigin": true
+ }
+}

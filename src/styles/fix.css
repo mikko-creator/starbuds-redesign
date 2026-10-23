@@ -1,0 +1,13 @@
+/* fix.css - INTEGRATE lane (loads last). Scoped cross-lane fixes, each measured in docs/QA.md. */
+
+/* 1. Home category rail: at <=1100px it is a horizontal scroller, so the cards past its right edge never intersect
+   the viewport and stayed at opacity 0 after a full page scroll (390px: 4 cards). Rail cards show without an entrance
+   while the rail scrolls sideways. */
+@media (max-width: 1100px) {
+  .js .hm-rail > [data-reveal] { opacity: 1; transform: none; filter: none; clip-path: none; }
+}
+
+/* 2. Store hero cloche (left variant): at 1280x800 the bell jar's knob sat under the DIRECTIONS button's corner
+   (/altus/, overlap 4107px2 of rect). Hang it lower across the seam so it clears the buttons. */
+.st-cut--hero { bottom: calc(-1 * var(--cut-w) * .7); }
+.st-hero--center .st-cut--hero { bottom: calc(-1 * var(--cut-w) * .48); }

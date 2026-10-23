@@ -1,0 +1,38 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "CUT-STAR",
+  "file": "assets/generated/cut-star.png",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "studio product photograph of a single plain polished brass five-pointed star ornament with bevelled faceted arms, no engraving, no marks, front view, centred, fully in frame with space around it, isolated on a plain flat dark charcoal grey seamless background, warm studio light, crisp edges, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+  "input": {
+    "aspect_ratio": "1:1",
+    "output_format": "jpeg",
+    "safety_tolerance": "5"
+  },
+  "seed": 378165044,
+  "requestId": "01a16627-8bbe-7121-abd0-8e86bd0417e1",
+  "cutout": {
+    "model": "fal-ai/birefnet/v2",
+    "requestId": "01a16627-c4ab-7ef0-b86f-fd9acf39cb01"
+  },
+  "width": 1374,
+  "height": 1318,
+  "sha256": "df3a85bed9c9244d7a45d42d51a0228d3b0c02bbc0647071f500cb650b186cbc",
+  "raw": "tmp/img/raw/CUT-STAR.1792715242155.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-23T00:27:28.897Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "plain brass star, no marks, trimmed",
+    "reviewedAt": "2026-10-23T00:36:16.865Z",
+    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
+  },
+  "postprocess": [
+    {
+      "note": "trimmed to the alpha bounding box + 3% padding (tmp/img/prep.py trim)",
+      "at": "2026-10-23T00:34:18.098Z"
+    }
+  ]
+}

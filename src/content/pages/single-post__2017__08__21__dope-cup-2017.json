@@ -1,0 +1,115 @@
+{
+ "path": "/single-post/2017/08/21/dope-cup-2017",
+ "url": "https://www.starbuds.us/single-post/2017/08/21/dope-cup-2017",
+ "key": "single-post__2017__08__21__dope-cup-2017",
+ "kind": "post",
+ "state": null,
+ "title": "Dope Cup 2017",
+ "h1": "Dope Cup 2017",
+ "head": {
+  "title": "Dope Cup 2017",
+  "description": "",
+  "canonical": "https://www.starbuds.us/single-post/2017/08/21/dope-cup-2017",
+  "robots": "",
+  "og": {
+   "title": "Dope Cup 2017",
+   "description": "Starbuds had an amazing time at this years Dope Cup. It was a wonderful turn out and we appreciate everyone who stopped by our booth to say hi. Pootie Tang adds yet another win under its belt and took home the runner up Best Sativa. We had a great time hanging out with everyone & we're definitely looking forward to many moreDope Cups to come!  Check out some of the awesome photos below!   ",
+   "image": "https://static.wixstatic.com/media/553d0f_13d0e030270a455daf2bd4c72c5ee0c5~mv2.jpg/v1/fill/w_960,h_641,al_c,q_85/553d0f_13d0e030270a455daf2bd4c72c5ee0c5~mv2.jpg",
+   "image:width": "960",
+   "image:height": "641",
+   "url": "https://www.starbuds.us/single-post/2017/08/21/dope-cup-2017",
+   "site_name": "Star Buds ",
+   "type": "article"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+     "@type": "Person",
+     "name": "starbuds",
+     "url": "https://www.starbuds.us/profile/denver/profile"
+    },
+    "dateModified": "2017-08-21T22:58:44.584Z",
+    "datePublished": "2017-08-21T22:58:44.584Z",
+    "headline": "Dope Cup 2017",
+    "mainEntityOfPage": {
+     "@id": "https://www.starbuds.us/single-post/2017/08/21/dope-cup-2017",
+     "@type": "itemPage",
+     "url": "https://www.starbuds.us/single-post/2017/08/21/dope-cup-2017"
+    },
+    "description": "Starbuds had an amazing time at this years Dope Cup. It was a wonderful turn out and we appreciate everyone who stopped by our booth to say hi. Pootie Tang adds yet another win under its belt and took home the runner up Best Sativa. We had a great time hanging out with everyone & we're definitely looking forward to many moreDope Cups to come!  Check out some of the awesome photos below!   ",
+    "url": "https://www.starbuds.us/single-post/2017/08/21/dope-cup-2017",
+    "image": {
+     "@type": "ImageObject",
+     "url": "https://static.wixstatic.com/media/553d0f_13d0e030270a455daf2bd4c72c5ee0c5~mv2.jpg/v1/fill/w_960,h_641,al_c,q_85/553d0f_13d0e030270a455daf2bd4c72c5ee0c5~mv2.jpg",
+     "width": "960",
+     "height": "641"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "Star Buds ",
+     "url": "https://www.starbuds.us"
+    }
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Blog",
+   "path": "/blog"
+  },
+  {
+   "name": "Dope Cup 2017",
+   "path": "/single-post/2017/08/21/dope-cup-2017"
+  }
+ ],
+ "sections": [],
+ "post": {
+  "date": "2017-08-21T22:58:44.584Z",
+  "dateText": "Aug 21, 2017",
+  "readTime": "1 min read",
+  "hero": null,
+  "categories": [],
+  "blocks": [
+   {
+    "t": "rich",
+    "html": "<p>Starbuds had an amazing time at this years Dope Cup. It was a wonderful turn out and we appreciate everyone who stopped by our booth to say hi. Pootie Tang adds yet another win under its belt and took home the runner up Best Sativa. We had a great time hanging out with everyone &amp; we're definitely looking forward to many more</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Dope Cups to come!</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Check out some of the awesome photos below!</p>"
+   },
+   {
+    "t": "list",
+    "ordered": false,
+    "items": [
+     "starbuds16",
+     "starbuds15",
+     "starbuds14",
+     "starbuds13",
+     "starbuds12",
+     "starbuds11",
+     "starbuds10",
+     "starbuds9",
+     "starbuds8",
+     "starbuds7",
+     "starbuds6",
+     "starbuds5",
+     "starbuds1",
+     "starbuds2",
+     "starbuds4",
+     "starbuds3"
+    ]
+   }
+  ]
+ }
+}

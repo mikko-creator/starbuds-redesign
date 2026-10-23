@@ -1,0 +1,14 @@
+{
+ "path": "/colorado",
+ "url": "https://www.starbuds.us/colorado",
+ "key": "redirect__colorado",
+ "kind": "redirect",
+ "state": "CO",
+ "title": "",
+ "h1": "",
+ "redirect": {
+  "to": "https://starbudscolorado.com/",
+  "status": 301,
+  "offOrigin": true
+ }
+}

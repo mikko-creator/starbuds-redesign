@@ -1,0 +1,154 @@
+{
+ "path": "/single-post/unlocking-the-green-divide-deciphering-cannabis-vs-hemp",
+ "url": "https://www.starbuds.us/single-post/unlocking-the-green-divide-deciphering-cannabis-vs-hemp",
+ "key": "single-post__unlocking-the-green-divide-deciphering-cannabis-vs-hemp",
+ "kind": "post",
+ "state": null,
+ "title": "Unlocking the Green Divide: Deciphering Cannabis vs. Hemp",
+ "h1": "Unlocking the Green Divide: Deciphering Cannabis vs. Hemp",
+ "head": {
+  "title": "Unlocking the Green Divide: Deciphering Cannabis vs. Hemp",
+  "description": "",
+  "canonical": "https://www.starbuds.us/single-post/unlocking-the-green-divide-deciphering-cannabis-vs-hemp",
+  "robots": "",
+  "og": {
+   "title": "Unlocking the Green Divide: Deciphering Cannabis vs. Hemp",
+   "description": "In the ever-expanding world of cannabis, two terms often come up: cannabis and hemp. While they may seem interchangeable at first glance, th",
+   "image": "https://static.wixstatic.com/media/3493a0_c22e20e045e74fb5a6974009e0b48094~mv2.jpg/v1/fill/w_2500,h_1666,al_c/3493a0_c22e20e045e74fb5a6974009e0b48094~mv2.jpg",
+   "image:width": "2500",
+   "image:height": "1666",
+   "url": "https://www.starbuds.us/single-post/unlocking-the-green-divide-deciphering-cannabis-vs-hemp",
+   "site_name": "Star Buds ",
+   "type": "article"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "author": {
+     "@type": "Person",
+     "name": "starbuds",
+     "url": "https://www.starbuds.us/profile/denver/profile"
+    },
+    "dateModified": "2024-09-20T19:44:49.349Z",
+    "datePublished": "2024-03-09T08:00:00.000Z",
+    "headline": "Unlocking the Green Divide: Deciphering Cannabis vs. Hemp",
+    "mainEntityOfPage": {
+     "@id": "https://www.starbuds.us/single-post/unlocking-the-green-divide-deciphering-cannabis-vs-hemp",
+     "@type": "itemPage",
+     "url": "https://www.starbuds.us/single-post/unlocking-the-green-divide-deciphering-cannabis-vs-hemp"
+    },
+    "description": "In the ever-expanding world of cannabis, two terms often come up: cannabis and hemp. While they may seem interchangeable at first glance, th",
+    "url": "https://www.starbuds.us/single-post/unlocking-the-green-divide-deciphering-cannabis-vs-hemp",
+    "image": {
+     "@type": "ImageObject",
+     "url": "https://static.wixstatic.com/media/3493a0_c22e20e045e74fb5a6974009e0b48094~mv2.jpg/v1/fill/w_1000,h_667,al_c,q_85,usm_0.66_1.00_0.01/3493a0_c22e20e045e74fb5a6974009e0b48094~mv2.jpg",
+     "width": "6720",
+     "height": "4480"
+    },
+    "publisher": {
+     "@type": "Organization",
+     "name": "Star Buds ",
+     "url": "https://www.starbuds.us"
+    }
+   }
+  ]
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Blog",
+   "path": "/blog"
+  },
+  {
+   "name": "Unlocking the Green Divide: Deciphering Cannabis vs. Hemp",
+   "path": "/single-post/unlocking-the-green-divide-deciphering-cannabis-vs-hemp"
+  }
+ ],
+ "sections": [],
+ "post": {
+  "date": "2024-03-09T08:00:00.000Z",
+  "dateText": "Mar 9, 2024",
+  "updatedText": "Updated: Sep 20, 2024",
+  "readTime": "2 min read",
+  "hero": {
+   "src": "https://static.wixstatic.com/media/3493a0_c22e20e045e74fb5a6974009e0b48094~mv2.jpg",
+   "alt": ""
+  },
+  "categories": [],
+  "blocks": [
+   {
+    "t": "image",
+    "src": "https://static.wixstatic.com/media/3493a0_c22e20e045e74fb5a6974009e0b48094~mv2.jpg",
+    "alt": "",
+    "href": null,
+    "w": 6720,
+    "h": 4480,
+    "caption": ""
+   },
+   {
+    "t": "rich",
+    "html": "<p>In the ever-expanding world of cannabis, two terms often come up: cannabis and hemp. While they may seem interchangeable at first glance, there are crucial distinctions between the two that shape their uses, legality, and effects. Let's dive into the differences between cannabis and hemp to shed some light on these often misunderstood plants.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p><strong>Understanding Cannabis</strong></p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Cannabis is a genus of flowering plants that encompasses several species, including Cannabis sativa, Cannabis indica, and Cannabis ruderalis. These plants contain a range of compounds known as cannabinoids, with the most well-known being THC (tetrahydrocannabinol) and CBD (cannabidiol).</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>THC is the psychoactive compound responsible for the \"high\" associated with cannabis consumption, while CBD is non-intoxicating and has been studied for its potential therapeutic benefits. Cannabis plants can vary widely in their cannabinoid profiles, with some strains bred for high THC content and others bred for high CBD content.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p><strong>Exploring Hemp</strong></p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Hemp is a specific variety of the Cannabis sativa plant that is cultivated for industrial purposes. Unlike cannabis, hemp contains negligible levels of THC, typically less than 0.3%. This low THC content means that hemp does not produce psychoactive effects when consumed.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>While hemp lacks the intoxicating properties of cannabis, it is rich in other beneficial compounds, including CBD. Hemp-derived CBD has gained popularity in recent years for its potential therapeutic effects, ranging from pain relief to anxiety reduction. Additionally, hemp fibers are used in a wide range of industrial applications, including textiles, paper, and building materials.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p><strong>Legal Distinctions</strong></p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>One of the most significant differences between cannabis and hemp lies in their legal status. Historically, cannabis has been classified as a Schedule I controlled substance under U.S. federal law, meaning it is illegal to possess, cultivate, or distribute.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>In contrast, hemp has been legalized at the federal level with the passage of the 2018 Farm Bill. This legislation removed hemp from the list of controlled substances and defined it as cannabis with less than 0.3% THC by dry weight. As a result, hemp-derived products, including CBD oils and hemp fibers, are legal to produce, sell, and consume in the United States.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p><strong>Uses and Applications</strong></p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Cannabis and hemp have distinct uses and applications based on their chemical composition and properties. Cannabis is primarily consumed for its psychoactive effects and potential medicinal benefits, with products ranging from dried flower to concentrates and edibles.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Hemp, on the other hand, is valued for its versatility and sustainability. Hemp fibers are used in the production of textiles, rope, paper, and biodegradable plastics, among other products. Additionally, hemp-derived CBD products have surged in popularity as a natural alternative for wellness and skincare.</p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p><strong>Conclusion</strong></p>"
+   },
+   {
+    "t": "rich",
+    "html": "<p>While cannabis and hemp are both members of the Cannabis sativa family, they serve distinct purposes and have different legal statuses. Cannabis is known for its psychoactive effects and therapeutic potential, while hemp is prized for its industrial applications and low THC content. By understanding the differences between cannabis and hemp, consumers can make informed decisions about their use and explore the diverse offerings of these remarkable plants.</p>"
+   }
+  ]
+ }
+}

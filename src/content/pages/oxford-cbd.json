@@ -1,0 +1,131 @@
+{
+ "path": "/oxford-cbd",
+ "url": "https://www.starbuds.us/oxford-cbd",
+ "key": "oxford-cbd",
+ "kind": "store",
+ "state": "MS",
+ "title": "Star Buds Dispensary CBD Oxford",
+ "h1": "NOW OPEN!",
+ "head": {
+  "title": "Star Buds Dispensary CBD Oxford",
+  "description": "Are you looking for a CBD dispensary in Oxford, Mississippi? Come by Star Buds Dispensary in Oxford today to discover the finest CBD products!",
+  "canonical": "https://www.starbuds.us/oxford-cbd",
+  "robots": "",
+  "og": {
+   "title": "Star Buds Dispensary CBD Oxford",
+   "description": "Are you looking for a CBD dispensary in Oxford, Mississippi? Come by Star Buds Dispensary in Oxford today to discover the finest CBD products!",
+   "image": "https://static.wixstatic.com/media/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg/v1/fill/w_650,h_344,al_c/553d0f_ad06efdbdf36421d847b55a92cb079fb~mv2.jpg",
+   "image:width": "650",
+   "image:height": "344",
+   "url": "https://www.starbuds.us/oxford-cbd",
+   "site_name": "Star Buds ",
+   "type": "website"
+  },
+  "jsonld": []
+ },
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Mississippi",
+   "path": "/mississippi"
+  },
+  {
+   "name": "NOW OPEN!",
+   "path": "/oxford-cbd"
+  }
+ ],
+ "sections": [
+  {
+   "id": "s1",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "NOW OPEN!"
+    },
+    {
+     "t": "heading",
+     "level": 1,
+     "html": "Star Buds CBD Dispensary Oxford"
+    },
+    {
+     "t": "rich",
+     "html": "<p>1319 N LAMAR BLVD SUITE C, OXFORD MS, 38655</p>\n<p><a href=\"tel:(719) 547-1009\">(662) 638-3014</a></p>"
+    },
+    {
+     "t": "rich",
+     "html": "<p>Star Buds Oxford CBD is proud to be a CBD store serving the community of Oxford, Mississippi, come see us for all your wellness needs. Our compassionate and knowledgeable staff is here to help you get exactly what you need at the best possible price.</p>"
+    }
+   ]
+  },
+  {
+   "id": "s2",
+   "bg": null,
+   "blocks": [
+    {
+     "t": "button",
+     "text": "ORDER ONLINE",
+     "href": "https://dutchie.com/stores/starbuds-oxford-cbd",
+     "external": true
+    },
+    {
+     "t": "rich",
+     "html": "<p>HOURS</p>\n<p>MONDAY: 8:00AM-9:00PM</p>\n<p>TUESDAY: 8:00AM-9:00PM</p>\n<p>WEDNESDAY: 8:00AM-9:00PM</p>\n<p>THURSDAY: 8:00AM-9:00PM</p>\n<p>FRIDAY: 8:00AM-9:00PM</p>\n<p>SATURDAY: 8:00AM-9:00PM</p>\n<p>SUNDAY: 8:00AM-7:00PM</p>"
+    }
+   ]
+  }
+ ],
+ "store": {
+  "name": "Star Buds CBD Dispensary Oxford",
+  "address": [
+   "1319 N LAMAR BLVD SUITE C, OXFORD MS, 38655"
+  ],
+  "phone": "(662) 638-3014",
+  "tel": "+16626383014",
+  "hours": [
+   {
+    "day": "MONDAY",
+    "time": "8:00AM-9:00PM"
+   },
+   {
+    "day": "TUESDAY",
+    "time": "8:00AM-9:00PM"
+   },
+   {
+    "day": "WEDNESDAY",
+    "time": "8:00AM-9:00PM"
+   },
+   {
+    "day": "THURSDAY",
+    "time": "8:00AM-9:00PM"
+   },
+   {
+    "day": "FRIDAY",
+    "time": "8:00AM-9:00PM"
+   },
+   {
+    "day": "SATURDAY",
+    "time": "8:00AM-9:00PM"
+   },
+   {
+    "day": "SUNDAY",
+    "time": "8:00AM-7:00PM"
+   }
+  ],
+  "notes": [
+   "Star Buds Oxford CBD is proud to be a CBD store serving the community of Oxford, Mississippi, come see us for all your wellness needs. Our compassionate and knowledgeable staff is here to help you get exactly what you need at the best possible price."
+  ],
+  "links": [
+   {
+    "text": "ORDER ONLINE",
+    "href": "https://dutchie.com/stores/starbuds-oxford-cbd"
+   }
+  ],
+  "image": null,
+  "map": null
+ }
+}
