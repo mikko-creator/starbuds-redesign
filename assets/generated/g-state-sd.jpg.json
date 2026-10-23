@@ -1,29 +1,31 @@
 {
-  "tool": "tools/fal-gen.mjs",
+  "tool": "tools/hf-run.mjs",
   "slot": "G-STATE-SD",
   "file": "assets/generated/g-state-sd.jpg",
   "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
-  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
-  "model": "fal-ai/flux-pro/v1.1-ultra",
-  "prompt": "landscape photograph of dark ponderosa pine forested hills with rounded weathered granite boulders at deep blue dusk, a starry sky above with a faint warm glow at the horizon, quiet and generic, no carved rock, no monuments, no buildings, no roads, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+  "provenance": "AI-generated (Higgsfield alibaba/qwen-image-3/text-to-image). An illustrative rendering of a real public place near the Star Buds stores in this state; not a photograph, and never a depiction of Star Buds (starbuds.us), its stores, staff, customers, products or brands.",
+  "model": "alibaba/qwen-image-3/text-to-image",
+  "prompt": "Sylvan Lake in the Black Hills of South Dakota near Rapid City in early evening light: still water reflecting tall weathered granite rock formations and ponderosa pines, smooth granite boulders along the shore in the foreground, a soft clear sky. Realistic documentary travel photograph, natural true-to-life colours, soft natural light, shot on a full-frame camera with a 24mm lens from eye level, subtle film grain, light atmospheric haze, unretouched, nothing stylised, no HDR glow, no oversaturation, no stars in the sky, no people, no readable text, signs or logos, no watermark.",
   "input": {
+    "resolution": "2k",
     "aspect_ratio": "16:9",
-    "output_format": "jpeg",
-    "safety_tolerance": "5"
+    "prompt_extend": false,
+    "enable_thinking": false,
+    "negative_prompt": "illustration, painting, CGI, 3D render, oversaturated colours, HDR, starry sky, people, text, signs, logos, watermark"
   },
-  "seed": 382112696,
-  "requestId": "01a16627-697f-7b50-a01a-fd8a3d615cbd",
+  "requestId": "5e2fbcb3-3edd-4e23-bcc6-27ccfcbefd87",
   "cutout": null,
-  "width": 2752,
-  "height": 1536,
-  "sha256": "f4bb4b4e0a8a8af14a581625a79bdc09eba92050e96182703d6d57933e167a9f",
-  "raw": "tmp/img/raw/G-STATE-SD.1792715229944.jpg",
-  "attempt": 1,
-  "generatedAt": "2026-10-23T00:27:11.760Z",
+  "width": 2048,
+  "height": 1152,
+  "sha256": "04b7fe81b40158670799d56ac8e4d47db1218e01c021d350a95e2b3696161115",
+  "raw": "tmp\\hf\\loc\\sd-qwen.png",
+  "attempt": "revision 2 (2026-10-23): one of three Higgsfield candidates (Grok Imagine Image 2.0, Qwen Image 3, SOUL Cinema) - Qwen: Needles-style granite spires over still water with ponderosa pines and boulders; Grok and SOUL Cinema plainer",
+  "generatedAt": "2026-10-23T03:44:59.466Z",
   "review": {
     "verdict": "ACCEPT",
-    "reason": "generic dusk landscape under stars, no landmark, no buildings, no text",
-    "reviewedAt": "2026-10-23T00:36:31.227Z",
-    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
-  }
+    "reason": "granite spires and reflections, pines, shore boulders; no people or text at full size",
+    "reviewedAt": "2026-10-23T03:49:17.048Z",
+    "by": "main session, by eye (whole image + crops)"
+  },
+  "replaces": "the flux \"generic dusk\" scene archived in tmp/img/old-state/"
 }

@@ -201,8 +201,9 @@
       "usedFor": [
         "/colorado and its stores"
       ],
-      "alt": "Rolling mountain foothills at dusk under a starry sky",
-      "prompt": "landscape photograph of generic rolling Rocky Mountain foothills at deep blue dusk, layered pine-covered ridgelines fading into haze, grassy slopes in the foreground, first stars and a faint Milky Way above, a last warm glow on the horizon, no buildings, no roads"
+      "alt": "The Flatirons above the Chautauqua meadow in Boulder, Colorado, at golden hour",
+      "prompt": "The Flatirons above Chautauqua Park in Boulder, Colorado: the tilted red-brown sandstone slabs of the Flatirons rising over the green and golden Chautauqua meadow, ponderosa pines on the lower slopes, late golden-hour sun lighting the rock faces, a clear pale evening sky. Realistic documentary travel photograph, natural true-to-life colours, soft natural light, shot on a full-frame camera with a 24mm lens from eye level, subtle film grain, light atmospheric haze, unretouched, nothing stylised, no HDR glow, no oversaturation, no stars in the sky, no people, no readable text, signs or logos, no watermark.",
+      "generatedBy": "Higgsfield alibaba/qwen-image-3/text-to-image via tools/hf-run.mjs (revision 2); full request in the sidecar"
     },
     {
       "id": "G-STATE-IL",
@@ -211,8 +212,9 @@
       "usedFor": [
         "/illinois and its stores"
       ],
-      "alt": "A tallgrass prairie at dusk under a starry sky",
-      "prompt": "landscape photograph of open tallgrass prairie at deep blue dusk, wild grasses and coneflowers in the foreground, a lone oak on the far horizon, wide starry sky above with a last warm glow at the horizon, no buildings, no roads"
+      "alt": "The Chicago skyline at blue hour across Lake Michigan from the lakefront",
+      "prompt": "The Chicago skyline at blue hour seen from the lakefront near the Adler Planetarium, Illinois: the downtown towers including Willis Tower with their windows lighting up, calm dark water of Lake Michigan and the stone shoreline in the foreground, a deep blue evening sky with a little warm afterglow. Realistic documentary travel photograph, natural true-to-life colours, soft natural light, shot on a full-frame camera with a 24mm lens from eye level, subtle film grain, light atmospheric haze, unretouched, nothing stylised, no HDR glow, no oversaturation, no stars in the sky, no people, no readable text, signs or logos, no watermark.",
+      "generatedBy": "Higgsfield alibaba/qwen-image-3/text-to-image via tools/hf-run.mjs (revision 2); full request in the sidecar"
     },
     {
       "id": "G-STATE-MD",
@@ -221,8 +223,9 @@
       "usedFor": [
         "/maryland and its stores"
       ],
-      "alt": "A tidal marsh with winding creeks at dusk under a starry sky",
-      "prompt": "landscape photograph of a tidal salt marsh at deep blue dusk, winding tidal creeks reflecting the last light, golden-green cordgrass, a starry sky above with a faint warm glow at the horizon, no buildings, no boats"
+      "alt": "Baltimore's Inner Harbor and skyline at blue hour from Federal Hill",
+      "prompt": "The Inner Harbor of Baltimore, Maryland at blue hour seen from Federal Hill park: the downtown skyline and the harbor promenade with city lights reflecting in the still water, moored boats, the grassy edge of Federal Hill in the foreground, a deep blue evening sky. Realistic documentary travel photograph, natural true-to-life colours, soft natural light, shot on a full-frame camera with a 24mm lens from eye level, subtle film grain, light atmospheric haze, unretouched, nothing stylised, no HDR glow, no oversaturation, no stars in the sky, no people, no readable text, signs or logos, no watermark.",
+      "generatedBy": "Higgsfield alibaba/qwen-image-3/text-to-image via tools/hf-run.mjs (revision 2); full request in the sidecar"
     },
     {
       "id": "G-STATE-MS",
@@ -231,8 +234,9 @@
       "usedFor": [
         "/mississippi and its stores"
       ],
-      "alt": "Cypress trees standing in still river delta water at dusk under a starry sky",
-      "prompt": "landscape photograph of a cypress river delta at deep blue dusk, bald cypress trees with hanging moss standing in still dark water, mirror reflections, a starry sky above with a faint warm glow at the horizon, no buildings, no boats"
+      "alt": "Sunset over the Mississippi River from the bluff at Natchez, with the bridges to Vidalia",
+      "prompt": "The wide Mississippi River at sunset seen from the bluff at Natchez, Mississippi: the steel truss bridges crossing to Vidalia in the distance, the broad brown river catching the last warm light, live oaks and bluff-top grass in the foreground, a soft orange and dusky blue sky. Realistic documentary travel photograph, natural true-to-life colours, soft natural light, shot on a full-frame camera with a 24mm lens from eye level, subtle film grain, light atmospheric haze, unretouched, nothing stylised, no HDR glow, no oversaturation, no stars in the sky, no people, no readable text, signs or logos, no watermark.",
+      "generatedBy": "Higgsfield xai/grok-imagine-image-2.0 via tools/hf-run.mjs (revision 2); full request in the sidecar"
     },
     {
       "id": "G-STATE-NY",
@@ -241,8 +245,9 @@
       "usedFor": [
         "/new-york and its stores"
       ],
-      "alt": "A calm lakeshore with wooded hills at dusk under a starry sky",
-      "prompt": "landscape photograph of a calm lakeshore at deep blue dusk, smooth stones at the water's edge, low wooded hills across the still lake, a starry sky reflected in the water, a faint warm glow at the horizon, no buildings, no boats"
+      "alt": "The Buffalo skyline and City Hall at dusk across the water from the Lake Erie waterfront",
+      "prompt": "The Buffalo, New York skyline at dusk seen from the Lake Erie waterfront at the Erie Basin Marina: the art deco tower of Buffalo City Hall lit warm among the downtown buildings, calm water and the marina breakwall in the foreground, a dusky blue sky with a fading warm glow. Realistic documentary travel photograph, natural true-to-life colours, soft natural light, shot on a full-frame camera with a 24mm lens from eye level, subtle film grain, light atmospheric haze, unretouched, nothing stylised, no HDR glow, no oversaturation, no stars in the sky, no people, no readable text, signs or logos, no watermark.",
+      "generatedBy": "Higgsfield xai/grok-imagine-image-2.0 via tools/hf-run.mjs (revision 2); full request in the sidecar"
     },
     {
       "id": "G-STATE-OK",
@@ -251,8 +256,9 @@
       "usedFor": [
         "/oklahoma and its stores"
       ],
-      "alt": "Red-earth plains with wind-swept grass at dusk under a starry sky",
-      "prompt": "landscape photograph of rolling red-earth plains at deep blue dusk, patches of rust-red soil between wind-swept prairie grass, a few distant cottonwood trees, a wide starry sky with a last warm glow at the horizon, no buildings, no roads"
+      "alt": "Pink granite peaks of the Wichita Mountains near Lawton, Oklahoma, reflected in a prairie lake at golden hour",
+      "prompt": "The Wichita Mountains Wildlife Refuge near Lawton, Oklahoma at golden hour: rounded pink granite boulder mountains rising over mixed-grass prairie, scattered post oaks and red cedars, a small calm reservoir reflecting the hills, warm low sunlight on the granite, a clear evening sky. Realistic documentary travel photograph, natural true-to-life colours, soft natural light, shot on a full-frame camera with a 24mm lens from eye level, subtle film grain, light atmospheric haze, unretouched, nothing stylised, no HDR glow, no oversaturation, no stars in the sky, no people, no readable text, signs or logos, no watermark.",
+      "generatedBy": "Higgsfield xai/grok-imagine-image-2.0 via tools/hf-run.mjs (revision 2); full request in the sidecar"
     },
     {
       "id": "G-STATE-SD",
@@ -261,8 +267,9 @@
       "usedFor": [
         "/south-dakota and its stores"
       ],
-      "alt": "Dark pine-covered hills with granite outcrops at dusk under a starry sky",
-      "prompt": "landscape photograph of dark ponderosa pine forested hills with rounded weathered granite boulders at deep blue dusk, a starry sky above with a faint warm glow at the horizon, quiet and generic, no carved rock, no monuments, no buildings, no roads"
+      "alt": "Granite spires and ponderosa pines reflected in Sylvan Lake in the Black Hills near Rapid City",
+      "prompt": "Sylvan Lake in the Black Hills of South Dakota near Rapid City in early evening light: still water reflecting tall weathered granite rock formations and ponderosa pines, smooth granite boulders along the shore in the foreground, a soft clear sky. Realistic documentary travel photograph, natural true-to-life colours, soft natural light, shot on a full-frame camera with a 24mm lens from eye level, subtle film grain, light atmospheric haze, unretouched, nothing stylised, no HDR glow, no oversaturation, no stars in the sky, no people, no readable text, signs or logos, no watermark.",
+      "generatedBy": "Higgsfield alibaba/qwen-image-3/text-to-image via tools/hf-run.mjs (revision 2); full request in the sidecar"
     },
     {
       "id": "CUT-CLOCHE",

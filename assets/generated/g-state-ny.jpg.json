@@ -1,29 +1,29 @@
 {
-  "tool": "tools/fal-gen.mjs",
+  "tool": "tools/hf-run.mjs",
   "slot": "G-STATE-NY",
   "file": "assets/generated/g-state-ny.jpg",
   "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
-  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
-  "model": "fal-ai/flux-pro/v1.1-ultra",
-  "prompt": "landscape photograph of a calm lakeshore at deep blue dusk, smooth stones at the water's edge, low wooded hills across the still lake, a starry sky reflected in the water, a faint warm glow at the horizon, no buildings, no boats, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+  "provenance": "AI-generated (Higgsfield xai/grok-imagine-image-2.0). An illustrative rendering of a real public place near the Star Buds stores in this state; not a photograph, and never a depiction of Star Buds (starbuds.us), its stores, staff, customers, products or brands.",
+  "model": "xai/grok-imagine-image-2.0",
+  "prompt": "The Buffalo, New York skyline at dusk seen from the Lake Erie waterfront at the Erie Basin Marina: the art deco tower of Buffalo City Hall lit warm among the downtown buildings, calm water and the marina breakwall in the foreground, a dusky blue sky with a fading warm glow. Realistic documentary travel photograph, natural true-to-life colours, soft natural light, shot on a full-frame camera with a 24mm lens from eye level, subtle film grain, light atmospheric haze, unretouched, nothing stylised, no HDR glow, no oversaturation, no stars in the sky, no people, no readable text, signs or logos, no watermark.",
   "input": {
+    "resolution": "2k",
     "aspect_ratio": "16:9",
-    "output_format": "jpeg",
-    "safety_tolerance": "5"
+    "quality": "medium"
   },
-  "seed": 2526267882,
-  "requestId": "01a16627-5177-7c33-b839-9e2d5911e0e9",
+  "requestId": "c0916365-4100-4c9a-8bfb-d821e88c5496",
   "cutout": null,
-  "width": 2752,
-  "height": 1536,
-  "sha256": "de5ce3b41b068934cb7e574a1979d887f65a6f4b2be4d184efb14ab0753c5ef1",
-  "raw": "tmp/img/raw/G-STATE-NY.1792715227611.jpg",
-  "attempt": 1,
-  "generatedAt": "2026-10-23T00:27:09.647Z",
+  "width": 2816,
+  "height": 1584,
+  "sha256": "5fedd641d31b3d85348fcb2b3cf33d4bf3c5d72f92a9285b8b0047dc86cf5b5d",
+  "raw": "tmp\\hf\\loc\\ny-grok.png",
+  "attempt": "revision 2 (2026-10-23): one of three Higgsfield candidates (Grok Imagine Image 2.0, Qwen Image 3, SOUL Cinema) - Grok: an art deco City Hall tower with a lit crown, the breakwall and the harbour lighthouse read as Buffalo; Qwen gave City Hall a baroque dome Buffalo does not have",
+  "generatedAt": "2026-10-23T03:45:34.450Z",
   "review": {
     "verdict": "ACCEPT",
-    "reason": "generic dusk landscape under stars, no landmark, no buildings, no text",
-    "reviewedAt": "2026-10-23T00:36:29.894Z",
-    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
-  }
+    "reason": "dusk skyline, breakwall, lighthouse at right; sky smooth at 1:1; no readable signs or people at full size",
+    "reviewedAt": "2026-10-23T03:49:14.632Z",
+    "by": "main session, by eye (whole image + crops)"
+  },
+  "replaces": "the flux \"generic dusk\" scene archived in tmp/img/old-state/"
 }

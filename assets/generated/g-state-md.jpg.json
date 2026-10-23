@@ -1,29 +1,31 @@
 {
-  "tool": "tools/fal-gen.mjs",
+  "tool": "tools/hf-run.mjs",
   "slot": "G-STATE-MD",
   "file": "assets/generated/g-state-md.jpg",
   "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
-  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
-  "model": "fal-ai/flux-pro/v1.1-ultra",
-  "prompt": "landscape photograph of a tidal salt marsh at deep blue dusk, winding tidal creeks reflecting the last light, golden-green cordgrass, a starry sky above with a faint warm glow at the horizon, no buildings, no boats, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+  "provenance": "AI-generated (Higgsfield alibaba/qwen-image-3/text-to-image). An illustrative rendering of a real public place near the Star Buds stores in this state; not a photograph, and never a depiction of Star Buds (starbuds.us), its stores, staff, customers, products or brands.",
+  "model": "alibaba/qwen-image-3/text-to-image",
+  "prompt": "The Inner Harbor of Baltimore, Maryland at blue hour seen from Federal Hill park: the downtown skyline and the harbor promenade with city lights reflecting in the still water, moored boats, the grassy edge of Federal Hill in the foreground, a deep blue evening sky. Realistic documentary travel photograph, natural true-to-life colours, soft natural light, shot on a full-frame camera with a 24mm lens from eye level, subtle film grain, light atmospheric haze, unretouched, nothing stylised, no HDR glow, no oversaturation, no stars in the sky, no people, no readable text, signs or logos, no watermark.",
   "input": {
+    "resolution": "2k",
     "aspect_ratio": "16:9",
-    "output_format": "jpeg",
-    "safety_tolerance": "5"
+    "prompt_extend": false,
+    "enable_thinking": false,
+    "negative_prompt": "illustration, painting, CGI, 3D render, oversaturated colours, HDR, starry sky, people, text, signs, logos, watermark"
   },
-  "seed": 918116522,
-  "requestId": "01a16627-441c-7591-9685-43b5e6e88a00",
+  "requestId": "3afc7298-1581-45af-93d1-f77509a33f7d",
   "cutout": null,
-  "width": 2752,
-  "height": 1536,
-  "sha256": "0aad4eb17556609390a0833f73ca42790febbc3dc7a6771fe75276382452c826",
-  "raw": "tmp/img/raw/G-STATE-MD.1792715227208.jpg",
-  "attempt": 1,
-  "generatedAt": "2026-10-23T00:27:09.083Z",
+  "width": 2048,
+  "height": 1152,
+  "sha256": "8f5ef135fe07b3be78461e59836122b41584090f4b71bb6abb32c3b8c1a3df9c",
+  "raw": "tmp\\hf\\loc\\md-qwen.png",
+  "attempt": "revision 2 (2026-10-23): one of three Higgsfield candidates (Grok Imagine Image 2.0, Qwen Image 3, SOUL Cinema) - Qwen: the World Trade Center, the Bank of America building's crown and the harbor pavilions from Federal Hill; Grok generic buildings, SOUL Cinema plain",
+  "generatedAt": "2026-10-23T03:43:28.784Z",
   "review": {
     "verdict": "ACCEPT",
-    "reason": "generic dusk landscape under stars, no landmark, no buildings, no text",
-    "reviewedAt": "2026-10-23T00:36:27.109Z",
-    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
-  }
+    "reason": "harbor marina and skyline reflections, grass of Federal Hill in front; no readable signs or people at full size",
+    "reviewedAt": "2026-10-23T03:49:12.925Z",
+    "by": "main session, by eye (whole image + crops)"
+  },
+  "replaces": "the flux \"generic dusk\" scene archived in tmp/img/old-state/"
 }

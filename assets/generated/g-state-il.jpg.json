@@ -1,29 +1,31 @@
 {
-  "tool": "tools/fal-gen.mjs",
+  "tool": "tools/hf-run.mjs",
   "slot": "G-STATE-IL",
   "file": "assets/generated/g-state-il.jpg",
   "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
-  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
-  "model": "fal-ai/flux-pro/v1.1-ultra",
-  "prompt": "landscape photograph of open tallgrass prairie at deep blue dusk, wild grasses and coneflowers in the foreground, a lone oak on the far horizon, wide starry sky above with a last warm glow at the horizon, no buildings, no roads, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+  "provenance": "AI-generated (Higgsfield alibaba/qwen-image-3/text-to-image). An illustrative rendering of a real public place near the Star Buds stores in this state; not a photograph, and never a depiction of Star Buds (starbuds.us), its stores, staff, customers, products or brands.",
+  "model": "alibaba/qwen-image-3/text-to-image",
+  "prompt": "The Chicago skyline at blue hour seen from the lakefront near the Adler Planetarium, Illinois: the downtown towers including Willis Tower with their windows lighting up, calm dark water of Lake Michigan and the stone shoreline in the foreground, a deep blue evening sky with a little warm afterglow. Realistic documentary travel photograph, natural true-to-life colours, soft natural light, shot on a full-frame camera with a 24mm lens from eye level, subtle film grain, light atmospheric haze, unretouched, nothing stylised, no HDR glow, no oversaturation, no stars in the sky, no people, no readable text, signs or logos, no watermark.",
   "input": {
+    "resolution": "2k",
     "aspect_ratio": "16:9",
-    "output_format": "jpeg",
-    "safety_tolerance": "5"
+    "prompt_extend": false,
+    "enable_thinking": false,
+    "negative_prompt": "illustration, painting, CGI, 3D render, oversaturated colours, HDR, starry sky, people, text, signs, logos, watermark"
   },
-  "seed": 527472803,
-  "requestId": "01a16627-420c-7e53-b6d1-74b682a56a32",
+  "requestId": "649b9fd3-5877-4b6a-b3ac-1b6edddf2539",
   "cutout": null,
-  "width": 2752,
-  "height": 1536,
-  "sha256": "398edb10b649c976ccd5696154ef0c8d3c62d5ee1f2192c16becf30ad1ab1df3",
-  "raw": "tmp/img/raw/G-STATE-IL.1792715219899.jpg",
-  "attempt": 1,
-  "generatedAt": "2026-10-23T00:27:01.813Z",
+  "width": 2048,
+  "height": 1152,
+  "sha256": "1a0f683906e7489ed9d873837b199cff5a7d2172c509c00fc7a07038e7013a3f",
+  "raw": "tmp\\hf\\loc\\il-qwen.png",
+  "attempt": "revision 2 (2026-10-23): one of three Higgsfield candidates (Grok Imagine Image 2.0, Qwen Image 3, SOUL Cinema) - Qwen: Willis Tower, the Aon Center, Two Prudential and the Hancock from the Adler lakefront as asked; Grok framed from the north, SOUL Cinema dark",
+  "generatedAt": "2026-10-23T03:43:08.493Z",
   "review": {
     "verdict": "ACCEPT",
-    "reason": "generic dusk landscape under stars, no landmark, no buildings, no text",
-    "reviewedAt": "2026-10-23T00:36:26.726Z",
-    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
-  }
+    "reason": "recognisable skyline, stone shoreline, calm lake; one tiny unreadable red sign; no people at full size",
+    "reviewedAt": "2026-10-23T03:49:12.238Z",
+    "by": "main session, by eye (whole image + crops)"
+  },
+  "replaces": "the flux \"generic dusk\" scene archived in tmp/img/old-state/"
 }

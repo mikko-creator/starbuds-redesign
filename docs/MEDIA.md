@@ -163,3 +163,34 @@ the V-HERO row of the Loops table above; the conservatory loop and its still (G-
   - Calmness (YDIF over two plays): max 1.94, p95 1.81, mean 1.25, 0 frames over 20, seam 1.65.
   - `node tools/ai-label.mjs verify assets/generated/video --control`: 10 files, 10 labelled, control fired.
   - By eye (contact sheet `tmp/hf/review/sheet-v-hero-mtn2.jpg`): no people, text or new objects.
+
+## Revision 2 (2026-10-23): the seven location scenes, remade with Higgsfield
+
+Requested: "the locations photos are too obviously ai generated, please use higgsfield instead and generate images
+that properly depict the scenery on specific locations". The old G-STATE scenes were generic dusk landscapes with
+painted starfields (archived in `tmp/img/old-state/`). Each state now shows recognisable scenery near its stores, as
+a realistic documentary-style photograph: natural colour, no stars, no HDR, no people, no readable signs.
+
+- **Provider:** Higgsfield REST (`tools/hf-run.mjs`). The Higgsfield account behind the MCP tools could not pay
+  (2 credits). Every place was generated with three models (21 requests, all completed) and the most natural,
+  most accurate one kept. Prices by the estimate endpoint: `xai/grok-imagine-image-2.0` 1.28 credits,
+  `alibaba/qwen-image-3/text-to-image` 1.2, `higgsfield-ai/soul/cinema` 0.088 per image. Requests and prompts:
+  `tmp/hf/loc/results.json` and the per-image `.json` records; picks and reasons: `tmp/hf/loc/sel.json`.
+
+| Slot | Place (stores) | Kept | Why |
+|---|---|---|---|
+| G-STATE-CO | The Flatirons over the Chautauqua meadow, Boulder (South Boulder) | Qwen Image 3 | the classic view of Flatirons 1-3 |
+| G-STATE-IL | Chicago skyline from the Adler lakefront (Summit, Burbank, Riverside, Westmont, Hoffman Estates) | Qwen Image 3 | Willis Tower, Aon Center, Two Prudential, Hancock |
+| G-STATE-MD | Baltimore's Inner Harbor from Federal Hill (Baltimore) | Qwen Image 3 | World Trade Center, the harbor pavilions |
+| G-STATE-MS | The Mississippi from the Natchez bluff (Natchez, Greenwood, Oxford, Pearl, Tupelo, Ocean Springs) | Grok Image 2.0 | natural sky; Qwen's sunset showed banding |
+| G-STATE-NY | Buffalo skyline and City Hall from the Lake Erie waterfront (Buffalo) | Grok Image 2.0 | art deco City Hall, breakwall, lighthouse; Qwen gave City Hall a baroque dome |
+| G-STATE-OK | Wichita Mountains granite over a prairie lake (Lawton, Altus, Chickasha, Ardmore, Bricktown) | Grok Image 2.0 | rounded pink granite, red cedars, post oaks |
+| G-STATE-SD | Granite spires at Sylvan Lake, Black Hills (Rapid City) | Qwen Image 3 | Needles-style spires, ponderosa pines |
+
+- SOUL Cinema was not kept anywhere: its fixed cinematic grade (orange or red casts) read as stylised.
+- Each pick was looked at whole and at full size; the Grok skies were checked at 1:1 (smooth; a stepped look in a
+  downscaled preview was the preview). Converted to JPEG (q 2), AI label embedded and verified (control fired).
+- The state and store page heroes no longer paint the site's twinkling stars over these photos (other heroes keep
+  them): stars over a golden-hour photo read as fake.
+- These are AI renderings of real places, not photographs; licensed photographs of the same places (or Star Buds'
+  own) would be the real thing (DECISIONS B4).

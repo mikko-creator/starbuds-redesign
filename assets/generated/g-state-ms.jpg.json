@@ -1,29 +1,29 @@
 {
-  "tool": "tools/fal-gen.mjs",
+  "tool": "tools/hf-run.mjs",
   "slot": "G-STATE-MS",
   "file": "assets/generated/g-state-ms.jpg",
   "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
-  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
-  "model": "fal-ai/flux-pro/v1.1-ultra",
-  "prompt": "landscape photograph of a cypress river delta at deep blue dusk, bald cypress trees with hanging moss standing in still dark water, mirror reflections, a starry sky above with a faint warm glow at the horizon, no buildings, no boats, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+  "provenance": "AI-generated (Higgsfield xai/grok-imagine-image-2.0). An illustrative rendering of a real public place near the Star Buds stores in this state; not a photograph, and never a depiction of Star Buds (starbuds.us), its stores, staff, customers, products or brands.",
+  "model": "xai/grok-imagine-image-2.0",
+  "prompt": "The wide Mississippi River at sunset seen from the bluff at Natchez, Mississippi: the steel truss bridges crossing to Vidalia in the distance, the broad brown river catching the last warm light, live oaks and bluff-top grass in the foreground, a soft orange and dusky blue sky. Realistic documentary travel photograph, natural true-to-life colours, soft natural light, shot on a full-frame camera with a 24mm lens from eye level, subtle film grain, light atmospheric haze, unretouched, nothing stylised, no HDR glow, no oversaturation, no stars in the sky, no people, no readable text, signs or logos, no watermark.",
   "input": {
+    "resolution": "2k",
     "aspect_ratio": "16:9",
-    "output_format": "jpeg",
-    "safety_tolerance": "5"
+    "quality": "medium"
   },
-  "seed": 285889759,
-  "requestId": "01a16627-4b34-7f12-a7e2-4a1b268a98ef",
+  "requestId": "a5732e40-3926-4df7-8fe0-da2a2f14b36d",
   "cutout": null,
-  "width": 2752,
-  "height": 1536,
-  "sha256": "076d9c1d7e354cd6239b8588e96b5ceee74c93c3c7b855f4ff6fdf373d3befcb",
-  "raw": "tmp/img/raw/G-STATE-MS.1792715227702.jpg",
-  "attempt": 1,
-  "generatedAt": "2026-10-23T00:27:09.825Z",
+  "width": 2816,
+  "height": 1584,
+  "sha256": "fd2533ee8460e64a0b6f94ce0ffba7f74c7e2c447576cf2dc352ce9b9169aaae",
+  "raw": "tmp\\hf\\loc\\ms-grok.png",
+  "attempt": "revision 2 (2026-10-23): one of three Higgsfield candidates (Grok Imagine Image 2.0, Qwen Image 3, SOUL Cinema) - Grok: muted natural colour and real-looking clouds; Qwen's sunset sky showed banding, SOUL Cinema orange cast",
+  "generatedAt": "2026-10-23T03:44:45.607Z",
   "review": {
     "verdict": "ACCEPT",
-    "reason": "generic dusk landscape under stars, no landmark, no buildings, no text",
-    "reviewedAt": "2026-10-23T00:36:28.356Z",
-    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
-  }
+    "reason": "bluff-top oak and grass, the broad river, the cantilever truss bridge on the horizon; sky smooth at 1:1; no people or text",
+    "reviewedAt": "2026-10-23T03:49:13.807Z",
+    "by": "main session, by eye (whole image + crops)"
+  },
+  "replaces": "the flux \"generic dusk\" scene archived in tmp/img/old-state/"
 }

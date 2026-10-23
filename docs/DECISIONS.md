@@ -23,8 +23,9 @@ Public record of the design and build decisions behind this concept, and the ite
   `prefers-reduced-motion`: no parallax, autoplay or large movement for visitors who ask for less motion, and no
   content is hidden by it.
 - **D5. Imagery.** Real photography and artwork harvested from starbuds.us is used where the live site uses it.
-  Added illustrative imagery was generated for this concept with fal (stills, cut-outs) and Higgsfield (one still and
-  the motion loops).
+  Added illustrative imagery was generated for this concept with fal (stills, cut-outs) and Higgsfield (the seven
+  location scenes, one more still and the motion loops). The location scenes depict real places near the stores
+  (Boulder's Flatirons, Chicago, Baltimore's Inner Harbor, Natchez, Buffalo, the Wichita Mountains, the Black Hills).
   Generated media shows no people, no text, labels or brand marks, and never stands in for a real Star Buds store,
   employee, customer, product or brand. Every generated file carries the IPTC "trainedAlgorithmicMedia" label.
 - **D6. Forms and third-party embeds.** Forms are shown but not connected: they post nowhere and stay disabled until a
@@ -41,4 +42,6 @@ Public record of the design and build decisions behind this concept, and the ite
   decision for Star Buds.
 - **B3. Form backends.** Which service should receive the contact and other forms.
 - **B4. Generated imagery.** Whether to keep the generated scenes or replace them with Star Buds' own photography
-  (store interiors, products), which would be stronger wherever a real place or product is meant.
+  (store interiors, products), which would be stronger wherever a real place or product is meant. The seven location
+  scenes are AI renderings of real places, not photographs: licensed photographs of the same places would be the
+  real thing.

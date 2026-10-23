@@ -36,8 +36,11 @@ under the stars, in earthy browns and deep greens, behind a centred arched glass
 ## Imagery
 
 - **241 images harvested from starbuds.us** are used where the live site uses them.
-- **Generated for this concept:** 21 scenes and 5 cut-outs with fal (FLUX1.1 [pro] ultra; BiRefNet for the cut-outs),
-  and one scene plus 3 motion loops with Higgsfield (Kling image-to-video for the loops). They show no people, no text or brand marks, and never
+- **Generated for this concept:** 14 scenes and 5 cut-outs with fal (FLUX1.1 [pro] ultra; BiRefNet for the cut-outs),
+  and 8 scenes plus 3 motion loops with Higgsfield (Qwen Image 3 and Grok Imagine for the seven location scenes,
+  Kling image-to-video for the loops). The location scenes depict real places near the stores (Boulder's Flatirons,
+  Chicago, Baltimore's Inner Harbor, Natchez, Buffalo, the Wichita Mountains, the Black Hills) and are AI renderings,
+  not photographs. They show no people, no text or brand marks, and never
   stand in for a real Star Buds store, employee, customer or product. Every generated file carries the IPTC
   "trainedAlgorithmicMedia" label. Prompts and review notes: [`docs/MEDIA.md`](docs/MEDIA.md).
 

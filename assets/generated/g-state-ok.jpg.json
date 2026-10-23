@@ -1,29 +1,29 @@
 {
-  "tool": "tools/fal-gen.mjs",
+  "tool": "tools/hf-run.mjs",
   "slot": "G-STATE-OK",
   "file": "assets/generated/g-state-ok.jpg",
   "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
-  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Star Buds (starbuds.us), its store, staff, customers, products or brands.",
-  "model": "fal-ai/flux-pro/v1.1-ultra",
-  "prompt": "landscape photograph of rolling red-earth plains at deep blue dusk, patches of rust-red soil between wind-swept prairie grass, a few distant cottonwood trees, a wide starry sky with a last warm glow at the horizon, no buildings, no roads, cinematic night photograph, deep emerald and bottle-green shadows, warm amber lantern light, small touches of aged brass, faint drifting mist, natural rich colour, fine film grain, sharp focus, no people, no hands, no faces, no text, no lettering, no labels, no logos, no signage, all surfaces blank and unmarked",
+  "provenance": "AI-generated (Higgsfield xai/grok-imagine-image-2.0). An illustrative rendering of a real public place near the Star Buds stores in this state; not a photograph, and never a depiction of Star Buds (starbuds.us), its stores, staff, customers, products or brands.",
+  "model": "xai/grok-imagine-image-2.0",
+  "prompt": "The Wichita Mountains Wildlife Refuge near Lawton, Oklahoma at golden hour: rounded pink granite boulder mountains rising over mixed-grass prairie, scattered post oaks and red cedars, a small calm reservoir reflecting the hills, warm low sunlight on the granite, a clear evening sky. Realistic documentary travel photograph, natural true-to-life colours, soft natural light, shot on a full-frame camera with a 24mm lens from eye level, subtle film grain, light atmospheric haze, unretouched, nothing stylised, no HDR glow, no oversaturation, no stars in the sky, no people, no readable text, signs or logos, no watermark.",
   "input": {
+    "resolution": "2k",
     "aspect_ratio": "16:9",
-    "output_format": "jpeg",
-    "safety_tolerance": "5"
+    "quality": "medium"
   },
-  "seed": 4098616876,
-  "requestId": "01a16627-58dc-7413-94c1-47960cf3c714",
+  "requestId": "d0ecbaf4-7d9e-44aa-b949-1be2d9cf0307",
   "cutout": null,
-  "width": 2752,
-  "height": 1536,
-  "sha256": "d9a58b74e2418131ef743616a9734cd54749799f8aa7532ff9365a2fdd344c4b",
-  "raw": "tmp/img/raw/G-STATE-OK.1792715234222.jpg",
-  "attempt": 1,
-  "generatedAt": "2026-10-23T00:27:16.356Z",
+  "width": 2816,
+  "height": 1584,
+  "sha256": "f29adfedbf72d53a3d2ebc95d6c6433468c0a174eb9cff86327826221dcc6f0a",
+  "raw": "tmp\\hf\\loc\\ok-grok.png",
+  "attempt": "revision 2 (2026-10-23): one of three Higgsfield candidates (Grok Imagine Image 2.0, Qwen Image 3, SOUL Cinema) - Grok: rounded pink granite, red cedars, post oaks and a still lake, as the refuge looks; Qwen close but plainer, SOUL Cinema red cast",
+  "generatedAt": "2026-10-23T03:45:54.087Z",
   "review": {
     "verdict": "ACCEPT",
-    "reason": "generic dusk landscape under stars, no landmark, no buildings, no text",
-    "reviewedAt": "2026-10-23T00:36:30.368Z",
-    "by": "MEDIA lane, by eye (whole image + zoomed crops)"
-  }
+    "reason": "granite domes, lake reflection, prairie grass; sky smooth at 1:1 (the stepped look was the preview's downscale); no people or text",
+    "reviewedAt": "2026-10-23T03:49:15.953Z",
+    "by": "main session, by eye (whole image + crops)"
+  },
+  "replaces": "the flux \"generic dusk\" scene archived in tmp/img/old-state/"
 }

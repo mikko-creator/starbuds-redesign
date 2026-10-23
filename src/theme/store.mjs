@@ -379,7 +379,8 @@ function hero(page, ctx, env, { title, lede = '', meta = '', actions = '', side 
   const bg = tryImg(ctx, art, { alt: '', sizes: '100vw', loading: 'eager', fetchpriority: 'high' });
   const long = title.length > 34;
   return '<section class="phero st-hero' + (side ? ' st-hero--split' : '') + (cls ? ' ' + cls : '') + '">' +
-    '<div class="st-hero__clip" aria-hidden="true"><div class="phero__bg st-hero__bg" data-depth="0.18">' + (bg || '<div class="img-slot"></div>') + '</div>' + stars(70, { fade: true, top: true }) + pools() + '</div>' +
+    // no painted stars over a real-location photo (the G-STATE scenes): they would read as fake
+    '<div class="st-hero__clip" aria-hidden="true"><div class="phero__bg st-hero__bg" data-depth="0.18">' + (bg || '<div class="img-slot"></div>') + '</div>' + (/^G-STATE-/.test(String(art || '')) ? '' : stars(70, { fade: true, top: true })) + pools() + '</div>' +
     '<div class="wrap st-hero__grid">' +
     '<div class="st-pane glass glass--mullion" data-reveal="up">' + ornament('corner', { pos: 'bl', draw: false }) + ornament('corner', { pos: 'br', draw: false }) +
     '<div class="st-pane__in">' + crumbs(page, ctx, title) + (eyebrowText ? eyebrow(eyebrowText, 'star') : '') +

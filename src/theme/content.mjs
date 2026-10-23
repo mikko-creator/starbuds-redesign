@@ -37,7 +37,7 @@ export function pageHero(page, ctx, opts = {}) {
   const bg = tryImg(ctx, bgRef, { alt: '', sizes: '100vw', loading: 'eager', fetchpriority: 'high', widths: [640, 960, 1280, 1600, 1920, 2400] }) || tryImg(ctx, 'G-STARS', { alt: '', sizes: '100vw', loading: 'eager' });
   const arch = opts.arch ? tryImg(ctx, opts.arch, { alt: opts.archAlt || '', sizes: '(max-width: 760px) 80vw, 420px', loading: 'eager' }) : '';
   let o = '<section class="phero pg-hero' + (arch ? ' pg-hero--arch' : '') + (opts.cls ? ' ' + opts.cls : '') + '">';
-  o += '<div class="pg-hero__back" aria-hidden="true"><div class="phero__bg pg-hero__bg" data-depth="-0.12">' + bg + '</div>' + stars(80, { fade: true, top: true }) + pools() + '</div>';
+  o += '<div class="pg-hero__back" aria-hidden="true"><div class="phero__bg pg-hero__bg" data-depth="-0.12">' + bg + '</div>' + (/^G-STATE-/.test(String(bgRef || '')) ? '' : stars(80, { fade: true, top: true })) + pools() + '</div>';
   o += '<div class="wrap pg-hero__grid">';
   o += '<div class="glass glass--mullion pg-hero__pane" data-reveal="up">' + ornament('corner', { pos: 'tl', draw: false }) + ornament('corner', { pos: 'br', draw: false }) +
     crumbs(page, ctx) + (opts.eyebrow ? eyebrow(opts.eyebrow) : '') + '<h1 class="' + h1Class(h1) + '">' + esc(h1) + '</h1>' + (opts.extra || '') + '</div>';
